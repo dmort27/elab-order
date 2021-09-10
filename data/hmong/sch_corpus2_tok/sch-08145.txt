@@ -1,0 +1,70 @@
+Ib tsoom boj yaig , Thov tas los thov thiab .
+Thov nej pab qhia seb cov npe Hmoob / Moob no ib lub suab dhau ib lub no hu li cas ntawm suab Hmoob thiab Moob : Suab Hmoob : Suab Moob : 1 .
+Dab laug ( yus poj niam tus nus ) _ _ _ _ _ _ _ _ _ _ 2 .
+Dab laug ( yus niam tus nus ) _ _ _ _ _ _ _ _ _ _ 3 .
+Niam dab laug ( yus poj niam tus nyab ) _ _ _ _ _ _ _ _ _ _ 4 .
+Niam dab laug ( yus niam tus nyab ) _ _ _ _ _ _ _ _ _ _ 5 .
+Phauj ( yus txiv tus muam ) _ _ _ _ _ _ _ _ _ _ 6 .
+Phauj ( yus yawg tus muam ) _ _ _ _ _ _ _ _ _ _ 7 .
+Niam tais ( yus poj niam leej niam ) _ _ _ _ _ _ _ _ _ _ 8 .
+Niam tais ( yus poj niam tus viv ncaus ) _ _ _ _ _ _ _ _ _ _ 9 .
+Niam tais ( yus niam tus viv ncaus ) _ _ _ _ _ _ _ _ _ _ 10 .
+Yawm txiv ( yus poj niam leej txi ) _ _ _ _ _ _ _ _ _ _ 11 .
+Yawm txiv ( yus niam leej txi ) 12 .
+Yawm txiv ( yus niam tus txiv laus / hluas ) _ _ _ _ _ _ _ _ _ _ 13 .
+Yij laug ( yus txiv tus yawm yij ) _ _ _ _ _ _ _ _ _ _ 14 .
+Yawg laus ( yus yawg tus yawm yij ) _ _ _ _ _ _ _ _ _ _ 15 .
+Yawm Yij ( yus tus muam tus txiv ) _ _ _ _ _ _ _ _ _ _ 16 .
+Npawg _ _ _ _ _ _ _ _ _ _ 17 .
+Muam Npaws _ _ _ _ _ _ _ _ _ _ 18 .
+Txiv ntxawm _ _ _ _ _ _ _ _ _ _ 19 .
+Txiv hlob _ _ _ _ _ _ _ _ _ _ 20 .
+Niam ntxawm ( txiv ntxawm tus poj niam ) _ _ _ _ _ _ _ _ _ _ _ 21 .
+Niam ntxawm ( yus tus kwv tus poj niam ) _ _ _ _ _ _ _ _ _ _ _ 22 .
+Tij laug _ _ _ _ _ _ _ _ _ _ 23 .
+Kwv _ _ _ _ _ _ _ _ _ _ 24 .
+Niam tij _ _ _ _ _ _ _ _ _ _ 25 .
+Niam laus _ _ _ _ _ _ _ _ _ _ 26 .
+Txiv laus _ _ _ _ _ _ _ _ _ _ 27 .
+Yawg koob ( yawg koob txiv ) _ _ _ _ _ _ _ _ _ _ 28 .
+Pog koob ( pog koob txiv ) _ _ _ _ _ _ _ _ _ _ 29 .
+Yawm txiv ( yus niam yawg ) _ _ _ _ _ _ _ _ _ _ 30 .
+Niam tais ( yus niam pog ) _ _ _ _ _ _ _ _ _ _ Kuv lam sau li no , tiam sis nej tus twg muaj thiab pom lwm yam lwm qhov los thov pab ntxiv rau .
+Ua tsaug !
+You have almost everything but you forgot some : You have Yawm Yij why not have Muam also ; You have Niam Laus , you need Niam Hluas ( yus tus poj niam , niam hluas ) ; You have Txiv Laus , you need Txiv Hluas ( yus tus pojniam , niam hluas tus txiv ) ; You have Muam Npaws , you need Nus Npaws ; You have Txiv Hlob , you need Niam Hlob too .
+I think this might be it .
+Unless I'm wrong .
+Best , Cua Cov boj yaig , Kuv thov kom nej pab kho ntxiv thiab thov kom nej pab qhia seb lub suab Moob Leeg yog hu li cas no .
+Thov pab sau ntxiv tiam sis thov ho pab qhia seb cov npe nej thiab kuv sau no hais lus Hmoob Dawb yog li no lawm no lus Hmoob Leeg no ho yog li cas no .
+Ua tsaug !
+Nyob zoo yhmon , Suab Hmoob : Suab Moob : 1 .
+Dab laug ( yus poj niam tus nus ) ( Dlaab ) 2 .
+Dab laug ( yus niam tus nus ) ( Txiv Dlaab ) 3 .
+Niam dab laug ( yus poj niam tus nyab ) ( Tais dlaab ) 4 .
+Niam dab laug ( yus niam tus nyab ) ( Nam dlaab ) 5 .
+Phauj ( yus txiv tus muam ) ( Puj Nyaaj ) 6 .
+Phauj ( yus yawg tus muam ) ( Nyaaj Koob ) 7 .
+Niam tais ( yus poj niam leej niam ) ( Nam Tais ) 8 .
+Niam tais ( yus poj niam tus viv ncaus ) ( Nam Hluas , Nam Laug ) 9 .
+Niam tais ( yus niam tus viv ncaus ) Tais Hlaus , Tais Laug ) 10 .
+Yawm txiv ( yus poj niam leej txi ) ( Yawm Txiv ) 11 .
+Yawm txiv ( yus niam leej txi ) " Yawm " 12 .
+Yawm txiv ( yus niam tus txiv laus / hluas ) " Txiv Laug / Hluas " 13 .
+Yij laug ( yus txiv tus yawm yij ) " Txiv Kwj " 14 .
+Yawg laus ( yus yawg tus yawm yij ) " Yawm " 15 .
+Yawm Yij ( yus tus muam tus txiv ) " Yij or Yawm Yij " 16 .
+Npawg " Npawg " 17 .
+Muam Npaws " Muam Npawg " 18 .
+Txiv ntxawm " Txiv Ntxawm " 19 .
+Txiv hlob " Laug " 20 .
+Niam ntxawm ( txiv ntxawm tus poj niam ) " Nam Ntxawm " 21 .
+Niam ntxawm ( yus tus kwv tus poj niam ) " Ntxawm ( txuas rua tug txiv ) " 22 .
+Tij laug " tij laug " 23 .
+Kwv " kwv " 24 .
+Niam tij " Nam Tij " 25 .
+Niam laus " Tais Laug " 26 .
+Txiv laus " Txiv Laug " 27 .
+Yawg koob ( yawg koob txiv ) " Yawm Koob " 28 .
+Pog koob ( pog koob txiv ) " Puj Koob " 29 .
+Yawm txiv ( yus niam yawg ) " Yawm koob " 30 .
+Niam tais ( yus niam pog ) " Tais Koob " I hope this helpsELIPSISTOKEN MS Zoo ntau moob sib !

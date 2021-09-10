@@ -1,0 +1,46 @@
+Kab ntsab ib tsoom npoj yaig , kwv luag & phooj ywg SCHlers , Thov nej pab txhais saib seb peb ib tug no pom tau ib lo lus no li cas ?
+Thov txhais raws li koj kev xam pom thiab kev siv los mus lawmELIPSISTOKENua tsaug !
+1 .
+Npoj Yaig : 2 .
+Kwv Luag : 3 .
+Phooj Ywg : 4 .
+Nej tus leej tus twg ho puas muaj lwm lo ntxiv ?
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ Ua tsaug = Thanks Ua koj ( neb = you two ; nej = you all ) tsaug = Thank you or Thank you all !
+Tsi paub lub caag lug ces ca le txai rua lub caijnyoog taamsim nuav xwb nawb : 1 .
+Npoj Yaig : Npoj - siv rua tsaj xws le : Paab twm nyob ua npoj .
+Yaig - siv le huv nrag : Muab nrag huv zeb hu yaig taag lawm .
+( Nrag los yaig ; zeb hu los yaig .
+Npojyaig = nyob ua paab sisntoj sis ntuv le tej tsaj .
+2 .
+Kwv Luag : Kwv - leej tij kwv namtxiv moog faus thaus puab taag simneej .
+leej kwv luag namtxiv rua huv pegteb vim kwv tsi taug .
+Kwvluag = obleeg nyob uake sispaab dlaagzug .
+3 .
+Phooj Ywg : Phooj - Tub pheej ( phooj ) ywg teeb taag moog le xwb ; ywg - Teeb ywg tas Tub pheej ywg xwb tsi paab le .
+Phoojywg = obtug pheej nyob uake sisywg .
+Nyobzoo npojyaig kwvluag .
+Kuv ho xav li no : Tseeb tshaj yog peb puas paub tias lub muag lus ( word ) twg yog lus Hmoob thiab lub muag lus twg tsis yog lus Hmoob .
+Muaj tej muag lus mas ib lo ( syllable ) yog lus Hmoob ib lo tsis yog lus Hmoob , piv li , Npoj yaig : Npoj : 1 .
+( npe = noun ) ib pab ; 2 .
+( peem = verb ) hau kom yuav luag siav .
+Yaig : 1 .
+( npe = noun ) qhia saib yog tim li cas thiab ua li cas thiaj zoo ; 2 .
+( rais = adjective ) kug zus ; luv zus .
+1 . npoj ( peem ) yaig ( npe ) = txheeb cov kev saib yaig 2 . npoj ( npe ) yaig ( rais ) = pab neeg tsis thev dej num .
+Npojyaig : npoj ( npe ) + yaig ( npe ) = pab neeg saibxyuas dejnum uakev tias yuav tsum ua licas thiaj siv tau .
+Kwv luag : Kwv : 1 .
+( npe = noun ) tus tub yug tom qab ( npe = noun ) ; 2 .
+( peem = verb ) tso khuam rau saum xubpwg ; tsa siab .
+Luag : 1 .
+( peem = verb ) zoosiab es ntxiv hniav thiab rua cauj me ntsis ; 2 .
+( peem = verb ) tuav lossis khi hlua rub kom zais lawv tus rub qab ; 3 .
+( pauv = pronoun ) sawv cev ( a ) tus hais lus ; ( b ) tus mloog ; ( c ) losyog tas nrho cov nyob ib pawg uakev ; 3 .
+( npe = noun ) tsis muaj ntshai .
+1 . kwv ( npe ) luag ( peem ) = 1 . tus tub yug tom qab zoosiab es ntxiv hniav thiab rua cauj me ntsis ; 2 . tus tub yog tom qab tuav ib yam dab tsi thiab rub kom zaws lawv nws qab .
+2 . kwv ( peem ) luag ( peem ) = muab ib dam dab tsi tso ib tog rau saum xubpawg rub es cia ib tog zaws saum npoo av .
+Kwvluag : kwv ( npe ) + luag ( npe ) = tus tub yug tom qab uas tsis muaj ntshai ; tus ua luag phooj ywg : Phooj : ( npe = noun ) lub npe cia ti rau tus tub .
+Ywg : ( peem = verb ) laub dej siab siab los kom ntub tas yam yus ywg .
+Phooj ywg losyog phoojywg zoo li muaj yog lus Hmoob .
+Tseeb mas phoojywg yog lus suav : pengyou = friend friend Tzexa ua caag kuv saib mej has tsi raug leELIPSISTOKENkeep it simple yaweh That's excellent , yawm Tsujsua .
+Yuav tsum txawj lug Moob thoob mas txhaj le txawj txhais .
+Ua tsaug os . . ms

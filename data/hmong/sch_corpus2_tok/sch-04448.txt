@@ -1,0 +1,12 @@
+cov hluas-- kuv yog ib tug laus .
+kuv mas kuv hais li no .
+ua ntej peb yuav los daws tau qhov teeb meem mas peb yuav tsum los nrhiav kom pom qhov teeb meem tias qhov teeb meem ntawd yog dab tsi tso mas peb thiaj mam paub mus nrhiav qhov solution los rau .
+ua ntej yuav nrhiav tau qhov teeb meem peb yuav tau los teb lo lus nug nram qab no tso .
+1 . hmoob thiab moob puas yog 1 haiv neeg xwb ?
+yog sawv daws feem coob teb hais tias hmoob thiab moob yeej yog 1 haiv neeg xwb no ces zaum no peb paub hais tias kev sib cai tsis yog qhov teeb meem .
+qhov teeb meem yog qhov sau tus ntawv " hmoob / moob " xwb .
+yog sawv daws feem coob teb hais tias hmoob thiab moob mas tsis yog 1 haiv neeg .
+thaum no peb thiaj mam paub tseeb tias qhov sau tus ntawv tsis yog qhov teeb meem lawm .
+qhov teeb meem yog qhov peb haiv neeg xav sib cai peb mus ua 2 haiv lawm .
+thaum pom qhov teeb meem li no lawm peb mam li los nrhiav qhov solution rau mas thiaj yuav mus tau .
+tam sim no tseem tsis tau tham txog qhov solution vim tsis tau paub qhov teeb meem .

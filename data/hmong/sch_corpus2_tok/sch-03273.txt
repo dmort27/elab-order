@@ -1,0 +1,47 @@
+cov phooj ywg sawv daws--- kuv muaj ib lub desktop computer , kuv 2 niag tub pheej play play games ces tsam no ci li tsis boot lawm .
+yog yus muab nws turn on ces ci li laim laim lawm xwb .
+nej leej twg paub , thov pab qhia seb yuav ua li cas .
+ua tsaug ntau !
+Seb thaum koj taws kiag nws zoo li cas ?
+Puas tawm tej ntawv uas txheeb txog memory , hard drive , etc .
+Koj puas pom daim Windows splash screen uas muaj tus bar khiav khiav hauv qab ?
+Thaum dhau kiag lub Windows splash screen , koj pom dabtsi xwb ?
+Yog thaum koj taws kiag tsis pom dabtsis li ces : 1 .
+Lub monitor tsis ua hauj lwm lawm los yog txoj hlua tsis connect zoo lawm ; 2 .
+Lub Power Supply tsis ua haujlwm lawm ; 3 .
+Daim video card hais good bye lawm .
+Yog thaum koj taws es tseem pom cov ntawv tawm thiab tabsis sij mus tsis txog tom Windows / desktop screens xwb ces : 1 .
+Lub hard drive tsis zoo lawm 2 .
+Microsoft Windows puas lawm ( corrupted ) .
+Koj yuav tau repair / reinstall Windows .
+Yog thaum koj taws es lub computer yeej mus dhau daim Windows splash screen tabsis thaum txog kiag daim desktop screen es koj lub computer mam laim laim , ces : 1 .
+Display resolution setup siab dhau lawm .
+Koj yuav tau mus rau SAFE MODE es mus reset qhov DISPLAY RESOLUTION .
+Yuav kom paub tseeb tiag mas koj yuav tau piav step by step seb thaum koj taws kiag koj lub computer nws zoo li cas thiab what kind of message are you getting mas peb thiaj li yuav paub pab koj .
+ua tsaug os 2 tug npawg .
+kuv tsis nyob hauv tsev lawm ces yuav qhib tsis tau lub computer piav rau nej , tab sis raws li kuv xav ntshe yuav yog li no lawm .
+thaum xwb xwb thauj qhib ces tawm ib cov error messages xwb .
+tab sis zoo li tsam no ces tsis tawm dag tsi li lawm .
+lub power supply tseem cig thiab tuaj ( still on ) .
+kuv xav ntshe yuav yog vim 2 tug pheej mus download games ntau ntau hauv internet ces virus muab noj thiab caused some kind of interruption ces pheej slow slow ces tsam no ci li ua rau lub computer tuag lawm .
+qhov kuv xav nug nej yog li no .
+yog tsis yog tim lub monitor , tsis yog tim resolution , hard drive , video card , power supply es yog tim vim muaj virus or interruptions xwb no yuav fix li cas no mas ?
+yog tsis muaj daim window xp dis lawm no yuav ua li cas ?
+tej zaum yuav yog tim virus lawm rau qhov yeej tseem boot ( power supply on full power with usual sound ) , tab sis it just doesn't reach the log in page xwb .
+cia kuv mus txog tsev hnub no kuv mam mus nqa ib tug kwv tij daim window xp coj los sim thiab ho mam hu mus rau ib tug newphew paub kho computer thiab seb kho puas tau .
+yog tsis tau li cas no mam li rov tuaj nug nej dua nawb .
+ua tsaug .
+Raws li kuv kev kho computer los thiab seb nej piav mus los no , koj lub computer need fresh reinstall windowsELIPSISTOKEN Yog koj muaj program tseem ceeb nyob rau hauv koj lub computer koj need daim disk / CD program hu " Acronis True Image " los backup koj tej files cia rau lwm qhov chaw , then reformat your HHD do reinstall fresh from scratchELIPSISTOKENELIPSISTOKENELIPSISTOKEN .
+yawglaus-- kuv tsis muaj any important files nyob rau hauv li lawm .
+lub computer no ces cia rau kuv 2 tug me nyuam siv play games ua si thiab ua school works lawm xwb .
+kuv xav muab nws clean everything from scratch tiag .
+how do you do it ?
+where do you start ?
+KwvtijELIPSISTOKENaw , Raws li koj piav ces koj thiab kuv ces ntshai paub-b PC ib yam nkaus laujELIPSISTOKENELIPSISTOKEN . . paub tuaj sib ceg hauv SCH no nkaus-s xwbELIPSISTOKENELIPSISTOKENhais txog tej no ces ruam tiag-g tseem ruam tshaj NPUA lawm thiabELIPSISTOKENELIPSISTOKEN . . kuv mas muaj ib lub PC nyob tom txaj lub no kuv yeej tso password rau tib si kuv thiab poj niam siv nkaus-s xwbELIPSISTOKENELIPSISTOKEN2 lub nyob tom 2 hoob nyobELIPSISTOKENELIPSISTOKEN . .1 hli mas ua li koj hais kho 2 - 3 zaug diamELIPSISTOKENELIPSISTOKENkuv 2 tug tub yau ces pheej tua game li koj hais tua game nrog nws cov phooj nyob qab teb qaum teb qhov txhia chaw liELIPSISTOKENELIPSISTOKEN . zoo rau qhov kuv ib tug dab laug thiab tus txiv hluas nkawv txawj install txhua yamELIPSISTOKENELIPSISTOKEN . lawv cov paub ces siv 10 - 15 nas this reinstall xwbELIPSISTOKEN . . koj thiab kuv ces zaum saib xwb las asELIPSISTOKENELIPSISTOKEN . kom koj 2 tug tub kawm majELIPSISTOKENELIPSISTOKEN . . qhia 1 - 2 zaug xwb ces nkawv ua tau lawm nawbELIPSISTOKENELIPSISTOKEN . . kuv 2 tug tub saib-b tus dab laug thiab tus txiv hluas reinstall 1 - 2 zaug ces nkawv twb ua tau lawm nedELIPSISTOKENELIPSISTOKEN . kuv ces yus pheej hais tias yus nim yog NAI loj nyob hauv tsev lawm es yus txhob ua tej ntawd no xwbELIPSISTOKENELIPSISTOKEN . kev dab qhua , kev neej , kev tsa , kev tawm mus sab nraum yus twb ua tag lawm yog tseem los ua tej ntawd thiab ces cov me nyuam twb tsis muaj hauj lwm ua lawm nedELIPSISTOKENELIPSISTOKEN . tsis yog li ces xua rauj nrog lub PC hais 2 - 3 rauj ces mam mus yuav lub tshiab xwb nawb .
+Ok 1 . check seb koj pua smuaj daim Windows CD 2 . yog koj muaj ces koj turn on power ces open koj lub CD / DVD insert koj daim windows CD rau hauv turn power off 3 . koj turn Power back on seb nws puas read koj daim CD from you CD / DVD drive 4 . yog nws read ces as soon it read koj hit Enter 5 . koj follow nws cov instruction vim nws yeej qhia seb koj yuav ua cas . . delete partition / re-create partition li cas yawglaus-- ua tsaug os .
+ib pliag mus txog tsev kuv mam li ua li koj hais nawb .
+phwvnyawm-- yog kawg .
+koj thiab kuv ces tsuas txhawj tho beer haus thiab tsim babies xwb tiag los mas hajELIPSISTOKENhajELIPSISTOKENhajELIPSISTOKEN .
+cwj-- ua tsaug .
+mam li try koj qhov ua ntej yog tsis work lawm mam li try yawglaus qhov nawb .
+will let you guys know later .
