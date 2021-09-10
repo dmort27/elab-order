@@ -1,0 +1,6 @@
+Yog thaum koj tsim tau thiab siv yooj yim ces tib neeg yeej yuav siv
+xwb. Ntshe yog tsim tau es siv nyuaj nyuaj xwb. Cia kuv xeem ntawv tag
+tso kuv mam kho qhov program ntxiv.
+Tam sim no qhov program autogenerate cov lus thiab grab cov definition
+from the internet xwb. Thaum kuv kho qhov program tiav lawm, kuv mam
+li los mus tshawb cov lus txhais.
