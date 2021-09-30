@@ -10,7 +10,7 @@ import pandas as pd
 import numpy as np
 import csv
 from libraries.hmong_rpa.rpa_regex import RPA_SYLLABLE as rpa
-from collections import Counter
+from collections import Counter, defaultdict
 from sklearn.tree import DecisionTreeClassifier, export_graphviz
 from sklearn.model_selection import train_test_split
 from sklearn.feature_selection import SelectFromModel, SelectKBest, chi2
@@ -24,16 +24,7 @@ import epitran, panphon
 # this script contains the same functions as classify.ipynb
 # it's just a more streamlined version of it.
 
-df = pd.read_csv("../scripts/elabs_extracted.csv", quoting=csv.QUOTE_ALL)
-all_syllables = df["word1"].tolist() + df["word2"].tolist() + df["word4"].tolist()
-onsets, rhymes, tones = Counter(), Counter(), Counter()
-for syl in all_syllables:
-    m = rpa.match(syl)
-    ons, rhy, ton = m.group("ons"), m.group("rhy"), m.group("ton")
 
-    onsets[ons] += 1
-    rhymes[rhy] += 1
-    tones[ton] += 1
 
 def add_unattested_data(df0):
     df = df0.copy()
@@ -50,7 +41,7 @@ def add_unattested_data(df0):
     return df.append(unattested, ignore_index=True)
 
 
-def add_onehot_features(df0, features='ton'):
+def add_onehot_features(df0, features='ton', onsets=None, rhymes=None, tones=None):
     df = df0.copy()
     # for each of the three (w1 and w3 identical) words, add onehot vector of each tone
     if 'panphon' in features:
@@ -104,6 +95,7 @@ def select_features_from_model(clf, X, y, method='from_model'):
         num_features_to_try = (260, 240, 220, 200, 180, 160, 140, 120, 100)
     else:
         num_features_to_try = (120, 110, 100, 90, 80, 70, 60, 50, 40, 35, 30, 25, 20, 15, 10)
+    num_features_to_try = (40, 35, 30, 25, 20, 15, 10, 8, 6)
     for t in num_features_to_try:
         if method == 'from_model':
             model = SelectFromModel(clf, prefit=True, threshold=-np.inf, max_features=t)
@@ -140,7 +132,7 @@ def select_features_from_model(clf, X, y, method='from_model'):
             clf_best = clf_new
         print(f"{mean_accs:.3f}, prn {mean_prns:.3f}, rcl {mean_rcls:.3f}")
 
-    return clf_best
+    return best_accs
 
 
 def visualize_tree(feature_names, use_features, clf):
@@ -174,30 +166,105 @@ def visualize_tree(feature_names, use_features, clf):
     graphviz.render('dot', 'png', fname)
 
 
-def main(use_features, clfs=None):
+def predict_with_rules(df0):
+    # df has attested and unattested data
+    def sgn(x):
+        return 0 if x == 0 else x // abs(x)
+
+    df = df0.copy()
+    orders = {'j': 1,
+              'b': 2,
+              'm': 3, 'd': 3,
+              's': 4,
+              'v': 5,
+              'g': 6,
+              '': 7}
+    df['rule_pred'] = (df['word4'].apply(lambda syl: orders[rpa.match(syl).group("ton")]) -
+                       df['word2'].apply(lambda syl: orders[rpa.match(syl).group("ton")]))
+    df['rule_pred'] = df['rule_pred'].apply(sgn)
+    correct = len(df[((df['rule_pred']==1) & (df['attested']==1)) | ((df['rule_pred']==-1) & (df['attested']==0))])
+    incorrect = len(df[((df['rule_pred']==1) & (df['attested']==0)) | ((df['rule_pred']==-1) & (df['attested']==1))])
+    tie = len(df) - correct - incorrect
+    print("==== Rule Prediction ====")
+    print(f'Correct: {correct / len(df)}')
+    print(f'Tie: {tie / len(df)}')
+    print(f'Incorrect: {incorrect / len(df)}')
+    print(f'Correct with random guess: {(correct + tie/2) / len(df)}')
+    print(f'Incorrect with random guess: {(incorrect + tie/2) / len(df)}')
+    print("=========================")
+    return (correct + tie/2) / len(df)
+
+
+def main(df, use_features, onsets, rhymes, tones, clfs=None):
     print("="*40, use_features, "="*40)
-    expanded_df = add_onehot_features(add_unattested_data(df),
+
+    expanded_df = add_onehot_features(df, onsets=onsets, rhymes=rhymes, tones=tones,
                                       features=use_features).drop(columns=['word1', 'word2', 'word3', 'word4'])
     X = expanded_df.drop(columns=['attested']).to_numpy()
     y = expanded_df['attested'].to_numpy()
-
+    best_acc = 0
     for (clf_name, clf) in clfs.items():
         print("=====> ", clf_name)
         clf = clf.fit(X, y)
         print('training accuracy', clf.score(X, y))
         train_test(clf, X, y)  # no feature selection
         # select_features_from_model(clf, X, y, method='from_model')
-        select_features_from_model(clf, X, y, method='chi2')
+        best_acc = select_features_from_model(clf, X, y, method='chi2')
         visualize_tree(expanded_df.columns.to_list()[1:], use_features, clf)
 
+    return best_acc
 
 if __name__ == '__main__':
-    clfs = {
-        'DecisionTree': DecisionTreeClassifier(criterion='entropy', random_state=0),
-        # 'NaiveBayes': GaussianNB(),
-        # 'MLP': MLPClassifier(early_stopping=True),
-        # 'SVM': SVC(),
-    }
-    # main('ton', clfs)
-    main('ons_rhy_ton', clfs)
-    # main('ons_rhy_ton_panphon', clfs)
+    remove_rows = 'unordered_dup'  # none | ordered_dup | unordered_dup
+    print(remove_rows)
+    df = pd.read_csv("../scripts/elabs_extracted.csv", quoting=csv.QUOTE_ALL)
+    df0 = df.copy()
+
+    rule_accs = []
+    pred_accs = []
+    for _ in range(10):
+        df = df0
+        if remove_rows in ['ordered_dup', 'unordered_dup']:
+            inverted_idx = defaultdict(list)
+            if remove_rows == 'ordered_dup':
+                for i, (w1, w2, w3, w4) in df.iterrows():
+                    inverted_idx[(w2, w4)].append(i)
+            else: # unordered_dup
+                for i, (w1, w2, w3, w4) in df.iterrows():
+                    inverted_idx[(max(w2, w2), min(w2, w4))].append(i)
+
+            use_indices = []
+            for values in inverted_idx.values():
+                use_indices.append(np.random.choice(values))
+
+            df = df.iloc[use_indices].reset_index(drop=True)
+
+        df = add_unattested_data(df)
+        rule_acc = predict_with_rules(df)
+
+        all_syllables = df["word1"].tolist() + df["word2"].tolist() + df["word4"].tolist()
+        onsets, rhymes, tones = Counter(), Counter(), Counter()
+        for syl in all_syllables:
+            m = rpa.match(syl)
+            ons, rhy, ton = m.group("ons"), m.group("rhy"), m.group("ton")
+
+            onsets[ons] += 1
+            rhymes[rhy] += 1
+            tones[ton] += 1
+
+        clfs = {
+            'DecisionTree': DecisionTreeClassifier(criterion='entropy', random_state=0),
+            # 'NaiveBayes': GaussianNB(),
+            # 'MLP': MLPClassifier(early_stopping=True),
+            # 'SVM': SVC(),
+        }
+        best_acc = main(df, 'ton', onsets, rhymes, tones, clfs)
+        # best_acc = main(df, 'ons_rhy_ton', onsets, rhymes, tones, clfs)
+        # main(df, 'ons_rhy_ton_panphon', onsets, rhymes, tones, clfs)
+
+        rule_accs.append(rule_acc)
+        pred_accs.append(best_acc)
+    print("*"*80)
+    print(describe(rule_accs))
+    print(describe(pred_accs))
+    print("*"*80)
