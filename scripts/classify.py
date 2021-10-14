@@ -11,6 +11,31 @@ import pandas as pd
 import csv
 
 
+def visualize_tree(fname, data: ElaborateExpressionData, exp: ClassificationExperiment, d=15):
+    from sklearn.tree import export_graphviz
+    import pydot, graphviz
+
+    clf = exp.get_clf()
+    if clf.__class__.__name__ != 'DecisionTreeClassifier':
+        print('cannot generate visualization for this classifier')
+
+    clf.fit(*data.get_Xy_data())
+    feature_names = data.get_feature_names()
+    class_names = ['FAKE', 'ATT']
+
+    export_graphviz(clf,
+                    out_file=fname,
+                    impurity=False,
+                    feature_names=feature_names,
+                    class_names=class_names,
+                    max_depth=d)
+
+    f = pydot.graph_from_dot_file(fname)[0].to_string()
+    with open(fname, 'w') as file:
+        file.write(f)
+    graphviz.render('dot', 'png', fname)
+
+
 def get_data(lang_id, features='ton_rhy_ons', remove_dup_ordered=None):
     if lang_id == 'hmn-Latn':
         csv_path = "../data/hmong/extracted_elabs/elabs_extracted.csv"
@@ -30,9 +55,9 @@ def get_data(lang_id, features='ton_rhy_ons', remove_dup_ordered=None):
     df = pd.read_csv(csv_path, quoting=csv.QUOTE_ALL)
     data = ElaborateExpressionData(df, lang_id=lang_id, syl_regex=regex, verbose=False,
                                    features=features, remove_dup_ordered=remove_dup_ordered)
-    rule_acc = data.rule_based_classification()
-    X, y = data.get_Xy_data()
-    return X, y, rule_acc
+
+    return data
+
 
 def describe(arr):
     if len(arr) > 1:
@@ -40,20 +65,26 @@ def describe(arr):
     else:
         return f'One value: {arr[0]}'
 
-def run_unique_cc_exp(lang_id, features, remove_dup_ordered=None, num_repeats=10):
+
+def run_unique_cc_exp(lang_id, features, remove_dup_ordered=None, num_repeats=10, vis_tree=False):
     rule_accs = []
     pred_accs = []
     for _ in range(1 if remove_dup_ordered is None else num_repeats):
-        X, y, rule_acc = get_data(lang_id, features=features, remove_dup_ordered=remove_dup_ordered)
+        data = get_data(lang_id, features=features, remove_dup_ordered=remove_dup_ordered)
+        rule_acc = data.rule_based_classification()
+        X, y = data.get_Xy_data()
         exp = ClassificationExperiment(DecisionTreeClassifier(criterion='entropy'), X, y)
         # exp = ClassificationExperiment(SVC(), X, y)
         rule_accs.append(rule_acc)
         pred_accs.append(exp.select_features_from_model(method='chi2'))
+        if vis_tree:
+            d = 15
+            visualize_tree(f'../out/Pinyin_{features}_{d or ""}.dot', data, exp, d=d)
     print("*" * 80)
     print('RULES', describe(rule_accs))
     print('PRED', describe(pred_accs))
     print("*" * 80)
 
 if __name__ == '__main__':
-    # run_unique_cc_exp('cmn-Pinyin', 'ton_rhy_ons', remove_dup_ordered=None)
-    run_unique_cc_exp('ltc-IPA', 'ton_rhy_ons', remove_dup_ordered=None)
+    run_unique_cc_exp('cmn-Pinyin', 'ton_rhy_ons', remove_dup_ordered=None, vis_tree=True)
+    # run_unique_cc_exp('ltc-IPA', 'ton_rhy_ons', remove_dup_ordered=None, vis_tree=True)

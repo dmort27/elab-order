@@ -69,7 +69,8 @@ class ClassificationExperiment:
 
         return best_accs
 
-
+    def get_clf(self):
+        return self.clf
 
 
 

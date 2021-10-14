@@ -18,6 +18,7 @@ class ElaborateExpressionData:
         self._set_phonemes()
         if remove_dup_ordered is not None:
             self._remove_dups(remove_dup_ordered)
+        self.X, self.y = None, None
 
     def rule_based_classification(self):
         def sgn(x):
@@ -90,11 +91,12 @@ class ElaborateExpressionData:
 
     def get_Xy_data(self):
         print('N =', len(self.df))
-        self._add_unattested_data()
-        self._add_onehot_features(self.features, drop_orig_columns=True)
-        X = self.df.drop(columns=['attested']).to_numpy()
-        y = self.df['attested'].to_numpy()
-        return X, y
+        if self.X is None and self.y is None:
+            self._add_unattested_data()
+            self._add_onehot_features(self.features, drop_orig_columns=True)
+            self.X = self.df.drop(columns=['attested']).to_numpy()
+            self.y = self.df['attested'].to_numpy()
+        return self.X, self.y
 
     def _reformat_columns(self):
         '''
@@ -201,10 +203,12 @@ class ElaborateExpressionData:
             components = ('cc1', 'cc2')
         else:
             components = ('cc1', 'cc2', 'rep')
+        # for lahu only, visualize tone marks on a dummy character 'a'
+        dummy = 'a' if self.lang_id == 'lhu-Latn' else ''
         for wi in components:
             if 'ton' in features:
                 for ton in self.tones:
-                    self.df[f'{wi}_ton_a{ton}'] = self.df[wi].apply(lambda syl: self.syl_regex.match(syl).group("ton") == ton)
+                    self.df[f'{wi}_ton_{dummy}{ton}'] = self.df[wi].apply(lambda syl: self.syl_regex.match(syl).group("ton") == ton)
             if 'rhy' in features:
                 for rhy in self.rhymes:
                     self.df[f'{wi}_rhy_{rhy}'] = self.df[wi].apply(lambda syl: self.syl_regex.match(syl).group("rhy") == rhy)
@@ -222,3 +226,8 @@ class ElaborateExpressionData:
 
         if drop_orig_columns:
             self.df.drop(columns=['cc1', 'cc2', 'rep'], inplace=True)
+
+    def get_feature_names(self):
+        ret = self.df.columns.to_list()
+        ret.remove('attested')
+        return ret
