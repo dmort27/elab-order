@@ -48,7 +48,8 @@ class ElaborateExpressionData:
                          self.df['cc1'].apply(lambda syl: orders[self.syl_regex.match(syl).group("rhy")]))
             res = rule_pred.apply(sgn).value_counts().to_dict()
         else:
-            raise NotImplementedError(f"Rule for language {self.lang_id} is not available")
+            print(f"Rule for language {self.lang_id} is not available")
+            return -1
 
         N = len(self.df)
         if self.verbose:
@@ -99,7 +100,12 @@ class ElaborateExpressionData:
         '''
         Converts df from (word1, word2, word3, word4) into (cc1, cc2, rep, is_ABAC)
         '''
-        if self.df.columns.tolist() == ['cc1', 'cc2', 'rep', 'is_ABAC']: return
+        if self.df.columns.tolist() == ['cc1', 'cc2', 'rep', 'is_ABAC']:
+            if self.lang_id in ['ltc-IPA', 'cmn-Pinyin']:
+                # rep has the characters, not needed for classification.
+                self.df['rep'] = ''
+                self.df['is_ABAC'] = True
+            return
         if self.df.columns.tolist() != ['word1', 'word2', 'word3', 'word4']:
             print('Cannot reformat df. Need to be in (word1, word2, word3, word4) format')
             return
@@ -125,12 +131,15 @@ class ElaborateExpressionData:
             return
 
         def is_valid_syl(syl):
+            if syl == '':
+                return True
             m = self.syl_regex.match(syl)
             if m:
                 ons, rhy, ton = m.group("ons"), m.group("rhy"), m.group("ton")
                 return ons + rhy + ton == syl
             return False
 
+        self.df.dropna(inplace=True)
         c = 0
         for i, (cc1, cc2, rep, form) in self.df.iterrows():
             if not all(is_valid_syl(w) for w in (cc1, cc2, rep)):
@@ -145,6 +154,7 @@ class ElaborateExpressionData:
 
     def _set_phonemes(self):
         all_syllables = set(self.df["cc1"].tolist()).union(set(self.df["cc2"].tolist())).union(set(self.df["rep"].tolist()))
+        all_syllables.remove('')
         self.onsets, self.rhymes, self.tones = set([]), set([]), set([])
         for syl in all_syllables:
             m = self.syl_regex.match(syl)
@@ -187,7 +197,11 @@ class ElaborateExpressionData:
             epi = epitran.Epitran(self.lang_id)
             ft = panphon.FeatureTable()
 
-        for wi in ('cc1', 'cc2', 'rep'):
+        if self.lang_id in ['ltc-IPA', 'cmn-Pinyin']:
+            components = ('cc1', 'cc2')
+        else:
+            components = ('cc1', 'cc2', 'rep')
+        for wi in components:
             if 'ton' in features:
                 for ton in self.tones:
                     self.df[f'{wi}_ton_a{ton}'] = self.df[wi].apply(lambda syl: self.syl_regex.match(syl).group("ton") == ton)
