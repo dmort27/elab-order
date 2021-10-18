@@ -156,7 +156,7 @@ class ElaborateExpressionData:
 
     def _set_phonemes(self):
         all_syllables = set(self.df["cc1"].tolist()).union(set(self.df["cc2"].tolist())).union(set(self.df["rep"].tolist()))
-        all_syllables.remove('')
+        all_syllables -= {''}
         self.onsets, self.rhymes, self.tones = set([]), set([]), set([])
         for syl in all_syllables:
             m = self.syl_regex.match(syl)
