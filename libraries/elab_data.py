@@ -16,13 +16,12 @@ class ElaborateExpressionData:
         self._reformat_columns()
         self._remove_invalid_data()
         self._set_phonemes()
+        self._add_unattested_data()
         if remove_dup_ordered is not None:
             self._remove_dups(remove_dup_ordered)
         self.X, self.y = None, None
 
     def rule_based_classification(self):
-        def sgn(x):
-            return 0 if x == 0 else x // abs(x)
 
         if self.lang_id == 'hmn-Latn':
             orders = {'j': 1,
@@ -32,9 +31,7 @@ class ElaborateExpressionData:
                       'v': 5,
                       'g': 6,
                       '': 7}
-            rule_pred = (self.df['cc2'].apply(lambda syl: orders[self.syl_regex.match(syl).group("ton")]) -
-                         self.df['cc1'].apply(lambda syl: orders[self.syl_regex.match(syl).group("ton")]))
-            res = rule_pred.apply(sgn).value_counts().to_dict()
+            grp = 'ton'
         elif self.lang_id == 'lhu-Latn':
             orders = {'o': 1,
                       'u': 2,
@@ -45,22 +42,30 @@ class ElaborateExpressionData:
                       'e': 7,
                       'ɛ': 8,
                       'a': 9}
-            rule_pred = (self.df['cc2'].apply(lambda syl: orders[self.syl_regex.match(syl).group("rhy")]) -
-                         self.df['cc1'].apply(lambda syl: orders[self.syl_regex.match(syl).group("rhy")]))
-            res = rule_pred.apply(sgn).value_counts().to_dict()
+            grp = 'rhy'
+        elif self.lang_id == 'ltc-IPA':
+            orders = {'': 1,
+                      'X': 2,
+                      'H': 3,
+                      'p̚':4, 't̚': 4, 'k̚': 4}
+            grp = 'ton'
         else:
             print(f"Rule for language {self.lang_id} is not available")
             return -1
+        rule_pred = (self.df['cc2'].apply(lambda syl: orders[self.syl_regex.match(syl).group(grp)]) -
+                     self.df['cc1'].apply(lambda syl: orders[self.syl_regex.match(syl).group(grp)]))
+        rule_pred += np.random.randn(len(rule_pred)) / 1000  # break ties randomly
+        res = ((rule_pred>0) == self.df['attested']).value_counts().to_dict()
 
         N = len(self.df)
         if self.verbose:
-            print(f'Correct: {res[1] / N}')
-            print(f'Tie: {res[0] / N}')
-            print(f'Incorrect: {res[-1] / N}')
-            print(f'Correct with random guess: {res[1] / N + res[0] / N / 2}')
-            print(f'Incorrect with random guess: {res[-1] / N + res[0] / N / 2}')
+            # print(f'Correct: {res[1] / N}')
+            # print(f'Tie: {res[0] / N}')
+            # print(f'Incorrect: {res[-1] / N}')
+            print(f'Correct with random guess: {res[True] / N }')
+            print(f'Incorrect with random guess: {res[False] / N }')
             print()
-        return res[1] / N + res[0] / N / 2
+        return res[True] / N
 
     def rule_search(self):
         def sgn(x):
@@ -89,14 +94,16 @@ class ElaborateExpressionData:
                 best = correct
                 print(f'iter {iter}, best is {best}, order is {orders}')
 
-    def get_Xy_data(self):
+    def get_Xy_data(self, return_orig_index=False):
         print('N =', len(self.df))
         if self.X is None and self.y is None:
-            self._add_unattested_data()
             self._add_onehot_features(self.features, drop_orig_columns=True)
             self.X = self.df.drop(columns=['attested']).to_numpy()
             self.y = self.df['attested'].to_numpy()
-        return self.X, self.y
+        if return_orig_index:
+            return self.X, self.y, self.orig_index
+        else:
+            return self.X, self.y
 
     def _reformat_columns(self):
         '''
@@ -168,15 +175,18 @@ class ElaborateExpressionData:
     def _remove_dups(self, ordered):
         inverted_idx = defaultdict(list)
         if ordered:
-            for i, (cc1, cc2, _, _) in self.df.iterrows():
+            for i, row in self.df.iterrows():
+                cc1, cc2 = row['cc1'], row['cc2']
                 inverted_idx[(cc1, cc2)].append(i)
         else:
-            for i, (cc1, cc2, _, _) in self.df.iterrows():
+            for i, row in self.df.iterrows():
+                cc1, cc2 = row['cc1'], row['cc2']
                 inverted_idx[(max(cc1, cc2), min(cc1, cc2))].append(i)
         use_indices = []
         for values in inverted_idx.values():
             use_indices.append(np.random.choice(values))
         self.df = self.df.iloc[use_indices].reset_index(drop=True)
+        self.orig_index = self.orig_index[use_indices]
 
     def _add_unattested_data(self):
         '''
@@ -192,7 +202,10 @@ class ElaborateExpressionData:
         unattested['attested'] = False
         if self.verbose:
             print(f'len of attested {len(self.df)}, len of unattested {len(unattested)}')
-        self.df = self.df.append(unattested, ignore_index=True)
+
+        # when combining, keep the original index for GroupKFold evaluation
+        self.df = self.df.append(unattested, ignore_index=False).reset_index()
+        self.orig_index = self.df.pop('index').to_numpy()  # store this orig_index elsewhere
 
     def _add_onehot_features(self, features, drop_orig_columns=True):
         if 'panphon' in features:

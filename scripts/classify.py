@@ -10,6 +10,16 @@ from sklearn.svm import SVC
 import pandas as pd
 import csv
 
+LANGUAGES = {
+    'Hmong': 'hmn-Latn',
+    'Lahu': 'lhu-Latn',
+    'Mandarin': 'cmn-Pinyin',
+    'Middle Chinese': 'ltc-IPA',
+}
+CLASSIFIERS = {
+    'DT': DecisionTreeClassifier(criterion='entropy'),
+    'SVM': SVC()
+}
 
 def visualize_tree(fname, data: ElaborateExpressionData, exp: ClassificationExperiment, d=15):
     from sklearn.tree import export_graphviz
@@ -66,16 +76,20 @@ def describe(arr):
         return f'One value: {arr[0]}'
 
 
-def run_unique_cc_exp(lang_id, features, remove_dup_ordered=None, num_repeats=10, vis_tree=False):
+def run_unique_cc_exp(lang_id, features, classifier=None,
+                      remove_dup_ordered=None, num_repeats=10, vis_tree=False):
     rule_accs = []
     pred_accs = []
     for _ in range(1 if remove_dup_ordered is None else num_repeats):
         data = get_data(lang_id, features=features, remove_dup_ordered=remove_dup_ordered)
-        rule_acc = data.rule_based_classification()
-        X, y = data.get_Xy_data()
-        exp = ClassificationExperiment(DecisionTreeClassifier(criterion='entropy'), X, y)
-        # exp = ClassificationExperiment(SVC(), X, y)
-        rule_accs.append(rule_acc)
+        for _ in range(50):
+            rule_acc = data.rule_based_classification()
+            rule_accs.append(rule_acc)
+            if rule_acc == -1: break
+        X, y, orig_index = data.get_Xy_data(return_orig_index=True)
+        if classifier is None:
+            classifier = CLASSIFIERS['DT']
+        exp = ClassificationExperiment(classifier, X, y, orig_index)
         pred_accs.append(exp.select_features_from_model(method='chi2'))
         if vis_tree:
             d = 15
@@ -86,5 +100,15 @@ def run_unique_cc_exp(lang_id, features, remove_dup_ordered=None, num_repeats=10
     print("*" * 80)
 
 if __name__ == '__main__':
-    run_unique_cc_exp('cmn-Pinyin', 'ton_rhy_ons', remove_dup_ordered=None, vis_tree=True)
-    # run_unique_cc_exp('ltc-IPA', 'ton_rhy_ons', remove_dup_ordered=None, vis_tree=True)
+    'ons_rhy_ton'
+    'ton'
+    'rhy'
+
+    run_unique_cc_exp(LANGUAGES['Middle Chinese'], 'ton', classifier=CLASSIFIERS['DT'],
+                      remove_dup_ordered=None, vis_tree=False)
+    run_unique_cc_exp(LANGUAGES['Middle Chinese'], 'ons_rhy_ton', classifier=CLASSIFIERS['DT'],
+                      remove_dup_ordered=None, vis_tree=False)
+    run_unique_cc_exp(LANGUAGES['Middle Chinese'], 'ton', classifier=CLASSIFIERS['SVM'],
+                      remove_dup_ordered=None, vis_tree=False)
+    run_unique_cc_exp(LANGUAGES['Middle Chinese'], 'ons_rhy_ton', classifier=CLASSIFIERS['SVM'],
+                      remove_dup_ordered=None, vis_tree=False)
