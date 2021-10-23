@@ -847,9 +847,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 vim	O
 Ly	O
 Foung	O
@@ -3030,9 +3027,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 pluag	O
 pluag	O
 es	O
@@ -3113,9 +3107,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 ,	O
 li	O
 no	O
@@ -3135,9 +3126,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 nawb	O
 mog	O
 .	O
@@ -3196,9 +3184,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 kawv	O
 ntawv	O
 xwb	O
@@ -3265,9 +3250,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 lub	O
 neej	O
 tom	O
@@ -3336,9 +3318,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 xwb	O
 ,	O
 nws	O
@@ -3432,9 +3411,6 @@ nqi	B
 vaj	I
 nqi	I
 tsev	I
-vaj	O
-nqi	O
-tsev	O
 lawm	O
 os	O
 nawb	O
@@ -4821,9 +4797,6 @@ tus	B
 tub	I
 tus	I
 ntxhais	I
-tub	O
-tus	O
-ntxhais	O
 txawj	O
 xav	O
 ,	O
@@ -4897,9 +4870,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 lawm	O
 ces	O
 ua	O

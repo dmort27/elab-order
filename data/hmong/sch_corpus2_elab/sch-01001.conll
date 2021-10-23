@@ -84,9 +84,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 ,	O
 yop	O
 cov	O
@@ -332,9 +329,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 cov	O
 twbchaws	O
 western	O
@@ -789,9 +783,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 ,	O
 ua	O
 tub	O
@@ -950,9 +941,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 ,	O
 yop	O
 cov	O
@@ -1198,9 +1186,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 cov	O
 twbchaws	O
 western	O
@@ -1655,9 +1640,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 ,	O
 ua	O
 tub	O
@@ -2006,9 +1988,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 .	O
 
 

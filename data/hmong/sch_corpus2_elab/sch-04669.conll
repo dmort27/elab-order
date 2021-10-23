@@ -69,9 +69,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 ua	O
 si	O
 xwb	O
@@ -130,9 +127,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 mas	O
 yeej	O
 tsis	O
@@ -230,9 +224,6 @@ nej	B
 niam	I
 nej	I
 txiv	I
-niam	O
-nej	O
-txiv	O
 kom	O
 lawv	O
 txawj	O

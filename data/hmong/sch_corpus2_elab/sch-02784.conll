@@ -1338,9 +1338,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 li	O
 ...	O
 cov	O
@@ -3824,9 +3821,6 @@ rua	B
 ub	I
 rua	I
 nuav	I
-ub	O
-rua	O
-nuav	O
 ,	O
 4	O
 )	O
@@ -5157,9 +5151,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 thiab	O
 tej	O
 me	O
@@ -5304,9 +5295,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 thiab	O
 tsis	O
 txhob	O
@@ -5644,9 +5632,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 yeej	O
 yuav	O
@@ -5838,9 +5823,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 yog	O
 cov	O

@@ -68,9 +68,6 @@ muaj	B
 txhij	I
 muaj	I
 txhua	I
-txhij	O
-muaj	O
-txhua	O
 lug	O
 .	O
 
@@ -592,9 +589,6 @@ ua	B
 paab	I
 ua	I
 pawg	I
-paab	O
-ua	O
-pawg	O
 hab	O
 ib	O
 leeg	O
@@ -728,9 +722,6 @@ nwg	B
 nam	I
 nwg	I
 txiv	I
-nam	O
-nwg	O
-txiv	O
 kwv	O
 nqw	O
 tuaj	O

@@ -297,9 +297,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 lawm	O
 los	O
 tseem	O
@@ -408,9 +405,6 @@ ua	B
 loj	I
 ua	I
 lug	I
-loj	O
-ua	O
-lug	O
 rov	O
 mus	O
 xauj	O
@@ -1841,9 +1835,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 li	O
 nad	O
 .	O
@@ -2051,18 +2042,12 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 ,	O
 tau	O
 ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 los	O
 yus	O
 yuav	O
@@ -2086,9 +2071,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 yam	O
 tsis	O
 txuag	O
@@ -2120,9 +2102,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 .	O
 
 
@@ -2816,9 +2795,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 nrog	O
 rau	O
 peb	O

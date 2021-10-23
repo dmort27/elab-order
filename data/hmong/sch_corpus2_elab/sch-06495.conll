@@ -300,9 +300,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 tim	O
 US	O
 no	O
@@ -674,9 +671,6 @@ nws	B
 vaj	I
 nws	I
 tsev	I
-vaj	O
-nws	O
-tsev	O
 no	O
 los	O
 ntev	O

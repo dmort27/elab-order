@@ -173,9 +173,6 @@ li	B
 teb	I
 li	I
 chaw	I
-teb	O
-li	O
-chaw	O
 li	O
 suav	O
 daws	O
@@ -348,9 +345,6 @@ ntau	B
 plaub	I
 ntau	I
 ntug	I
-plaub	O
-ntau	O
-ntug	O
 dab	O
 tsi	O
 .	O
@@ -494,9 +488,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 twb	O
 cuag	O
 zog	O
@@ -654,9 +645,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 mog	O
 .	O
 
@@ -778,9 +766,6 @@ ua	B
 vaaj	I
 ua	I
 tsev	I
-vaaj	O
-ua	O
-tsev	O
 hab	O
 moog	O
 ua	O
@@ -817,9 +802,6 @@ khoom	B
 noj	I
 khoom	I
 haus	I
-noj	O
-khoom	O
-haus	O
 hum	O
 yug	O
 cov	O
@@ -1652,9 +1634,6 @@ taag	B
 zaaj	I
 taag	I
 zug	I
-zaaj	O
-taag	O
-zug	O
 los	O
 yeeb	O
 vim	O
@@ -2119,9 +2098,6 @@ tej	B
 siab	I
 tej	I
 ntsws	I
-siab	O
-tej	O
-ntsws	O
 kom	O
 lawv	O
 txhob	O

@@ -5,9 +5,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ntawm	O
 peb	O
 haiv	O
@@ -89,9 +86,6 @@ ua	B
 mus	I
 ua	I
 los	I
-mus	O
-ua	O
-los	O
 ces	O
 kuj	O
 ho	O
@@ -679,9 +673,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 .	O
 
 
@@ -1099,17 +1090,11 @@ ua	B
 ciaj	I
 ua	I
 tuag	I
-ciaj	O
-ua	O
-tuag	O
 ,	O
 da	B
 quav	I
 da	I
 zis	I
-quav	O
-da	O
-zis	O
 los	O
 pab	O
 #	O
@@ -1596,9 +1581,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 pej	O
 xeem	O
 muaj	O
@@ -1918,9 +1900,6 @@ tsi	B
 mob	I
 tsi	I
 khaus	I
-mob	O
-tsi	O
-khaus	O
 yuav	O
 qhov	O
 twg	O

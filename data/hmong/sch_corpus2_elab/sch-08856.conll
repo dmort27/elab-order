@@ -554,9 +554,6 @@ raws	B
 kab	I
 raws	I
 kev	I
-kab	O
-raws	O
-kev	O
 ces	O
 ...	O
 tsi	O
@@ -1178,9 +1175,6 @@ tseem	B
 kev	I
 tseem	I
 cai	I
-kev	O
-tseem	O
-cai	O
 lawm	O
 ntaag	O
 yog	O
@@ -1199,9 +1193,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 lug	O
 taug	O
 .	O
@@ -1231,9 +1222,6 @@ kev	B
 pluj	I
 kev	I
 tuag	I
-pluj	O
-kev	O
-tuag	O
 ntawm	O
 peb	O
 cov	O
@@ -1558,9 +1546,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 pam	O
 tuag	O
 ...	O
@@ -1823,9 +1808,6 @@ tsi	B
 mus	I
 tsi	I
 los	I
-mus	O
-tsi	O
-los	O
 li	O
 no	O
 xwb	O

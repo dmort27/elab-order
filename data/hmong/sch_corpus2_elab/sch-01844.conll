@@ -696,9 +696,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 no	O
 lawm	O
 ces	O
@@ -708,9 +705,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 yuav	O
 lawm	O
 .	O
@@ -979,17 +973,11 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 zoo	O
 lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 hlob	O
 mus	O
 ua	O
@@ -1378,9 +1366,6 @@ txoj	B
 koob	I
 txoj	I
 hmoov	I
-koob	O
-txoj	O
-hmoov	O
 loj	O
 thiaj	O
 li	O
@@ -1389,9 +1374,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 zoo	O
 coj	O
 .	O
@@ -1406,9 +1388,6 @@ txoj	B
 koob	I
 txoj	I
 hmoov	I
-koob	O
-txoj	O
-hmoov	O
 me	O
 me	O
 .	O
@@ -1419,9 +1398,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 me	O
 me	O
 phem	O
@@ -1959,9 +1935,6 @@ tas	B
 phab	I
 tas	I
 pheev	I
-phab	O
-tas	O
-pheev	O
 tuaj	O
 mus	O
 ....	O
@@ -1986,9 +1959,6 @@ tsis	B
 meej	I
 tsis	I
 pem	I
-meej	O
-tsis	O
-pem	O
 li	O
 no	O
 li	O
@@ -2106,9 +2076,6 @@ qhia	B
 txhij	I
 qhia	I
 txhua	I
-txhij	O
-qhia	O
-txhua	O
 tias	O
 yuav	O
 muaj	O
@@ -2702,9 +2669,6 @@ tau	B
 niam	I
 tau	I
 txiv	I
-niam	O
-tau	O
-txiv	O
 tshiab	O
 xwb	O
 tiag	O
@@ -3000,9 +2964,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 los	O
 hajyam	O
 txawj	O
@@ -3237,9 +3198,6 @@ kom	B
 txhij	I
 kom	I
 txhua	I
-txhij	O
-kom	O
-txhua	O
 thiab	O
 mas	O
 ntshe	O

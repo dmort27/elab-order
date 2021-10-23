@@ -29,9 +29,6 @@ suav	B
 hnub	I
 suav	I
 hmo	I
-hnub	O
-suav	O
-hmo	O
 ua	O
 neej	O
 raws	O
@@ -486,9 +483,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 los	O
 yog	O
 insult	O
@@ -518,9 +512,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 los	O
 yog	O
 thuam	O
@@ -695,9 +686,6 @@ hais	B
 phem	I
 hais	I
 zoo	I
-phem	O
-hais	O
-zoo	O
 los	O
 ntawd	O
 cia	O
@@ -1266,9 +1254,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 le	O
 ntawd	O
 lov	O
@@ -1475,9 +1460,6 @@ ua	B
 phem	I
 ua	I
 zoo	I
-phem	O
-ua	O
-zoo	O
 yog	O
 yug	O
 yog	O

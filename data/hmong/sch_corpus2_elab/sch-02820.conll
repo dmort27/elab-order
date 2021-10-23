@@ -188,9 +188,6 @@ laug	B
 caij	I
 laug	I
 nyoog	I
-caij	O
-laug	O
-nyoog	O
 ...	O
 Ua	O
 tsaug	O
@@ -367,9 +364,6 @@ yuav	B
 poj	I
 yuav	I
 sev	I
-poj	O
-yuav	O
-sev	O
 yuav	O
 taug	O
 neej	O
@@ -453,9 +447,6 @@ raug	B
 cuab	I
 raug	I
 khi	I
-cuab	O
-raug	O
-khi	O
 thiab	O
 yuav	O
 rau	O
@@ -483,9 +474,6 @@ tug	B
 dab	I
 tug	I
 qhua	I
-dab	O
-tug	O
-qhua	O
 )	O
 6	O
 .	O
@@ -504,9 +492,6 @@ koom	B
 poj	I
 koom	I
 yawm	I
-poj	O
-koom	O
-yawm	O
 )	O
 7	O
 .	O
@@ -546,9 +531,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 )	O
 9	O
 Dub	O
@@ -1659,9 +1641,6 @@ kev	B
 chawj	I
 kev	I
 chim	I
-chawj	O
-kev	O
-chim	O
 yav	O
 dhau	O
 los	O
@@ -1782,9 +1761,6 @@ cais	B
 pab	I
 cais	I
 pawg	I
-pab	O
-cais	O
-pawg	O
 .	O
 
 

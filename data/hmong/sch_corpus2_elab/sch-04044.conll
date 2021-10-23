@@ -592,9 +592,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 thiaj	O
 tsim	O
 muaj	O
@@ -621,9 +618,6 @@ zoo	B
 ntsej	I
 zoo	I
 muag	I
-ntsej	O
-zoo	O
-muag	O
 zoo	O
 tam	O
 li	O
@@ -946,9 +940,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 .	O
 
 

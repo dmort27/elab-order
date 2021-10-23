@@ -93,9 +93,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 .	O
 
 
@@ -325,9 +322,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 muaj	O
 kev	O
@@ -353,9 +347,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ,	O
 sibkoom	O
 .	O
@@ -369,18 +360,12 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 faib	O
 ua	O
 pab	B
 ub	I
 pab	I
 no	I
-ub	O
-pab	O
-no	O
 ....	O
 More	O
 later	O
@@ -443,9 +428,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 xwb	O
 poj	O
 .	O
@@ -695,9 +677,6 @@ noob	B
 qoob	I
 noob	I
 loo	I
-qoob	O
-noob	O
-loo	O
 dab	O
 tsi	O
 lawm	O
@@ -919,9 +898,6 @@ tuam	B
 meej	I
 tuam	I
 pem	I
-meej	O
-tuam	O
-pem	O
 (	O
 hais	O
 tau	O
@@ -1120,9 +1096,6 @@ ncig	B
 vaj	I
 ncig	I
 tsev	I
-vaj	O
-ncig	O
-tsev	O
 tib	O
 sis	O
 ...	O
@@ -1367,9 +1340,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 ,	O
 los	O
 unite	O

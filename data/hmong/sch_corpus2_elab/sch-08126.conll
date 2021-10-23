@@ -509,9 +509,6 @@ tsheej	B
 pab	I
 tsheej	I
 pawg	I
-pab	O
-tsheej	O
-pawg	O
 sib	O
 tham	O
 luag	O
@@ -658,9 +655,6 @@ tsi	B
 paub	I
 tsi	I
 pom	I
-paub	O
-tsi	O
-pom	O
 no	O
 los	O
 ho	O
@@ -898,9 +892,6 @@ tsheej	B
 pab	I
 tsheej	I
 pawg	I
-pab	O
-tsheej	O
-pawg	O
 sib	O
 tham	O
 lom	O
@@ -2514,9 +2505,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 lawm	O
 .	O
 

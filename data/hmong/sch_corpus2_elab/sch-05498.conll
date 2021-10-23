@@ -22,9 +22,6 @@ khuam	B
 tes	I
 khuam	I
 taw	I
-tes	O
-khuam	O
-taw	O
 thiaj	O
 teb	O
 koj	O
@@ -238,9 +235,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 .	O
 
 
@@ -268,9 +262,6 @@ zoo	B
 ntsej	I
 zoo	I
 muag	I
-ntsej	O
-zoo	O
-muag	O
 .	O
 
 

@@ -231,9 +231,6 @@ luag	B
 teb	I
 luag	I
 chaw	I
-teb	O
-luag	O
-chaw	O
 xwb	O
 na	O
 .....	O
@@ -399,9 +396,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 no	O
 na	O
 .	O

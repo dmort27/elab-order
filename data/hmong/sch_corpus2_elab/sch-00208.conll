@@ -3388,9 +3388,6 @@ tsis	B
 ncaj	I
 tsis	I
 ncees	I
-ncaj	O
-tsis	O
-ncees	O
 rau	O
 Hmoob	O
 es	O
@@ -3538,9 +3535,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ces	O
 ntshe	O
 yuav	O
@@ -3630,9 +3624,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 muaj	O
 npe	O
 los	O

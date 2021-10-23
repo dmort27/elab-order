@@ -2444,9 +2444,6 @@ ntsia	B
 siab	I
 ntsia	I
 qis	I
-siab	O
-ntsia	O
-qis	O
 thiab	O
 poj	O
 .	O
@@ -2531,9 +2528,6 @@ ntsia	B
 siab	I
 ntsia	I
 qis	I
-siab	O
-ntsia	O
-qis	O
 thiab	O
 poj	O
 .	O
@@ -2869,9 +2863,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 ,	O
 ua	O
 rau	O
@@ -3150,9 +3141,6 @@ ntsia	B
 siab	I
 ntsia	I
 qis	I
-siab	O
-ntsia	O
-qis	O
 thiab	O
 poj	O
 .	O

@@ -198,18 +198,12 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 ,	O
 kwv	O
 ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ,	O
 kev	O
 chim	O
@@ -226,9 +220,6 @@ kev	B
 phem	I
 kev	I
 qias	I
-phem	O
-kev	O
-qias	O
 los	O
 muaj	O
 tag	O
@@ -342,9 +333,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 .	O
 
 

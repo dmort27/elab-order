@@ -21,9 +21,6 @@ lus	B
 xaiv	I
 lus	I
 ncua	I
-xaiv	O
-lus	O
-ncua	O
 ntawm	O
 ko	O
 tsi	O
@@ -354,9 +351,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 .	O
 
 
@@ -557,9 +551,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 yeej	O
 tsis	O
 muaj	O
@@ -684,9 +675,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 li	O
 lawm	O
 .	O

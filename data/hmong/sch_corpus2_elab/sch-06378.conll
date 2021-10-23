@@ -94,9 +94,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 ntawd	O
 yog	O
 cov	O
@@ -1910,9 +1907,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -2202,9 +2196,6 @@ qub	B
 zaub	I
 qub	I
 mov	I
-zaub	O
-qub	O
-mov	O
 txhaj	O
 nchuav	O
 quas	O
@@ -2425,9 +2416,6 @@ txhua	B
 hnub	I
 txhua	I
 hmo	I
-hnub	O
-txhua	O
-hmo	O
 ces	O
 nej	O
 thiaj	O
@@ -2843,9 +2831,6 @@ puag	B
 niaj	I
 puag	I
 xyoo	I
-niaj	O
-puag	O
-xyoo	O
 lawm	O
 xwb	O
 las	O

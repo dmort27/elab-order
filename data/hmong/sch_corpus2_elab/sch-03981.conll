@@ -204,9 +204,6 @@ sib	B
 pab	I
 sib	I
 txhawb	I
-pab	O
-sib	O
-txhawb	O
 kom	O
 muaj	O
 taus	O
@@ -373,9 +370,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 dhau	O
 tswv	O
 ntuj	O
@@ -1769,9 +1763,6 @@ hmoob	B
 neej	I
 hmoob	I
 tsav	I
-neej	O
-hmoob	O
-tsav	O
 .	O
 
 

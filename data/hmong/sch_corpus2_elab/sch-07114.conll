@@ -131,9 +131,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 es	O
 thiaj	O
 mob	O
@@ -426,17 +423,11 @@ hlub	B
 niam	I
 hlub	I
 txiv	I
-niam	O
-hlub	O
-txiv	O
 ,	O
 hlub	B
 kwv	I
 hlub	I
 tij	I
-kwv	O
-hlub	O
-tij	O
 ,	O
 hlub	O
 tus	O
@@ -825,9 +816,6 @@ tu	B
 vaj	I
 tu	I
 tsev	I
-vaj	O
-tu	O
-tsev	O
 zoo	O
 .	O
 
@@ -898,9 +886,6 @@ tau	B
 nom	I
 tau	I
 tswv	I
-nom	O
-tau	O
-tswv	O
 nrog	O
 luag	O
 ua	O

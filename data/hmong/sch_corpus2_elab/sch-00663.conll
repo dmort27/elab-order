@@ -41,9 +41,6 @@ vuag	B
 ub	I
 vuag	I
 no	I
-ub	O
-vuag	O
-no	O
 coj	O
 los	O
 ua	O
@@ -1685,9 +1682,6 @@ dej	B
 iab	I
 dej	I
 daw	I
-iab	O
-dej	O
-daw	O
 ''	O
 ....	O
 my	O
@@ -1894,9 +1888,6 @@ ua	B
 tooj	I
 ua	I
 hlau	I
-tooj	O
-ua	O
-hlau	O
 ,	O
 ua	O
 nyaj	O
@@ -2394,9 +2385,6 @@ rooj	B
 noj	I
 rooj	I
 haus	I
-noj	O
-rooj	O
-haus	O
 tsi	O
 paub	O
 xaus	O
@@ -2415,9 +2403,6 @@ tsi	B
 meej	I
 tsi	I
 pem	I
-meej	O
-tsi	O
-pem	O
 le	O
 lawm	O
 ,	O
@@ -2967,9 +2952,6 @@ vuag	B
 ub	I
 vuag	I
 no	I
-ub	O
-vuag	O
-no	O
 coj	O
 los	O
 ua	O
@@ -3246,9 +3228,6 @@ twj	B
 neeb	I
 twj	I
 yaig	I
-neeb	O
-twj	O
-yaig	O
 thiab	O
 poob	O
 los	O
@@ -3283,9 +3262,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 ...	O
 temsis	O
 nco	O
@@ -3996,9 +3972,6 @@ yuav	B
 noj	I
 yuav	I
 haus	I
-noj	O
-yuav	O
-haus	O
 ces	O
 siv	O
 hmu	O
@@ -4107,9 +4080,6 @@ laj	B
 tes	I
 laj	I
 taw	I
-tes	O
-laj	O
-taw	O
 ua	O
 rau	O
 lawv	O

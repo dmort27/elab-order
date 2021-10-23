@@ -530,9 +530,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -563,9 +560,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ntag	O
 .	O
 
@@ -1138,9 +1132,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -1171,9 +1162,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ntag	O
 .	O
 

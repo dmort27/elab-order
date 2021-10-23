@@ -651,9 +651,6 @@ nyag	B
 vaaj	I
 nyag	I
 tsev	I
-vaaj	O
-nyag	O
-tsev	O
 --	O
 txawm	O
 kuv	O
@@ -2375,9 +2372,6 @@ yaam	B
 ub	I
 yaam	I
 nua	I
-ub	O
-yaam	O
-nua	O
 --	O
 nwg	O
 txuj	O
@@ -2964,9 +2958,6 @@ kuv	B
 nam	I
 kuv	I
 txiv	I
-nam	O
-kuv	O
-txiv	O
 hab	O
 kuv	O
 cov	O
@@ -3000,9 +2991,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 kawm	O
 tav	O
 qeb	O
@@ -4325,9 +4313,6 @@ ntau	B
 tsaav	I
 ntau	I
 yaam	I
-tsaav	O
-ntau	O
-yaam	O
 kws	O
 puab	O
 ntxim	O

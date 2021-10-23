@@ -255,17 +255,11 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 thiab	O
 paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 lawm	O
 los	O
 yeej	O
@@ -642,9 +636,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 thiab	O
 tom	O
 public	O
@@ -973,9 +964,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 ntau	O
 lawm	O
 tiag	O
@@ -1031,9 +1019,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 es	O
 muab	O
 nyiajtxiaj	O
@@ -1454,9 +1439,6 @@ cov	B
 tub	I
 cov	I
 kiv	I
-tub	O
-cov	O
-kiv	O
 and	O
 we	O
 will	O

@@ -89,9 +89,6 @@ hawm	B
 niam	I
 hawm	I
 txiv	I
-niam	O
-hawm	O
-txiv	O
 ...	O
 nrog	O
 lawd	O
@@ -140,9 +137,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 ,	O
 vim	O
 tibneeg	O
@@ -167,9 +161,6 @@ thov	B
 niam	I
 thov	I
 txiv	I
-niam	O
-thov	O
-txiv	O
 ,	O
 thov	O
 kuv	O
@@ -190,9 +181,6 @@ yog	B
 kev	I
 yog	I
 cai	I
-kev	O
-yog	O
-cai	O
 ,	O
 ua	O
 tsaug	O
@@ -221,9 +209,6 @@ txoj	B
 kab	I
 txoj	I
 kev	I
-kab	O
-txoj	O
-kev	O
 ....	O
 temsis	O
 thov	O
@@ -245,9 +230,6 @@ txog	B
 vaj	I
 txog	I
 tsev	I
-vaj	O
-txog	O
-tsev	O
 ,	O
 yauv	O
 coj	O
@@ -441,17 +423,11 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 tabsis	O
 saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 ntev	O
 tuaj	O
 mus	O

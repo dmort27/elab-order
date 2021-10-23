@@ -61,9 +61,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 2.	O
 nom	O
 yog	O
@@ -80,9 +77,6 @@ rau	B
 noj	I
 rau	I
 haus	I
-noj	O
-rau	O
-haus	O
 xwb	O
 3.	O
 nom	O
@@ -98,17 +92,11 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 tuaj	O
 puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 4.	O
 nom	O
 yog	O
@@ -366,9 +354,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 ces	O
 cas	O
 le	O

@@ -1531,9 +1531,6 @@ tsi	B
 deb	I
 tsi	I
 ze	I
-deb	O
-tsi	O
-ze	O
 ,	O
 tab	O
 sis	O
@@ -1759,9 +1756,6 @@ koj	B
 paub	I
 koj	I
 pom	I
-paub	O
-koj	O
-pom	O
 lawv	O
 no	O
 ces	O

@@ -196,9 +196,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 rau	O
 txhua	O
 theem	O
@@ -390,9 +387,6 @@ kev	B
 plees	I
 kev	I
 yi	I
-plees	O
-kev	O
-yi	O
 tiam	O
 sis	O
 kev	O

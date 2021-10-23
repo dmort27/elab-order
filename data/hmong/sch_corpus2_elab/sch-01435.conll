@@ -112,9 +112,6 @@ txaus	B
 noj	I
 txaus	I
 haus	I
-noj	O
-txaus	O
-haus	O
 lawm	O
 ces	O
 hnub	O
@@ -286,9 +283,6 @@ khuam	B
 tes	I
 khuam	I
 taw	I
-tes	O
-khuam	O
-taw	O
 khuam	O
 kev	O
 loj	O
@@ -312,9 +306,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 thiaj	O
 muaj	O
 prove	O
@@ -647,9 +638,6 @@ luag	B
 poj	I
 luag	I
 sev	I
-poj	O
-luag	O
-sev	O
 yog	O
 neeg	O
 Mivkas	O

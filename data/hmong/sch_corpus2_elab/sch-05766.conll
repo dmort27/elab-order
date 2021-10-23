@@ -56,9 +56,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 .	O
 
 
@@ -74,9 +71,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 .	O
 
 
@@ -135,9 +129,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 thaum	O
 ww	O
 2	O
@@ -955,9 +946,6 @@ dim	B
 quav	I
 dim	I
 zis	I
-quav	O
-dim	O
-zis	O
 mas	O
 nrhiav	O
 tsis	O
@@ -2741,16 +2729,10 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 txaus	B
 noj	I
 txaus	I
 haus	I
-noj	O
-txaus	O
-haus	O
 .	O
 
 
@@ -2946,9 +2928,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 ,	O
 tsis	O
 nyiam	O
@@ -2966,9 +2945,6 @@ txoo	B
 vaj	I
 txoo	I
 tsev	I
-vaj	O
-txoo	O
-tsev	O
 ...	O
 ,	O
 nyob	O

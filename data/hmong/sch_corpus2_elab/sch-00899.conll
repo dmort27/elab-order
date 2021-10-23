@@ -441,9 +441,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 ,	O
 yog	O
 py	O
@@ -658,9 +655,6 @@ tham	B
 mus	I
 tham	I
 los	I
-mus	O
-tham	O
-los	O
 peb	O
 sawv	O
 daws	O
@@ -1319,9 +1313,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 rau	O
 kuv	O
 thiab	O
@@ -2744,9 +2735,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 rau	O
 kuv	O
 thiab	O
@@ -4457,9 +4445,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 rau	O
 kuv	O
 thiab	O
@@ -5026,17 +5011,11 @@ tej	B
 txheeb	I
 tej	I
 ze	I
-txheeb	O
-tej	O
-ze	O
 muaj	O
 ntees	B
 ploj	I
 ntees	I
 tuag	I
-ploj	O
-ntees	O
-tuag	O
 ntau	O
 heev	O
 .	O

@@ -660,9 +660,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 paub	O
 txog	O
 lawv	O
@@ -701,9 +698,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 for	O
 the	O
 sole	O
@@ -797,9 +791,6 @@ muaj	B
 suab	I
 muaj	I
 npe	I
-suab	O
-muaj	O
-npe	O
 xwb.Qhov	O
 twg	O
 Hmoob	O
@@ -913,9 +904,6 @@ raws	B
 noj	I
 raws	I
 haus	I
-noj	O
-raws	O
-haus	O
 xwb	O
 .	O
 
@@ -1113,9 +1101,6 @@ poj	B
 dab	I
 poj	I
 ntsuag	I
-dab	O
-poj	O
-ntsuag	O
 xwb	O
 .	O
 
@@ -1157,9 +1142,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 ,	O
 sib	O
 txeeb	O
@@ -1447,9 +1429,6 @@ muaj	B
 suab	I
 muaj	I
 npe	I
-suab	O
-muaj	O
-npe	O
 kiag	O
 .	O
 
@@ -1794,9 +1773,6 @@ lug	B
 toj	I
 lug	I
 pes	I
-toj	O
-lug	O
-pes	O
 li	O
 os	O
 vue	O
@@ -1827,9 +1803,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 no	O
 los	O
 peb	O
@@ -2480,9 +2453,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 yuav	O
 dhos	O
 ualuaj	O
@@ -2644,9 +2614,6 @@ tua	B
 nyuj	I
 tua	I
 twm	I
-nyuj	O
-tua	O
-twm	O
 noj	O
 ua	O
 parties	O

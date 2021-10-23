@@ -1322,9 +1322,6 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 txog	O
 tsheej	O
 billions	O
@@ -1363,9 +1360,6 @@ koom	B
 siab	I
 koom	I
 ntsws	I
-siab	O
-koom	O
-ntsws	O
 tsim	O
 txom	O
 nkawd	O
@@ -1566,9 +1560,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 hauv	O
 ntiaj	O
 teb	O
@@ -2870,9 +2861,6 @@ kev	B
 caub	I
 kev	I
 chim	I
-caub	O
-kev	O
-chim	O
 .	O
 
 

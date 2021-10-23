@@ -200,9 +200,6 @@ nrab	B
 neej	I
 nrab	I
 dab	I
-neej	O
-nrab	O
-dab	O
 li	O
 koj	O
 hos	O
@@ -759,9 +756,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 neeg	O
 ?	O
 
@@ -1314,9 +1308,6 @@ ua	B
 nruj	I
 ua	I
 tsiv	I
-nruj	O
-ua	O
-tsiv	O
 ces	O
 tusntawd	O
 yog	O
@@ -1788,9 +1779,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 thiab	O
 cia	O
 lawv	O
@@ -2225,9 +2213,6 @@ hu	B
 ntuj	I
 hu	I
 teb	I
-ntuj	O
-hu	O
-teb	O
 los	O
 yeej	O
 tibyam	O
@@ -2335,9 +2320,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 ;	O
 thaiv	O
 tsov	O
@@ -3548,9 +3530,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 nawb	O
 .	O
 
@@ -3656,9 +3635,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 alone	O
 lawm	O
 tsheej	O
@@ -3666,9 +3642,6 @@ tag	B
 hnub	I
 tag	I
 hmo	I
-hnub	O
-tag	O
-hmo	O
 no	O
 nawb	O
 .	O

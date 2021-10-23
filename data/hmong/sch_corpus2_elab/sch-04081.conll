@@ -532,9 +532,6 @@ yuav	B
 vaj	I
 yuav	I
 tsev	I
-vaj	O
-yuav	O
-tsev	O
 zoo	O
 zoo	O
 rau	O
@@ -590,9 +587,6 @@ yuav	B
 vaj	I
 yuav	I
 tsev	I
-vaj	O
-yuav	O
-tsev	O
 xwb	O
 mas	O
 yeej	O
@@ -689,9 +683,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 ces	O
 yeej	O
 tsis	O
@@ -769,9 +760,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 yav	O
 tag	O
 los	O
@@ -1181,9 +1169,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 es	O
 nej	O
 tseem	O
@@ -1247,9 +1232,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 los	O
 nws	O
 yeej	O

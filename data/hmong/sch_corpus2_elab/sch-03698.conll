@@ -197,9 +197,6 @@ ciaj	B
 vaj	I
 ciaj	I
 haiv	I
-vaj	O
-ciaj	O
-haiv	O
 yuav	O
 yog	O
 sawvdaws	O
@@ -207,12 +204,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	B
-pab	I
-sib	I
-koom	I
-pab	O
 sib	O
 koom	O
 siab	O
@@ -308,9 +299,6 @@ yug	B
 nam	I
 yug	I
 txiv	I
-nam	O
-yug	O
-txiv	O
 tig	O
 rov	O
 xuas	O

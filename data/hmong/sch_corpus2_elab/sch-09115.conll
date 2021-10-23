@@ -268,18 +268,12 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 ,	O
 kev	O
 nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 ,	O
 kev	O
 sib	O
@@ -288,9 +282,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 yuav	O
 nyuaj	O
 heev	O
@@ -584,9 +575,6 @@ ua	B
 phooj	I
 ua	I
 ywg	I
-phooj	O
-ua	O
-ywg	O
 hab	O
 txawj	O
 nrug	O
@@ -597,9 +585,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 .	O
 
 

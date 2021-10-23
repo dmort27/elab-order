@@ -215,9 +215,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 li	O
 txiv	O
 neej	O
@@ -1375,9 +1372,6 @@ kam	B
 teb	I
 kam	I
 chaw	I
-teb	O
-kam	O
-chaw	O
 li	O
 peb	O
 cov	O
@@ -1444,9 +1438,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 yooj	O
 yim	O
 ces	O

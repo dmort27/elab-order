@@ -429,9 +429,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 peb	O
 Moob	O
 lawv	O
@@ -582,9 +579,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 ua	O
 cov	O
@@ -653,9 +647,6 @@ tuav	B
 laj	I
 tuav	I
 kam	I
-laj	O
-tuav	O
-kam	O
 vim	O
 muaj	O
 Moob	O
@@ -832,9 +823,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 thiab	O
 lub	O
 neej	O
@@ -1571,9 +1559,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 lawm	O
 .	O
 

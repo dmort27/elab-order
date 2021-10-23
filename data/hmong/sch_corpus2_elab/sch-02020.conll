@@ -475,17 +475,11 @@ yog	B
 txheeb	I
 yog	I
 ze	I
-txheeb	O
-yog	O
-ze	O
 thiab	O
 yog	B
 neej	I
 yog	I
 tsav	I
-neej	O
-yog	O
-tsav	O
 thiab	O
 xwb	O
 ne	O
@@ -586,9 +580,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 mas	O
 xav	O
 kom	O
@@ -935,9 +926,6 @@ kev	B
 plaub	I
 kev	I
 ntug	I
-plaub	O
-kev	O
-ntug	O
 ,	O
 sib	O
 cav	O
@@ -948,9 +936,6 @@ kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 li	O
 tim	O
 qub	O

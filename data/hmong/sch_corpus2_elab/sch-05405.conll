@@ -569,9 +569,6 @@ kam	B
 teb	I
 kam	I
 chaw	I
-teb	O
-kam	O
-chaw	O
 ,	O
 tab	O
 sis	O
@@ -1006,9 +1003,6 @@ kam	B
 teb	I
 kam	I
 chaw	I
-teb	O
-kam	O
-chaw	O
 ,	O
 tab	O
 sis	O
@@ -1710,9 +1704,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 thaum	O
 kuv	O
@@ -2097,9 +2088,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 lub	O
 sij	O
 hawm	O
@@ -2520,9 +2508,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 ua	O
 li	O
 cas	O
@@ -2695,9 +2680,6 @@ poob	B
 teb	I
 poob	I
 chaw	I
-teb	O
-poob	O
-chaw	O
 lawm	O
 ces	O
 tsis	O

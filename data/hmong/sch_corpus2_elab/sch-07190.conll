@@ -190,17 +190,11 @@ sib	B
 hlub	I
 sib	I
 hwm	I
-hlub	O
-sib	O
-hwm	O
 ntawm	O
 kev	B
 ntoj	I
 kev	I
 thuv	I
-ntoj	O
-kev	O
-thuv	O
 hauv	O
 yim	O
 neej	O
@@ -348,9 +342,6 @@ noj	B
 siav	I
 noj	I
 zog	I
-siav	O
-noj	O
-zog	O
 thiaj	O
 li	O
 yuav	O
@@ -485,9 +476,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 ras	O
 txog	O
 mas	O
@@ -507,16 +495,10 @@ yam	B
 zoo	I
 yam	I
 phem	I
-zoo	O
-yam	O
-phem	O
 txhia	B
 leej	I
 txhia	I
 tus	I
-leej	O
-txhia	O
-tus	O
 yeej	O
 tau	O
 tawm	O
@@ -616,9 +598,6 @@ cua	B
 daj	I
 cua	I
 dub	I
-daj	O
-cua	O
-dub	O
 twb	O
 ntaug	O
 lawm	O
@@ -757,9 +736,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ib	O
 los	O
 ntxiv	O
@@ -778,9 +754,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ces	O
 muab	O
 tsuj	O
@@ -1008,9 +981,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 muaj	O
 lub	O
 peev	O
@@ -1825,9 +1795,6 @@ noj	B
 siav	I
 noj	I
 zog	I
-siav	O
-noj	O
-zog	O
 los	O
 txim	O
 khom	O
@@ -2377,9 +2344,6 @@ ua	B
 sab	I
 ua	I
 sua	I
-sab	O
-ua	O
-sua	O
 ,	O
 qho	O
 no	O
@@ -2660,9 +2624,6 @@ kev	B
 phem	I
 kev	I
 qias	I
-phem	O
-kev	O
-qias	O
 ,	O
 huab	O
 Hmoob	O
@@ -3455,9 +3416,6 @@ koj	B
 vaj	I
 koj	I
 tsev	I
-vaj	O
-koj	O
-tsev	O
 tib	O
 yam	O
 nkaus	O
@@ -3675,9 +3633,6 @@ kev	B
 tsov	I
 kev	I
 rog	I
-tsov	O
-kev	O
-rog	O
 xwb	O
 ,	O
 yog	O
@@ -3705,9 +3660,6 @@ rag	B
 txuj	I
 rag	I
 ci	I
-txuj	O
-rag	O
-ci	O
 ntos	O
 nthuav	O
 txog	O
@@ -4030,9 +3982,6 @@ tej	B
 zej	I
 tej	I
 zos	I
-zej	O
-tej	O
-zos	O
 ,	O
 tsov	O
 rog	O
@@ -4067,9 +4016,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 .	O
 
 
@@ -4690,9 +4636,6 @@ ua	B
 sab	I
 ua	I
 sua	I
-sab	O
-ua	O
-sua	O
 ,	O
 cim	O
 laj	O
@@ -4981,9 +4924,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ntawd	O
 yog	O
 los	O
@@ -5062,9 +5002,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 nrog	O
 Nplog	O
 ntxiv	O
@@ -6541,9 +6478,6 @@ qhov	B
 txhia	I
 qhov	I
 chaw	I
-txhia	O
-qhov	O
-chaw	O
 thiab	O
 muaj	O
 ntau	O
@@ -6756,9 +6690,6 @@ qhov	B
 txhia	I
 qhov	I
 chaw	I
-txhia	O
-qhov	O
-chaw	O
 thiab	O
 muaj	O
 ntau	O

@@ -178,9 +178,6 @@ tus	B
 hlob	I
 tus	I
 yau	I
-hlob	O
-tus	O
-yau	O
 los	O
 ncauj	O
 liab	O
@@ -274,9 +271,6 @@ tus	B
 yeej	I
 tus	I
 swb	I
-yeej	O
-tus	O
-swb	O
 li	O
 nawb	O
 .	O
@@ -584,9 +578,6 @@ sab	B
 luj	I
 sab	I
 dlaav	I
-luj	O
-sab	O
-dlaav	O
 es	O
 has	O
 lug	O
@@ -805,18 +796,12 @@ raug	B
 cem	I
 raug	I
 liam	I
-cem	O
-raug	O
-liam	O
 ua	O
 phem	O
 li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -1577,9 +1562,6 @@ lus	B
 niam	I
 lus	I
 txiv	I
-niam	O
-lus	O
-txiv	O
 ua	O
 ntuj	O
 tsim	O
@@ -2345,9 +2327,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 -	O
 almost	O
 like	O
@@ -2593,9 +2572,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 li	O
 peb	O
 no	O
@@ -2661,9 +2637,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 lawm	O
 mas	O
 thiaj	O
@@ -2876,9 +2849,6 @@ haus	B
 zej	I
 haus	I
 zos	I
-zej	O
-haus	O
-zos	O
 xwb	O
 --	O
 peb	O
@@ -2951,9 +2921,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 tseem	O
 tham	O
 lus	O

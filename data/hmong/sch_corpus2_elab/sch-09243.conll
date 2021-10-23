@@ -301,9 +301,6 @@ koj	B
 nam	I
 koj	I
 txiv	I
-nam	O
-koj	O
-txiv	O
 puag	O
 qha	O
 koj	O
@@ -365,9 +362,6 @@ koj	B
 nam	I
 koj	I
 txiv	I
-nam	O
-koj	O
-txiv	O
 les	O
 og	O
 ,	O
@@ -731,9 +725,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 hod	O
 no	O
 --	O
@@ -1225,9 +1216,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 thov	O
 txhob	O
@@ -1742,9 +1730,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 ces	O
 yog	O
 cov	O
@@ -1780,9 +1765,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 nyob	O
 rau	O
 lub	O

@@ -244,9 +244,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 vam	O
 meej	O
 tshaj	O
@@ -361,9 +358,6 @@ txeeb	B
 nom	I
 txeeb	I
 tswv	I
-nom	O
-txeeb	O
-tswv	O
 ,	O
 sib	O
 txeeb	O
@@ -531,9 +525,6 @@ muaj	B
 suab	I
 muaj	I
 npe	I
-suab	O
-muaj	O
-npe	O
 zuj	O
 zus	O
 .	O
@@ -577,9 +568,6 @@ neeg	B
 ub	I
 neeg	I
 no	I
-ub	O
-neeg	O
-no	O
 ua	O
 phem	O
 no	O
@@ -726,9 +714,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 ,	O
 tsi	O
 tag	O
@@ -742,9 +727,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 coob	O
 tshaj	O
 luag	O
@@ -1034,9 +1016,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 rau	O
 hmoob	O
 xwb	O

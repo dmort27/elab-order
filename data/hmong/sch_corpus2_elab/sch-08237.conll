@@ -1591,9 +1591,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 yeej	O
 tsis	O
 muaj	O
@@ -1774,9 +1771,6 @@ qhov	B
 txhia	I
 qhov	I
 chaw	I
-txhia	O
-qhov	O
-chaw	O
 .	O
 
 

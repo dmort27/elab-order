@@ -673,18 +673,12 @@ liam	B
 ub	I
 liam	I
 no	I
-ub	O
-liam	O
-no	O
 thiab	O
 hem	O
 li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 kom	O
 nkawv	O
 ntshai	O
@@ -1038,9 +1032,6 @@ mus	B
 cuab	I
 mus	I
 khi	I
-cuab	O
-mus	O
-khi	O
 ,	O
 tsi	O
 pub	O
@@ -1048,9 +1039,6 @@ rau	B
 noj	I
 rau	I
 haus	I
-noj	O
-rau	O
-haus	O
 similarity	O
 li	O
 yog	O
@@ -1066,9 +1054,6 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 --	O
 yuav	O
 tau	O
@@ -1079,9 +1064,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 tib	O
 yam	O
 nawb	O
@@ -1103,9 +1085,6 @@ yog	B
 neej	I
 yog	I
 tsav	I
-neej	O
-yog	O
-tsav	O
 thiaj	O
 li	O
 poob	O
@@ -1241,9 +1220,6 @@ nws	B
 pab	I
 nws	I
 pawg	I
-pab	O
-nws	O
-pawg	O
 .	O
 
 

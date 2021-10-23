@@ -1843,9 +1843,6 @@ qub	B
 vaj	I
 qub	I
 tsev	I
-vaj	O
-qub	O
-tsev	O
 thiab	O
 chaw	O
 kawm	O
@@ -2381,9 +2378,6 @@ cam	B
 dlej	I
 cam	I
 aav	I
-dlej	O
-cam	O
-aav	O
 mas	O
 yuav	O
 zoo	O
@@ -3906,9 +3900,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 li	O
 os	O
 .	O

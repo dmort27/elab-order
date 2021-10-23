@@ -81,9 +81,6 @@ ua	B
 nam	I
 ua	I
 txiv	I
-nam	O
-ua	O
-txiv	O
 haj	O
 tseem	O
 tsi	O
@@ -93,9 +90,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 has	O
 .	O
 
@@ -114,9 +108,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 .	O
 
 
@@ -820,9 +811,6 @@ ntshaw	B
 nom	I
 ntshaw	I
 tswv	I
-nom	O
-ntshaw	O
-tswv	O
 li	O
 niaj	O
 hnub	O
@@ -1055,9 +1043,6 @@ ua	B
 nam	I
 ua	I
 txiv	I
-nam	O
-ua	O
-txiv	O
 haj	O
 tseem	O
 tsi	O
@@ -1067,9 +1052,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 has	O
 .	O
 
@@ -1088,9 +1070,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 .	O
 
 
@@ -1449,9 +1428,6 @@ yus	B
 txawj	I
 yus	I
 ntse	I
-txawj	O
-yus	O
-ntse	O
 lawm	O
 --	O
 txawm	O
@@ -1618,9 +1594,6 @@ tau	B
 dej	I
 tau	I
 cawv	I
-dej	O
-tau	O
-cawv	O
 thiab	O
 tau	O
 beer	O
@@ -1709,9 +1682,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 ,	O
 tej	O
 pojyawm	O
@@ -1868,9 +1838,6 @@ ua	B
 nam	I
 ua	I
 txiv	I
-nam	O
-ua	O
-txiv	O
 haj	O
 tseem	O
 tsi	O
@@ -1880,9 +1847,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 has	O
 .	O
 
@@ -1901,9 +1865,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 .	O
 
 
@@ -2259,9 +2220,6 @@ ua	B
 nam	I
 ua	I
 txiv	I
-nam	O
-ua	O
-txiv	O
 haj	O
 tseem	O
 tsi	O
@@ -2271,9 +2229,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 has	O
 .	O
 
@@ -2292,9 +2247,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 .	O
 
 
@@ -2438,9 +2390,6 @@ kawg	B
 siab	I
 kawg	I
 ntsws	I
-siab	O
-kawg	O
-ntsws	O
 qhov	O
 uas	O
 yus	O
@@ -2518,9 +2467,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 li	O
 niaj	O
 hnub	O
@@ -2867,9 +2813,6 @@ ua	B
 nam	I
 ua	I
 txiv	I
-nam	O
-ua	O
-txiv	O
 haj	O
 tseem	O
 tsi	O
@@ -2879,9 +2822,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 has	O
 .	O
 
@@ -2900,9 +2840,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 .	O
 
 
@@ -3291,9 +3228,6 @@ ua	B
 nam	I
 ua	I
 txiv	I
-nam	O
-ua	O
-txiv	O
 haj	O
 tseem	O
 tsi	O
@@ -3303,9 +3237,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 has	O
 .	O
 
@@ -3324,9 +3255,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 .	O
 
 
@@ -3675,9 +3603,6 @@ paub	B
 ub	I
 paub	I
 no	I
-ub	O
-paub	O
-no	O
 ..	O
 Why	O
 is	O

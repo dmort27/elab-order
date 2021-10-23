@@ -516,9 +516,6 @@ kuag	B
 kaab	I
 kuag	I
 hlau	I
-kaab	O
-kuag	O
-hlau	O
 mas	O
 tsi	O
 muaj	O
@@ -923,17 +920,11 @@ kev	B
 plees	I
 kev	I
 yi	I
-plees	O
-kev	O
-yi	O
 ,	O
 lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 thiab	O
 lwm	O
 yam	O

@@ -390,9 +390,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 ,	O
 ,	O
 ,	O
@@ -653,9 +650,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 ,	O
 ,	O
 ,	O

@@ -852,9 +852,6 @@ tau	B
 phooj	I
 tau	I
 ywg	I
-phooj	O
-tau	O
-ywg	O
 ,	O
 muaj	O
 cov	O
@@ -879,9 +876,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 muaj	O
 siab	O
 zees	O
@@ -1451,9 +1445,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 tab	O
 sis	O
 yog	O

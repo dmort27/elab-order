@@ -681,9 +681,6 @@ nrog	B
 niam	I
 nrog	I
 txiv	I
-niam	O
-nrog	O
-txiv	O
 nyob	O
 thaum	O
 laus	O
@@ -714,9 +711,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 thiab	O
 kawm	O
 ntawv	O

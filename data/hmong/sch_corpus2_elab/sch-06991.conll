@@ -240,9 +240,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 ua	O
 huabtais	O
@@ -784,9 +781,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 ,	O
 nej	O
 puas	O

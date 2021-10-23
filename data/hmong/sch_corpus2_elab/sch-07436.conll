@@ -256,9 +256,6 @@ miv	B
 tub	I
 miv	I
 ntxhais	I
-tub	O
-miv	O
-ntxhais	O
 los	O
 moog	O
 ua	O
@@ -275,9 +272,6 @@ tawg	B
 kwv	I
 tawg	I
 tij	I
-kwv	O
-tawg	O
-tij	O
 huv	O
 si	O
 .	O
@@ -518,17 +512,11 @@ me	B
 kab	I
 me	I
 ntsaum	I
-kab	O
-me	O
-ntsaum	O
 ,	O
 me	B
 nas	I
 me	I
 noog	I
-nas	O
-me	O
-noog	O
 ,	O
 me	O
 tsiaj	O
@@ -545,9 +533,6 @@ me	B
 xyoob	I
 me	I
 ntoo	I
-xyoob	O
-me	O
-ntoo	O
 los	O
 puav	O
 leej	O

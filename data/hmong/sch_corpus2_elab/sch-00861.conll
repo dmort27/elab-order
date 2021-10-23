@@ -421,9 +421,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 loj	O
 los	O
 cov	O
@@ -441,9 +438,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 .	O
 
 
@@ -1627,9 +1621,6 @@ keb	B
 ub	I
 keb	I
 no	I
-ub	O
-keb	O
-no	O
 tias	O
 hom	O
 nws	O
@@ -1640,9 +1631,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 tuaj	O
 .	O
 
@@ -1731,9 +1719,6 @@ yam	B
 tseeb	I
 yam	I
 cuav	I
-tseeb	O
-yam	O
-cuav	O
 lawm	O
 los	O
 mas	O

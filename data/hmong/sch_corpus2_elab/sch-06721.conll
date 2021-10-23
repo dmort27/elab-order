@@ -507,9 +507,6 @@ sib	B
 cob	I
 sib	I
 qhia	I
-cob	O
-sib	O
-qhia	O
 .	O
 
 
@@ -669,9 +666,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 .	O
 
 
@@ -867,9 +861,6 @@ ua	B
 nruj	I
 ua	I
 tsiv	I
-nruj	O
-ua	O
-tsiv	O
 xwb	O
 .	O
 
@@ -918,9 +909,6 @@ lus	B
 nruj	I
 lus	I
 tsiv	I
-nruj	O
-lus	O
-tsiv	O
 no	O
 kuv	O
 xav	O
@@ -1057,9 +1045,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 qw	O
 thiab	O
 khav	O
@@ -2075,9 +2060,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 rau	O
 niam	O
 txiv	O
@@ -2161,9 +2143,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 ,	O
 txawj	O
 li	O
@@ -2374,9 +2353,6 @@ pluas	B
 noj	I
 pluas	I
 haus	I
-noj	O
-pluas	O
-haus	O
 nyob	O
 ntawd	O
 .	O

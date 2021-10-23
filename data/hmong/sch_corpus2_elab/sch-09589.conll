@@ -429,9 +429,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 los	O
 tawm	O
 tsam	O
@@ -467,9 +464,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 los	O
 tawm	O
 tsam	O
@@ -829,9 +823,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 ,	O
 los	O
 nrog	O
@@ -1828,9 +1819,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 yeej	O
 muaj	O
 tiag	O

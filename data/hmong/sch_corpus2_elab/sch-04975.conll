@@ -1279,9 +1279,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 ,	O
 lus	O
 tsi	O
@@ -1572,9 +1569,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 zoo	O
 li	O
 yus	O
@@ -1888,9 +1882,6 @@ sib	B
 daj	I
 sib	I
 deev	I
-daj	O
-sib	O
-deev	O
 xwb	O
 ces	O
 peb	O
@@ -2417,9 +2408,6 @@ hnov	B
 ub	I
 hnov	I
 no	I
-ub	O
-hnov	O
-no	O
 ,	O
 thiab	O
 tus	O
@@ -2430,9 +2418,6 @@ xov	B
 ub	I
 xov	I
 no	I
-ub	O
-xov	O
-no	O
 --	O
 qhov	O
 phem	O
@@ -2475,9 +2460,6 @@ tshum	B
 ub	I
 tshum	I
 no	I
-ub	O
-tshum	O
-no	O
 xwb	O
 .	O
 
@@ -2642,9 +2624,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 ,	O
 tabsi	O
 yog	O
@@ -2747,9 +2726,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 kiag	O
 ,	O
 vim	O
@@ -3180,9 +3156,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 no	O
 los	O
 ......	O
@@ -3727,9 +3700,6 @@ tso	B
 quav	I
 tso	I
 zis	I
-quav	O
-tso	O
-zis	O
 xwb	O
 los	O
 yug	O
@@ -3811,9 +3781,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ,	O
 npe	O
 hus	O
@@ -3821,9 +3788,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 xwb	O
 .	O
 
@@ -4387,9 +4351,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 lawm	O
 os	O
 mog	O
@@ -4445,9 +4406,6 @@ kev	B
 caub	I
 kev	I
 chim	I
-caub	O
-kev	O
-chim	O
 xwb	O
 .	O
 

@@ -933,9 +933,6 @@ yog	B
 txheeb	I
 yog	I
 ze	I
-txheeb	O
-yog	O
-ze	O
 ,	O
 thiab	O
 saib	O
@@ -1227,9 +1224,6 @@ muaj	B
 qab	I
 muaj	I
 quas	I
-qab	O
-muaj	O
-quas	O
 li	O
 tej	O
 lus	O
@@ -1435,9 +1429,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 los	O
 ntxiv	O
 xwb	O
@@ -2040,9 +2031,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 lawm	O
 yav	O
 tom	O

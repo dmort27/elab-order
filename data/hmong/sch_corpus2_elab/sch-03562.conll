@@ -95,9 +95,6 @@ kaam	B
 teb	I
 kaam	I
 chaw	I
-teb	O
-kaam	O
-chaw	O
 yeej	O
 tseem	O
 yog	O
@@ -319,9 +316,6 @@ kev	B
 phem	I
 kev	I
 qas	I
-phem	O
-kev	O
-qas	O
 yaav	O
 dlhau	O
 lug	O
@@ -465,9 +459,6 @@ kev	B
 phem	I
 kev	I
 qas	I
-phem	O
-kev	O
-qas	O
 kws	O
 puab	O
 tau	O
@@ -664,9 +655,6 @@ kev	B
 phem	I
 kev	I
 qas	I
-phem	O
-kev	O
-qas	O
 kws	O
 peb	O
 cov	O
@@ -679,9 +667,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 hab	O
 tej	O
 lajmej	O
@@ -740,9 +725,6 @@ puv	B
 ntuj	I
 puv	I
 teb	I
-ntuj	O
-puv	O
-teb	O
 le	O
 ntawd	O
 es	O
@@ -1346,9 +1328,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 tabsis	O
 ib	O
 sabtes	O
@@ -1385,9 +1364,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 .	O
 
 
@@ -2003,9 +1979,6 @@ paub	B
 ntaub	I
 paub	I
 ntawv	I
-ntaub	O
-paub	O
-ntawv	O
 feem	O
 coob	O
 le	O
@@ -3875,9 +3848,6 @@ ua	B
 phem	I
 ua	I
 qias	I
-phem	O
-ua	O
-qias	O
 rau	O
 peb	O
 cov	O
@@ -4054,9 +4024,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 nas	O
 yuam	O
 ..	O

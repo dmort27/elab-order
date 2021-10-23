@@ -717,9 +717,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 cuag	O
 li	O
 ib	O
@@ -1100,9 +1097,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 thiaj	O
 txhim	O
 kho	O
@@ -1227,9 +1221,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ntawm	O
 yog	O
 zoo	O
@@ -1256,9 +1247,6 @@ txhua	B
 tsav	I
 txhua	I
 yam	I
-tsav	O
-txhua	O
-yam	O
 kom	O
 yeej	O
 xwb	O
@@ -1556,9 +1544,6 @@ luag	B
 poj	I
 luag	I
 sev	I
-poj	O
-luag	O
-sev	O
 ,	O
 tsis	O
 paub	O
@@ -1571,9 +1556,6 @@ paub	B
 kwv	I
 paub	I
 tij	I
-kwv	O
-paub	O
-tij	O
 ,	O
 tsis	O
 paub	O
@@ -1599,9 +1581,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 li	O
 .	O
 
@@ -1707,9 +1686,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 twb	O
 tshaj	O
 30	O
@@ -1741,9 +1717,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 cem	O
 taw	O
 tes	O

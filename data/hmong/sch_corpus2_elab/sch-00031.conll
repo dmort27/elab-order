@@ -488,9 +488,6 @@ phom	B
 loj	I
 phom	I
 me	I
-loj	O
-phom	O
-me	O
 nrovualuaj	O
 zaj	O
 tua	O
@@ -1464,9 +1461,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 .	O
 
 
@@ -1570,9 +1564,6 @@ tswv	B
 ntuj	I
 tswv	I
 teb	I
-ntuj	O
-tswv	O
-teb	O
 thiab	O
 poj	O
 yawm	O
@@ -1762,9 +1753,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 poob	O
 nroos	O
 kuv	O
@@ -2591,9 +2579,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 yogkuv	O
 ntag	O
 yog	O
@@ -3855,9 +3840,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 li	O
 ov	O
 .	O

@@ -241,9 +241,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ntau	O
 li	O
 ntau	O
@@ -574,9 +571,6 @@ muaj	B
 kiab	I
 muaj	I
 khw	I
-kiab	O
-muaj	O
-khw	O
 vam	O
 meej	O
 tshaj	O
@@ -779,9 +773,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 tuav	O
 plaub	O
@@ -836,9 +827,6 @@ tej	B
 vaj	I
 tej	I
 tsev	I
-vaj	O
-tej	O
-tsev	O
 es	O
 noog	O
 kiag	O

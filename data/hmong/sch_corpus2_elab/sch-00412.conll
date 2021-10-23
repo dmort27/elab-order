@@ -165,9 +165,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 kawg	O
 nkaus	O
 vim	O
@@ -204,9 +201,6 @@ puv	B
 vaaj	I
 puv	I
 tsev	I
-vaaj	O
-puv	O
-tsev	O
 .	O
 
 
@@ -360,9 +354,6 @@ ua	B
 lwj	I
 ua	I
 lam	I
-lwj	O
-ua	O
-lam	O
 tab	O
 sis	O
 Suav	O
@@ -407,9 +398,6 @@ ua	B
 neej	I
 ua	I
 tsaav	I
-neej	O
-ua	O
-tsaav	O
 lawm	O
 xwb	O
 .	O
@@ -821,9 +809,6 @@ puv	B
 vaaj	I
 puv	I
 tsev	I
-vaaj	O
-puv	O
-tsev	O
 .	O
 
 
@@ -1739,9 +1724,6 @@ puv	B
 vaj	I
 puv	I
 tsev	I
-vaj	O
-puv	O
-tsev	O
 .	O
 
 
@@ -2066,9 +2048,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 kawg	O
 nkaus	O
 vim	O
@@ -2105,9 +2084,6 @@ puv	B
 vaaj	I
 puv	I
 tsev	I
-vaaj	O
-puv	O
-tsev	O
 .	O
 
 
@@ -2253,9 +2229,6 @@ ua	B
 lwj	I
 ua	I
 lam	I
-lwj	O
-ua	O
-lam	O
 tab	O
 sis	O
 Suav	O
@@ -2300,9 +2273,6 @@ ua	B
 neej	I
 ua	I
 tsaav	I
-neej	O
-ua	O
-tsaav	O
 lawm	O
 xwb	O
 .	O
@@ -2706,9 +2676,6 @@ puv	B
 vaaj	I
 puv	I
 tsev	I
-vaaj	O
-puv	O
-tsev	O
 .	O
 
 

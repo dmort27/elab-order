@@ -13,9 +13,6 @@ sib	B
 pab	I
 sib	I
 txhawb	I
-pab	O
-sib	O
-txhawb	O
 nawb	O
 .	O
 
@@ -141,9 +138,6 @@ sib	B
 pab	I
 sib	I
 txhawb	I
-pab	O
-sib	O
-txhawb	O
 tau	O
 mas	O
 peb	O
@@ -594,9 +588,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 .	O
 
 
@@ -730,9 +721,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 .	O
 
 

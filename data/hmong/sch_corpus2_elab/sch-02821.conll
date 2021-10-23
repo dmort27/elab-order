@@ -68,9 +68,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 .	O
 
 
@@ -509,9 +506,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 tuaj	O
 ntsib	O
 peb	O

@@ -25,9 +25,6 @@ laug	B
 nub	I
 laug	I
 mo	I
-nub	O
-laug	O
-mo	O
 tso	O
 thaum	O
 noogdlej	O
@@ -1018,9 +1015,6 @@ koj	B
 nam	I
 koj	I
 txiv	I
-nam	O
-koj	O
-txiv	O
 tsi	O
 qha	O
 koj	O
@@ -1602,9 +1596,6 @@ tug	B
 ub	I
 tug	I
 nuav	I
-ub	O
-tug	O
-nuav	O
 hu	O
 ua	O
 ''	O

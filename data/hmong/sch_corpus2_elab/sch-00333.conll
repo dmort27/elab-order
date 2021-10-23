@@ -587,9 +587,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 .	O
 
 
@@ -743,9 +740,6 @@ tsa	B
 tes	I
 tsa	I
 taw	I
-tes	O
-tsa	O
-taw	O
 ces	O
 ciali	O
 .	O
@@ -760,9 +754,6 @@ tsa	B
 tes	I
 tsa	I
 taw	I
-tes	O
-tsa	O
-taw	O
 ces	O
 12.7	O
 nrog	O
@@ -2736,9 +2727,6 @@ qub	B
 vaj	I
 qub	I
 tsev	I
-vaj	O
-qub	O
-tsev	O
 thiab	O
 liaj	O
 teb	O

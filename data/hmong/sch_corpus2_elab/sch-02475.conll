@@ -270,9 +270,6 @@ me	B
 ntswb	I
 me	I
 ntsis	I
-ntswb	O
-me	O
-ntsis	O
 lawm	O
 thiab	O
 .	O
@@ -292,9 +289,6 @@ muaj	B
 qab	I
 muaj	I
 quag	I
-qab	O
-muaj	O
-quag	O
 kawg	O
 lawm	O
 ,	O
@@ -580,9 +574,6 @@ nywj	B
 plaub	I
 nywj	I
 ntug	I
-plaub	O
-nywj	O
-ntug	O
 ,	O
 nywj	O
 cib	O
@@ -1505,9 +1496,6 @@ lawv	B
 dab	I
 lawv	I
 qhua	I
-dab	O
-lawv	O
-qhua	O
 nyob	O
 rau	O
 hauv	O
@@ -1515,9 +1503,6 @@ lawv	B
 vaj	I
 lawv	I
 tsev	I
-vaj	O
-lawv	O
-tsev	O
 xwb	O
 .	O
 
@@ -1593,9 +1578,6 @@ nkauj	B
 huab	I
 nkauj	I
 cua	I
-huab	O
-nkauj	O
-cua	O
 tuaj	O
 es	O
 lawv	O

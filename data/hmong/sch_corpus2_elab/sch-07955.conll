@@ -591,9 +591,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 rau	O
 zej	O
 zog	O
@@ -651,9 +648,6 @@ qhov	B
 quav	I
 qhov	I
 zis	I
-quav	O
-qhov	O
-zis	O
 kom	O
 tuag	O
 mus	O

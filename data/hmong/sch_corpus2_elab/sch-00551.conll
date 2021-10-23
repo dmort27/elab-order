@@ -236,9 +236,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 nws	O
 yog	O
 nws	O
@@ -934,9 +931,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 ...	O
 ntev	O
 ntev	O
@@ -1186,9 +1180,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 ua	O
 yuav	O
 ua	O
@@ -3250,9 +3241,6 @@ tsis	B
 qab	I
 tsis	I
 tsuag	I
-qab	O
-tsis	O
-tsuag	O
 tuaj	O
 rau	O
 kuv	O
@@ -3545,9 +3533,6 @@ tham	B
 mus	I
 tham	I
 los	I
-mus	O
-tham	O
-los	O
 yawg	O
 kuj	O
 tsis	O
@@ -3714,9 +3699,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 nws	O
 yog	O
 nws	O
@@ -3727,9 +3709,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 thaum	O
 yuav	O
 ua	O
@@ -3780,9 +3759,6 @@ yog	B
 txheeb	I
 yog	I
 ze	I
-txheeb	O
-yog	O
-ze	O
 los	O
 yus	O
 thiaj	O
@@ -3794,9 +3770,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 no	O
 tiag	O
 mas	O

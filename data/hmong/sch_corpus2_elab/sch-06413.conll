@@ -220,9 +220,6 @@ tswv	B
 teb	I
 tswv	I
 chaw	I
-teb	O
-tswv	O
-chaw	O
 txoj	O
 cai	O
 ces	O
@@ -1348,9 +1345,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 mas	O
 kuv	O
 ntseeg	O

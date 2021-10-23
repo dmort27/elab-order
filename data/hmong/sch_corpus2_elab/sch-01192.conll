@@ -186,17 +186,11 @@ nqe	B
 mis	I
 nqe	I
 hno	I
-mis	O
-nqe	O
-hno	O
 ,	O
 nqe	B
 tshoob	I
 nqe	I
 kos	I
-tshoob	O
-nqe	O
-kos	O
 .	O
 
 
@@ -316,9 +310,6 @@ khiav	B
 neej	I
 khiav	I
 tsav	I
-neej	O
-khiav	O
-tsav	O
 ,	O
 yuav	O
 sib	O
@@ -612,9 +603,6 @@ cag	B
 tshoob	I
 cag	I
 kos	I
-tshoob	O
-cag	O
-kos	O
 los	O
 yuav	O
 tau	O
@@ -1183,9 +1171,6 @@ yog	B
 niam	I
 yog	I
 txiv	I
-niam	O
-yog	O
-txiv	O
 .	O
 
 
@@ -1228,9 +1213,6 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 los	O
 kav	O
 liam	O
@@ -1289,9 +1271,6 @@ yuav	B
 neej	I
 yuav	I
 tsav	I
-neej	O
-yuav	O
-tsav	O
 no	O
 seb	O
 nej	O
@@ -1394,9 +1373,6 @@ kev	B
 neej	I
 kev	I
 tsa	I
-neej	O
-kev	O
-tsa	O
 tsis	O
 txhob	O
 puas	O
@@ -1603,9 +1579,6 @@ laug	B
 hnub	I
 laug	I
 hli	I
-hnub	O
-laug	O
-hli	O
 los	O
 ntev	O
 li	O
@@ -2294,9 +2267,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 ces	O
 99	O
 %	O
@@ -2317,9 +2287,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 ces	O
 yeej	O
 yog	O
@@ -2399,9 +2366,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 thiab	O
 mus	O
 tso	O
@@ -2734,9 +2698,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 los	O
 yog	O
 hais	O
@@ -3115,9 +3076,6 @@ tus	B
 ntxhais	I
 tus	I
 vauv	I
-ntxhais	O
-tus	O
-vauv	O
 kom	O
 sib	O
 pus	O

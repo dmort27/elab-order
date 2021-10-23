@@ -74,9 +74,6 @@ luag	B
 nom	I
 luag	I
 tswv	I
-nom	O
-luag	O
-tswv	O
 .	O
 
 
@@ -147,9 +144,6 @@ txaus	B
 noj	I
 txaus	I
 haus	I
-noj	O
-txaus	O
-haus	O
 tsi	O
 nrog	O
 luag	O
@@ -285,9 +279,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 heev	O
 .	O
 
@@ -1355,9 +1346,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hais	O
 hnub	O
 no	O

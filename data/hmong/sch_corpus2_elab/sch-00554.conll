@@ -48,9 +48,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 lawm	O
 tag	O
 ov	O
@@ -210,9 +207,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 lawm	O
 tag	O
 ov	O
@@ -424,9 +418,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 thiab	O
 na	O
 ?	O
@@ -585,9 +576,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 lawm	O
 tag	O
 ov	O
@@ -2675,9 +2663,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 hais	O
 lawm	O
 xwb	O
@@ -3177,9 +3162,6 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 ,	O
 Sib	O
 hlub	O
@@ -3919,9 +3901,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 ,	O
 tua	O
 Hmoob	O
@@ -4694,9 +4673,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 xwb	O
 nawb	O
 .	O
@@ -5073,9 +5049,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 ,	O
 tua	O
 Hmoob	O

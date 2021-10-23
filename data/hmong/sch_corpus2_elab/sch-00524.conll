@@ -431,9 +431,6 @@ tsi	B
 deb	I
 tsi	I
 ze	I
-deb	O
-tsi	O
-ze	O
 yug	O
 los	O
 ua	O
@@ -802,9 +799,6 @@ txhav	B
 nraj	I
 txhav	I
 nrees	I
-nraj	O
-txhav	O
-nrees	O
 li	O
 qav	O
 kaus	O
@@ -1053,9 +1047,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 ,	O
 moral	O
 and	O

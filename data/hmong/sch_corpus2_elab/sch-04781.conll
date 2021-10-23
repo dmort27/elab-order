@@ -39,9 +39,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 Mhoob	O
 thiaj	O
@@ -83,9 +80,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 mas	O
 Mhoob	O
 hu	O
@@ -1045,9 +1039,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 mas	O
 ob	O
 lolus	O

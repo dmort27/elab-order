@@ -605,9 +605,6 @@ tau	B
 ntau	I
 tau	I
 tsawg	I
-ntau	O
-tau	O
-tsawg	O
 ,	O
 los	O
 tsuav	O
@@ -1245,9 +1242,6 @@ ntaim	B
 noj	I
 ntaim	I
 haus	I
-noj	O
-ntaim	O
-haus	O
 ntau	O
 npaum	O
 licas	O
@@ -2011,9 +2005,6 @@ nto	B
 koob	I
 nto	I
 npe	I
-koob	O
-nto	O
-npe	O
 ntxiv	O
 mas	O
 lawv	O

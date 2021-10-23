@@ -189,9 +189,6 @@ neeg	B
 ncaj	I
 neeg	I
 ncees	I
-ncaj	O
-neeg	O
-ncees	O
 tiag	O
 tiag	O
 .	O
@@ -405,9 +402,6 @@ ntawv	B
 noj	I
 ntawv	I
 haus	I
-noj	O
-ntawv	O
-haus	O
 kuas	O
 koj	O
 nyob	O
@@ -485,9 +479,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 ,	O
 los	O
 sis	O
@@ -590,9 +581,6 @@ sib	B
 paub	I
 sib	I
 pom	I
-paub	O
-sib	O
-pom	O
 es	O
 ``	O
 zoo	O
@@ -733,9 +721,6 @@ qhov	B
 loj	I
 qhov	I
 me	I
-loj	O
-qhov	O
-me	O
 los	O
 pheej	O
 yuav	O
@@ -1101,9 +1086,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 .	O
 
 
@@ -1455,9 +1437,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 .	O
 
 
@@ -1575,9 +1554,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 nyob	O
 .	O
 
@@ -1731,9 +1707,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 ces	O
 zoo	O
 li	O

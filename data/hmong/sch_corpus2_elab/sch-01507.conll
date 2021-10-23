@@ -322,9 +322,6 @@ sib	B
 paab	I
 sib	I
 txhawb	I
-paab	O
-sib	O
-txhawb	O
 muaj	O
 ib	O
 nub	O
@@ -353,9 +350,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 lug	O
 lawm	O
 tabsi	O
@@ -621,9 +615,6 @@ yug	B
 nam	I
 yug	I
 txiv	I
-nam	O
-yug	O
-txiv	O
 lub	O
 neej	O
 mas	O
@@ -1117,9 +1108,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 li	O
 no	O
 ces	O
@@ -1129,9 +1117,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 los	O
 yuav	O
 ua	O
@@ -1228,9 +1213,6 @@ cais	B
 pab	I
 cais	I
 pawg	I
-pab	O
-cais	O
-pawg	O
 li	O
 yav	O
 dhau	O

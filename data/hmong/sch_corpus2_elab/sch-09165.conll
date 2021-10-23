@@ -1420,9 +1420,6 @@ nrhiav	B
 ub	I
 nrhiav	I
 no	I
-ub	O
-nrhiav	O
-no	O
 tuaj	O
 rau	O
 cov	O
@@ -1587,9 +1584,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 no	O
 laiv	O
 .	O

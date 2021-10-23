@@ -1613,9 +1613,6 @@ dhia	B
 siab	I
 dhia	I
 nqi	I
-siab	O
-dhia	O
-nqi	O
 thiab	O
 tau	O
 txais	O
@@ -1842,9 +1839,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 ua	O
 ib	O
 txwm	O
@@ -3534,9 +3528,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -3718,9 +3709,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 ua	O
 dhau	O
 los	O
@@ -3794,9 +3782,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 thiab	O
 tuaj	O
 tshaj	O

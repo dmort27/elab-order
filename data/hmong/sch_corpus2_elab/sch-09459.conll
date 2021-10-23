@@ -157,9 +157,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 ces	O
 mam	O
 pauj	O
@@ -255,9 +252,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 no	O
 nad	O
 .	O
@@ -1033,9 +1027,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 lawm	O
 xwb	O
 .	O
@@ -1841,9 +1832,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 xwb	O
 ,	O
 es	O
@@ -2276,9 +2264,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 puas	O
 paub	O
@@ -2364,9 +2349,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 --	O
 -especially	O
 ntawm	O
@@ -2393,9 +2375,6 @@ muaj	B
 qab	I
 muaj	I
 hau	I
-qab	O
-muaj	O
-hau	O
 .	O
 
 
@@ -2771,9 +2750,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 no	O
 thiab	O
 ....	O

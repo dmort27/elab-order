@@ -740,9 +740,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 ,	O
 los	O
 sis	O
@@ -752,9 +749,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 mas	O
 kuj	O
 muaj	O
@@ -1552,9 +1546,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 ,	O
 tsis	O
 muaj	O
@@ -1720,9 +1711,6 @@ koj	B
 pog	I
 koj	I
 yawg	I
-pog	O
-koj	O
-yawg	O
 tsis	O
 muaj	O
 tus	O

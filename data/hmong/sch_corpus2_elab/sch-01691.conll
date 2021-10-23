@@ -307,9 +307,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 uas	O
 lawv	O
 ib	O
@@ -566,9 +563,6 @@ ua	B
 ciaj	I
 ua	I
 tuag	I
-ciaj	O
-ua	O
-tuag	O
 ua	O
 txog	O
 qhov	O
@@ -797,9 +791,6 @@ qhov	B
 ub	I
 qhov	I
 nuav	I
-ub	O
-qhov	O
-nuav	O
 ces	O
 yog	O
 cov	O
@@ -930,9 +921,6 @@ yaam	B
 ub	I
 yaam	I
 nua	I
-ub	O
-yaam	O
-nua	O
 ces	O
 peb	O
 vwm	O

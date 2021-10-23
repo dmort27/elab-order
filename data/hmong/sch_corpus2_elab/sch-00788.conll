@@ -604,9 +604,6 @@ ua	B
 ntej	I
 ua	I
 qab	I
-ntej	O
-ua	O
-qab	O
 los	O
 Yang	O
 Chee	O
@@ -826,9 +823,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 yug	O
 yus	O
 los	O
@@ -1956,9 +1950,6 @@ tug	B
 ntxhais	I
 tug	I
 vauv	I
-ntxhais	O
-tug	O
-vauv	O
 moog	O
 ua	O
 neej	O
@@ -2371,9 +2362,6 @@ lug	B
 zoo	I
 lug	I
 phem	I
-zoo	O
-lug	O
-phem	O
 le	O
 caag	O
 muaj	O
@@ -3214,9 +3202,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 yog	O
 mag	O
 xyoob	O
@@ -3284,9 +3269,6 @@ tsis	B
 pom	I
 tsis	I
 paub	I
-pom	O
-tsis	O
-paub	O
 lawm	O
 .	O
 
@@ -3352,9 +3334,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -3935,9 +3914,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 li	O
 .	O
 
@@ -4701,9 +4677,6 @@ tus	B
 hlob	I
 tus	I
 yau	I
-hlob	O
-tus	O
-yau	O
 puavleej	O
 tau	O
 sib	O
@@ -5088,9 +5061,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 ces	O
 sawv	O
 daws	O
@@ -5359,9 +5329,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 khov	O
 .....	O
 niam	O

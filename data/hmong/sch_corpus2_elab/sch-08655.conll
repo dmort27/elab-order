@@ -481,9 +481,6 @@ kev	B
 plees	I
 kev	I
 yi	I
-plees	O
-kev	O
-yi	O
 (	O
 love	O
 language	O
@@ -545,9 +542,6 @@ puab	B
 nam	I
 puab	I
 txiv	I
-nam	O
-puab	O
-txiv	O
 tsis	O
 nyob	O
 tsev	O
@@ -1267,9 +1261,6 @@ lub	B
 vaaj	I
 lub	I
 tsev	I
-vaaj	O
-lub	O
-tsev	O
 xwb	O
 .	O
 

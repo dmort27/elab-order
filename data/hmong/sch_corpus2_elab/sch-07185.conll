@@ -20,9 +20,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 ,	O
 vim	O
 tias	O
@@ -976,9 +973,6 @@ xav	B
 paub	I
 xav	I
 pom	I
-paub	O
-xav	O
-pom	O
 ntawd	O
 tsis	O
 tau	O

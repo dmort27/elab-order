@@ -253,9 +253,6 @@ lus	B
 huab	I
 lus	I
 cua	I
-huab	O
-lus	O
-cua	O
 xwb	O
 ces	O
 tsis	O
@@ -1014,9 +1011,6 @@ yuav	B
 teb	I
 yuav	I
 chaw	I
-teb	O
-yuav	O
-chaw	O
 ntag	O
 hos	O
 .	O
@@ -1086,9 +1080,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 ntag	O
 .	O
 
@@ -1185,9 +1176,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 ces	O
 luag	O
 npaj	O
@@ -1284,9 +1272,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 .	O
 
 
@@ -1595,9 +1580,6 @@ kom	B
 txhij	I
 kom	I
 txhua	I
-txhij	O
-kom	O
-txhua	O
 mas	O
 yuav	O
 muaj	O

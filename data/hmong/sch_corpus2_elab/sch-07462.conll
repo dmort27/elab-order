@@ -80,9 +80,6 @@ ua	B
 kub	I
 ua	I
 ceev	I
-kub	O
-ua	O
-ceev	O
 hab	O
 txuj	O
 kev	O
@@ -152,9 +149,6 @@ ua	B
 kub	I
 ua	I
 heev	I
-kub	O
-ua	O
-heev	O
 kuas	O
 lwm	O
 tug	O
@@ -1188,18 +1182,12 @@ kev	B
 lis	I
 kev	I
 cai	I
-lis	O
-kev	O
-cai	O
 sib	O
 txawv	O
 me	B
 ntswb	I
 me	I
 ntsis	I
-ntswb	O
-me	O
-ntsis	O
 ntawm	O
 Moob	O
 leeg	O
@@ -1222,9 +1210,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 ,	O
 koom	O
 pog	O
@@ -1294,9 +1279,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 .	O
 
 
@@ -1357,9 +1339,6 @@ ua	B
 ntej	I
 ua	I
 qab	I
-ntej	O
-ua	O
-qab	O
 xwb	O
 .	O
 
@@ -1511,9 +1490,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 es	O
 ras	O
 pom	O
@@ -1727,9 +1703,6 @@ cai	B
 pab	I
 cai	I
 pawg	I
-pab	O
-cai	O
-pawg	O
 ua	O
 Hmoob	O
 &	O
@@ -1944,9 +1917,6 @@ cais	B
 pab	I
 cais	I
 pawg	I
-pab	O
-cais	O
-pawg	O
 .	O
 
 

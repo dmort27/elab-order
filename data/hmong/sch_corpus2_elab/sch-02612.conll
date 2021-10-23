@@ -146,9 +146,6 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 noj	O
 li	O
 thiab	O
@@ -190,9 +187,6 @@ nyias	B
 niam	I
 nyias	I
 txiv	I
-niam	O
-nyias	O
-txiv	O
 xwb	O
 ...	O
 Yog	O

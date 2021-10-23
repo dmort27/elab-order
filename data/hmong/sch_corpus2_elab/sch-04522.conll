@@ -857,9 +857,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 los	O
 laug	O
 saib	O
@@ -1536,9 +1533,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 zoo	O
 nyob	O
 rooj	O
@@ -2706,9 +2700,6 @@ lawv	B
 caij	I
 lawv	I
 nyoog	I
-caij	O
-lawv	O
-nyoog	O
 kuas	O
 txuj	O
 kev	O
@@ -3034,9 +3025,6 @@ ua	B
 rwj	I
 ua	I
 aws	I
-rwj	O
-ua	O
-aws	O
 maj	O
 yom	O
 ......	O
@@ -4308,9 +4296,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 sib	O
 ceg	O
 ,	O

@@ -791,17 +791,11 @@ kev	B
 tshoob	I
 kev	I
 kos	I
-tshoob	O
-kev	O
-kos	O
 ,	O
 kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 no	O
 ces	O
 txawm	O
@@ -1177,9 +1171,6 @@ kev	B
 tshoob	I
 kev	I
 kos	I
-tshoob	O
-kev	O
-kos	O
 ma	O
 !	O
 
@@ -2041,9 +2032,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 nrov	O
 phluav	O
 rau	O
@@ -2326,9 +2314,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 ''	O
 ...	O
 tus	O
@@ -2829,9 +2814,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 rau	O
 pab	O
 neeg	O
@@ -2899,9 +2881,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 txiav	O
 txim	O
 siab	O
@@ -2932,9 +2911,6 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 xwb	O
 .	O
 
@@ -2964,9 +2940,6 @@ yog	B
 niam	I
 yog	I
 txiv	I
-niam	O
-yog	O
-txiv	O
 .	O
 
 
@@ -3130,9 +3103,6 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 txog	O
 yus	O
 mas	O
@@ -3154,9 +3124,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 txog	O
 luag	O
 no	O

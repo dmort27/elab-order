@@ -707,9 +707,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 hastas	O
 nim	O
 ua	O
@@ -1565,9 +1562,6 @@ nyag	B
 vaaj	I
 nyag	I
 tsev	I
-vaaj	O
-nyag	O
-tsev	O
 ib	O
 leeg	O
 yeej	O
@@ -1618,9 +1612,6 @@ sib	B
 hlub	I
 sib	I
 fwm	I
-hlub	O
-sib	O
-fwm	O
 xwb	O
 .	O
 
@@ -1648,9 +1639,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 es	O
 txhob	O
 has	O
@@ -1777,9 +1765,6 @@ huv	B
 vaaj	I
 huv	I
 tsev	I
-vaaj	O
-huv	O
-tsev	O
 hab	O
 tawm	O
 rua	O

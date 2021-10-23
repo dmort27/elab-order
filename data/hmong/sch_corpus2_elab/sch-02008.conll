@@ -2285,9 +2285,6 @@ nwg	B
 nam	I
 nwg	I
 txiv	I
-nam	O
-nwg	O
-txiv	O
 hab	O
 lub	O
 npe	O
@@ -3397,9 +3394,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 mus	O
 xyuas	O
 tej	O
@@ -3407,9 +3401,6 @@ qub	B
 zej	I
 qub	I
 zog	I
-zej	O
-qub	O
-zog	O
 .......	O
 !	O
 
@@ -3445,9 +3436,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 nas	O
 ......	O
 hehehehehehhehe	O
@@ -3614,9 +3602,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 thauv	O
 npe	O
 thiab	O

@@ -1020,9 +1020,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 .	O
 
 
@@ -1030,9 +1027,6 @@ ntshaws	B
 teb	I
 ntshaws	I
 chaw	I
-teb	O
-ntshaws	O
-chaw	O
 ,	O
 es	O
 cias	O

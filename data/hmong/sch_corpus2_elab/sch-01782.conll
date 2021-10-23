@@ -408,9 +408,6 @@ tsev	B
 ploj	I
 tsev	I
 tuag	I
-ploj	O
-tsev	O
-tuag	O
 yog	O
 kev	O
 txom	O
@@ -442,9 +439,6 @@ txiv	B
 maab	I
 txiv	I
 ntoo	I
-maab	O
-txiv	O
-ntoo	O
 ,	O
 dlej	O
 hau	O

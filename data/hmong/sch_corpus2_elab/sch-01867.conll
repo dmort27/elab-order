@@ -278,16 +278,10 @@ lus	B
 xaiv	I
 lus	I
 ncua	I
-xaiv	O
-lus	O
-ncua	O
 rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 lawm	O
 .	O
 
@@ -525,9 +519,6 @@ lus	B
 xaiv	I
 lus	I
 ncua	I
-xaiv	O
-lus	O
-ncua	O
 thiab	O
 .	O
 
@@ -918,9 +909,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 hab	O
 pleev	O
 tau	O
@@ -1179,9 +1167,6 @@ ua	B
 plees	I
 ua	I
 yi	I
-plees	O
-ua	O
-yi	O
 .	O
 
 
@@ -1464,17 +1449,11 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 phem	O
 npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 ,	O
 txhua	O
 txhua	O
@@ -1604,9 +1583,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 li	O
 cov	O

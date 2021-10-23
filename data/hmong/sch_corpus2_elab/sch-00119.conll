@@ -525,9 +525,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 ,	O
 kev	O
 ntseeg	O
@@ -744,9 +741,6 @@ dam	B
 tes	I
 dam	I
 taw	I
-tes	O
-dam	O
-taw	O
 no	O
 ces	O
 txhob	O
@@ -993,9 +987,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 ,	O
 kev	O
 ntseeg	O
@@ -1120,9 +1111,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 no	O
 tiag	O
@@ -1175,9 +1163,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 lawm	O
 tiag	O
 .	O
@@ -1243,9 +1228,6 @@ ceg	B
 siab	I
 ceg	I
 qis	I
-siab	O
-ceg	O
-qis	O
 --	O
 thiab	O
 niam	O
@@ -1254,9 +1236,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -1950,9 +1929,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 xwb	O
 ...	O
 cov	O
@@ -2229,9 +2205,6 @@ txam	B
 zeb	I
 txam	I
 tsua	I
-zeb	O
-txam	O
-tsua	O
 lawm	O
 xwb	O
 tsis	O
@@ -3935,9 +3908,6 @@ xav	B
 siab	I
 xav	I
 nqi	I
-siab	O
-xav	O
-nqi	O
 ,	O
 ua	O
 nws	O
@@ -3952,9 +3922,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 xwb	O
 .	O
 
@@ -4120,9 +4087,6 @@ puas	B
 tsav	I
 puas	I
 yam	I
-tsav	O
-puas	O
-yam	O
 --	O
 yog	O
 li	O
@@ -4727,9 +4691,6 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 lawv	O
 saib	O
 ntsoov	O
@@ -4882,9 +4843,6 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 nrug	O
 zog	O
 tsis	O
@@ -5575,9 +5533,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -5643,9 +5598,6 @@ taw	B
 ub	I
 taw	I
 no	I
-ub	O
-taw	O
-no	O
 rau	O
 tus	O
 patient	O
@@ -5911,9 +5863,6 @@ ua	B
 ciaj	I
 ua	I
 tuag	I
-ciaj	O
-ua	O
-tuag	O
 ,	O
 nws	O
 nti	O
@@ -5943,9 +5892,6 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 caum	O
 dab	O
 rau	O

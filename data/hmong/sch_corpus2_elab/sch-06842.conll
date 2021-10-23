@@ -8,9 +8,6 @@ tuaj	B
 qeeb	I
 tuaj	I
 lig	I
-qeeb	O
-tuaj	O
-lig	O
 .	O
 
 
@@ -41,9 +38,6 @@ siab	B
 loj	I
 siab	I
 tawv	I
-loj	O
-siab	O
-tawv	O
 hais	O
 rau	O
 koj	O
@@ -645,9 +639,6 @@ ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 liab	O
 qab	O
 tsis	O
@@ -658,9 +649,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 rau	O
 hauv	O
 lub	O
@@ -962,9 +950,6 @@ luag	B
 khaiv	I
 luag	I
 khoo	I
-khaiv	O
-luag	O
-khoo	O
 -av	O
 ?	O
 ?	O
@@ -1054,9 +1039,6 @@ tso	B
 ntau	I
 tso	I
 tsawg	I
-ntau	O
-tso	O
-tsawg	O
 -aj	O
 ,	O
 kuv	O
@@ -1256,9 +1238,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 .	O
 
 

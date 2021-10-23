@@ -142,9 +142,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 thiab	O
 hais	O
 lus	O
@@ -373,16 +370,10 @@ cov	B
 neej	I
 cov	I
 tsav	I
-neej	O
-cov	O
-tsav	O
 cov	B
 kwv	I
 cov	I
 tij	I
-kwv	O
-cov	O
-tij	O
 tuaj	O
 Cov	O
 no	O

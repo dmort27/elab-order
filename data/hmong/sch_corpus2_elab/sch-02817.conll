@@ -747,9 +747,6 @@ ua	B
 mab	I
 ua	I
 suav	I
-mab	O
-ua	O
-suav	O
 lawm	O
 xwb	O
 .	O
@@ -816,9 +813,6 @@ yog	B
 txheeb	I
 yog	I
 ze	I
-txheeb	O
-yog	O
-ze	O
 lawm	O
 thiab	O
 .	O
@@ -1162,9 +1156,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 lawm	O
 .	O
 
@@ -1218,9 +1209,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 sib	O
 hu	O
@@ -1668,9 +1656,6 @@ hloov	B
 siab	I
 hloov	I
 ntsws	I
-siab	O
-hloov	O
-ntsws	O
 xwb	O
 ,	O
 especially	O

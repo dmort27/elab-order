@@ -281,9 +281,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 sab	O
 .	O
 
@@ -1452,9 +1449,6 @@ ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 noj	O
 ua	O
 ke	O
@@ -1641,9 +1635,6 @@ ntau	B
 tsaav	I
 ntau	I
 yaam	I
-tsaav	O
-ntau	O
-yaam	O
 zoo	O
 le	O
 nuav	O
@@ -2067,9 +2058,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 thaum	O
 sawv	O
 daws	O

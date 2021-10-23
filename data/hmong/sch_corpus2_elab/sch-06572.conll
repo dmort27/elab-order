@@ -3,9 +3,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 tias	O
 muaj	O
 ob	O
@@ -385,9 +382,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 thiab	O
 tso	O
 dab	O
@@ -818,9 +812,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 mas	O
 lam	O
 tham	O
@@ -917,9 +908,6 @@ rau	B
 zej	I
 rau	I
 zos	I
-zej	O
-rau	O
-zos	O
 kom	O
 luag	O
 zoo	O
@@ -1018,9 +1006,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 tag	O
 !	O
 
@@ -1345,9 +1330,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 .	O
 
 
@@ -1719,9 +1701,6 @@ kev	B
 mob	I
 kev	I
 tuag	I
-mob	O
-kev	O
-tuag	O
 los	O
 rau	O
 nej	O

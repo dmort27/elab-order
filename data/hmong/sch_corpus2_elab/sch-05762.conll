@@ -316,9 +316,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 .	O
 
 
@@ -456,9 +453,6 @@ uas	B
 pab	I
 uas	I
 pawg	I
-pab	O
-uas	O
-pawg	O
 ,	O
 thiab	O
 yuav	O

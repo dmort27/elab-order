@@ -157,9 +157,6 @@ kov	B
 riam	I
 kov	I
 phom	I
-riam	O
-kov	O
-phom	O
 los	O
 nws	O
 muab	O
@@ -234,9 +231,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 thiab	O
 sub	O
 tawg	O
@@ -286,9 +280,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 ua	O
 los	O
 puv	O
@@ -418,9 +409,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 lawm	O
 .	O
 
@@ -747,9 +735,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 los	O
 puv	O
 ntuj	O
@@ -1209,9 +1194,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 ''	O
 and	O
 ``	O
@@ -1470,9 +1452,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 ....	O
 txog	O
 xyoo	O
@@ -1815,9 +1794,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 ces	O
 nkawd	O
 ciali	O
@@ -1859,9 +1835,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 ...	O
 Incase	O
 anyone	O
@@ -1922,9 +1895,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 tseg	O
 tias	O
 Shiyig	O

@@ -221,9 +221,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 .	O
 
 
@@ -1046,9 +1043,6 @@ sib	B
 cav	I
 sib	I
 ntau	I
-cav	O
-sib	O
-ntau	O
 sib	O
 tuab	O
 ,	O
@@ -1185,18 +1179,12 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 thiab	O
 muaj	O
 kev	B
 lag	I
 kev	I
 luam	I
-lag	O
-kev	O
-luam	O
 xwb	O
 ...	O
 tsis	O
@@ -1438,16 +1426,10 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ces	O
 lawv	O
 tau	O

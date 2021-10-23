@@ -251,9 +251,6 @@ tej	B
 phooj	I
 tej	I
 ywg	I
-phooj	O
-tej	O
-ywg	O
 pab	O
 koj	O
 ,	O
@@ -261,18 +258,12 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 pab	O
 koj	O
 tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 ,	O
 qhov	O
 no	O
@@ -595,9 +586,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 saib	O
 lub	O
 ntuj	O
@@ -747,9 +735,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 .	O
 
 
@@ -844,9 +829,6 @@ noj	B
 zaub	I
 noj	I
 mov	I
-zaub	O
-noj	O
-mov	O
 (	O
 haus	O
 pa	O

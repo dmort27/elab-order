@@ -80,16 +80,10 @@ tsoom	B
 neej	I
 tsoom	I
 tsav	I
-neej	O
-tsoom	O
-tsav	O
 lub	B
 ntsej	I
 lub	I
 muag	I
-ntsej	O
-lub	O
-muag	O
 .	O
 
 
@@ -107,9 +101,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 tus	O
 uas	O
 yug	O
@@ -199,9 +190,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 vim	O
 peb	O
@@ -615,9 +603,6 @@ lub	B
 ntsej	I
 lub	I
 muag	I
-ntsej	O
-lub	O
-muag	O
 ,	O
 ces	O
 tus	O
@@ -703,9 +688,6 @@ liam	B
 ub	I
 liam	I
 no	I
-ub	O
-liam	O
-no	O
 kom	O
 nyob	O
 los	O
@@ -846,9 +828,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 ,	O
 koj	O
 puas	O
@@ -1102,9 +1081,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 qhov	O
 cultural	O
 practice	O
@@ -2283,9 +2259,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 ...	O
 thiab	O
 .......	O
@@ -3661,9 +3634,6 @@ tub	B
 sab	I
 tub	I
 nyiag	I
-sab	O
-tub	O
-nyiag	O
 .	O
 
 
@@ -3678,9 +3648,6 @@ hauv	B
 ntaub	I
 hauv	I
 ntawv	I
-ntaub	O
-hauv	O
-ntawv	O
 li	O
 thiab	O
 ,	O
@@ -4450,9 +4417,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 yeej	O
 ntshaw	O
 txoj	O
@@ -4629,9 +4593,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 chim	O
 rau	O
 tej	O

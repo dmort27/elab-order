@@ -221,17 +221,11 @@ tej	B
 kwv	I
 tej	I
 tij	I
-kwv	O
-tej	O
-tij	O
 hais	O
 tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 xwb	O
 los	O
 yeej	O
@@ -304,9 +298,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 es	O
 hnov	O
 tsi	O
@@ -319,9 +310,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 mas	O
 mog	O
 os	O
@@ -398,9 +386,6 @@ nqi	B
 tshoob	I
 nqi	I
 kos	I
-tshoob	O
-nqi	O
-kos	O
 hauv	O
 Wisconsin	O
 kom	O
@@ -524,9 +509,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 yog	O
 ib	O
 qhov	O
@@ -555,9 +537,6 @@ hais	B
 plaub	I
 hais	I
 ntug	I
-plaub	O
-hais	O
-ntug	O
 mas	O
 muaj	O
 qhee	O
@@ -608,9 +587,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 thiaj	O
 li	O
 yuav	O
@@ -629,9 +605,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ex	O
 hmoob	O
 los	O

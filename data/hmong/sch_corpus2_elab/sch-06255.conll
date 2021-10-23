@@ -371,9 +371,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 tag	O
 ,	O
 tab	O
@@ -913,9 +910,6 @@ poob	B
 nyiaj	I
 poob	I
 txiaj	I
-nyiaj	O
-poob	O
-txiaj	O
 thiaj	O
 dim	O
 los	O
@@ -994,9 +988,6 @@ noj	B
 nyiaj	I
 noj	I
 txiaj	I
-nyiaj	O
-noj	O
-txiaj	O
 rau	O
 sawv	O
 daws	O
@@ -1189,9 +1180,6 @@ lug	B
 nyaj	I
 lug	I
 kub	I
-nyaj	O
-lug	O
-kub	O
 tag	O
 tag	O
 ov	O

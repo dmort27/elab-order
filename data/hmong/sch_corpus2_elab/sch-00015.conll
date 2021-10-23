@@ -11,9 +11,6 @@ koom	B
 niam	I
 koom	I
 txiv	I
-niam	O
-koom	O
-txiv	O
 ua	O
 ntej	O
 .	O
@@ -32,9 +29,6 @@ koom	B
 poj	I
 koom	I
 yawm	I
-poj	O
-koom	O
-yawm	O
 ua	O
 ntej	O
 .	O
@@ -58,9 +52,6 @@ koom	B
 niam	I
 koom	I
 txiv	I
-niam	O
-koom	O
-txiv	O
 ua	O
 ntej	O
 .	O
@@ -84,9 +75,6 @@ koom	B
 pog	I
 koom	I
 yawg	I
-pog	O
-koom	O
-yawg	O
 ua	O
 ntej	O
 .	O
@@ -105,9 +93,6 @@ koom	B
 dab	I
 koom	I
 qhua	I
-dab	O
-koom	O
-qhua	O
 ua	O
 ntej	O
 .	O
@@ -1775,9 +1760,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 SAIB	O
 TIBSI	O
 .	O
@@ -2608,9 +2590,6 @@ tus	B
 txawj	I
 tus	I
 ntse	I
-txawj	O
-tus	O
-ntse	O
 xwb	O
 thiab	O
 hais	O
@@ -3489,9 +3468,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 los	O
 yog	O
 lubteb	O
@@ -4745,9 +4721,6 @@ tsis	B
 txheeb	I
 tsis	I
 ze	I
-txheeb	O
-tsis	O
-ze	O
 me2li	O
 os	O
 .	O

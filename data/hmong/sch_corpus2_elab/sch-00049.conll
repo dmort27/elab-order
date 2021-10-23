@@ -1169,9 +1169,6 @@ lub	B
 mob	I
 lub	I
 aws	I
-mob	O
-lub	O
-aws	O
 rau	O
 hauv	O
 nruab	O
@@ -1191,9 +1188,6 @@ lub	B
 mob	I
 lub	I
 aws	I
-mob	O
-lub	O
-aws	O
 thiaj	O
 yaj	O
 mus	O
@@ -1498,9 +1492,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 lawv	O
 thiaj	O
 los	O
@@ -1663,17 +1654,11 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 txog	O
 tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -2806,9 +2791,6 @@ tus	B
 hlob	I
 tus	I
 yau	I
-hlob	O
-tus	O
-yau	O
 ,	O
 tus	O
 ruam	O
@@ -3004,9 +2986,6 @@ tus	B
 hlob	I
 tus	I
 yau	I
-hlob	O
-tus	O
-yau	O
 ,	O
 tus	O
 ruam	O
@@ -3082,9 +3061,6 @@ lam	B
 cem	I
 lam	I
 ntaus	I
-cem	O
-lam	O
-ntaus	O
 peb	O
 ib	O
 tug	O

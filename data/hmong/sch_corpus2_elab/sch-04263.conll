@@ -1050,9 +1050,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 .	O
 
 
@@ -1136,9 +1133,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 ntawd	O
 twb	O
 tsis	O
@@ -2116,9 +2110,6 @@ phav	B
 ub	I
 phav	I
 no	I
-ub	O
-phav	O
-no	O
 ,	O
 Hmong-Lao	O
 is	O
@@ -3913,9 +3904,6 @@ kev	B
 ub	I
 kev	I
 no	I
-ub	O
-kev	O
-no	O
 rau	O
 tus	O
 pog	O
@@ -4269,9 +4257,6 @@ lus	B
 xaiv	I
 lus	I
 ncua	I
-xaiv	O
-lus	O
-ncua	O
 ,	O
 xav	O
 ntau	O

@@ -317,9 +317,6 @@ cov	B
 nam	I
 cov	I
 txiv	I
-nam	O
-cov	O
-txiv	O
 ...	O
 99	O
 %	O
@@ -502,9 +499,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 ua	O
 (	O
 Scholar	O
@@ -647,9 +641,6 @@ zoo	B
 caij	I
 zoo	I
 nyoog	I
-caij	O
-zoo	O
-nyoog	O
 peb	O
 maam	O
 moog	O
@@ -1199,9 +1190,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 los	O
 pib	O
 raug	O

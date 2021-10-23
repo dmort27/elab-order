@@ -697,9 +697,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 mas	O
 ,	O
 zoo	O
@@ -1582,9 +1579,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 (	O
 yam	O
 nom	O
@@ -2023,9 +2017,6 @@ lub	B
 roob	I
 lub	I
 hav	I
-roob	O
-lub	O
-hav	O
 twg	O
 .	O
 

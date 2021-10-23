@@ -839,9 +839,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 .	O
 
 
@@ -1300,9 +1297,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 puav	O
 leej	O
 yog	O
@@ -1469,9 +1463,6 @@ ua	B
 ntsej	I
 ua	I
 muag	I
-ntsej	O
-ua	O
-muag	O
 rua	O
 Yawmluj	O
 .	O
@@ -1634,9 +1625,6 @@ khi	B
 tes	I
 khi	I
 taw	I
-tes	O
-khi	O
-taw	O
 ntau	O
 dhau	O
 lawm	O

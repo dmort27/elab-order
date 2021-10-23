@@ -738,9 +738,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 li	O
 ntawd	O
 .	O
@@ -1588,9 +1585,6 @@ puas	B
 tsav	I
 puas	I
 yam	I
-tsav	O
-puas	O
-yam	O
 li	O
 POJNIAM	O
 hais	O
@@ -2018,9 +2012,6 @@ tsis	B
 ntab	I
 tsis	I
 ntws	I
-ntab	O
-tsis	O
-ntws	O
 li	O
 lawm	O
 .	O
@@ -3200,9 +3191,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 ib	O
 yam	O
 li	O
@@ -3812,9 +3800,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 xwb	O
 ti	O
 mas	O
@@ -3860,9 +3845,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 hos	O
 coj	O
 zoo	O
@@ -4103,9 +4085,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -4219,9 +4198,6 @@ tau	B
 kwv	I
 tau	I
 tij	I
-kwv	O
-tau	O
-tij	O
 xwb	O
 ,	O
 tsis	O
@@ -4234,9 +4210,6 @@ tus	B
 yeej	I
 tus	I
 swb	I
-yeej	O
-tus	O
-swb	O
 ,	O
 cia	O
 1tog	O
@@ -4268,9 +4241,6 @@ teb	B
 lwj	I
 teb	I
 liam	I
-lwj	O
-teb	O
-liam	O
 ,	O
 cia	O
 1tog	O
@@ -4378,9 +4348,6 @@ tau	B
 kwv	I
 tau	I
 tij	I
-kwv	O
-tau	O
-tij	O
 .	O
 
 
@@ -4655,9 +4622,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 .	O
 
 
@@ -5261,9 +5225,6 @@ koj	B
 zej	I
 koj	I
 zos	I
-zej	O
-koj	O
-zos	O
 no	O
 ces	O
 koj	O
@@ -5628,9 +5589,6 @@ tsi	B
 paus	I
 tsi	I
 ntsis	I
-paus	O
-tsi	O
-ntsis	O
 li	O
 no	O
 ces	O

@@ -298,9 +298,6 @@ lug	B
 paaj	I
 lug	I
 cua	I
-paaj	O
-lug	O
-cua	O
 has	O
 .	O
 
@@ -336,9 +333,6 @@ lawv	B
 fuab	I
 lawv	I
 cua	I
-fuab	O
-lawv	O
-cua	O
 es	O
 txhaj	O
 caum	O
@@ -373,9 +367,6 @@ yaag	B
 kev	I
 yaag	I
 ncua	I
-kev	O
-yaag	O
-ncua	O
 xwb	O
 ...	O
 life	O
@@ -1148,9 +1139,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 yuav	O
 niam	O
 yau	O
@@ -2915,9 +2903,6 @@ qhov	B
 zoo	I
 qhov	I
 phem	I
-zoo	O
-qhov	O
-phem	O
 .	O
 
 

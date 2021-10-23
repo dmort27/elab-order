@@ -86,9 +86,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 es	O
 cas	O
 tseem	O
@@ -426,9 +423,6 @@ raug	B
 ntes	I
 raug	I
 khi	I
-ntes	O
-raug	O
-khi	O
 .	O
 
 
@@ -1591,9 +1585,6 @@ kav	B
 teb	I
 kav	I
 chaw	I
-teb	O
-kav	O
-chaw	O
 tiag	O
 tiag	O
 li	O
@@ -1617,9 +1608,6 @@ paub	B
 ub	I
 paub	I
 no	I
-ub	O
-paub	O
-no	O
 ces	O
 txawm	O
 yog	O
@@ -1800,9 +1788,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 yuav	O
 muab	O
 dav	O
@@ -1826,9 +1811,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 rub	O
 tes	O
 ces	O

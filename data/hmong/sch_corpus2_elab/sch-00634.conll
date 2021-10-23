@@ -1937,9 +1937,6 @@ sib	B
 chab	I
 sib	I
 chaws	I
-chab	O
-sib	O
-chaws	O
 li	O
 lawm	O
 .	O
@@ -2072,9 +2069,6 @@ nwg	B
 nam	I
 nwg	I
 txiv	I
-nam	O
-nwg	O
-txiv	O
 puab	O
 tsi	O
 yoom	O
@@ -2641,9 +2635,6 @@ sib	B
 nyiam	I
 sib	I
 hlub	I
-nyiam	O
-sib	O
-hlub	O
 heev	O
 li	O
 hos	O
@@ -2713,9 +2704,6 @@ sib	B
 nyiam	I
 sib	I
 hlub	I
-nyiam	O
-sib	O
-hlub	O
 cia	O
 li	O
 mag	O
@@ -3064,9 +3052,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 na	O
 heev	O
 baum	O
@@ -3586,9 +3571,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 li	O
 .	O
 
@@ -3617,9 +3599,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 ,	O
 kuv	O
 thiaj	O
@@ -3683,9 +3662,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 hoob	O
 .	O
 
@@ -3762,9 +3738,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 thiaj	O
 li	O
 nthe	O
@@ -3833,18 +3806,12 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 ho	O
 tsis	O
 muaj	B
 tes	I
 muaj	I
 taw	I
-tes	O
-muaj	O
-taw	O
 .	O
 
 

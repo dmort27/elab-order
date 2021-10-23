@@ -266,9 +266,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 rua	O
 tsev	O
 tuab	O
@@ -431,9 +428,6 @@ saib	B
 neej	I
 saib	I
 tsaav	I
-neej	O
-saib	O
-tsaav	O
 .	O
 
 
@@ -645,9 +639,6 @@ lwm	B
 leej	I
 lwm	I
 tug	I
-leej	O
-lwm	O
-tug	O
 dlai	O
 tuag	O
 thaum	O
@@ -780,9 +771,6 @@ ua	B
 rwj	I
 ua	I
 aws	I
-rwj	O
-ua	O
-aws	O
 ''	O
 tabsi	O
 that	O
@@ -813,9 +801,6 @@ lwm	B
 leej	I
 lwm	I
 tug	I
-leej	O
-lwm	O
-tug	O
 .	O
 
 

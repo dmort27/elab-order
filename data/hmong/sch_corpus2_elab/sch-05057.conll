@@ -978,9 +978,6 @@ kev	B
 lag	I
 kev	I
 luam	I
-lag	O
-kev	O
-luam	O
 13.	O
 xav	O
 kum	O
@@ -1136,9 +1133,6 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 rau	O
 lawv	O
 noj	O
@@ -1269,9 +1263,6 @@ poob	B
 ntsej	I
 poob	I
 muag	I
-ntsej	O
-poob	O
-muag	O
 36.	O
 tsi	O
 kom	O
@@ -1462,9 +1453,6 @@ taws	B
 rooj	I
 taws	I
 ntsa	I
-rooj	O
-taws	O
-ntsa	O
 ,	O
 es	O
 rov	O
@@ -2152,9 +2140,6 @@ kev	B
 lag	I
 kev	I
 luam	I
-lag	O
-kev	O
-luam	O
 )	O
 39	O
 Sab	O
@@ -2378,9 +2363,6 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 rau	O
 lawv	O
 noj	O
@@ -2547,9 +2529,6 @@ poob	B
 ntsej	I
 poob	I
 muag	I
-ntsej	O
-poob	O
-muag	O
 )	O
 62	O
 Xaav	O
@@ -2825,9 +2804,6 @@ taws	B
 rooj	I
 taws	I
 ntsa	I
-rooj	O
-taws	O
-ntsa	O
 ,	O
 es	O
 rov	O

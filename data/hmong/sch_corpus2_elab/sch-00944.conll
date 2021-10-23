@@ -418,9 +418,6 @@ yog	B
 teb	I
 yog	I
 chaw	I
-teb	O
-yog	O
-chaw	O
 vammeej	O
 npaum	O
 no	O
@@ -629,9 +626,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 li	O
 los	O
 ,	O
@@ -1645,9 +1639,6 @@ poob	B
 teb	I
 poob	I
 chaw	I
-teb	O
-poob	O
-chaw	O
 lawm	O
 ces	O
 kam	O
@@ -2573,9 +2564,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 tias	O
 peb	O
 cov	O

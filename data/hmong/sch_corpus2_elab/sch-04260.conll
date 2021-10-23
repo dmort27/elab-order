@@ -49,9 +49,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 ,	O
 muaj	O
 fuabtais	O
@@ -189,9 +186,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 los	O
 txog	O
 sawvdaws	O

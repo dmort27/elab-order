@@ -127,9 +127,6 @@ tau	B
 nom	I
 tau	I
 tswv	I
-nom	O
-tau	O
-tswv	O
 no	O
 .	O
 
@@ -225,9 +222,6 @@ tau	B
 nom	I
 tau	I
 tswv	I
-nom	O
-tau	O
-tswv	O
 ua	O
 etc	O
 ....	O
@@ -1270,9 +1264,6 @@ tau	B
 nom	I
 tau	I
 tswv	I
-nom	O
-tau	O
-tswv	O
 .	O
 
 
@@ -1367,18 +1358,12 @@ tej	B
 tub	I
 tej	I
 ki	I
-tub	O
-tej	O
-ki	O
 thiab	O
 tej	O
 xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 rov	O
 tom	O
 qab	O
@@ -1838,9 +1823,6 @@ tau	B
 nom	I
 tau	I
 tswv	I
-nom	O
-tau	O
-tswv	O
 .	O
 
 
@@ -2131,9 +2113,6 @@ tau	B
 nom	I
 tau	I
 tswv	I
-nom	O
-tau	O
-tswv	O
 .	O
 
 
@@ -2626,9 +2605,6 @@ tau	B
 nom	I
 tau	I
 tswv	I
-nom	O
-tau	O
-tswv	O
 .	O
 
 
@@ -2823,9 +2799,6 @@ khwv	B
 ciaj	I
 khwv	I
 tuag	I
-ciaj	O
-khwv	O
-tuag	O
 lawm	O
 ces	O
 tsi	O
@@ -3067,9 +3040,6 @@ ua	B
 moog	I
 ua	I
 lug	I
-moog	O
-ua	O
-lug	O
 peb	O
 ca	O
 le	O
@@ -3265,9 +3235,6 @@ qhov	B
 nyaj	I
 qhov	I
 kub	I
-nyaj	O
-qhov	O
-kub	O
 ntawm	O
 tej	O
 tshaav	O

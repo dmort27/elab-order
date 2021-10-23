@@ -84,9 +84,6 @@ tsis	B
 deb	I
 tsis	I
 ze	I
-deb	O
-tsis	O
-ze	O
 los	O
 nyiam	O
 ua	O
@@ -1167,9 +1164,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 ,	O
 cov	O
 nais	O
@@ -2374,9 +2368,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 thiab	O
 tsuas	O
 pom	O
@@ -2468,16 +2459,10 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 thov	B
 ntuj	I
 thov	I
 teb	I
-ntuj	O
-thov	O
-teb	O
 kom	O
 PAB	O
 xwb	O
@@ -2512,9 +2497,6 @@ thov	B
 ntuj	I
 thov	I
 teb	I
-ntuj	O
-thov	O
-teb	O
 thov	O
 poj	O
 yawm	O
@@ -2733,9 +2715,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 nab	O
 los	O
 ncaj	O

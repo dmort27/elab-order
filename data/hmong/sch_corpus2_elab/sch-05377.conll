@@ -609,9 +609,6 @@ xws	B
 teb	I
 xws	I
 chaw	I
-teb	O
-xws	O
-chaw	O
 mas	O
 ,	O
 kuv	O
@@ -946,9 +943,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 mas	O
 yeej	O
 xav	O
@@ -2868,9 +2862,6 @@ caag	B
 maab	I
 caag	I
 ntoo	I
-maab	O
-caag	O
-ntoo	O
 ,	O
 moog	O
 ua	O

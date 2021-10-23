@@ -269,9 +269,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 txawj	O
 txoj	O
 peb	O
@@ -282,9 +279,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 es	O
 peb	O
 tsis	O
@@ -310,9 +304,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 tias	O
 tsis	O
 muaj	O
@@ -1457,9 +1448,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 mam	O
 li	O
 work	O

@@ -13,9 +13,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 thiab	O
 tam	O
 li	O
@@ -336,9 +333,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 los	O
 yeej	O
 tsis	O
@@ -851,9 +845,6 @@ dab	B
 niam	I
 dab	I
 txiv	I
-niam	O
-dab	O
-txiv	O
 dab	O
 teb	O
 dab	O
@@ -1063,9 +1054,6 @@ huab	B
 noj	I
 huab	I
 haus	I
-noj	O
-huab	O
-haus	O
 xwb	O
 .	O
 
@@ -1160,9 +1148,6 @@ thoob	B
 zej	I
 thoob	I
 zos	I
-zej	O
-thoob	O
-zos	O
 .	O
 
 

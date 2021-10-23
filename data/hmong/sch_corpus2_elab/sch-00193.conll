@@ -222,9 +222,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 mas	O
 peb	O
 loj	O
@@ -338,9 +335,6 @@ pab	B
 ub	I
 pab	I
 no	I
-ub	O
-pab	O
-no	O
 thiab	O
 tabsi	O
 cov	O
@@ -395,9 +389,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 los	O
 tsis	O
 npaum	O
@@ -471,9 +462,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 tej	O
 lub	O
 sib	O
@@ -841,9 +829,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 es	O
 yuav	O
 cas	O
@@ -1227,9 +1212,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 mos	O
 tua	O
 pov	O
@@ -1239,9 +1221,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 .	O
 
 
@@ -1469,9 +1448,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 no	O
 thiab	O
 xwv	O

@@ -118,9 +118,6 @@ txhua	B
 hnub	I
 txhua	I
 hmo	I
-hnub	O
-txhua	O
-hmo	O
 rau	O
 qhov	O
 saub	O
@@ -165,9 +162,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 thiab	O
 xav	O
 zoo	O
@@ -375,9 +369,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 kom	O
 nej	O
 ho	O
@@ -465,9 +456,6 @@ hmoob	B
 niam	I
 hmoob	I
 txiv	I
-niam	O
-hmoob	O
-txiv	O
 los	O
 pov	O
 los	O
@@ -670,9 +658,6 @@ txhua	B
 hnub	I
 txhua	I
 hmo	I
-hnub	O
-txhua	O
-hmo	O
 rau	O
 qhov	O
 saub	O
@@ -717,9 +702,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 thiab	O
 xav	O
 zoo	O
@@ -927,9 +909,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 kom	O
 nej	O
 ho	O
@@ -1791,9 +1770,6 @@ tas	B
 hnub	I
 tas	I
 hmo	I
-hnub	O
-tas	O
-hmo	O
 thiab	O
 thov	O
 vaj	O
@@ -1877,9 +1853,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 .	O
 
 
@@ -1907,9 +1880,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 kom	O
 nws	O
 nyob	O
@@ -1984,9 +1954,6 @@ muab	B
 nyiaj	I
 muab	I
 kub	I
-nyiaj	O
-muab	O
-kub	O
 los	O
 tsim	O
 mas	O

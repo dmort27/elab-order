@@ -691,9 +691,6 @@ xav	B
 ntev	I
 xav	I
 luv	I
-ntev	O
-xav	O
-luv	O
 tsi	O
 hais	O
 ,	O
@@ -762,9 +759,6 @@ noj	B
 seem	I
 noj	I
 so	I
-seem	O
-noj	O
-so	O
 ,	O
 tus	O
 tsi	O
@@ -1756,16 +1750,10 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 ywj	O
 saab	O
 .	O

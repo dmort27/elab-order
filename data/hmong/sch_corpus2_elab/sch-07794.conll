@@ -332,9 +332,6 @@ kam	B
 teb	I
 kam	I
 chaw	I
-teb	O
-kam	O
-chaw	O
 .	O
 
 
@@ -614,9 +611,6 @@ kam	B
 teb	I
 kam	I
 chaw	I
-teb	O
-kam	O
-chaw	O
 ntag	O
 .	O
 
@@ -731,9 +725,6 @@ kam	B
 teb	I
 kam	I
 chaw	I
-teb	O
-kam	O
-chaw	O
 los	O
 lawv	O
 yuav	O
@@ -782,9 +773,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 tshiab	O
 ntag	O
 .	O
@@ -967,16 +955,10 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 pluas	B
 noj	I
 pluas	I
 haus	I
-noj	O
-pluas	O
-haus	O
 ham	O
 tsis	O
 yuav	O
@@ -1167,9 +1149,6 @@ tshum	B
 ub	I
 tshum	I
 no	I
-ub	O
-tshum	O
-no	O
 ,	O
 thaum	O
 nab	O
@@ -1883,9 +1862,6 @@ nkaum	B
 tshav	I
 nkaum	I
 nag	I
-tshav	O
-nkaum	O
-nag	O
 for	O
 a	O
 temporary	O

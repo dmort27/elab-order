@@ -1404,9 +1404,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 .	O
 
 
@@ -1833,9 +1830,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 nrov	O
 ncha	O
 ces	O

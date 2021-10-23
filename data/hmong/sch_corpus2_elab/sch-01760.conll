@@ -1751,9 +1751,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 xwb	O
 .	O
 
@@ -1910,9 +1907,6 @@ nyeem	B
 mus	I
 nyeem	I
 los	I
-mus	O
-nyeem	O
-los	O
 no	O
 ua	O
 cas	O
@@ -2112,9 +2106,6 @@ nas	B
 tub	I
 nas	I
 ntxhais	I
-tub	O
-nas	O
-ntxhais	O
 tub	O
 raug	O
 Moob	O

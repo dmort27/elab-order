@@ -72,9 +72,6 @@ hauv	B
 zej	I
 hauv	I
 zos	I
-zej	O
-hauv	O
-zos	O
 thiab	O
 yuav	O
 qhib	O
@@ -86,9 +83,6 @@ pab	B
 zaub	I
 pab	I
 mov	I
-zaub	O
-pab	O
-mov	O
 cawm	O
 lawv	O
 txoj	O
@@ -245,9 +239,6 @@ tuav	B
 riam	I
 tuav	I
 phom	I
-riam	O
-tuav	O
-phom	O
 ua	O
 npluav	O
 nrog	O
@@ -566,9 +557,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 hnyos	O
 Hmoob	O
 thaum	O
@@ -1012,9 +1000,6 @@ nws	B
 roj	I
 nws	I
 ntshav	I
-roj	O
-nws	O
-ntshav	O
 .	O
 
 
@@ -1511,9 +1496,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 tias	O
 yog	O
 tim	O

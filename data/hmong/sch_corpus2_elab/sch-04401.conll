@@ -298,9 +298,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 no	O
 mus	O
 muag	O
@@ -396,9 +393,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 thiab	O
 coj	O
 mus	O
@@ -500,9 +494,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 li	O
 no	O
 muaj	O
@@ -953,9 +944,6 @@ thov	B
 ntuj	I
 thov	I
 teb	I
-ntuj	O
-thov	O
-teb	O
 yuav	O
 ua	O
 khaubfab	O

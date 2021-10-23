@@ -582,9 +582,6 @@ kua	B
 tooj	I
 kua	I
 hlau	I
-tooj	O
-kua	O
-hlau	O
 ho	O
 hlab	O
 txiv	O
@@ -684,9 +681,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 ces	O
 twb	O
 yog	O
@@ -994,9 +988,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 yawg	O
 ua	O
@@ -1085,9 +1076,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 li	O
 nav	O
 ,	O

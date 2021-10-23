@@ -144,9 +144,6 @@ lus	B
 plaub	I
 lus	I
 ntug	I
-plaub	O
-lus	O
-ntug	O
 .	O
 
 
@@ -285,9 +282,6 @@ txhua	B
 tsav	I
 txhua	I
 yam	I
-tsav	O
-txhua	O
-yam	O
 zoo	O
 npaum	O
 li	O
@@ -440,9 +434,6 @@ ua	B
 phab	I
 ua	I
 pheev	I
-phab	O
-ua	O
-pheev	O
 tab	O
 sis	O
 tsis	O
@@ -812,9 +803,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 los	O
 ntxhias	O
 seb	O
@@ -1156,9 +1144,6 @@ lus	B
 plaub	I
 lus	I
 ntug	I
-plaub	O
-lus	O
-ntug	O
 .	O
 
 
@@ -1522,9 +1507,6 @@ caum	B
 noj	I
 caum	I
 haus	I
-noj	O
-caum	O
-haus	O
 xwb	O
 ne	O
 ces	O
@@ -1904,9 +1886,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 los	O
 ntxhias	O
 seb	O
@@ -2248,9 +2227,6 @@ lus	B
 plaub	I
 lus	I
 ntug	I
-plaub	O
-lus	O
-ntug	O
 .	O
 
 
@@ -2484,9 +2460,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 yog	O
 traitor	O
 .	O
@@ -3116,9 +3089,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 xwb	O
 ,	O
 qhov	O
@@ -3249,9 +3219,6 @@ yeej	B
 pom	I
 yeej	I
 paub	I
-pom	O
-yeej	O
-paub	O
 li	O
 sinwung	O
 hais	O
@@ -4194,9 +4161,6 @@ raws	B
 kev	I
 raws	I
 cai	I
-kev	O
-raws	O
-cai	O
 .	O
 
 
@@ -4248,9 +4212,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 rau	O
 blog	O
 liab	O
@@ -4357,9 +4318,6 @@ ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 tis	O
 txaus	O
 ,	O
@@ -4382,9 +4340,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 laim	O
 txais	O
 rau	O
@@ -5387,9 +5342,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 .	O
 
 
@@ -5666,9 +5618,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 

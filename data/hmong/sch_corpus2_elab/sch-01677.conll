@@ -60,9 +60,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 mas	O
 tsam	O
 no	O
@@ -115,9 +112,6 @@ zoo	B
 caij	I
 zoo	I
 nyoog	I
-caij	O
-zoo	O
-nyoog	O
 npaum	O
 twg	O
 los	O
@@ -285,9 +279,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 .	O
 
 
@@ -309,9 +300,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 nyaj	O
 tseem	O
 yuav	O
@@ -693,9 +681,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 coj	O
 li	O
 lawv	O
@@ -1098,9 +1083,6 @@ nyias	B
 vaj	I
 nyias	I
 tsev	I
-vaj	O
-nyias	O
-tsev	O
 ,	O
 yeej	O
 tsis	O
@@ -1682,9 +1664,6 @@ koj	B
 pab	I
 koj	I
 pawg	I
-pab	O
-koj	O
-pawg	O
 mas	O
 !	O
 
@@ -1698,9 +1677,6 @@ koj	B
 pab	I
 koj	I
 pawg	I
-pab	O
-koj	O
-pawg	O
 hloov	O
 lawm	O
 ntag	O
@@ -2005,9 +1981,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 thiab	O
 los	O
 ntau	O
@@ -2926,9 +2899,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 tham	O
 .	O
 
@@ -3016,9 +2986,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 pib	O
 theem	O
 me	O
@@ -3562,9 +3529,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 :	O
 kuv	O
 ntshaw	O

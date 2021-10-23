@@ -33,9 +33,6 @@ muaj	B
 plaub	I
 muaj	I
 ntug	I
-plaub	O
-muaj	O
-ntug	O
 tsi	O
 muaj	O
 xaiv	O
@@ -228,9 +225,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 tias	O
 qhov	O
 luag	O
@@ -253,9 +247,6 @@ los	B
 noj	I
 los	I
 haus	I
-noj	O
-los	O
-haus	O
 luag	O
 lub	O
 cuab	O
@@ -306,9 +297,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 xwb	O
 ,	O
 ntawm	O

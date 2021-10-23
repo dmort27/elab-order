@@ -85,9 +85,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 tau	O
 mas	O
 yuav	O
@@ -134,9 +131,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 thiaj	O
 li	O
 nyob	O
@@ -422,9 +416,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 li	O
 lawv	O
 lub	O

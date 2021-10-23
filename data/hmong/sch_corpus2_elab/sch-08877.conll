@@ -46,9 +46,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 rau	O
 peb	O
 xwb	O
@@ -1461,9 +1458,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 ,	O
 tham	O
 kom	O
@@ -1699,9 +1693,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 thiab	O
 txhua	O
 txoj	O
@@ -1762,9 +1753,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 --	O
 puas	O
 yog	O

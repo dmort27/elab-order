@@ -34,9 +34,6 @@ suab	B
 nas	I
 suab	I
 noog	I
-nas	O
-suab	O
-noog	O
 luag	O
 muab	O
 huas	O
@@ -601,9 +598,6 @@ seem	B
 kev	I
 seem	I
 cai	I
-kev	O
-seem	O
-cai	O
 ,	O
 tabsis	O
 luag	O

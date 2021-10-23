@@ -269,9 +269,6 @@ tsis	B
 tag	I
 tsis	I
 kawg	I
-tag	O
-tsis	O
-kawg	O
 .	O
 
 
@@ -399,9 +396,6 @@ ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 xwb	O
 ais	O
 ib	O
@@ -761,9 +755,6 @@ xws	B
 teb	I
 xws	I
 chaw	I
-teb	O
-xws	O
-chaw	O
 13	O
 )	O
 b	O
@@ -1046,9 +1037,6 @@ muas	B
 noj	I
 muas	I
 haus	I
-noj	O
-muas	O
-haus	O
 no	O
 ce	O
 tseem	O
@@ -2324,9 +2312,6 @@ mes	B
 tub	I
 mes	I
 nyuam	I
-tub	O
-mes	O
-nyuam	O
 thiab	O
 tej	O
 kawvtij	O

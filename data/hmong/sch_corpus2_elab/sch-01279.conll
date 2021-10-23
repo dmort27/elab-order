@@ -422,9 +422,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 tsis	O
 zoo	O
 thiab	O
@@ -820,9 +817,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 luag	O
 thiaj	O
 muab	O

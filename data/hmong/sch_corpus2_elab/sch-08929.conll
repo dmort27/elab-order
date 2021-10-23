@@ -135,9 +135,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 no	O
 los	O
 ua	O
@@ -158,9 +155,6 @@ nqi	B
 mis	I
 nqi	I
 hno	I
-mis	O
-nqi	O
-hno	O
 ,	O
 kuv	O
 xav	O
@@ -279,9 +273,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 peb	O
 ua	O
@@ -373,9 +364,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ces	O
 has	O
 le	O
@@ -476,9 +464,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 es	O
 maam	O
 ua	O
@@ -619,9 +604,6 @@ nyias	B
 pab	I
 nyias	I
 pawg	I
-pab	O
-nyias	O
-pawg	O
 ,	O
 tsis	O
 muaj	O
@@ -792,9 +774,6 @@ pem	B
 roob	I
 pem	I
 hav	I
-roob	O
-pem	O
-hav	O
 sib	O
 hais	O
 nawb	O
@@ -823,9 +802,6 @@ nyias	B
 txawj	I
 nyias	I
 ntse	I
-txawj	O
-nyias	O
-ntse	O
 xwb	O
 no	O
 uas	O
@@ -974,9 +950,6 @@ leej	B
 nam	I
 leej	I
 txiv	I
-nam	O
-leej	O
-txiv	O
 qhov	O
 kev	O
 zoo	O
@@ -1226,9 +1199,6 @@ puab	B
 nam	I
 puab	I
 txiv	I
-nam	O
-puab	O
-txiv	O
 ib	O
 zag	O
 ,	O

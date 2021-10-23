@@ -302,9 +302,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 nawb	O
 .	O
 
@@ -862,9 +859,6 @@ fwm	B
 nom	I
 fwm	I
 tswv	I
-nom	O
-fwm	O
-tswv	O
 hab	O
 txawj	O
 ua	O
@@ -882,9 +876,6 @@ ua	B
 tsuv	I
 ua	I
 rog	I
-tsuv	O
-ua	O
-rog	O
 tas	O
 moog	O
 le	O
@@ -1493,9 +1484,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 los	O
 saib	O
 tsi	O
@@ -1576,9 +1564,6 @@ lug	B
 quaj	I
 lug	I
 tsawm	I
-quaj	O
-lug	O
-tsawm	O
 ua	O
 tug	O
 sab	O
@@ -1920,9 +1905,6 @@ tug	B
 ub	I
 tug	I
 nuav	I
-ub	O
-tug	O
-nuav	O
 ,	O
 kuv	O
 cwj	O

@@ -613,9 +613,6 @@ pheej	B
 txib	I
 pheej	I
 khaiv	I
-txib	O
-pheej	O
-khaiv	O
 luag	O
 tej	O
 xwb	O
@@ -654,9 +651,6 @@ noob	B
 nom	I
 noob	I
 tswv	I
-nom	O
-noob	O
-tswv	O
 ,	O
 noob	O
 muaj	O
@@ -682,9 +676,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 ,	O
 tab	O
 sis	O
@@ -696,9 +687,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 dhau	O
 nra	O
 tag	O
@@ -1068,9 +1056,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 pab	O
 Mesliskas	O
 ,	O
@@ -1161,9 +1146,6 @@ ntau	B
 rooj	I
 ntau	I
 tog	I
-rooj	O
-ntau	O
-tog	O
 huv	O
 tib	O
 si	O

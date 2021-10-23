@@ -342,9 +342,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 .	O
 
 
@@ -974,9 +971,6 @@ tsis	B
 mus	I
 tsis	I
 los	I
-mus	O
-tsis	O
-los	O
 kuj	O
 yeeb	O
 vim	O
@@ -1291,9 +1285,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 xwb	O
 .	O
 
@@ -1678,9 +1669,6 @@ yog	B
 plaub	I
 yog	I
 ntug	I
-plaub	O
-yog	O
-ntug	O
 lawm	O
 ,	O
 ,	O

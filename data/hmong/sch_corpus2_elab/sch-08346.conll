@@ -269,9 +269,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 .	O
 
 
@@ -330,9 +327,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 rau	O
 lawv	O
 tus	O
@@ -405,9 +399,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 rau	O
 lawv	O
 tus	O
@@ -525,9 +516,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 tau	O
 ,	O
 ua	O
@@ -1097,9 +1085,6 @@ kev	B
 phem	I
 kev	I
 qias	I
-phem	O
-kev	O
-qias	O
 ua	O
 Laura	O
 reported	O
@@ -1377,9 +1362,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 kom	O
 ceev	O
 faj	O
@@ -1475,9 +1457,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 pab	O
 nej	O
 lawm	O
@@ -1652,9 +1631,6 @@ cais	B
 neej	I
 cais	I
 tsaav	I
-neej	O
-cais	O
-tsaav	O
 lawm	O
 os	O
 .	O
@@ -1796,9 +1772,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 coob	O
 ,	O
 tabsis	O
@@ -1823,9 +1796,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 tseem	O
 ceeb	O
 .	O
@@ -2883,9 +2853,6 @@ uas	B
 noj	I
 uas	I
 haus	I
-noj	O
-uas	O
-haus	O
 .	O
 
 

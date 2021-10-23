@@ -293,9 +293,6 @@ siab	B
 ncaj	I
 siab	I
 zoo	I
-ncaj	O
-siab	O
-zoo	O
 dawb	O
 hu	O
 pab	O
@@ -538,9 +535,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 ntev	O
 puag	O
 thaum	O
@@ -727,9 +721,6 @@ luag	B
 txuj	I
 luag	I
 ci	I
-txuj	O
-luag	O
-ci	O
 ,	O
 Yog	O
 yus	O
@@ -971,9 +962,6 @@ tsis	B
 pom	I
 tsis	I
 paub	I
-pom	O
-tsis	O
-paub	O
 li	O
 ,	O
 txog	O
@@ -1050,9 +1038,6 @@ tsis	B
 pom	I
 tsis	I
 paub	I
-pom	O
-tsis	O
-paub	O
 txog	O
 ,	O
 Cas	O
@@ -1113,9 +1098,6 @@ tas	B
 siab	I
 tas	I
 ntsws	I
-siab	O
-tas	O
-ntsws	O
 ,	O
 cem	O
 cem	O

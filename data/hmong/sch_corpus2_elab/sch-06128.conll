@@ -135,9 +135,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 tiag	O
 .	O
 
@@ -1567,9 +1564,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 ntawm	O
 luag	O
 lub	O
@@ -1733,9 +1727,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 li	O
 Dr.pob	O
 zeb	O
@@ -1748,9 +1739,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 koj	O
 ruam	O
 tshaj	O
@@ -1827,9 +1815,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 los	O
 ntawm	O
 ib	O

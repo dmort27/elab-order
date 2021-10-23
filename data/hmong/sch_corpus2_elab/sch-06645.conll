@@ -860,9 +860,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 ntawm	O
 luag	O
 cov	O
@@ -922,9 +919,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ua	O
 peb	O
 caum	O
@@ -1230,9 +1224,6 @@ ntsis	B
 ntaj	I
 ntsis	I
 riam	I
-ntaj	O
-ntsis	O
-riam	O
 .	O
 
 
@@ -1762,9 +1753,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 los	O
 sib	O
 txuam	O
@@ -1948,9 +1936,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 taag	O
 .	O
 
@@ -2165,9 +2150,6 @@ tswv	B
 ntuj	I
 tswv	I
 teb	I
-ntuj	O
-tswv	O
-teb	O
 dua	O
 .	O
 

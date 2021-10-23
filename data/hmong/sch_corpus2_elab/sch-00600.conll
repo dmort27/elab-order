@@ -255,9 +255,6 @@ niaj	B
 hnub	I
 niaj	I
 hmo	I
-hnub	O
-niaj	O
-hmo	O
 txhawj	O
 lawm	O
 xwb	O
@@ -706,9 +703,6 @@ luag	B
 vaj	I
 luag	I
 tsev	I
-vaj	O
-luag	O
-tsev	O
 (	O
 private	O
 property	O
@@ -902,9 +896,6 @@ laug	B
 caij	I
 laug	I
 nyoog	I
-caij	O
-laug	O
-nyoog	O
 xwb	O
 tiag	O
 .	O
@@ -1239,9 +1230,6 @@ qub	B
 vaj	I
 qub	I
 tsev	I
-vaj	O
-qub	O
-tsev	O
 ,	O
 qub	O
 zos	O
@@ -1434,9 +1422,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 ,	O
 kwvtij	O
 neejtsa	O
@@ -2807,9 +2792,6 @@ nug	B
 mus	I
 nug	I
 los	I
-mus	O
-nug	O
-los	O
 na	O
 ua	O
 cas	O
@@ -4243,9 +4225,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 .	O
 
 
@@ -5984,9 +5963,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 puas	O
 tau	O
 los	O

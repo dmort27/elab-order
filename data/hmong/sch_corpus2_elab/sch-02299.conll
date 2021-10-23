@@ -629,9 +629,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 nrog	O
 lwm	O
 tus	O
@@ -645,9 +642,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 muaj	O
 nawb	O
 ,	O
@@ -3041,9 +3035,6 @@ kuv	B
 kwv	I
 kuv	I
 tij	I
-kwv	O
-kuv	O
-tij	O
 kuv	O
 pom	O
 koj	O
@@ -3506,9 +3497,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 haistias	O
 YD	O
 tsis	O
@@ -3921,9 +3909,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 yeej	O
 ua	O
 ib	O
@@ -4304,9 +4289,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 yeej	O
 ua	O
 ib	O

@@ -541,9 +541,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 ''	O
 no	O
 laiv	O
@@ -629,16 +626,10 @@ muaj	B
 cag	I
 muaj	I
 ceg	I
-cag	O
-muaj	O
-ceg	O
 qhua	B
 qab	I
 qhua	I
 tsau	I
-qab	O
-qhua	O
-tsau	O
 nrog	O
 cov	O
 me	O

@@ -50,9 +50,6 @@ yog	B
 nom	I
 yog	I
 tswv	I
-nom	O
-yog	O
-tswv	O
 ces	O
 txawm	O
 tau	O
@@ -422,9 +419,6 @@ nyiaj	B
 hnub	I
 nyiaj	I
 hli	I
-hnub	O
-nyiaj	O
-hli	O
 tub	O
 rog	O
 noj	O

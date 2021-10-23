@@ -85,9 +85,6 @@ txhua	B
 pab	I
 txhua	I
 pawg	I
-pab	O
-txhua	O
-pawg	O
 yeej	O
 hnov	O
 qhov	O
@@ -399,9 +396,6 @@ tag	B
 hnub	I
 tag	I
 hmo	I
-hnub	O
-tag	O
-hmo	O
 pw	O
 tsis	O
 tsaug	O
@@ -1444,9 +1438,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 thiab	O
 cov	O
 los	O
@@ -1520,9 +1511,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 tag	O
 kis	O
 .	O
@@ -1720,9 +1708,6 @@ muaj	B
 yeej	I
 muaj	I
 swb	I
-yeej	O
-muaj	O
-swb	O
 xwb	O
 thiaj	O
 li	O
@@ -1815,17 +1800,11 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hais	O
 li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -2868,9 +2847,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 tsis	O
 pub	O
 lawv	O
@@ -3140,9 +3116,6 @@ paub	B
 siab	I
 paub	I
 qes	I
-siab	O
-paub	O
-qes	O
 no	O
 es	O
 hais	O

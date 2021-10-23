@@ -45,9 +45,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 xw	O
 .	O
 
@@ -338,9 +335,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ,	O
 rau	O
 kuv	O
@@ -380,9 +374,6 @@ muaj	B
 nyiaj	I
 muaj	I
 txiaj	I
-nyiaj	O
-muaj	O
-txiaj	O
 lawm	O
 los	O
 tseem	O
@@ -424,9 +415,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 qhov	O
 Dr	O
@@ -650,9 +638,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 peb	O
 tsis	O
 need	O
@@ -1315,9 +1300,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 ,	O
 nim	O
 pab	O

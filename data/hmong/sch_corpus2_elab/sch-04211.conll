@@ -230,9 +230,6 @@ tu	B
 tub	I
 tu	I
 kiv	I
-tub	O
-tu	O
-kiv	O
 los	O
 npaj	O
 laus	O
@@ -289,17 +286,11 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 thiab	O
 kev	B
 kwv	I
 kev	I
 tij	I
-kwv	O
-kev	O
-tij	O
 .	O
 
 
@@ -431,18 +422,12 @@ luab	B
 nuj	I
 luab	I
 nqi	I
-nuj	O
-luab	O
-nqi	O
 tog	O
 ,	O
 nkaum	B
 ub	I
 nkaum	I
 no	I
-ub	O
-nkaum	O
-no	O
 li	O
 lawm	O
 .	O
@@ -726,9 +711,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 noj	O
 .	O
 
@@ -810,9 +792,6 @@ muaj	B
 txheeb	I
 muaj	I
 ze	I
-txheeb	O
-muaj	O
-ze	O
 thiab	O
 muaj	O
 tej	O
@@ -839,9 +818,6 @@ txaus	B
 noj	I
 txaus	I
 haus	I
-noj	O
-txaus	O
-haus	O
 lawm	O
 xwb	O
 los	O

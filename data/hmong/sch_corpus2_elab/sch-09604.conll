@@ -44,9 +44,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 nkaus	O
 nkaus	O
 xwb	O
@@ -1560,9 +1557,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 ib	O
 zaug	O
 .	O
@@ -2353,9 +2347,6 @@ thov	B
 ntuj	I
 thov	I
 teb	I
-ntuj	O
-thov	O
-teb	O
 los	O
 pab	O
 .	O
@@ -2430,9 +2421,6 @@ suab	B
 quaj	I
 suab	I
 nyiav	I
-quaj	O
-suab	O
-nyiav	O
 yamli	O
 tag	O
 kev	O

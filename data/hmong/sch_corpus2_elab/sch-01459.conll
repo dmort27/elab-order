@@ -399,9 +399,6 @@ txij	B
 ntuj	I
 txij	I
 teb	I
-ntuj	O
-txij	O
-teb	O
 .	O
 
 
@@ -428,9 +425,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 es	O
 tsuas	O
 npaum	O
@@ -2564,9 +2558,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 ,	O
 dib	O
 taub	O
@@ -2795,9 +2786,6 @@ ua	B
 lwj	I
 ua	I
 lam	I
-lwj	O
-ua	O
-lam	O
 tes	O
 ,	O
 theev	O

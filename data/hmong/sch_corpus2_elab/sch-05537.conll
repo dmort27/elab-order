@@ -1095,9 +1095,6 @@ raug	B
 kev	I
 raug	I
 cai	I
-kev	O
-raug	O
-cai	O
 (	O
 legal	O
 )	O
@@ -1732,9 +1729,6 @@ ib	B
 txhiab	I
 ib	I
 txhis	I
-txhiab	O
-ib	O
-txhis	O
 ,	O
 piv	O
 li	O
@@ -2511,9 +2505,6 @@ ua	B
 vaj	I
 ua	I
 tsev	I
-vaj	O
-ua	O
-tsev	O
 ntau	O
 li	O
 ntau	O

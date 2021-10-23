@@ -143,9 +143,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 xws	O
 li	O
 cov	O
@@ -346,9 +343,6 @@ cais	B
 pab	I
 cais	I
 pawg	I
-pab	O
-cais	O
-pawg	O
 ,	O
 nws	O
 yuav	O
@@ -816,9 +810,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 rau	O
 cov	O
 xeev	O
@@ -1293,9 +1284,6 @@ kev	B
 phem	I
 kev	I
 qias	I
-phem	O
-kev	O
-qias	O
 no	O
 tsis	O
 tas	O
@@ -1372,17 +1360,11 @@ ua	B
 phem	I
 ua	I
 qias	I
-phem	O
-ua	O
-qias	O
 ,	O
 tsw	B
 lwj	I
 tsw	I
 kas	I
-lwj	O
-tsw	O
-kas	O
 lawm	O
 ces	O
 yuav	O
@@ -1416,9 +1398,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 ,	O
 twb	O
 yeej	O
@@ -1436,9 +1415,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 hais	O
 .	O
 
@@ -2455,9 +2431,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 yam	O
 tsis	O
 paub	O

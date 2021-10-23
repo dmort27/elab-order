@@ -50,9 +50,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 lawm	O
 xwb	O
 ,	O
@@ -1575,9 +1572,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 no	O
 xwb	O
@@ -1796,9 +1790,6 @@ txoj	B
 kab	I
 txoj	I
 kev	I
-kab	O
-txoj	O
-kev	O
 tiag	O
 ,	O
 rau	O
@@ -1908,9 +1899,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 rau	O
 hmoob	O
 taug	O
@@ -2465,9 +2453,6 @@ muaj	B
 qab	I
 muaj	I
 quas	I
-qab	O
-muaj	O
-quas	O
 lawm	O
 tiag	O
 los	O
@@ -2500,9 +2485,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 aws	O
 .	O
 
@@ -2677,9 +2659,6 @@ lav	B
 tshoob	I
 lav	I
 kos	I
-tshoob	O
-lav	O
-kos	O
 rau	O
 ob	O
 tog	O
@@ -3313,9 +3292,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 xav	O
 foob	O
 18	O

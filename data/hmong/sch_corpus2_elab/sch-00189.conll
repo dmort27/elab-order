@@ -89,9 +89,6 @@ qub	B
 vaj	I
 qub	I
 tsev	I
-vaj	O
-qub	O
-tsev	O
 ,	O
 qub	O
 chaws	O
@@ -215,9 +212,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 ,	O
 mus	O
 ua	O
@@ -230,9 +224,6 @@ mloog	B
 nom	I
 mloog	I
 tswv	I
-nom	O
-mloog	O
-tswv	O
 lus	O
 ,	O
 tsim	O
@@ -266,9 +257,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 los	O
 pab	O
 yus	O
@@ -1747,9 +1735,6 @@ dag	B
 nom	I
 dag	I
 tswv	I
-nom	O
-dag	O
-tswv	O
 ,	O
 kom	O
 luag	O
@@ -1983,9 +1968,6 @@ tom	B
 ub	I
 tom	I
 no	I
-ub	O
-tom	O
-no	O
 cia	O
 li	O
 swb	O
@@ -2040,9 +2022,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 tej	O
 pej	O
 xeem	O
@@ -2877,9 +2856,6 @@ nyias	B
 vaj	I
 nyias	I
 tsev	I
-vaj	O
-nyias	O
-tsev	O
 tag	O
 nro	O
 lawm	O
@@ -3539,9 +3515,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 tshum	O
 mus	O
 rau	O
@@ -4458,9 +4431,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 li	O
 ib	O
 co	O

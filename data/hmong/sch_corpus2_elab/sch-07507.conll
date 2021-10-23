@@ -110,9 +110,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 nws	O
 yog	O
 ib	O
@@ -769,9 +766,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ne	O
 ,	O
 lawv	O
@@ -860,9 +854,6 @@ xeeb	B
 luj	I
 xeeb	I
 lam	I
-luj	O
-xeeb	O
-lam	O
 ,	O
 tiam	O
 sis	O
@@ -1229,9 +1220,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 li	O
 tus	O
 pojniam	O
@@ -1335,9 +1323,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 ce	O
 sib	O
 tug	O
@@ -1556,9 +1541,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 zoo	O
 li	O
 pojniam	O

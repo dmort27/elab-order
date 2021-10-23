@@ -291,9 +291,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 tom	O
 tej	O
 tsev	O
@@ -848,9 +845,6 @@ nai	B
 phoo	I
 nai	I
 pha	I
-phoo	O
-nai	O
-pha	O
 thiab	O
 lawv	O
 cov	O

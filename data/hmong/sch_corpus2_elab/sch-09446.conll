@@ -495,9 +495,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 koj	O
 tseem	O
 txheeb-b	O
@@ -1362,9 +1359,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 nrog	O
 nplog	O
 mekas	O
@@ -1375,9 +1369,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 nrog	O
 nyablaj	O
 xwb	O
@@ -1517,9 +1508,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 nyob	O
 nplog	O
 teb	O
@@ -1951,9 +1939,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 xwb	O
 ces	O
 tsi	O
@@ -2443,9 +2428,6 @@ ntsis	B
 riam	I
 ntsis	I
 phom	I
-riam	O
-ntsis	O
-phom	O
 nkaus	O
 xwb	O
 ,	O
@@ -2453,9 +2435,6 @@ puas	B
 tsav	I
 puas	I
 yam	I
-tsav	O
-puas	O
-yam	O
 yog	O
 nyob	O
 ntawm	O
@@ -3090,17 +3069,11 @@ qab	B
 roob	I
 qab	I
 hav	I
-roob	O
-qab	O
-hav	O
 los	O
 ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ces	O
 thaum	O
 kawg	O
@@ -3802,9 +3775,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 rau	O
 Amelikas	O
 thiab	O
@@ -4015,9 +3985,6 @@ txhia	B
 leej	I
 txhia	I
 tus	I
-leej	O
-txhia	O
-tus	O
 thiab	O
 .	O
 

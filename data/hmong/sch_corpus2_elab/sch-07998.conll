@@ -182,9 +182,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 .	O
 
 
@@ -267,9 +264,6 @@ tub	B
 sab	I
 tub	I
 nyiag	I
-sab	O
-tub	O
-nyiag	O
 ,	O
 tsoo	O
 raj	O
@@ -405,9 +399,6 @@ nriav	B
 noj	I
 nriav	I
 haus	I
-noj	O
-nriav	O
-haus	O
 yam	O
 ntawd	O
 .	O

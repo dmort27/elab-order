@@ -819,18 +819,12 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 ,	O
 kev	O
 coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 .	O
 
 
@@ -959,9 +953,6 @@ muaj	B
 tshoob	I
 muaj	I
 kug	I
-tshoob	O
-muaj	O
-kug	O
 ,	O
 koj	O
 ua	O
@@ -1013,9 +1004,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 (	O
 kev	O
 num	O
@@ -1037,9 +1025,6 @@ kuv	B
 kwv	I
 kuv	I
 tij	I
-kwv	O
-kuv	O
-tij	O
 ,	O
 txhaj	O
 yog	O
@@ -1360,16 +1345,10 @@ sib	B
 hais	I
 sib	I
 cav	I
-hais	O
-sib	O
-cav	O
 txog	B
 ub	I
 txog	I
 no	I
-ub	O
-txog	O
-no	O
 thiab	O
 sau	O
 nyiaj	O
@@ -1377,9 +1356,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 lawm	O
 .	O
 
@@ -1948,9 +1924,6 @@ xav	B
 tau	I
 xav	I
 yuav	I
-tau	O
-xav	O
-yuav	O
 ,	O
 koj	O
 hais	O
@@ -2326,9 +2299,6 @@ ua	B
 kub	I
 ua	I
 ntaiv	I
-kub	O
-ua	O
-ntaiv	O
 tshaj	O
 qhov	O
 qub	O
@@ -2349,9 +2319,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 .	O
 
 
@@ -2786,9 +2753,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 thiab	O
 muaj	O
 chaw	O
@@ -2889,9 +2853,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 tuaj	O
 kawm	O
 thiab	O
@@ -3190,9 +3151,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 tsis	O
 sib	O
 haum	O
@@ -3317,9 +3275,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 thiab	O
 neeg	O
 paubtab	O
@@ -3331,9 +3286,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 ,	O
 los	O
 tseem	O
@@ -3752,9 +3704,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 thiab	O
 tshwm	O
 muaj	O
@@ -4241,9 +4190,6 @@ sib	B
 txheeb	I
 sib	I
 ze	I
-txheeb	O
-sib	O
-ze	O
 ,	O
 ces	O
 neeg	O
@@ -4273,9 +4219,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 .	O
 
 
@@ -4295,9 +4238,6 @@ raws	B
 pab	I
 raws	I
 pawg	I
-pab	O
-raws	O
-pawg	O
 socially	O
 ,	O
 culturally	O
@@ -4312,9 +4252,6 @@ raws	B
 pab	I
 raws	I
 pawg	I
-pab	O
-raws	O
-pawg	O
 .	O
 
 
@@ -4651,9 +4588,6 @@ yog	B
 caij	I
 yog	I
 nyoog	I
-caij	O
-yog	O
-nyoog	O
 kawg	O
 li	O
 lawm	O
@@ -4982,9 +4916,6 @@ thaam	B
 moog	I
 thaam	I
 lug	I
-moog	O
-thaam	O
-lug	O
 ,	O
 dating	O
 the	O

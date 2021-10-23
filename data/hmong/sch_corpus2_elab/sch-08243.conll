@@ -991,9 +991,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 tsam	O
 ho	O
 lam	O
@@ -1702,9 +1699,6 @@ pom	B
 ntsej	I
 pom	I
 muag	I
-ntsej	O
-pom	O
-muag	O
 mas	O
 lawv	O
 yuav	O
@@ -1780,9 +1774,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 thiab	O
 thiaj	O
 tsis	O
@@ -3511,9 +3502,6 @@ paub	B
 ntaub	I
 paub	I
 ntawv	I
-ntaub	O
-paub	O
-ntawv	O
 tseem	O
 tsis	O
 tau	O
@@ -3709,9 +3697,6 @@ hmoob	B
 txuj	I
 hmoob	I
 ci	I
-txuj	O
-hmoob	O
-ci	O
 xwb	O
 ,	O
 es	O

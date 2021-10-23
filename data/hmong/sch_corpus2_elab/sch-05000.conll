@@ -696,9 +696,6 @@ sab	B
 luj	I
 sab	I
 dlaav	I
-luj	O
-sab	O
-dlaav	O
 mas	O
 nwg	O
 yeej	O
@@ -1265,9 +1262,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 los	O
 cas	O
 yuav	O
@@ -1686,9 +1680,6 @@ xam	B
 ub	I
 xam	I
 no	I
-ub	O
-xam	O
-no	O
 ces	O
 teb	O
 tus	O

@@ -11,9 +11,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 heev	O
 dlua	O
 lwm	O
@@ -85,9 +82,6 @@ ua	B
 nam	I
 ua	I
 txiv	I
-nam	O
-ua	O
-txiv	O
 yuav	O
 tau	O
 pub	O
@@ -238,9 +232,6 @@ sib	B
 hlub	I
 sib	I
 paab	I
-hlub	O
-sib	O
-paab	O
 ,	O
 ua	O
 dlaab	O
@@ -584,9 +575,6 @@ siab	B
 loj	I
 siab	I
 dav	I
-loj	O
-siab	O
-dav	O
 .	O
 
 
@@ -789,9 +777,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 lub	O
 tsev	O
 naj	O
@@ -1238,9 +1223,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 raws	O
 li	O
 nws	O
@@ -1294,9 +1276,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 muaj	O
 hnub	O
 nyoog	O
@@ -1315,9 +1294,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 mus	O
 pib	O
 lawv	O
@@ -1355,17 +1331,11 @@ yog	B
 niam	I
 yog	I
 txiv	I
-niam	O
-yog	O
-txiv	O
 kom	O
 tus	B
 tub	I
 tus	I
 ntxhais	I
-tub	O
-tus	O
-ntxhais	O
 ntawd	O
 kawm	O
 tiav	O
@@ -1422,9 +1392,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 tawm	O
 rooj	O
 ywj	O
@@ -1470,9 +1437,6 @@ puas	B
 koob	I
 puas	I
 npe	I
-koob	O
-puas	O
-npe	O
 ces	O
 tsis	O
 kam	O

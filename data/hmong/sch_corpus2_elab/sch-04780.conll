@@ -152,9 +152,6 @@ pluas	B
 noj	I
 pluas	I
 haus	I
-noj	O
-pluas	O
-haus	O
 yuav	O
 tu	O
 zuj	O
@@ -465,9 +462,6 @@ yuav	B
 ub	I
 yuav	I
 no	I
-ub	O
-yuav	O
-no	O
 los	O
 zaum	O
 tswb	O
@@ -1347,9 +1341,6 @@ muaj	B
 qab	I
 muaj	I
 tsuag	I
-qab	O
-muaj	O
-tsuag	O
 sibfaib	O
 noj	O
 ,	O
@@ -1575,9 +1566,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 tsheej	O
 sob	O
 kuj	O
@@ -1599,9 +1587,6 @@ qhov	B
 zoo	I
 qhov	I
 phem	I
-zoo	O
-qhov	O
-phem	O
 tib	O
 yam	O
 ,	O
@@ -1640,9 +1625,6 @@ ua	B
 laj	I
 ua	I
 kam	I
-laj	O
-ua	O
-kam	O
 qib	O
 siab	O
 txog	O
@@ -1661,9 +1643,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 kuj	O
 muaj	O
 ,	O
@@ -3159,9 +3138,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 zoo	O
 tshaj	O
 yus	O
@@ -3225,9 +3201,6 @@ tus	B
 neej	I
 tus	I
 tsav	I
-neej	O
-tus	O
-tsav	O
 twg	O
 lawm	O
 ?	O
@@ -3274,9 +3247,6 @@ zoo	B
 neej	I
 zoo	I
 tsav	I
-neej	O
-zoo	O
-tsav	O
 luag	O
 yeej	O
 qheb	O

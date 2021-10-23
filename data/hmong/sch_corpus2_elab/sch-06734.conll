@@ -1193,9 +1193,6 @@ ua	B
 txij	I
 ua	I
 nkawm	I
-txij	O
-ua	O
-nkawm	O
 uas	O
 tsis	O
 muaj	O
@@ -1370,9 +1367,6 @@ ua	B
 txij	I
 ua	I
 nkawm	I
-txij	O
-ua	O
-nkawm	O
 yeej	O
 coj	O
 li	O
@@ -1508,9 +1502,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 ,	O
 lus	O
 khawv	O
@@ -1970,9 +1961,6 @@ siab	B
 loj	I
 siab	I
 dav	I
-loj	O
-siab	O
-dav	O
 duav	O
 tau	O
 tag	O
@@ -2025,9 +2013,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hais	O
 lus	O
 tsiv	O
@@ -2292,17 +2277,11 @@ yuam	B
 kev	I
 yuam	I
 cai	I
-kev	O
-yuam	O
-cai	O
 yuav	O
 niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 ,	O
 ua	O
 hluas	O

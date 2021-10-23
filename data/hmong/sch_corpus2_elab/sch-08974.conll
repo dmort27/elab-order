@@ -360,9 +360,6 @@ txog	B
 caij	I
 txog	I
 nyoog	I
-caij	O
-txog	O
-nyoog	O
 ces	O
 yuav	O
 tau	O
@@ -515,9 +512,6 @@ qhov	B
 ncaj	I
 qhov	I
 tseeb	I
-ncaj	O
-qhov	O
-tseeb	O
 .	O
 
 
@@ -650,9 +644,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 siab	O
 siab	O
 ces	O

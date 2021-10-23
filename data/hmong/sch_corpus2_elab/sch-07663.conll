@@ -1017,9 +1017,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -1345,9 +1342,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 muab	O
 koj	O
 xa	O
@@ -1393,9 +1387,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 mus	O
 tau	O
 los	O
@@ -1417,9 +1408,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 no	O
 nev	O
 ...	O
@@ -1551,9 +1539,6 @@ yuav	B
 vaj	I
 yuav	I
 tsev	I
-vaj	O
-yuav	O
-tsev	O
 los	O
 twb	O
 muaj	O

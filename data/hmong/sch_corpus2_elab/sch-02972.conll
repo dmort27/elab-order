@@ -2441,9 +2441,6 @@ muaj	B
 sab	I
 muaj	I
 ntsws	I
-sab	O
-muaj	O
-ntsws	O
 tes	O
 luag	O
 yuav	O
@@ -2479,9 +2476,6 @@ mej	B
 nam	I
 mej	I
 txiv	I
-nam	O
-mej	O
-txiv	O
 yeej	O
 hais	O
 rua	O
@@ -2592,9 +2586,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 rua	O
 luas	O
 dlaab	O
@@ -2806,9 +2797,6 @@ ua	B
 plees	I
 ua	I
 yi	I
-plees	O
-ua	O
-yi	O
 es	O
 nyob	O
 tas	O

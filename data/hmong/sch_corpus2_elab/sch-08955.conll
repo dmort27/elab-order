@@ -493,9 +493,6 @@ tseem	B
 kev	I
 tseem	I
 cai	I
-kev	O
-tseem	O
-cai	O
 vim	O
 tias	O
 luag	O
@@ -1271,9 +1268,6 @@ noj	B
 seem	I
 noj	I
 so	I
-seem	O
-noj	O
-so	O
 (	O
 not	O
 much	O
@@ -1897,9 +1891,6 @@ zoo	B
 neej	I
 zoo	I
 tsav	I
-neej	O
-zoo	O
-tsav	O
 ntshai	O
 yuav	O
 tsis	O
@@ -2306,9 +2297,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 uas	O
 tsis	O
 yog	O
@@ -2346,9 +2334,6 @@ saib	B
 siab	I
 saib	I
 nqi	I
-siab	O
-saib	O
-nqi	O
 ...	O
 Kev	O
 yus	O

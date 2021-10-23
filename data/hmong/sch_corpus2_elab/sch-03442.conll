@@ -66,9 +66,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 noj	O
 plig	O
@@ -604,9 +601,6 @@ ua	B
 kev	I
 ua	I
 cai	I
-kev	O
-ua	O
-cai	O
 ces	O
 ce	O
 khob	O
@@ -695,9 +689,6 @@ rau	B
 kev	I
 rau	I
 cai	I
-kev	O
-rau	O
-cai	O
 ;	O
 haus	O
 tshaj	O
@@ -1154,9 +1145,6 @@ luag	B
 noj	I
 luag	I
 haus	I
-noj	O
-luag	O
-haus	O
 ...	O
 luag	O
 tsis	O
@@ -1315,9 +1303,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ...	O
 lawm	O
 xwb	O

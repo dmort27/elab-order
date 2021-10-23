@@ -438,9 +438,6 @@ nyias	B
 kwv	I
 nyias	I
 tij	I
-kwv	O
-nyias	O
-tij	O
 investigate	O
 es	O
 yuav	O
@@ -484,9 +481,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 tuaj	O
 txoom	O
 loom	O
@@ -549,9 +543,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 rau	O
 lawv	O
 tiam	O
@@ -602,9 +593,6 @@ raug	B
 ploj	I
 raug	I
 tuag	I
-ploj	O
-raug	O
-tuag	O
 los	O
 lub	O
 nra	O
@@ -613,9 +601,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 ua	O
 ntawd	O
 yuav	O
@@ -1244,9 +1229,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 yeej	O
 saib	O
 xyuas	O
@@ -1902,9 +1884,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 es	O
 tos	O
 tso	O

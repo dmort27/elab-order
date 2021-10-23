@@ -19,9 +19,6 @@ yam	B
 zoo	I
 yam	I
 phem	I
-zoo	O
-yam	O
-phem	O
 li	O
 cas	O
 ?	O
@@ -317,9 +314,6 @@ nrog	B
 huab	I
 nrog	I
 cua	I
-huab	O
-nrog	O
-cua	O
 xwb	O
 tsis	O
 muaj	O
@@ -488,9 +482,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 xyov	O
 pib	O
 txij	O
@@ -523,9 +514,6 @@ yuav	B
 poj	I
 yuav	I
 sev	I
-poj	O
-yuav	O
-sev	O
 .	O
 
 
@@ -1494,9 +1482,6 @@ dab	B
 txeej	I
 dab	I
 qus	I
-txeej	O
-dab	O
-qus	O
 lawm	O
 vim	O
 twb	O
@@ -1650,9 +1635,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 ntag	O
 .	O
 
@@ -2000,9 +1982,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 lawm	O
 ,	O
 yog	O
@@ -2109,9 +2088,6 @@ ua	B
 nkib	I
 ua	I
 nkaus	I
-nkib	O
-ua	O
-nkaus	O
 li	O
 tej	O
 laus	O
@@ -2189,9 +2165,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 thiab	O
 qee	O
 yam	O

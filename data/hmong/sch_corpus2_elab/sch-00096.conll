@@ -170,9 +170,6 @@ thov	B
 ntuj	I
 thov	I
 teb	I
-ntuj	O
-thov	O
-teb	O
 thiab	O
 hmoob	O
 MAG	O
@@ -203,9 +200,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 txaus2	O
 cov	O
 hma	O
@@ -494,9 +488,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 tjus	O
 ntxhais	O
 quaj	O
@@ -1318,9 +1309,6 @@ thov	B
 ntuj	I
 thov	I
 teb	I
-ntuj	O
-thov	O
-teb	O
 thiab	O
 xwb	O
 ntag	O
@@ -1492,9 +1480,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 thiab	O
 npuj	O
 pob	O

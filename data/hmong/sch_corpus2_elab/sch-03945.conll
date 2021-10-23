@@ -105,9 +105,6 @@ thov	B
 noj	I
 thov	I
 haus	I
-noj	O
-thov	O
-haus	O
 xwb	O
 ,	O
 ces	O
@@ -609,9 +606,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -1076,9 +1070,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 

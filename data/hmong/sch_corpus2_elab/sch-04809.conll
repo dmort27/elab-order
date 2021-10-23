@@ -86,9 +86,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 li	O
 xwb	O
 ne	O
@@ -366,9 +363,6 @@ hlua	B
 nkauj	I
 hlua	I
 nraug	I
-nkauj	O
-hlua	O
-nraug	O
 ua	O
 sib	O
 txeeb	O

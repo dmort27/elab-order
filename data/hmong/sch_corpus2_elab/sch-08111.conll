@@ -2627,9 +2627,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ib	O
 qho	O
 hlo	O
@@ -2669,9 +2666,6 @@ hais	B
 dog	I
 hais	I
 dig	I
-dog	O
-hais	O
-dig	O
 ,	O
 hais	O
 tias	O
@@ -2720,9 +2714,6 @@ lawv	B
 vaj	I
 lawv	I
 tsev	I
-vaj	O
-lawv	O
-tsev	O
 ,	O
 nriav	O
 lawv	O
@@ -2960,9 +2951,6 @@ muag	B
 yeeb	I
 muag	I
 tshuaj	I
-yeeb	O
-muag	O
-tshuaj	O
 .	O
 
 
@@ -3764,9 +3752,6 @@ nyias	B
 nom	I
 nyias	I
 tswv	I
-nom	O
-nyias	O
-tswv	O
 xwb	O
 zoo	O
 daws	O

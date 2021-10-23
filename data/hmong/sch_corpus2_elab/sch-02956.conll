@@ -150,9 +150,6 @@ ua	B
 plees	I
 ua	I
 yi	I
-plees	O
-ua	O
-yi	O
 (	O
 adultery	O
 )	O
@@ -207,9 +204,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 los	O
 yuav	O
 muaj	O
@@ -383,9 +377,6 @@ txaus	B
 noj	I
 txaus	I
 haus	I
-noj	O
-txaus	O
-haus	O
 lawm	O
 ces	O
 tsis	O
@@ -413,9 +404,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 los	O
 yus	O
 yeej	O

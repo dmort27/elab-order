@@ -106,9 +106,6 @@ noob	B
 ntaub	I
 noob	I
 ntawv	I
-ntaub	O
-noob	O
-ntawv	O
 puas	O
 yog	O
 ib	O
@@ -1152,9 +1149,6 @@ xaiv	B
 ntsej	I
 xaiv	I
 muag	I
-ntsej	O
-xaiv	O
-muag	O
 .	O
 
 
@@ -1968,9 +1962,6 @@ lug	B
 nyaj	I
 lug	I
 kub	I
-nyaj	O
-lug	O
-kub	O
 xwb	O
 los	O
 nwg	O
@@ -2787,9 +2778,6 @@ muaj	B
 pab	I
 muaj	I
 pawg	I
-pab	O
-muaj	O
-pawg	O
 thiab	O
 muaj	O
 ib	O
@@ -3478,9 +3466,6 @@ ua	B
 kub	I
 ua	I
 ntaiv	I
-kub	O
-ua	O
-ntaiv	O
 ...	O
 tsi	O
 tag	O
@@ -3497,9 +3482,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 twb	O
 tusiab	O
 thiab	O
@@ -3527,16 +3509,10 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 ua	B
 kwv	I
 ua	I
 tij	I
-kwv	O
-ua	O
-tij	O
 nyob	O
 tuaj	O
 tham	O
@@ -3678,9 +3654,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 ...	O
 tsi	O
 tag	O
@@ -3763,9 +3736,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 ,	O
 cias	O
 li	O
@@ -3940,9 +3910,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 hauv	O
 tej	O
 Church	O
@@ -4002,9 +3969,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ...	O
 koj	O
 puas	O
@@ -4037,9 +4001,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 li	O
 ua	O
 rov	O
@@ -4073,9 +4034,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 ''	O
 Dev	O
@@ -4798,9 +4756,6 @@ ua	B
 ntsej	I
 ua	I
 muag	I
-ntsej	O
-ua	O
-muag	O
 ces	O
 ua	O
 li	O
@@ -5281,9 +5236,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 ,	O
 cias	O
 li	O
@@ -5857,9 +5809,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 .	O
 
 

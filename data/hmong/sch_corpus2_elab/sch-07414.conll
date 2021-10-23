@@ -66,9 +66,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 mas	O
 thiaj	O
 li	O
@@ -269,9 +266,6 @@ txeeb	B
 noj	I
 txeeb	I
 haus	I
-noj	O
-txeeb	O
-haus	O
 rau	O
 tej	O
 lub	O
@@ -377,9 +371,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 twb	O
 mus	O
 lov	O
@@ -508,9 +499,6 @@ ntawv	B
 noj	I
 ntawv	I
 haus	I
-noj	O
-ntawv	O
-haus	O
 ib	O
 ob	O
 zag	O
@@ -564,9 +552,6 @@ ntawv	B
 noj	I
 ntawv	I
 haus	I
-noj	O
-ntawv	O
-haus	O
 xwb	O
 los	O
 twb	O

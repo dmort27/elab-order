@@ -123,9 +123,6 @@ tub	B
 dej	I
 tub	I
 num	I
-dej	O
-tub	O
-num	O
 yeej	O
 tsis	O
 paub	O
@@ -170,9 +167,6 @@ paub	B
 qab	I
 paub	I
 hau	I
-qab	O
-paub	O
-hau	O
 ces	O
 tej	O
 zaum	O
@@ -660,9 +654,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 tawm	O
 tsam	O
 tsoom	O
@@ -1244,9 +1235,6 @@ dhia	B
 siab	I
 dhia	I
 nqi	I
-siab	O
-dhia	O
-nqi	O
 xwb	O
 !	O
 
@@ -1404,9 +1392,6 @@ yus	B
 zej	I
 yus	I
 zos	I
-zej	O
-yus	O
-zos	O
 xwb	O
 los	O
 thiaj	O

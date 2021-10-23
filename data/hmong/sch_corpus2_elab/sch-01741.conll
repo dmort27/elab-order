@@ -2478,9 +2478,6 @@ sib	B
 tshum	I
 sib	I
 nkaug	I
-tshum	O
-sib	O
-nkaug	O
 yus	O
 cov	O
 Hmoob	O
@@ -2897,9 +2894,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 luag	O
 ntxhi	O
 .	O
@@ -3474,9 +3468,6 @@ ib	B
 txheej	I
 ib	I
 phaum	I
-txheej	O
-ib	O
-phaum	O
 mus	O
 ua	O
 tsis	O
@@ -4124,9 +4115,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 tuag	O
 liab	O
 ntsha	O
@@ -5180,9 +5168,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 tuag	O
 liab	O
 ntsha	O
@@ -6572,9 +6557,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 tuag	O
 liab	O
 ntsha	O
@@ -8742,9 +8724,6 @@ muaj	B
 kab	I
 muaj	I
 kev	I
-kab	O
-muaj	O
-kev	O
 pom	O
 qab	O
 lug	O
@@ -9329,9 +9308,6 @@ sib	B
 nug	I
 sib	I
 teb	I
-nug	O
-sib	O
-teb	O
 txij	O
 li	O
 tej	O
@@ -9378,9 +9354,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 quavtsev	O
 nawb	O
 mog	O

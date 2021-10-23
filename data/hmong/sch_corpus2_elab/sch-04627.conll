@@ -199,9 +199,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 lawm	O
 nawb	O
 .	O
@@ -242,9 +239,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 los	O
 thov	O
 saib	O
@@ -1877,9 +1871,6 @@ luag	B
 teb	I
 luag	I
 chaw	I
-teb	O
-luag	O
-chaw	O
 nyob	O
 xwb	O
 ,	O
@@ -1923,9 +1914,6 @@ ua	B
 kwv	I
 ua	I
 tij	I
-kwv	O
-ua	O
-tij	O
 los	O
 peb	O
 yeej	O
@@ -2224,9 +2212,6 @@ lub	B
 cev	I
 lub	I
 siab	I
-cev	O
-lub	O
-siab	O
 rau	O
 lub	O
 ntiaj	O
@@ -3065,9 +3050,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 los	O
 yeej	O
 muaj	O
@@ -3171,9 +3153,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 ntawd	O
 ,	O
 ua	O

@@ -36,9 +36,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 mas	O
 tus	O
 twg	O
@@ -48,9 +45,6 @@ kaus	B
 tes	I
 kaus	I
 taw	I
-tes	O
-kaus	O
-taw	O
 nrov	O
 kig	O
 keg	O
@@ -129,9 +123,6 @@ ua	B
 nruj	I
 ua	I
 tsiv	I
-nruj	O
-ua	O
-tsiv	O
 ,	O
 ib	O
 hnub	O
@@ -317,9 +308,6 @@ lawv	B
 vaj	I
 lawv	I
 tsev	I
-vaj	O
-lawv	O
-tsev	O
 .	O
 
 
@@ -622,9 +610,6 @@ nyias	B
 vaj	I
 nyias	I
 tsev	I
-vaj	O
-nyias	O
-tsev	O
 lawm	O
 .	O
 
@@ -800,9 +785,6 @@ tsis	B
 mus	I
 tsis	I
 los	I
-mus	O
-tsis	O
-los	O
 ces	O
 zag	O
 nuav	O
@@ -822,9 +804,6 @@ ua	B
 kub	I
 ua	I
 ntxhuv	I
-kub	O
-ua	O
-ntxhuv	O
 thawb	O
 cov	O
 mi	O
@@ -1003,9 +982,6 @@ ua	B
 mus	I
 ua	I
 los	I
-mus	O
-ua	O
-los	O
 ces	O
 mag	O
 soo	O
@@ -1978,17 +1954,11 @@ yus	B
 neej	I
 yus	I
 tsav	I
-neej	O
-yus	O
-tsav	O
 ,	O
 yus	B
 kwv	I
 yus	I
 tij	I
-kwv	O
-yus	O
-tij	O
 raug	O
 luag	O
 ntaus	O

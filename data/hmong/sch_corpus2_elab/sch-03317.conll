@@ -264,9 +264,6 @@ hauv	B
 zej	I
 hauv	I
 zos	I
-zej	O
-hauv	O
-zos	O
 kom	O
 tib	O
 neeg	O
@@ -315,9 +312,6 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 rau	O
 lawv	O
 3	O
@@ -996,9 +990,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 ,	O
 koj	O
 mus	O
@@ -1006,9 +997,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 li	O
 hmoob	O
 lub	O
@@ -1124,9 +1112,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 .	O
 
 
@@ -1150,9 +1135,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 no	O
 ,	O
 nyias	O

@@ -1106,9 +1106,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 hauv	O
 nej	O
 lub	O
@@ -1422,9 +1419,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 tsis	O
 zoo	O
 tas	O

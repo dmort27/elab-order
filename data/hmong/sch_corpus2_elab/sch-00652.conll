@@ -171,9 +171,6 @@ nej	B
 poj	I
 nej	I
 yawm	I
-poj	O
-nej	O
-yawm	O
 ?	O
 
 
@@ -2347,9 +2344,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 twb	O
 muaj	O
 hom	O
@@ -2910,9 +2904,6 @@ txhua	B
 tsav	I
 txhua	I
 yam	I
-tsav	O
-txhua	O
-yam	O
 ua	O
 kuv	O
 lub	O
@@ -2973,9 +2964,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 zoo	O
 es	O
 yus	O
@@ -3650,9 +3638,6 @@ kub	B
 ub	I
 kub	I
 no	I
-ub	O
-kub	O
-no	O
 tuaj	O
 ntag	O
 pob	O
@@ -3760,9 +3745,6 @@ mob	B
 ub	I
 mob	I
 no	I
-ub	O
-mob	O
-no	O
 txawv2	O
 thiab	O
 ntag	O

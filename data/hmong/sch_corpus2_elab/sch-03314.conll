@@ -1034,9 +1034,6 @@ ntau	B
 leej	I
 ntau	I
 tus	I
-leej	O
-ntau	O
-tus	O
 huav	O
 nov	O
 .	O
@@ -1052,16 +1049,10 @@ tiv	B
 tshav	I
 tiv	I
 nag	I
-tshav	O
-tiv	O
-nag	O
 tiv	B
 tsov	I
 tiv	I
 rog	I
-tsov	O
-tiv	O
-rog	O
 tiv	O
 ciaj	O
 tiv	O
@@ -1121,9 +1112,6 @@ ntau	B
 leej	I
 ntau	I
 tus	I
-leej	O
-ntau	O
-tus	O
 thaum	O
 laus	O
 li	O

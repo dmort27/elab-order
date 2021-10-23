@@ -1128,9 +1128,6 @@ nws	B
 kwv	I
 nws	I
 tij	I
-kwv	O
-nws	O
-tij	O
 tua	O
 cais	O
 nws	O
@@ -1529,9 +1526,6 @@ nws	B
 kwv	I
 nws	I
 tij	I
-kwv	O
-nws	O
-tij	O
 tua	O
 cais	O
 nws	O
@@ -1819,9 +1813,6 @@ qee	B
 leej	I
 qee	I
 tus	I
-leej	O
-qee	O
-tus	O
 .	O
 
 
@@ -2017,9 +2008,6 @@ muaj	B
 tsuv	I
 muaj	I
 rog	I
-tsuv	O
-muaj	O
-rog	O
 le	O
 ntawd	O
 es	O

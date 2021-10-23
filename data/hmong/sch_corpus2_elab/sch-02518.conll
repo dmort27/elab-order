@@ -125,9 +125,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 kom	O
 zoo	O
 tso	O
@@ -578,9 +575,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 tibyam	O
 li	O
 lwm	O
@@ -672,9 +666,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 los	O
 rhuav	O
 nws	O
@@ -733,9 +724,6 @@ tau	B
 dawb	I
 tau	I
 do	I
-dawb	O
-tau	O
-do	O
 ..	O
 thaum	O
 xav	O
@@ -1164,9 +1152,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 thiab	O
 lwm	O
 yam	O
@@ -1276,9 +1261,6 @@ luag	B
 niam	I
 luag	I
 txiv	I
-niam	O
-luag	O
-txiv	O
 thiab	O
 es	O
 luag	O
@@ -1349,9 +1331,6 @@ hwm	B
 niam	I
 hwm	I
 txiv	I
-niam	O
-hwm	O
-txiv	O
 thiab	O
 ua	O
 nkawd	O
@@ -1907,9 +1886,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 thiab	O
 economy	O
 mas	O

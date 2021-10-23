@@ -423,9 +423,6 @@ muaj	B
 tsov	I
 muaj	I
 rog	I
-tsov	O
-muaj	O
-rog	O
 lawm	O
 ,	O
 kav	O
@@ -443,9 +440,6 @@ yus	B
 vaj	I
 yus	I
 tsev	I
-vaj	O
-yus	O
-tsev	O
 ces	O
 los	O
 thaum	O

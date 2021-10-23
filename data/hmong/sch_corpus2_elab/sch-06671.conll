@@ -675,9 +675,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 ntawd	O
 laud	O
@@ -1123,9 +1120,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 lod	O
 ?	O
 
@@ -1168,9 +1162,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 tuaj	O
 .	O
 
@@ -1729,9 +1720,6 @@ ua	B
 vaj	I
 ua	I
 tsev	I
-vaj	O
-ua	O
-tsev	O
 zoo	O
 haujsim	O
 rau	O
@@ -1893,9 +1881,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 me	O
 ntsis	O
 vim	O

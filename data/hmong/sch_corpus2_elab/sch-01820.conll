@@ -80,9 +80,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 los	O
 nrog	O
 tus	O
@@ -172,17 +169,11 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 dag	O
 tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 thiab	O
 .	O
 
@@ -1131,9 +1122,6 @@ yeej	B
 koob	I
 yeej	I
 huam	I
-koob	O
-yeej	O
-huam	O
 rau	O
 tus	O
 txiv	O
@@ -1219,9 +1207,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 qab	O
 ua	O
 pes	O

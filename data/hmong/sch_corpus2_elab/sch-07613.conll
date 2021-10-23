@@ -219,9 +219,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 rau	O
 yus	O
 tej	O
@@ -242,9 +239,6 @@ tsi	B
 txawj	I
 tsi	I
 ntse	I
-txawj	O
-tsi	O
-ntse	O
 es	O
 lam	O
 qw	O
@@ -343,9 +337,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 thiaj	O
 li	O
 muaj	O
@@ -526,9 +517,6 @@ muaj	B
 vaaj	I
 muaj	I
 tsev	I
-vaaj	O
-muaj	O
-tsev	O
 taag	O
 lawm	O
 los	O
@@ -564,9 +552,6 @@ muaj	B
 vaaj	I
 muaj	I
 tsev	I
-vaaj	O
-muaj	O
-tsev	O
 .	O
 
 
@@ -1804,9 +1789,6 @@ sib	B
 koom	I
 sib	I
 hlub	I
-koom	O
-sib	O
-hlub	O
 ua	O
 tuab	O
 lub	O
@@ -2853,9 +2835,6 @@ ua	B
 paab	I
 ua	I
 pawg	I
-paab	O
-ua	O
-pawg	O
 .	O
 
 

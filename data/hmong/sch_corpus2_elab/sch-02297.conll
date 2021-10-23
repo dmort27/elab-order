@@ -475,9 +475,6 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 .	O
 
 
@@ -863,9 +860,6 @@ nyiag	B
 noj	I
 nyiag	I
 haus	I
-noj	O
-nyiag	O
-haus	O
 ntag	O
 nas	O
 .	O
@@ -1106,9 +1100,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 .	O
 
 
@@ -1280,9 +1271,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 tuaj	O
 ces	O
 thaum	O

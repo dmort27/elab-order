@@ -37,9 +37,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 yuav	O
 tau	O
 rau	O
@@ -277,9 +274,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 hauv	O
 laos	O
 thiab	O
@@ -330,9 +324,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 kom	O
 lawv	O
 nriav	O
@@ -340,9 +331,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 los	O
 pab	O
 lawv	O
@@ -359,9 +347,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 rau	O
 lawv	O
 .	O

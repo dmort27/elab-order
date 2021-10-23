@@ -78,9 +78,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -162,9 +159,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 huv	O
 tib	O
 si	O
@@ -417,9 +411,6 @@ xab	B
 nom	I
 xab	I
 tswv	I
-nom	O
-xab	O
-tswv	O
 tsis	O
 yog	O
 nyiaj	O
@@ -577,9 +568,6 @@ plis	B
 mus	I
 plis	I
 los	I
-mus	O
-plis	O
-los	O
 yeej	O
 tsi	O
 ua	O

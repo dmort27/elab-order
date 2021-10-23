@@ -1311,9 +1311,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 ,	O
 sure	O
 lawv	O
@@ -1593,9 +1590,6 @@ tub	B
 nom	I
 tub	I
 tswv	I
-nom	O
-tub	O
-tswv	O
 li	O
 Cha	O
 Vang	O
@@ -2123,9 +2117,6 @@ muas	B
 zaub	I
 muas	I
 mov	I
-zaub	O
-muas	O
-mov	O
 thiab	O
 yuav	O
 ristsho	O

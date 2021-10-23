@@ -482,9 +482,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 dlaab	O
 tsi	O
 puab	O
@@ -504,9 +501,6 @@ yas	B
 kev	I
 yas	I
 ncua	I
-kev	O
-yas	O
-ncua	O
 los	O
 tub	O
 tsis	O
@@ -524,9 +518,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 moog	O
 nyam	O
 raug	O
@@ -951,9 +942,6 @@ lob	B
 ub	I
 lob	I
 nua	I
-ub	O
-lob	O
-nua	O
 tej	O
 yaam	O
 yug	O
@@ -1049,9 +1037,6 @@ ua	B
 xyoob	I
 ua	I
 ntoo	I
-xyoob	O
-ua	O
-ntoo	O
 los	O
 ntshai	O
 tsam	O
@@ -1224,9 +1209,6 @@ me	B
 kab	I
 me	I
 ntsaum	I
-kab	O
-me	O
-ntsaum	O
 tib	O
 si	O
 ne	O
@@ -1522,9 +1504,6 @@ tshum	B
 ub	I
 tshum	I
 no	I
-ub	O
-tshum	O
-no	O
 kom	O
 muaj	O
 lus	O

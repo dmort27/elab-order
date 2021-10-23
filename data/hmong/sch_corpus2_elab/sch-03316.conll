@@ -324,9 +324,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 .	O
 
 
@@ -729,9 +726,6 @@ muaj	B
 tshoob	I
 muaj	I
 kos	I
-tshoob	O
-muaj	O
-kos	O
 thiaj	O
 li	O
 coj	O
@@ -972,9 +966,6 @@ ua	B
 txij	I
 ua	I
 nkawm	I
-txij	O
-ua	O
-nkawm	O
 rau	O
 peb	O
 luag	O
@@ -1188,9 +1179,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 .	O
 
 
@@ -1769,18 +1757,12 @@ hlub	B
 niam	I
 hlub	I
 txiv	I
-niam	O
-hlub	O
-txiv	O
 ,	O
 tsi	O
 hlub	B
 kwv	I
 hlub	I
 tij	I
-kwv	O
-hlub	O
-tij	O
 4.	O
 ua	O
 txiv	O
@@ -1837,9 +1819,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 loj	O
 ua	O
 teb	O
@@ -2087,9 +2066,6 @@ ua	B
 ntsej	I
 ua	I
 muag	I
-ntsej	O
-ua	O
-muag	O
 rau	O
 ntawd	O
 ,	O

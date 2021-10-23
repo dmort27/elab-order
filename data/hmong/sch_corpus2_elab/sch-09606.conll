@@ -61,9 +61,6 @@ hauv	B
 paus	I
 hauv	I
 ntsis	I
-paus	O
-hauv	O
-ntsis	O
 nej	O
 .	O
 
@@ -1162,17 +1159,11 @@ rooj	B
 noj	I
 rooj	I
 haus	I
-noj	O
-rooj	O
-haus	O
 ,	O
 ntees	B
 ploj	I
 ntees	I
 tuag	I
-ploj	O
-ntees	O
-tuag	O
 .	O
 
 
@@ -1317,9 +1308,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 .	O
 
 
@@ -1338,9 +1326,6 @@ ntees	B
 ploj	I
 ntees	I
 tuag	I
-ploj	O
-ntees	O
-tuag	O
 ,	O
 mus	O
 saib	O
@@ -1349,9 +1334,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 ,	O
 koj	O
 thiaj	O
@@ -1632,9 +1614,6 @@ kev	B
 dab	I
 kev	I
 qhua	I
-dab	O
-kev	O
-qhua	O
 ,	O
 kev	O
 teev	O
@@ -1722,17 +1701,11 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 ,	O
 kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 thaib	O
 txawm	O
 yog	O
@@ -2177,17 +2150,11 @@ cov	B
 txheeb	I
 cov	I
 ze	I
-txheeb	O
-cov	O
-ze	O
 ,	O
 cov	B
 phooj	I
 cov	I
 ywg	I
-phooj	O
-cov	O
-ywg	O
 ,	O
 tsis	O
 hais	O
@@ -2264,9 +2231,6 @@ tub	B
 sab	I
 tub	I
 nyiag	I
-sab	O
-tub	O
-nyiag	O
 ,	O
 deev	O
 luag	O

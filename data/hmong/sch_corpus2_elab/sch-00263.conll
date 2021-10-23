@@ -1541,9 +1541,6 @@ tsis	B
 deb	I
 tsis	I
 ze	I
-deb	O
-tsis	O
-ze	O
 pestsawg	O
 tabsis	O
 yeej	O
@@ -1760,9 +1757,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 tas	O
 .	O
 
@@ -2102,9 +2096,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 peb	O
 xwb	O
 .	O

@@ -106,9 +106,6 @@ yog	B
 kev	I
 yog	I
 cai	I
-kev	O
-yog	O
-cai	O
 .	O
 
 
@@ -123,9 +120,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 rau	O
 ,	O
 yuav	O
@@ -135,9 +129,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 rau	O
 yus	O

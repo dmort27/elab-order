@@ -576,9 +576,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 thiab	O
 cov	O
 nej	O
@@ -647,9 +644,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 thiab	O
 muaj	O
 tebchaws	O
@@ -762,9 +756,6 @@ ua	B
 siv	I
 ua	I
 npog	I
-siv	O
-ua	O
-npog	O
 rau	O
 tej	O
 pej	O
@@ -969,9 +960,6 @@ raug	B
 ploj	I
 raug	I
 tuag	I
-ploj	O
-raug	O
-tuag	O
 es	O
 nws	O
 nyob	O
@@ -2618,9 +2606,6 @@ nrog	B
 paub	I
 nrog	I
 hnov	I
-paub	O
-nrog	O
-hnov	O
 thiab	O
 ov	O
 ,	O

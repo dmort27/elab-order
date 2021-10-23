@@ -311,9 +311,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -347,9 +344,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 yuav	O
 ua	O
 rau	O
@@ -964,9 +958,6 @@ tsis	B
 mus	I
 tsis	I
 los	I
-mus	O
-tsis	O
-los	O
 ,	O
 txog	O
 tav	O
@@ -1313,9 +1304,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -1361,9 +1349,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 txog	O
 yawg	O
 hlob	O
@@ -1856,9 +1841,6 @@ sib	B
 hlub	I
 sib	I
 paab	I
-hlub	O
-sib	O
-paab	O
 thaum	O
 peb	O
 Moob	O
@@ -3110,9 +3092,6 @@ khaws	B
 chim	I
 khaws	I
 ntxub	I
-chim	O
-khaws	O
-ntxub	O
 DYD	O
 xwb	O
 .	O
@@ -3167,9 +3146,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 tsis	O
 muaj	O
 kev	O

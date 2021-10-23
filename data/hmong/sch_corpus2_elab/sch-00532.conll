@@ -120,9 +120,6 @@ ua	B
 koob	I
 ua	I
 npe	I
-koob	O
-ua	O
-npe	O
 nrov	O
 .	O
 
@@ -826,9 +823,6 @@ puas	B
 paub	I
 puas	I
 pom	I
-paub	O
-puas	O
-pom	O
 tiag2	O
 nws	O
 thiaj	O
@@ -860,9 +854,6 @@ nyuj	B
 ciab	I
 nyuj	I
 ncau	I
-ciab	O
-nyuj	O
-ncau	O
 uas	O
 muaj	O
 neeg	O
@@ -1363,9 +1354,6 @@ tsis	B
 pom	I
 tsis	I
 paub	I
-pom	O
-tsis	O
-paub	O
 .	O
 
 
@@ -1387,9 +1375,6 @@ tsis	B
 pom	I
 tsis	I
 paub	I
-pom	O
-tsis	O
-paub	O
 vim	O
 kuv	O
 yug	O
@@ -1603,9 +1588,6 @@ tas	B
 phab	I
 tas	I
 pheev	I
-phab	O
-tas	O
-pheev	O
 li	O
 no	O
 es	O

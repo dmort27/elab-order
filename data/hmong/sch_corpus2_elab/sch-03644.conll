@@ -134,9 +134,6 @@ dag	B
 ub	I
 dag	I
 no	I
-ub	O
-dag	O
-no	O
 nawb	O
 ,	O
 kuv	O
@@ -811,9 +808,6 @@ kaug	B
 ub	I
 kaug	I
 nuav	I
-ub	O
-kaug	O
-nuav	O
 tsig	O
 muaj	O
 tom	O
@@ -1244,9 +1238,6 @@ kaug	B
 ub	I
 kaug	I
 nuav	I
-ub	O
-kaug	O
-nuav	O
 tsig	O
 muaj	O
 tom	O

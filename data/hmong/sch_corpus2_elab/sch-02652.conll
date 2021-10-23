@@ -537,9 +537,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 ,	O
 tsi	O
 mus	O
@@ -550,9 +547,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 --	O
 vim	O
 lub	O
@@ -565,9 +559,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 yog	O
 qhov	O
 tseemceeb	O
@@ -1120,9 +1111,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 yog	O
 txojkev	O
 tsa	O
@@ -1131,9 +1119,6 @@ muaj	B
 phooj	I
 muaj	I
 ywg	I
-phooj	O
-muaj	O
-ywg	O
 tawm	O
 tuaj	O
 .	O
@@ -1245,9 +1230,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 ,	O
 Tiam	O
 si	O
@@ -1474,9 +1456,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 no	O
 ces	O
 yog	O
@@ -1493,9 +1472,6 @@ mus	B
 noj	I
 mus	I
 haus	I
-noj	O
-mus	O
-haus	O
 xwb	O
 .	O
 

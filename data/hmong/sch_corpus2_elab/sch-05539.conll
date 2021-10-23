@@ -197,9 +197,6 @@ txhua	B
 tsav	I
 txhua	I
 yam	I
-tsav	O
-txhua	O
-yam	O
 pauv	O
 tag	O
 lawm	O
@@ -1145,17 +1142,11 @@ ua	B
 dlej	I
 ua	I
 num	I
-dlej	O
-ua	O
-num	O
 moog	O
 tsi	B
 ncaaj	I
 tsi	I
 nceeg	I
-ncaaj	O
-tsi	O
-nceeg	O
 .	O
 
 
@@ -2200,17 +2191,11 @@ hlub	B
 kwv	I
 hlub	I
 tij	I
-kwv	O
-hlub	O
-tij	O
 ,	O
 hlub	B
 neej	I
 hlub	I
 tsav	I
-neej	O
-hlub	O
-tsav	O
 tibsis	O
 hos	O
 .	O
@@ -2247,9 +2232,6 @@ mes	B
 tub	I
 mes	I
 ntxhais	I
-tub	O
-mes	O
-ntxhais	O
 ,	O
 peb	O
 tsis	O
@@ -2260,9 +2242,6 @@ uas	B
 dog	I
 uas	I
 dig	I
-dog	O
-uas	O
-dig	O
 .	O
 
 
@@ -3081,9 +3060,6 @@ sib	B
 daj	I
 sib	I
 dee	I
-daj	O
-sib	O
-dee	O
 saib	O
 hlob	O
 li	O

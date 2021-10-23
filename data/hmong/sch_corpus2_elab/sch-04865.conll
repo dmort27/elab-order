@@ -99,9 +99,6 @@ lawv	B
 noj	I
 lawv	I
 haus	I
-noj	O
-lawv	O
-haus	O
 lholi	O
 .	O
 
@@ -337,9 +334,6 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 tso	O
 ncauj	O
 tso	O
@@ -349,9 +343,6 @@ dab	B
 txeej	I
 dab	I
 qus	I
-txeej	O
-dab	O
-qus	O
 thiaj	O
 txeem	O
 tsev	O
@@ -1004,9 +995,6 @@ lawv	B
 noj	I
 lawv	I
 haus	I
-noj	O
-lawv	O
-haus	O
 lholi	O
 .	O
 
@@ -1242,9 +1230,6 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 tso	O
 ncauj	O
 tso	O
@@ -1254,9 +1239,6 @@ dab	B
 txeej	I
 dab	I
 qus	I
-txeej	O
-dab	O
-qus	O
 thiaj	O
 txeem	O
 tsev	O

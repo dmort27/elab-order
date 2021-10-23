@@ -67,9 +67,6 @@ dej	B
 siab	I
 dej	I
 ntsws	I
-siab	O
-dej	O
-ntsws	O
 xwb	O
 os	O
 ...	O
@@ -210,9 +207,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ntau	O
 zaus	O
 lawm	O
@@ -280,9 +274,6 @@ kho	B
 vaj	I
 kho	I
 tsev	I
-vaj	O
-kho	O
-tsev	O
 heev	O
 dhau	O
 hwv	O
@@ -390,9 +381,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 ......	O
 hluas	O
 nkauj	O
@@ -538,9 +526,6 @@ neeg	B
 txheeb	I
 neeg	I
 ze	I
-txheeb	O
-neeg	O
-ze	O
 ......	O
 Fajkhaum	O
 ces	O

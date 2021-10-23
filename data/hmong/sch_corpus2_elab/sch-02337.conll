@@ -528,9 +528,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 coj	O
 mus	O
 nrauj	O
@@ -765,9 +762,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 ntawd	O
 mas	O
 --	O
@@ -781,9 +775,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 es	O
 nqa	O
 quav	O
@@ -937,9 +928,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 yeej	O
 hais	O
 meej	O
@@ -1081,9 +1069,6 @@ da	B
 quav	I
 da	I
 zis	I
-quav	O
-da	O
-zis	O
 ib	O
 hnub	O
 tsaus	O
@@ -1134,9 +1119,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 kiag	O
 los	O
 xij	O
@@ -1318,9 +1300,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 os	O
 mog	O
 .	O

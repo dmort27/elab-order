@@ -252,9 +252,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 txoj	O
 kev	O
 hloov	O
@@ -555,9 +552,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 le	O
 thaum	O
 25-35	O
@@ -836,9 +830,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 .	O
 
 
@@ -1001,9 +992,6 @@ tas	B
 zaj	I
 tas	I
 zog	I
-zaj	O
-tas	O
-zog	O
 ..	O
 2	O
 .	O
@@ -1107,16 +1095,10 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 txiv	B
 hlob	I
 txiv	I
 yau	I
-hlob	O
-txiv	O
-yau	O
 .	O
 
 
@@ -1144,16 +1126,10 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 txiv	B
 hlob	I
 txiv	I
 yau	I
-hlob	O
-txiv	O
-yau	O
 .	O
 
 
@@ -1558,9 +1534,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 tabsi	O
 ua	O
 le	O
@@ -1649,9 +1622,6 @@ tub	B
 qoob	I
 tub	I
 loo	I
-qoob	O
-tub	O
-loo	O
 yuav	O
 ua	O
 tau	O
@@ -1838,9 +1808,6 @@ tau	B
 nom	I
 tau	I
 tswv	I
-nom	O
-tau	O
-tswv	O
 3	O
 )	O
 ntshaw	O

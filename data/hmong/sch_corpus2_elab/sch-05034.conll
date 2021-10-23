@@ -198,9 +198,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 tiam	O
 sis	O
 ho	O
@@ -445,9 +442,6 @@ koom	B
 niam	I
 koom	I
 txiv	I
-niam	O
-koom	O
-txiv	O
 tiag	O
 tiam	O
 sis	O
@@ -537,9 +531,6 @@ koom	B
 niam	I
 koom	I
 txiv	I
-niam	O
-koom	O
-txiv	O
 .	O
 
 

@@ -66,26 +66,17 @@ xav	B
 neej	I
 xav	I
 tsav	I
-neej	O
-xav	O
-tsav	O
 ,	O
 koj	O
 saib	B
 kwv	I
 saib	I
 tij	I
-kwv	O
-saib	O
-tij	O
 ,	O
 xav	B
 phooj	I
 xav	I
 ywg	I
-phooj	O
-xav	O
-ywg	O
 ...	O
 ces	O
 koj	O
@@ -96,9 +87,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 txhob	O
 muaj	O
 ib	O
@@ -348,9 +336,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 qub	O
 thaum	O
 ub	O
@@ -735,9 +720,6 @@ kev	B
 txheeb	I
 kev	I
 ze	I
-txheeb	O
-kev	O
-ze	O
 thiab	O
 kev	O
 phooj	O
@@ -916,9 +898,6 @@ ua	B
 phooj	I
 ua	I
 ywg	I
-phooj	O
-ua	O
-ywg	O
 thiab	O
 .	O
 
@@ -1050,9 +1029,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 (	O
 dyadic	O
 )	O
@@ -1142,9 +1118,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 mas	O
 hmoob	O
 xav	O
@@ -1153,9 +1126,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 ,	O
 tiam	O
 si	O
@@ -1166,9 +1136,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 no	O
 mas	O
 hmoob	O

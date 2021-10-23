@@ -189,9 +189,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 ...	O
 Phiaj	O
 Has	O
@@ -1316,9 +1313,6 @@ tus	B
 niam	I
 tus	I
 txiv	I
-niam	O
-tus	O
-txiv	O
 no	O
 mas	O
 nkawv	O

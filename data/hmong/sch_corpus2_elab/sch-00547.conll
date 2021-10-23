@@ -15,9 +15,6 @@ kub	B
 ub	I
 kub	I
 no	I
-ub	O
-kub	O
-no	O
 kom	O
 kawg	O
 ntag.Wb	O
@@ -206,9 +203,6 @@ yog	B
 neej	I
 yog	I
 tsav	I
-neej	O
-yog	O
-tsav	O
 ....	O
 yog	O
 koj	O
@@ -863,9 +857,6 @@ thov	B
 ntuj	I
 thov	I
 teb	I
-ntuj	O
-thov	O
-teb	O
 dhau	O
 li	O
 ces	O
@@ -1125,9 +1116,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 ,	O
 tau	O
 txias	O
@@ -1135,9 +1123,6 @@ kev	B
 quaj	I
 kev	I
 nyiav	I
-quaj	O
-kev	O
-nyiav	O
 ,	O
 tau	O
 txais	O
@@ -1155,9 +1140,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 zoo	O
 li	O
 case	O
@@ -1399,9 +1381,6 @@ khib	B
 ciaj	I
 khib	I
 tuag	I
-ciaj	O
-khib	O
-tuag	O
 ''	O
 ntag	O
 .	O
@@ -1535,9 +1514,6 @@ hmoob	B
 kev	I
 hmoob	I
 cai	I
-kev	O
-hmoob	O
-cai	O
 ces	O
 LIS	O
 thiab	O

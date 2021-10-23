@@ -341,9 +341,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 sib	O
 yuav	O
 tau	O
@@ -388,9 +385,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 kiag	O
 rau	O
 ntag	O
@@ -973,9 +967,6 @@ yog	B
 kwv	I
 yog	I
 tij	I
-kwv	O
-yog	O
-tij	O
 ,	O
 yog	O
 tuab	O
@@ -1026,9 +1017,6 @@ tam	B
 niam	I
 tam	I
 txiv	I
-niam	O
-tam	O
-txiv	O
 thiab	O
 tam	O
 lub	O
@@ -1554,9 +1542,6 @@ lug	B
 dlev	I
 lug	I
 npua	I
-dlev	O
-lug	O
-npua	O
 txaus	O
 lawm	O
 .	O

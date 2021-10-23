@@ -382,9 +382,6 @@ tsis	B
 deb	I
 tsis	I
 ze	I
-deb	O
-tsis	O
-ze	O
 .	O
 
 
@@ -724,9 +721,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 lawm	O
 nawb	O
 .	O
@@ -767,9 +761,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 los	O
 thov	O
 saib	O

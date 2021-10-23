@@ -363,9 +363,6 @@ yuav	B
 cem	I
 yuav	I
 hais	I
-cem	O
-yuav	O
-hais	O
 mus	O
 hais	O
 tus	O
@@ -1530,9 +1527,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 xwb	O
 .	O
 

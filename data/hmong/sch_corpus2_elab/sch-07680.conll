@@ -341,9 +341,6 @@ nrog	B
 fuab	I
 nrog	I
 cua	I
-fuab	O
-nrog	O
-cua	O
 .	O
 
 
@@ -1802,9 +1799,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 lus	O
 ,	O
 los	O
@@ -1879,9 +1873,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 nyob	O
 lawm	O
 ntuj	O
@@ -1988,16 +1979,10 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 koj	B
 kwv	I
 koj	I
 tij	I
-kwv	O
-koj	O
-tij	O
 tus	O
 koj	O
 lub	O
@@ -2088,9 +2073,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 txaus	O
 nkaus	O
 hos	O

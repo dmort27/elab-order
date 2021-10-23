@@ -200,9 +200,6 @@ qhov	B
 zoo	I
 qhov	I
 phem	I
-zoo	O
-qhov	O
-phem	O
 coj	O
 los	O
 tham	O
@@ -294,9 +291,6 @@ tus	B
 txiaj	I
 tus	I
 ntsim	I
-txiaj	O
-tus	O
-ntsim	O
 dhau	O
 los	O
 rau	O
@@ -920,9 +914,6 @@ sib	B
 hlub	I
 sib	I
 paab	I
-hlub	O
-sib	O
-paab	O
 .	O
 
 
@@ -1702,9 +1693,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 ,	O
 yus	O
 kuj	O
@@ -2547,9 +2535,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 mas	O
 txhaj	O
 yuav	O

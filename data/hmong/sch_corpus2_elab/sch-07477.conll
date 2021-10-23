@@ -63,9 +63,6 @@ yawm	B
 yij	I
 yawm	I
 dab	I
-yij	O
-yawm	O
-dab	O
 mus	O
 yos	O
 hav	O
@@ -255,9 +252,6 @@ yawm	B
 yij	I
 yawm	I
 dab	I
-yij	O
-yawm	O
-dab	O
 es	O
 yog	O
 lwm	O
@@ -587,9 +581,6 @@ nyias	B
 vaj	I
 nyias	I
 tsev	I
-vaj	O
-nyias	O
-tsev	O
 mas	O
 nyias	O
 yeej	O
@@ -1639,9 +1630,6 @@ tsis	B
 ruaj	I
 tsis	I
 khov	I
-ruaj	O
-tsis	O
-khov	O
 .	O
 
 
@@ -2261,9 +2249,6 @@ muaj	B
 kuab	I
 muaj	I
 tshuaj	I
-kuab	O
-muaj	O
-tshuaj	O
 heev	O
 li	O
 ,	O

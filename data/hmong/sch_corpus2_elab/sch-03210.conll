@@ -60,9 +60,6 @@ tsib	B
 nuj	I
 tsib	I
 nqi	I
-nuj	O
-tsib	O
-nqi	O
 thiab	O
 tseem	O
 ho	O
@@ -134,9 +131,6 @@ laug	B
 caij	I
 laug	I
 nyoog	I
-caij	O
-laug	O
-nyoog	O
 tuaj	O
 nyob	O
 tsib	O
@@ -304,9 +298,6 @@ ua	B
 kev	I
 ua	I
 cai	I
-kev	O
-ua	O
-cai	O
 lij	O
 choj	O
 hais	O
@@ -501,9 +492,6 @@ kev	B
 ncaj	I
 kev	I
 ncees	I
-ncaj	O
-kev	O
-ncees	O
 taug	O
 xwb	O
 .	O
@@ -537,9 +525,6 @@ tej	B
 tub	I
 tej	I
 kiv	I
-tub	O
-tej	O
-kiv	O
 yuav	O
 yog	O
 cov	O

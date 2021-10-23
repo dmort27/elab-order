@@ -351,9 +351,6 @@ tus	B
 dag	I
 tus	I
 zog	I
-dag	O
-tus	O
-zog	O
 mas	O
 nws	O
 tsev	O
@@ -406,9 +403,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 .	O
 
 
@@ -543,9 +537,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 rua	O
 nwg	O
 hab	O
@@ -824,9 +815,6 @@ neeg	B
 ncaj	I
 neeg	I
 ncees	I
-ncaj	O
-neeg	O
-ncees	O
 coob	O
 baum	O
 cas	O

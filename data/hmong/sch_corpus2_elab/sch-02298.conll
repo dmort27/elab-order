@@ -844,9 +844,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 sib	O
 yuav	O
 thiab	O
@@ -957,9 +954,6 @@ coj	B
 teb	I
 coj	I
 chaw	I
-teb	O
-coj	O
-chaw	O
 .	O
 
 
@@ -1245,9 +1239,6 @@ fim	B
 ntsej	I
 fim	I
 muag	I
-ntsej	O
-fim	O
-muag	O
 sibtham	O
 es	O
 ibleeg	O
@@ -1357,9 +1348,6 @@ muaj	B
 qab	I
 muaj	I
 hau	I
-qab	O
-muaj	O
-hau	O
 kawg	O
 thiab	O
 .	O

@@ -120,9 +120,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 lawm	O
 coob	O
 tus	O
@@ -630,9 +627,6 @@ poob	B
 nyiaj	I
 poob	I
 txiaj	I
-nyiaj	O
-poob	O
-txiaj	O
 ,	O
 vaj	O
 tse	O
@@ -721,9 +715,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 zoo	O
 lawm	O
 ,	O
@@ -867,9 +858,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 nyob	O
 plog	O
 teb	O

@@ -1272,9 +1272,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 xwb	O
 tiag	O
 mas	O
@@ -2709,9 +2706,6 @@ sib	B
 txheeb	I
 sib	I
 ze	I
-txheeb	O
-sib	O
-ze	O
 .	O
 
 
@@ -3510,9 +3504,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 rau	O
 kev	O
 sibtham	O
@@ -4911,9 +4902,6 @@ sib	B
 txheeb	I
 sib	I
 ze	I
-txheeb	O
-sib	O
-ze	O
 .	O
 
 
@@ -5264,9 +5252,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 rau	O
 kev	O
 sibtham	O
@@ -5556,9 +5541,6 @@ yog	B
 niam	I
 yog	I
 txiv	I
-niam	O
-yog	O
-txiv	O
 lawm	O
 --	O
 ces	O

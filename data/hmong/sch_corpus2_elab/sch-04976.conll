@@ -815,9 +815,6 @@ raug	B
 ntes	I
 raug	I
 kaw	I
-ntes	O
-raug	O
-kaw	O
 thiab	O
 los	O
 coob	O
@@ -1181,9 +1178,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 nyob	O
 los	O
 yeej	O
@@ -1486,9 +1480,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 tiag	O
 .....	O
@@ -1952,9 +1943,6 @@ nyob	B
 nuj	I
 nyob	I
 nqi	I
-nuj	O
-nyob	O
-nqi	O
 xwb	O
 .	O
 
@@ -2037,9 +2025,6 @@ nyob	B
 nuj	I
 nyob	I
 nqi	I
-nuj	O
-nyob	O
-nqi	O
 xwb	O
 .	O
 
@@ -2629,9 +2614,6 @@ xuas	B
 dag	I
 xuas	I
 zog	I
-dag	O
-xuas	O
-zog	O
 mus	O
 lwm	O
 ua	O
@@ -2695,9 +2677,6 @@ cov	B
 neej	I
 cov	I
 tsav	I
-neej	O
-cov	O
-tsav	O
 tid	O
 .	O
 
@@ -2956,9 +2935,6 @@ khoom	B
 noj	I
 khoom	I
 haus	I
-noj	O
-khoom	O
-haus	O
 los	O
 kuj	O
 yog	O
@@ -3965,9 +3941,6 @@ tseev	B
 noj	I
 tseev	I
 haus	I
-noj	O
-tseev	O
-haus	O
 lawm	O
 .	O
 

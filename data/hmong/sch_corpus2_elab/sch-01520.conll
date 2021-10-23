@@ -264,9 +264,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 tias	O
 seb	O
 peb	O
@@ -528,9 +525,6 @@ tuag	B
 tes	I
 tuag	I
 taw	I
-tes	O
-tuag	O
-taw	O
 ,	O
 zoo	O
 mob	O
@@ -768,9 +762,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 mas	O
 nyob	O
 ntawm	O
@@ -822,9 +813,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 lawv	O
 tsuas	O
@@ -838,9 +826,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 yoojyim	O
 xwb	O
 .	O

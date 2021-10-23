@@ -261,9 +261,6 @@ tham	B
 txhij	I
 tham	I
 txhua	I
-txhij	O
-tham	O
-txhua	O
 rau	O
 peb	O
 mloog	O
@@ -320,9 +317,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 os	O
 nawb	O
 .	O

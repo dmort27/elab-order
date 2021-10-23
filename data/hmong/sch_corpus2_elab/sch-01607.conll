@@ -882,9 +882,6 @@ koom	B
 siab	I
 koom	I
 ntsws	I
-siab	O
-koom	O
-ntsws	O
 mas	O
 thiaj	O
 uav	O
@@ -989,9 +986,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 los	O
 yuav	O
 tau	O
@@ -1166,9 +1160,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 li	O
 USA	O
 lub	O
@@ -1294,9 +1285,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 yav	O
 tag	O
 coj	O
@@ -1336,9 +1324,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 yav	O
 tag	O
 lawm	O
@@ -1522,9 +1507,6 @@ sib	B
 pab	I
 sib	I
 koom	I
-pab	O
-sib	O
-koom	O
 sib	O
 txhawb	O
 ua	O

@@ -117,9 +117,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 thiab	O
 .	O
 
@@ -248,9 +245,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 ...	O
 ''	O
 zoo	O
@@ -1311,9 +1305,6 @@ tej	B
 sab	I
 tej	I
 ntsws	I
-sab	O
-tej	O
-ntsws	O
 lug	O
 ua	O
 neeg	O
@@ -1450,17 +1441,11 @@ zoo	B
 ntsej	I
 zoo	I
 muag	I
-ntsej	O
-zoo	O
-muag	O
 ,	O
 tsi	B
 txawj	I
 tsi	I
 ntse	I
-txawj	O
-tsi	O
-ntse	O
 ,	O
 es	O
 tsi	O
@@ -5855,9 +5840,6 @@ yeej	B
 pom	I
 yeej	I
 paub	I
-pom	O
-yeej	O
-paub	O
 kuv	O
 niamlub	O
 nra	O

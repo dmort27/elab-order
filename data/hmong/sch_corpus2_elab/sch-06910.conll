@@ -557,9 +557,6 @@ yuav	B
 txawj	I
 yuav	I
 ntse	I
-txawj	O
-yuav	O
-ntse	O
 ,	O
 yuav	O
 ua	O
@@ -765,9 +762,6 @@ yus	B
 noj	I
 yus	I
 haus	I
-noj	O
-yus	O
-haus	O
 xwb	O
 .	O
 
@@ -788,9 +782,6 @@ ntau	B
 tsav	I
 ntau	I
 yam	I
-tsav	O
-ntau	O
-yam	O
 tsis	O
 zoo	O
 los	O
@@ -1015,9 +1006,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 tuaj	O
 tsuas	O
 yog	O
@@ -1032,9 +1020,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 ntxiv	O
 xwb	O
 -	O

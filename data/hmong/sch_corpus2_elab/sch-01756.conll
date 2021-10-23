@@ -668,9 +668,6 @@ rau	B
 pem	I
 rau	I
 nram	I
-pem	O
-rau	O
-nram	O
 thoob	O
 America	O
 teb	O
@@ -758,9 +755,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 ces	O
 tsoom	O
 Hmoob	O
@@ -869,9 +863,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 txia	O
 kua	O
 xws	O
@@ -1194,9 +1185,6 @@ hais	B
 txhij	I
 hais	I
 txhua	I
-txhij	O
-hais	O
-txhua	O
 tej	O
 kev	O
 phem	O
@@ -1225,9 +1213,6 @@ kom	B
 yeej	I
 kom	I
 swb	I
-yeej	O
-kom	O
-swb	O
 ib	O
 zaug	O
 sej	O
@@ -1604,9 +1589,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 ,	O
 yog	O
 nws	O
@@ -2365,9 +2347,6 @@ ua	B
 kub	I
 ua	I
 heev	I
-kub	O
-ua	O
-heev	O
 tsuav	O
 cov	O
 thabham	O
@@ -4559,9 +4538,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 los	O
 hloov	O
 nws	O

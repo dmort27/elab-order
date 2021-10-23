@@ -117,9 +117,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 thaib	O
 laiv	O
 .	O
@@ -312,9 +309,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 .	O
 
 
@@ -723,9 +717,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 vim	O
 sawvdaws	O
 xav	O

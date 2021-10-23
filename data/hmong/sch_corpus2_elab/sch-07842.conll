@@ -603,9 +603,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 pab	O
 xwb	O
 ,	O
@@ -655,9 +652,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 koj	O
 mas	O

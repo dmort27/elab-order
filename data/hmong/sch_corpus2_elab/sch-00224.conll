@@ -273,9 +273,6 @@ ua	B
 mus	I
 ua	I
 los	I
-mus	O
-ua	O
-los	O
 cas	O
 koj	O
 txawm	O
@@ -375,9 +372,6 @@ has	B
 ub	I
 has	I
 nua	I
-ub	O
-has	O
-nua	O
 .	O
 
 
@@ -1226,9 +1220,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 hnov	O
 ces	O
 xyov	O
@@ -1409,9 +1400,6 @@ tsis	B
 txheeb	I
 tsis	I
 ze	I
-txheeb	O
-tsis	O
-ze	O
 nej	O
 qhov	O
 twg	O

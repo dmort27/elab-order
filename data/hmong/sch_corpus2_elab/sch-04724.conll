@@ -39,9 +39,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 hnyav	O
 nyob	O
 rau	O
@@ -63,9 +60,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 zaum	O
 no	O
 raws	O
@@ -122,9 +116,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 hnyav	O
 heev	O
 li	O
@@ -133,9 +124,6 @@ ib	B
 hnub	I
 ib	I
 hmo	I
-hnub	O
-ib	O
-hmo	O
 .	O
 
 

@@ -207,9 +207,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 .	O
 
 
@@ -492,9 +489,6 @@ yug	B
 tub	I
 yug	I
 kiv	I
-tub	O
-yug	O
-kiv	O
 tam	O
 sim	O
 no	O
@@ -560,9 +554,6 @@ cov	B
 tub	I
 cov	I
 kiv	I
-tub	O
-cov	O
-kiv	O
 lawm	O
 xwb	O
 .	O
@@ -1180,18 +1171,12 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 ,	O
 kev	O
 muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 xwb	O
 ces	O
 feem	O

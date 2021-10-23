@@ -57,9 +57,6 @@ cuag	B
 puj	I
 cuag	I
 yawm	I
-puj	O
-cuag	O
-yawm	O
 rua	O
 ntuj	O
 txag	O
@@ -1175,9 +1172,6 @@ sib	B
 koom	I
 sib	I
 pab	I
-koom	O
-sib	O
-pab	O
 ,	O
 los	O
 yog	O
@@ -1187,9 +1181,6 @@ yuav	B
 nyiaj	I
 yuav	I
 txiaj	I
-nyiaj	O
-yuav	O
-txiaj	O
 xwb	O
 ned	O
 ......	O
@@ -2188,9 +2179,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 moog	O
 yuav	O
 cov	O
@@ -2454,9 +2442,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 dlaab	O
 qhuas	O
 kuj	O
@@ -2667,9 +2652,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 tuaj	O
 sis	O
 koom	O
@@ -2910,9 +2892,6 @@ tej	B
 nam	I
 tej	I
 txiv	I
-nam	O
-tej	O
-txiv	O
 yeej	O
 yug	O
 puab	O
@@ -2927,9 +2906,6 @@ tej	B
 nam	I
 tej	I
 txiv	I
-nam	O
-tej	O
-txiv	O
 yeej	O
 tam	O
 puab	O
@@ -2971,9 +2947,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 dlaab	O
 qhuas	O
 Raws	O
@@ -3078,9 +3051,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 qub	O
 lawd	O
 mas	O
@@ -3535,9 +3505,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 nrug	O
 lwm	O
 tug	O
@@ -3570,9 +3537,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 5.	O
 moog	O
 vim	O
@@ -3655,9 +3619,6 @@ lub	B
 sab	I
 lub	I
 ntswg	I
-sab	O
-lub	O
-ntswg	O
 txhaj	O
 le	O
 tau	O

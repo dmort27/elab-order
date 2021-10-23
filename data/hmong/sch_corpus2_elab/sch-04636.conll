@@ -567,9 +567,6 @@ tus	B
 laus	I
 tus	I
 hluas	I
-laus	O
-tus	O
-hluas	O
 los	O
 yog	O
 thaum	O
@@ -975,9 +972,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 thiab	O
 hais	O
 xov	O
@@ -992,9 +986,6 @@ tas	B
 hnub	I
 tas	I
 hmo	I
-hnub	O
-tas	O
-hmo	O
 tiam	O
 sis	O
 ho	O
@@ -1098,9 +1089,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 los	O
 ib	O
 txhia	O
@@ -1217,9 +1205,6 @@ kev	B
 txob	I
 kev	I
 txhawj	I
-txob	O
-kev	O
-txhawj	O
 dab	O
 tsi	O
 li	O

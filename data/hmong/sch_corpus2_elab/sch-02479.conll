@@ -366,9 +366,6 @@ yoo	B
 tshaib	I
 yoo	I
 nqe	I
-tshaib	O
-yoo	O
-nqe	O
 mas	O
 txhaj	O
 yog	O
@@ -550,9 +547,6 @@ sib	B
 hlub	I
 sib	I
 paab	I
-hlub	O
-sib	O
-paab	O
 xwb	O
 le	O
 .	O
@@ -610,9 +604,6 @@ sib	B
 hlub	I
 sib	I
 paab	I
-hlub	O
-sib	O
-paab	O
 .	O
 
 
@@ -1532,9 +1523,6 @@ tsis	B
 paub	I
 tsis	I
 pum	I
-paub	O
-tsis	O
-pum	O
 es	O
 nyav	O
 nov	O

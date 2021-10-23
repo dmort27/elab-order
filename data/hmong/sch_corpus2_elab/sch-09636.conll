@@ -351,9 +351,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 kom	O
 cov	O
 neeg	O
@@ -558,9 +555,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 xwb	O
 .	O
 
@@ -611,9 +605,6 @@ luag	B
 noj	I
 luag	I
 haus	I
-noj	O
-luag	O
-haus	O
 lawm	O
 .	O
 
@@ -694,9 +685,6 @@ kam	B
 teb	I
 kam	I
 chaw	I
-teb	O
-kam	O
-chaw	O
 .	O
 
 
@@ -741,9 +729,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 rau	O
 yawg	O
 dab	O

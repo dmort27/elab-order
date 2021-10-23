@@ -746,9 +746,6 @@ hlob	B
 mus	I
 hlob	I
 los	I
-mus	O
-hlob	O
-los	O
 thiab	O
 ..	O
 temsis	O
@@ -1356,9 +1353,6 @@ maaj	B
 ntuj	I
 maaj	I
 teb	I
-ntuj	O
-maaj	O
-teb	O
 ...	O
 ceev	O
 ntsooj	O

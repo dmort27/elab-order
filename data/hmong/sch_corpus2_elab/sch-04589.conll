@@ -71,9 +71,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 ,	O
 txawm	O
 yuav	O
@@ -1310,9 +1307,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 li	O
 tijlaug	O
 Fajkhaum	O
@@ -1739,9 +1733,6 @@ kev	B
 phem	I
 kev	I
 qias	I
-phem	O
-kev	O
-qias	O
 ,	O
 kom	O
 lawv	O
@@ -2355,9 +2346,6 @@ tej	B
 zej	I
 tej	I
 zos	I
-zej	O
-tej	O
-zos	O
 aws	O
 .	O
 

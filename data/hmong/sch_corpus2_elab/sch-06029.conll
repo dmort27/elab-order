@@ -130,9 +130,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 lawm	O
 xwb	O
 .	O
@@ -147,9 +144,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 rau	O
 pem	O
 Hmoob	O
@@ -205,9 +199,6 @@ qhov	B
 nyiaj	I
 qhov	I
 kub	I
-nyiaj	O
-qhov	O
-kub	O
 rau	O
 teb	O
 chaws	O

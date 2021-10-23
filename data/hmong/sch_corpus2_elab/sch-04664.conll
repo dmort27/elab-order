@@ -108,9 +108,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 rau	O
 lub	O
 ntiaj	O
@@ -132,9 +129,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 .	O
 
 
@@ -776,9 +770,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 .	O
 
 

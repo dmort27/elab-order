@@ -286,9 +286,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ntawm	O
 tej	O
 neeg	O
@@ -1343,17 +1340,11 @@ luag	B
 vaj	I
 luag	I
 tsev	I
-vaj	O
-luag	O
-tsev	O
 cheb	O
 luag	B
 rooj	I
 luag	I
 tog	I
-rooj	O
-luag	O
-tog	O
 ,	O
 qiv	O
 luav	O
@@ -1849,9 +1840,6 @@ nyuag	B
 dog	I
 nyuag	I
 dig	I
-dog	O
-nyuag	O
-dig	O
 li	O
 no	O
 xwb	O
@@ -1942,9 +1930,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 tiag	O
 mas	O
 peb	O
@@ -2381,9 +2366,6 @@ hwm	B
 niam	I
 hwm	I
 txiv	I
-niam	O
-hwm	O
-txiv	O
 .	O
 
 
@@ -2397,9 +2379,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 ,	O
 ces	O
 koj	O
@@ -2434,9 +2413,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 .	O
 
 
@@ -3216,9 +3192,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 li	O
 HL	O
 ua	O
@@ -3306,9 +3279,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 li	O
 .	O
 
@@ -4165,9 +4135,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 li	O
 HL	O
 ua	O
@@ -4255,9 +4222,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 li	O
 .	O
 

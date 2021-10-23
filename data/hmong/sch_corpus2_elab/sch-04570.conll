@@ -1585,9 +1585,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 mam	O
 muab	O
 evidence	O
@@ -2559,9 +2556,6 @@ raug	B
 ntes	I
 raug	I
 kaw	I
-ntes	O
-raug	O
-kaw	O
 thiab	O
 .	O
 
@@ -2772,9 +2766,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 yeej	O
 muaj	O
 connection	O
@@ -2824,9 +2815,6 @@ tas	B
 siab	I
 tas	I
 ntsws	I
-siab	O
-tas	O
-ntsws	O
 muab	O
 yus	O
 txoj	O
@@ -2916,9 +2904,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 ces	O
 hais	O
 tias	O
@@ -3336,9 +3321,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 ua	O
 nej	O
 pom	O

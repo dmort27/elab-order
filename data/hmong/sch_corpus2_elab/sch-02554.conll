@@ -145,9 +145,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 cai	O
 li	O
 hmoob	O
@@ -214,9 +211,6 @@ me	B
 tub	I
 me	I
 ntxhais	I
-tub	O
-me	O
-ntxhais	O
 zoo	O
 sibyuav	O
 xwb	O
@@ -480,9 +474,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 ...	O
 Kwvtij	O
 ,	O

@@ -274,9 +274,6 @@ ua	B
 kub	I
 ua	I
 ntaiv	I
-kub	O
-ua	O
-ntaiv	O
 thiab	O
 ces	O
 kawg	O
@@ -570,9 +567,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 rau	O
 koj	O
 nyob	O
@@ -705,9 +699,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ua	O
 yus	O
 tsi	O
@@ -987,9 +978,6 @@ lub	B
 thuv	I
 lub	I
 txim	I
-thuv	O
-lub	O
-txim	O
 lawm	O
 xwb	O
 ...	O
@@ -1037,9 +1025,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 lawm	O
 ntag	O
 hod	O
@@ -1053,9 +1038,6 @@ muaj	B
 tsov	I
 muaj	I
 rog	I
-tsov	O
-muaj	O
-rog	O
 xwb	O
 ,	O
 yog	O
@@ -1353,9 +1335,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 .kuv	O
 xav	O
 qhov	O
@@ -1411,9 +1390,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 lub	O
 siab	O
 nyiam	O
@@ -1606,9 +1582,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 lub	O
 siab	O
 nyiam	O
@@ -1875,9 +1848,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 los	O
 sis	O
 tej	O
@@ -2171,9 +2141,6 @@ ua	B
 kub	I
 ua	I
 ntaiv	I
-kub	O
-ua	O
-ntaiv	O
 thiab	O
 ces	O
 kawg	O
@@ -2294,9 +2261,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 los	O
 sis	O
 tej	O
@@ -2492,9 +2456,6 @@ tub	B
 nom	I
 tub	I
 tswv	I
-nom	O
-tub	O
-tswv	O
 thiab	O
 tub	O
 nyob	O
@@ -2600,9 +2561,6 @@ cheb	B
 vaj	I
 cheb	I
 tsev	I
-vaj	O
-cheb	O
-tsev	O
 los	O
 yog	O
 ua	O
@@ -2615,9 +2573,6 @@ yus	B
 vaj	I
 yus	I
 tsev	I
-vaj	O
-yus	O
-tsev	O
 ntag	O
 ,	O
 tab	O
@@ -2644,9 +2599,6 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 los	O
 lawv	O
 los	O
@@ -4163,9 +4115,6 @@ luag	B
 tes	I
 luag	I
 taw	I
-tes	O
-luag	O
-taw	O
 xwb	O
 .	O
 
@@ -4966,9 +4915,6 @@ tub	B
 nom	I
 tub	I
 tswv	I
-nom	O
-tub	O
-tswv	O
 thiab	O
 tub	O
 nyob	O
@@ -5074,9 +5020,6 @@ cheb	B
 vaj	I
 cheb	I
 tsev	I
-vaj	O
-cheb	O
-tsev	O
 los	O
 yog	O
 ua	O
@@ -5089,9 +5032,6 @@ yus	B
 vaj	I
 yus	I
 tsev	I
-vaj	O
-yus	O
-tsev	O
 ntag	O
 ,	O
 tab	O
@@ -5118,9 +5058,6 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 los	O
 lawv	O
 los	O
@@ -5252,9 +5189,6 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 los	O
 lawv	O
 los	O
@@ -5979,9 +5913,6 @@ tub	B
 nom	I
 tub	I
 tswv	I
-nom	O
-tub	O
-tswv	O
 thiab	O
 tub	O
 nyob	O
@@ -6087,9 +6018,6 @@ cheb	B
 vaj	I
 cheb	I
 tsev	I
-vaj	O
-cheb	O
-tsev	O
 los	O
 yog	O
 ua	O
@@ -6102,9 +6030,6 @@ yus	B
 vaj	I
 yus	I
 tsev	I
-vaj	O
-yus	O
-tsev	O
 ntag	O
 ,	O
 tab	O
@@ -6131,9 +6056,6 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 los	O
 lawv	O
 los	O

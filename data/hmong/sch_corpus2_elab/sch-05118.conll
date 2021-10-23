@@ -1200,9 +1200,6 @@ cov	B
 nom	I
 cov	I
 tswv	I
-nom	O
-cov	O
-tswv	O
 tim	O
 Pathet	O
 Huay	O
@@ -1235,9 +1232,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 txaus	O
 nkaus	O
 ces	O
@@ -1338,9 +1332,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 ua	O
 vaj	O
@@ -1378,9 +1369,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 coj	O
 lub	O
 siab	O
@@ -1425,9 +1413,6 @@ mus	B
 cuab	I
 mus	I
 khi	I
-cuab	O
-mus	O
-khi	O
 ,	O
 coj	O
 mus	O
@@ -1451,9 +1436,6 @@ xeev	B
 ntaub	I
 xeev	I
 ntawv	I
-ntaub	O
-xeev	O
-ntawv	O
 kom	O
 luag	O
 mus	O
@@ -1461,9 +1443,6 @@ ua	B
 dag	I
 ua	I
 zog	I
-dag	O
-ua	O
-zog	O
 los	O
 them	O
 yus	O
@@ -1472,9 +1451,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 mam	O
 mus	O
 tso	O
@@ -1550,9 +1526,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 kavteb	O
 chaws	O
 ,	O
@@ -1563,9 +1536,6 @@ tua	B
 tsiaj	I
 tua	I
 txhuv	I
-tsiaj	O
-tua	O
-txhuv	O
 ,	O
 ua	O
 ib	O
@@ -1602,9 +1572,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 .	O
 
 
@@ -1620,9 +1587,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 tsis	O
 yuav	O
 ,	O
@@ -1637,9 +1601,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 tim	O
 tawm	O
 lub	O
@@ -1684,9 +1645,6 @@ mus	B
 haub	I
 mus	I
 ntxias	I
-haub	O
-mus	O
-ntxias	O
 kom	O
 hmoob	O
 khiav	O
@@ -1733,9 +1691,6 @@ mus	B
 haub	I
 mus	I
 ntxias	I
-haub	O
-mus	O
-ntxias	O
 pej	O
 xeem	O
 hmoob	O
@@ -1760,9 +1715,6 @@ yus	B
 haub	I
 yus	I
 ntxias	I
-haub	O
-yus	O
-ntxias	O
 kom	O
 yus	O
 tau	O
@@ -1796,9 +1748,6 @@ cov	B
 nom	I
 cov	I
 tswv	I
-nom	O
-cov	O
-tswv	O
 tim	O
 Pathet	O
 Huay	O
@@ -1823,9 +1772,6 @@ nyob	B
 txim	I
 nyob	I
 thuv	I
-txim	O
-nyob	O
-thuv	O
 vim	O
 yog	O
 lawv	O
@@ -1852,9 +1798,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 li	O
 no	O
 lawm	O
@@ -1923,9 +1866,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 ,	O
 lawv	O
 raug	O
@@ -2014,9 +1954,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 pej	O
 xeem	O
 huab	O
@@ -2138,9 +2075,6 @@ cov	B
 nom	I
 cov	I
 tswv	I
-nom	O
-cov	O
-tswv	O
 tim	O
 Pathet	O
 Huay	O
@@ -2178,9 +2112,6 @@ them	B
 nuj	I
 them	I
 nqi	I
-nuj	O
-them	O
-nqi	O
 thaum	O
 los	O
 txog	O
@@ -2216,9 +2147,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 li	O
 no	O
 lawm	O
@@ -2280,9 +2208,6 @@ muab	B
 vaj	I
 muab	I
 tsev	I
-vaj	O
-muab	O
-tsev	O
 tso	O
 tseg	O
 ,	O
@@ -2313,9 +2238,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 ,	O
 lawv	O
 raug	O
@@ -2585,9 +2507,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 raws	O
 .	O
 
@@ -3268,9 +3187,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ,	O
 koj	O
 paus	O
@@ -3494,9 +3410,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 

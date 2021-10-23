@@ -341,9 +341,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 thiab	O
 tej	O
 kevcai	O
@@ -580,9 +577,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 li	O
 nej	O
 diam	O
@@ -1148,9 +1142,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 twb	O
 pom	O
 tias	O
@@ -1433,9 +1424,6 @@ tswv	B
 teb	I
 tswv	I
 chaw	I
-teb	O
-tswv	O
-chaw	O
 '	O
 ua	O
 rau	O
@@ -1972,9 +1960,6 @@ tus	B
 tseeb	I
 tus	I
 cuav	I
-tseeb	O
-tus	O
-cuav	O
 :	O
 Koj	O
 kom	O
@@ -3195,9 +3180,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 thiab	O
 tej	O
 kevcai	O
@@ -3799,9 +3781,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 twb	O
 pom	O
 tias	O

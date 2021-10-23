@@ -584,9 +584,6 @@ sib	B
 pab	I
 sib	I
 hlub	I
-pab	O
-sib	O
-hlub	O
 thiab	O
 ua	O
 kom	O
@@ -900,9 +897,6 @@ ntau	B
 paab	I
 ntau	I
 pawg	I
-paab	O
-ntau	O
-pawg	O
 Kaasmoos	O
 nyag	O
 muaj	O
@@ -1420,9 +1414,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 rau	O
 txhua	O
 txhua	O
@@ -1482,9 +1473,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 lub	O
 summer	O
 no	O
@@ -1874,9 +1862,6 @@ txaj	B
 ntshaa	I
 txaj	I
 ntsim	I
-ntshaa	O
-txaj	O
-ntsim	O
 kws	O
 peb	O
 muaj	O

@@ -230,9 +230,6 @@ kev	B
 pluj	I
 kev	I
 tuag	I
-pluj	O
-kev	O
-tuag	O
 .	O
 
 
@@ -348,9 +345,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 hab	O
 nyob	O
 kaaj	O
@@ -1082,9 +1076,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 nyiaj	O
 kub	O
 los	O
@@ -1184,9 +1175,6 @@ koj	B
 noj	I
 koj	I
 haus	I
-noj	O
-koj	O
-haus	O
 .	O
 
 
@@ -1234,9 +1222,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 txaus	O
 thiab	O
 teev	O

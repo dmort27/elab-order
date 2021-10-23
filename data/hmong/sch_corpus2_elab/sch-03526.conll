@@ -55,9 +55,6 @@ haum	B
 teb	I
 haum	I
 chaw	I
-teb	O
-haum	O
-chaw	O
 ,	O
 haum	O
 txoj	O
@@ -191,9 +188,6 @@ khwv	B
 nyiaj	I
 khwv	I
 txiaj	I
-nyiaj	O
-khwv	O
-txiaj	O
 ,	O
 hwm	O
 txoj	O
@@ -210,9 +204,6 @@ haum	B
 teb	I
 haum	I
 chaw	I
-teb	O
-haum	O
-chaw	O
 ,	O
 etc	O
 ..	O
@@ -234,17 +225,11 @@ muaj	B
 nyiaj	I
 muaj	I
 txiaj	I
-nyiaj	O
-muaj	O
-txiaj	O
 ,	O
 muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 tuaj	O
 lawm	O
 ntag	O
@@ -639,9 +624,6 @@ haum	B
 teb	I
 haum	I
 chaw	I
-teb	O
-haum	O
-chaw	O
 .	O
 
 
@@ -675,9 +657,6 @@ muaj	B
 mob	I
 muaj	I
 nkees	I
-mob	O
-muaj	O
-nkees	O
 ,	O
 tiamsis	O
 pov	O

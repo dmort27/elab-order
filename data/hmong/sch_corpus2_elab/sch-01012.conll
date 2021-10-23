@@ -307,9 +307,6 @@ yeej	B
 teb	I
 yeej	I
 chaw	I
-teb	O
-yeej	O
-chaw	O
 .	O
 
 
@@ -496,9 +493,6 @@ ua	B
 nub	I
 ua	I
 mo	I
-nub	O
-ua	O
-mo	O
 muab	O
 tej	O
 nyuas	O
@@ -589,9 +583,6 @@ qav	B
 nom	I
 qav	I
 tswv	I
-nom	O
-qav	O
-tswv	O
 xwb	O
 ,	O
 tsis	O
@@ -918,9 +909,6 @@ ua	B
 nub	I
 ua	I
 mo	I
-nub	O
-ua	O
-mo	O
 muab	O
 tej	O
 nyuas	O
@@ -1011,9 +999,6 @@ qav	B
 nom	I
 qav	I
 tswv	I
-nom	O
-qav	O
-tswv	O
 xwb	O
 ,	O
 tsis	O
@@ -2566,9 +2551,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 mus	O
 dhau	O
 txoj	O
@@ -3161,9 +3143,6 @@ ua	B
 txhij	I
 ua	I
 txhua	I
-txhij	O
-ua	O
-txhua	O
 lug	O
 lawm	O
 tub	O
@@ -3834,9 +3813,6 @@ ua	B
 nub	I
 ua	I
 mo	I
-nub	O
-ua	O
-mo	O
 muab	O
 tej	O
 nyuas	O
@@ -3927,9 +3903,6 @@ qav	B
 nom	I
 qav	I
 tswv	I
-nom	O
-qav	O
-tswv	O
 xwb	O
 ,	O
 tsis	O
@@ -5978,9 +5951,6 @@ kev	B
 iab	I
 kev	I
 daw	I
-iab	O
-kev	O
-daw	O
 uas	O
 nplog	O
 liab	O

@@ -489,9 +489,6 @@ lub	B
 zej	I
 lub	I
 zog	I
-zej	O
-lub	O
-zog	O
 hab	O
 foob	O
 koomhum	O
@@ -734,9 +731,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 seb	O
 qhov	O
 ncauj	O
@@ -838,9 +832,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 seb	O
 qhov	O
 ncauj	O
@@ -1543,9 +1534,6 @@ hmoob	B
 zej	I
 hmoob	I
 zos	I
-zej	O
-hmoob	O
-zos	O
 mas	O
 lod	O
 .	O
@@ -1564,9 +1552,6 @@ puv	B
 zej	I
 puv	I
 zos	I
-zej	O
-puv	O
-zos	O
 li	O
 no	O
 ces	O

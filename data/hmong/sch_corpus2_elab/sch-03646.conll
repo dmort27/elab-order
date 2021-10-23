@@ -30,9 +30,6 @@ liam	B
 ub	I
 liam	I
 no	I
-ub	O
-liam	O
-no	O
 rau	O
 Teev	O
 nad	O
@@ -105,9 +102,6 @@ kwv	B
 tij	I
 kwv	I
 npawg	I
-tij	O
-kwv	O
-npawg	O
 .	O
 
 
@@ -124,9 +118,6 @@ zoo	B
 noj	I
 zoo	I
 haus	I
-noj	O
-zoo	O
-haus	O
 lawm	O
 .	O
 
@@ -717,9 +708,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 nawb	O
 ,	O
 hua	O
@@ -787,9 +775,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 .	O
 
 
@@ -1556,9 +1541,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 xws	O
 li	O
 nais	O

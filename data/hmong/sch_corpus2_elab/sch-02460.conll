@@ -35,17 +35,11 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 cov	O
 paub	B
 tab	I
 paub	I
 cai	I
-tab	O
-paub	O
-cai	O
 tsis	O
 tuaj	O
 kiag	O
@@ -126,9 +120,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 ne	O
 .....	O
 yuav	O
@@ -403,9 +394,6 @@ muaj	B
 qab	I
 muaj	I
 hau	I
-qab	O
-muaj	O
-hau	O
 ne	O
 .	O
 
@@ -470,17 +458,11 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 cov	O
 paub	B
 tab	I
 paub	I
 cai	I
-tab	O
-paub	O
-cai	O
 tsis	O
 tuaj	O
 kiag	O
@@ -535,9 +517,6 @@ sib	B
 cav	I
 sib	I
 hais	I
-cav	O
-sib	O
-hais	O
 tej	O
 niag	O
 lus	O
@@ -545,9 +524,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 txawm	O
 tus	O
 niag	O
@@ -758,9 +734,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 .	O
 
 

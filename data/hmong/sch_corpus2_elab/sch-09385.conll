@@ -1519,9 +1519,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -1995,9 +1992,6 @@ muaj	B
 suab	I
 muaj	I
 npe	I
-suab	O
-muaj	O
-npe	O
 zoo	O
 nyob	O
 rau	O
@@ -2278,9 +2272,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 li	O
 lawv	O
 tau	O
@@ -2845,9 +2836,6 @@ muaj	B
 nyiaj	I
 muaj	I
 txiaj	I
-nyiaj	O
-muaj	O
-txiaj	O
 ces	O
 nws	O
 thiaj	O
@@ -3344,9 +3332,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 ,	O
 lub	O
 cauj	O

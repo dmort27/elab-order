@@ -263,9 +263,6 @@ hau	B
 zej	I
 hau	I
 zos	I
-zej	O
-hau	O
-zos	O
 ,	O
 tsi	O
 tau	O
@@ -274,9 +271,6 @@ hau	B
 teb	I
 hau	I
 chaw	I
-teb	O
-hau	O
-chaw	O
 ,	O
 tsi	O
 tau	O
@@ -638,9 +632,6 @@ tsi	B
 mob	I
 tsi	I
 khaus	I
-mob	O
-tsi	O
-khaus	O
 hlo	O
 li	O
 .	O
@@ -671,9 +662,6 @@ raug	B
 ntaus	I
 raug	I
 ncaws	I
-ntaus	O
-raug	O
-ncaws	O
 nyob	O
 hauv	O
 nplog	O
@@ -920,9 +908,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 thiab	O
 waste	O
 time	O
@@ -1233,9 +1218,6 @@ siab	B
 loj	I
 siab	I
 ntev	I
-loj	O
-siab	O
-ntev	O
 tav	O
 no	O
 tau	O
@@ -1852,9 +1834,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 yug	O
 yus	O
 lawm	O
@@ -1944,9 +1923,6 @@ tsim	B
 teev	I
 tsim	I
 tsi	I
-teev	O
-tsim	O
-tsi	O
 los	O
 luj	O
 ,	O
@@ -1964,9 +1940,6 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 los	O
 kav	O
 ,	O
@@ -1998,9 +1971,6 @@ tsim	B
 teev	I
 tsim	I
 tsi	I
-teev	O
-tsim	O
-tsi	O
 los	O
 luj	O
 ,	O
@@ -2009,9 +1979,6 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 los	O
 tswj	O
 kav	O
@@ -2190,9 +2157,6 @@ lub	B
 pag	I
 lub	I
 xau	I
-pag	O
-lub	O
-xau	O
 twb	O
 tsis	O
 tau	O
@@ -2204,9 +2168,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 mas	O
 nws	O
 tsis	O
@@ -2235,9 +2196,6 @@ ua	B
 kub	I
 ua	I
 ntaiv	I
-kub	O
-ua	O
-ntaiv	O
 rau	O
 Vaj	O
 Txiab	O
@@ -2876,9 +2834,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 no	O
 nawb	O
 mog	O

@@ -1023,9 +1023,6 @@ kev	B
 coj	I
 kev	I
 ua	I
-coj	O
-kev	O
-ua	O
 uas	O
 ib	O
 txwm	O
@@ -1220,9 +1217,6 @@ tsis	B
 mus	I
 tsis	I
 los	I
-mus	O
-tsis	O
-los	O
 tsis	O
 muaj	O
 chaw	O
@@ -2187,9 +2181,6 @@ qab	B
 roob	I
 qab	I
 hav	I
-roob	O
-qab	O
-hav	O
 nawb	O
 .	O
 

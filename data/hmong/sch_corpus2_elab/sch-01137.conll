@@ -650,9 +650,6 @@ leej	B
 nam	I
 leej	I
 txiv	I
-nam	O
-leej	O
-txiv	O
 dlua	O
 toj	O
 ces	O
@@ -963,9 +960,6 @@ leej	B
 nam	I
 leej	I
 txiv	I
-nam	O
-leej	O
-txiv	O
 ``	O
 chim	O
 ''	O
@@ -1014,9 +1008,6 @@ tej	B
 nam	I
 tej	I
 txiv	I
-nam	O
-tej	O
-txiv	O
 ua	O
 ib	O
 txheej	O

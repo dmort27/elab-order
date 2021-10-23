@@ -152,9 +152,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 mas	O
 .	O
 
@@ -281,9 +278,6 @@ ntau	B
 leej	I
 ntau	I
 tus	I
-leej	O
-ntau	O
-tus	O
 tuaj	O
 siv	O
 computer	O

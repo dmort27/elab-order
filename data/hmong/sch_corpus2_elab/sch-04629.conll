@@ -115,9 +115,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 thiab	O
 pab	O
 kwv	O
@@ -388,9 +385,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 ua	O
 xav	O
 pab	O
@@ -1508,9 +1502,6 @@ ciaj	B
 nyiaj	I
 ciaj	I
 kub	I
-nyiaj	O
-ciaj	O
-kub	O
 .	O
 
 
@@ -1573,9 +1564,6 @@ fim	B
 ntsej	I
 fim	I
 muag	I
-ntsej	O
-fim	O
-muag	O
 kiag	O
 ntag	O
 kuv	O

@@ -647,9 +647,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 muab	O
 tsotseg	O
 es	O
@@ -964,9 +961,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 ''	O
 .	O
 

@@ -149,9 +149,6 @@ yuav	B
 nom	I
 yuav	I
 tswv	I
-nom	O
-yuav	O
-tswv	O
 ,	O
 txhob	O
 xav	O
@@ -180,9 +177,6 @@ kwv	B
 riam	I
 kwv	I
 phom	I
-riam	O
-kwv	O
-phom	O
 mus	O
 tua	O
 cov	O
@@ -283,9 +277,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 puv	O
 Nplog	O
 teb	O
@@ -404,17 +395,11 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 yuav	O
 muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 yuav	O
 tau	O
@@ -453,17 +438,11 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 nyob	O
 tsis	B
 txob	I
 tsis	I
 txhawj	I
-txob	O
-tsis	O
-txhawj	O
 ?	O
 
 
@@ -570,9 +549,6 @@ yog	B
 nom	I
 yog	I
 tswv	I
-nom	O
-yog	O
-tswv	O
 ,	O
 muaj	O
 vaj	O
@@ -846,9 +822,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 tug	O
 .	O
 

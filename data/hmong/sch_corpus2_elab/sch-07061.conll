@@ -53,9 +53,6 @@ lug	B
 toj	I
 lug	I
 pes	I
-toj	O
-lug	O
-pes	O
 tab	O
 sis	O
 hnub	O
@@ -91,9 +88,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 txog	O
 Hmoob	O
 lub	O
@@ -132,18 +126,12 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 es	O
 xav	O
 kis	B
 toj	I
 kis	I
 pes	I
-toj	O
-kis	O
-pes	O
 tab	O
 sis	O
 keeb	O
@@ -824,9 +812,6 @@ cua	B
 daj	I
 cua	I
 dub	I
-daj	O
-cua	O
-dub	O
 xwb	O
 .	O
 
@@ -865,9 +850,6 @@ lub	B
 hnub	I
 lub	I
 hli	I
-hnub	O
-lub	O
-hli	O
 li	O
 lawm-muab	O
 nruab	O

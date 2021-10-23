@@ -519,9 +519,6 @@ sib	B
 pab	I
 sib	I
 txhawb	I
-pab	O
-sib	O
-txhawb	O
 os	O
 .	O
 
@@ -885,9 +882,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 li	O
 no	O
 ntag	O
@@ -1431,9 +1425,6 @@ nej	B
 kwv	I
 nej	I
 tij	I
-kwv	O
-nej	O
-tij	O
 nej	O
 thiaj	O
 tsi	O
@@ -2260,9 +2251,6 @@ tsis	B
 txwv	I
 tsis	I
 txiav	I
-txwv	O
-tsis	O
-txiav	O
 koj	O
 nawb	O
 ,	O
@@ -2433,9 +2421,6 @@ puas	B
 tsav	I
 puas	I
 yam	I
-tsav	O
-puas	O
-yam	O
 yeej	O
 kawg	O
 rau	O

@@ -63,9 +63,6 @@ qhov	B
 dev	I
 qhov	I
 npua	I
-dev	O
-qhov	O
-npua	O
 mas	O
 sawdaws	O
 tham	O
@@ -1926,9 +1923,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 thiab	O
 los	O
 tham	O
@@ -2110,9 +2104,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 .	O
 
 
@@ -2444,9 +2435,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 .	O
 
 
@@ -2455,9 +2443,6 @@ muab	B
 nyiaj	I
 muab	I
 kub	I
-nyiaj	O
-muab	O
-kub	O
 mus	O
 nrhiav	O
 tej	O
@@ -2512,9 +2497,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 ces	O
 tham	O
 li	O
@@ -2684,9 +2666,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 twb	O
 qaug	O
 tag	O
@@ -2779,9 +2758,6 @@ ua	B
 txuj	I
 ua	I
 ci	I
-txuj	O
-ua	O
-ci	O
 mus	O
 kawb	O
 tau	O
@@ -2807,9 +2783,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 yuav	O
 tawm	O
 plaws	O
@@ -2960,9 +2933,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 peb	O
 muaj	O
 tseem	O

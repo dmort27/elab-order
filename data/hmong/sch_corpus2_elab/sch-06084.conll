@@ -139,9 +139,6 @@ cov	B
 nom	I
 cov	I
 tswv	I
-nom	O
-cov	O
-tswv	O
 nce	O
 xwb	O
 no	O
@@ -233,9 +230,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 yog	O
 cov	O
 muaj	O
@@ -302,9 +296,6 @@ xeeb	B
 luj	I
 xeeb	I
 lam	I
-luj	O
-xeeb	O
-lam	O
 niam	O
 no	O
 .	O
@@ -391,9 +382,6 @@ tawg	B
 teb	I
 tawg	I
 chaw	I
-teb	O
-tawg	O
-chaw	O
 mas	O
 vim	O
 yog	O
@@ -563,9 +551,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 txij	O
 li	O
 nasxus	O

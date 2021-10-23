@@ -634,9 +634,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ua	O
 yus	O
 tug	O
@@ -1047,9 +1044,6 @@ muab	B
 nom	I
 muab	I
 tswv	I
-nom	O
-muab	O
-tswv	O
 rua	O
 Moob	O
 ces	O
@@ -1087,9 +1081,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 es	O
 Moob	O
 ntse	O

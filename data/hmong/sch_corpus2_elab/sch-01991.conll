@@ -123,17 +123,11 @@ dab	B
 tooj	I
 dab	I
 hlau	I
-tooj	O
-dab	O
-hlau	O
 thiab	O
 kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 nrog	O
 rau	O
 kev	O
@@ -202,9 +196,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 .	O
 
 
@@ -235,9 +226,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 tabsis	O
 yog	O
 leej	O
@@ -284,9 +272,6 @@ ua	B
 pawg	I
 ua	I
 lug	I
-pawg	O
-ua	O
-lug	O
 thiab	O
 ib	O
 cov	O
@@ -728,17 +713,11 @@ dab	B
 tooj	I
 dab	I
 hlau	I
-tooj	O
-dab	O
-hlau	O
 thiab	O
 kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 nrog	O
 rau	O
 kev	O
@@ -807,9 +786,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 .	O
 
 
@@ -840,9 +816,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 tabsis	O
 yog	O
 leej	O
@@ -889,9 +862,6 @@ ua	B
 pawg	I
 ua	I
 lug	I
-pawg	O
-ua	O
-lug	O
 thiab	O
 ib	O
 cov	O
@@ -1303,9 +1273,6 @@ dab	B
 ntuj	I
 dab	I
 teb	I
-ntuj	O
-dab	O
-teb	O
 ,	O
 dab	O
 tim	O

@@ -1695,9 +1695,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 kev	O
 mobsiab	O
 yuav	O
@@ -1710,9 +1707,6 @@ tseg	B
 niam	I
 tseg	I
 txiv	I
-niam	O
-tseg	O
-txiv	O
 khiav	O
 raw	O
 hluas	O
@@ -1955,9 +1949,6 @@ cim	B
 ntsej	I
 cim	I
 muag	I
-ntsej	O
-cim	O
-muag	O
 xwb	O
 ...........	O
 koj	O
@@ -2205,9 +2196,6 @@ piav	B
 mus	I
 piav	I
 los	I
-mus	O
-piav	O
-los	O
 ntau	O
 zaus	O
 yav	O

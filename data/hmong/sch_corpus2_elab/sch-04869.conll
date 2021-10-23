@@ -372,9 +372,6 @@ nqa	B
 xyab	I
 nqa	I
 ntawv	I
-xyab	O
-nqa	O
-ntawv	O
 ,	O
 thiab	O
 qaib	O
@@ -451,9 +448,6 @@ nta	B
 dab	I
 nta	I
 qhua	I
-dab	O
-nta	O
-qhua	O
 lawm	O
 los	O
 vim	O
@@ -632,9 +626,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 thiab	O
 ned	O
 ....	O
@@ -1353,9 +1344,6 @@ pluag	B
 noj	I
 pluag	I
 haus	I
-noj	O
-pluag	O
-haus	O
 kuas	O
 tej	O
 qhuas	O
@@ -2177,9 +2165,6 @@ ntees	B
 ploj	I
 ntees	I
 tuag	I
-ploj	O
-ntees	O
-tuag	O
 ces	O
 ua	O
 li	O
@@ -2417,9 +2402,6 @@ raws	B
 kab	I
 raws	I
 kev	I
-kab	O
-raws	O
-kev	O
 vim	O
 tias	O
 tus	O
@@ -2438,9 +2420,6 @@ muaj	B
 neej	I
 muaj	I
 tsav	I
-neej	O
-muaj	O
-tsav	O
 thiab	O
 .	O
 

@@ -85,9 +85,6 @@ npaum	B
 ub	I
 npaum	I
 nua	I
-ub	O
-npaum	O
-nua	O
 rua	O
 puab	O
 es	O
@@ -142,9 +139,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 .	O
 
 
@@ -319,9 +313,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 .	O
 
 
@@ -868,18 +859,12 @@ neeg	B
 txwj	I
 neeg	I
 laug	I
-txwj	O
-neeg	O
-laug	O
 kws	O
 muaj	O
 kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 hab	O
 tej	O
 hluas	O
@@ -931,18 +916,12 @@ neeg	B
 txwj	I
 neeg	I
 laug	I
-txwj	O
-neeg	O
-laug	O
 kws	O
 muaj	O
 kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 hab	O
 tej	O
 hluas	O
@@ -1008,17 +987,11 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 kom	O
 raug	B
 kev	I
 raug	I
 cai	I
-kev	O
-raug	O
-cai	O
 tiag-g	O
 (	O
 I	O
@@ -1088,9 +1061,6 @@ ua	B
 mab	I
 ua	I
 suav	I
-mab	O
-ua	O
-suav	O
 zog	O
 ces	O
 yuav	O
@@ -1347,18 +1317,12 @@ neeg	B
 txwj	I
 neeg	I
 laug	I
-txwj	O
-neeg	O
-laug	O
 kws	O
 muaj	O
 kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 hab	O
 tej	O
 hluas	O

@@ -12,9 +12,6 @@ ua	B
 ciaj	I
 ua	I
 tuag	I
-ciaj	O
-ua	O
-tuag	O
 kom	O
 txeeb	O
 tau	O
@@ -398,9 +395,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -733,9 +727,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 hauv	O
 Lostsuas	O
 teb	O
@@ -1061,9 +1052,6 @@ sib	B
 txeeb	I
 sib	I
 tua	I
-txeeb	O
-sib	O
-tua	O
 kom	O
 tuag	O
 tag	O
@@ -1336,9 +1324,6 @@ lub	B
 mob	I
 lub	I
 aws	I
-mob	O
-lub	O
-aws	O
 no	O
 nws	O
 yeej	O
@@ -1836,9 +1821,6 @@ tsis	B
 pom	I
 tsis	I
 paub	I
-pom	O
-tsis	O
-paub	O
 thiab	O
 tseem	O
 tsis	O
@@ -1879,9 +1861,6 @@ zaum	B
 rooj	I
 zaum	I
 tog	I
-rooj	O
-zaum	O
-tog	O
 sib	O
 hais	O
 lawm	O
@@ -2666,9 +2645,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 dlaag	O
 tug	O
 puas	O

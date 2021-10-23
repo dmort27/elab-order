@@ -292,9 +292,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ,	O
 nws	O
 lub	O
@@ -332,9 +329,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 .	O
 
 
@@ -975,9 +969,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 kiag	O
 ,	O
 lawv	O
@@ -1382,9 +1373,6 @@ dlaag	B
 noj	I
 dlaag	I
 haus	I
-noj	O
-dlaag	O
-haus	O
 lim	O
 kuas	O
 huv	O

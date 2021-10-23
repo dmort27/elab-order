@@ -204,9 +204,6 @@ tau	B
 nyiaj	I
 tau	I
 kub	I
-nyiaj	O
-tau	O
-kub	O
 .	O
 
 
@@ -632,9 +629,6 @@ ua	B
 daj	I
 ua	I
 dub	I
-daj	O
-ua	O
-dub	O
 nrog	O
 cov	O
 nyuag	O
@@ -1617,9 +1611,6 @@ yuav	B
 ciaj	I
 yuav	I
 tuag	I
-ciaj	O
-yuav	O
-tuag	O
 li	O
 thiab	O
 mas	O
@@ -2410,9 +2401,6 @@ siab	B
 loj	I
 siab	I
 dav	I
-loj	O
-siab	O
-dav	O
 nwg	O
 ua	O
 rau	O

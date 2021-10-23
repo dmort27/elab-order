@@ -432,9 +432,6 @@ lawv	B
 noj	I
 lawv	I
 haus	I
-noj	O
-lawv	O
-haus	O
 .	O
 
 
@@ -477,9 +474,6 @@ tus	B
 hlob	I
 tus	I
 yau	I
-hlob	O
-tus	O
-yau	O
 los	O
 tsaus	O
 paub	O
@@ -577,9 +571,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 kom	O
 tsis	O
 tau	O
@@ -908,9 +899,6 @@ tus	B
 phem	I
 tus	I
 zoo	I
-phem	O
-tus	O
-zoo	O
 los	O
 muaj	O
 nawb	O

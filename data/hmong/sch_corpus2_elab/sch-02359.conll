@@ -331,9 +331,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 thaam	O
 mas	O
 yuav	O
@@ -592,9 +589,6 @@ xeeb	B
 teb	I
 xeeb	I
 chaw	I
-teb	O
-xeeb	O
-chaw	O
 twb	O
 tsi	O
 lees	O
@@ -613,9 +607,6 @@ xeeb	B
 teb	I
 xeeb	I
 chaw	I
-teb	O
-xeeb	O
-chaw	O
 thiaj	O
 tso	O
 tus	O
@@ -661,9 +652,6 @@ tiv	B
 tshav	I
 tiv	I
 nag	I
-tshav	O
-tiv	O
-nag	O
 thiaj	O
 mag	O
 zoov	O
@@ -1266,9 +1254,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 no	O
 los	O
 yeej	O
@@ -1357,9 +1342,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 thiaj	O
 ua	O
 tau	O
@@ -1596,9 +1578,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 thiaj	O
 ua	O
 tau	O
@@ -1898,9 +1877,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 no	O
 los	O
 yeej	O
@@ -2117,9 +2093,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 thiaj	O
 ua	O
 tau	O
@@ -2419,9 +2392,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 no	O
 los	O
 yeej	O

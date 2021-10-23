@@ -16,9 +16,6 @@ huab	B
 noj	I
 huab	I
 haus	I
-noj	O
-huab	O
-haus	O
 lawm	O
 ,	O
 tab	O
@@ -487,9 +484,6 @@ yus	B
 roj	I
 yus	I
 ntshav	I
-roj	O
-yus	O
-ntshav	O
 thiab	O
 ne	O
 .	O
@@ -1090,9 +1084,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 (	O
 txhob	O
 siv	O
@@ -1693,9 +1684,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ,	O
 ua	O
 rau	O
@@ -1777,9 +1765,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 yog	O
 neeg	O
 phem	O
@@ -1800,9 +1785,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ,	O
 rhuav	O
 tshem	O
@@ -1824,9 +1806,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 .	O
 
 
@@ -1844,9 +1823,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 ,	O
 koj	O
 yeej	O
@@ -1866,9 +1842,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 .	O
 
 

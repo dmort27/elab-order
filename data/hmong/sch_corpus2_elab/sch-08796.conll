@@ -287,9 +287,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 .	O
 
 
@@ -716,9 +713,6 @@ tom	B
 ub	I
 tom	I
 no	I
-ub	O
-tom	O
-no	O
 nrog	O
 yus	O
 zoo	O
@@ -1021,9 +1015,6 @@ khuam	B
 tes	I
 khuam	I
 taw	I
-tes	O
-khuam	O
-taw	O
 .	O
 
 
@@ -1683,9 +1674,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 ,	O
 lawv	O
 twb	O

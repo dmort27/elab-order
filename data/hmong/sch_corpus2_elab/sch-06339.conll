@@ -320,9 +320,6 @@ luas	B
 nam	I
 luas	I
 txiv	I
-nam	O
-luas	O
-txiv	O
 lawm	O
 es	O
 yog	O
@@ -356,9 +353,6 @@ ua	B
 nam	I
 ua	I
 txiv	I
-nam	O
-ua	O
-txiv	O
 yuav	O
 has	O
 tsi	O

@@ -78,9 +78,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 los	O
 hais	O
 tsis	O
@@ -223,9 +220,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 nws	O
 tsis	O
 yog	O
@@ -742,9 +736,6 @@ nrhiav	B
 ntaub	I
 nrhiav	I
 ntawv	I
-ntaub	O
-nrhiav	O
-ntawv	O
 coj	O
 los	O
 nyeem	O
@@ -801,9 +792,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 Hwm	O
 ....	O
 yus	O
@@ -948,9 +936,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 os	O
 yawg	O
 ...	O
@@ -973,9 +958,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 ...	O
 thiab	O
 tus	O
@@ -1294,9 +1276,6 @@ siab	B
 loj	I
 siab	I
 ntev	I
-loj	O
-siab	O
-ntev	O
 lawm	O
 ces	O
 yeej	O
@@ -2321,9 +2300,6 @@ siab	B
 loj	I
 siab	I
 ntev	I
-loj	O
-siab	O
-ntev	O
 lawm	O
 ces	O
 yeej	O
@@ -3011,9 +2987,6 @@ siab	B
 loj	I
 siab	I
 ntev	I
-loj	O
-siab	O
-ntev	O
 lawm	O
 ces	O
 yeej	O

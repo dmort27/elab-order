@@ -1703,17 +1703,11 @@ yog	B
 neej	I
 yog	I
 tsav	I
-neej	O
-yog	O
-tsav	O
 ,	O
 yog	B
 phooj	I
 yog	I
 ywg	I
-phooj	O
-yog	O
-ywg	O
 ,	O
 yog	O
 txiv	O
@@ -2148,9 +2142,6 @@ liam	B
 ub	I
 liam	I
 no	I
-ub	O
-liam	O
-no	O
 li	O
 peb	O
 pom	O

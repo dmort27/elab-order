@@ -505,9 +505,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 ;	O
 tej	O
 lo	O
@@ -594,9 +591,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 ua	O
 hauj	O
 nyob	O
@@ -746,9 +740,6 @@ muaj	B
 kev	I
 muaj	I
 cai	I
-kev	O
-muaj	O
-cai	O
 rau	O
 los	O
 koj	O
@@ -1195,9 +1186,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 me	O
 me	O
 rau	O

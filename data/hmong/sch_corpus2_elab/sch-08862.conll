@@ -20,9 +20,6 @@ txuas	B
 tshoob	I
 txuas	I
 kos	I
-tshoob	O
-txuas	O
-kos	O
 .	O
 
 
@@ -45,9 +42,6 @@ kaus	B
 vej	I
 kaus	I
 vuam	I
-vej	O
-kaus	O
-vuam	O
 piav	O
 lis	O
 yeev	O
@@ -115,9 +109,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 loj	O
 kawg	O
 li	O
@@ -324,9 +315,6 @@ tus	B
 yog	I
 tus	I
 zoo	I
-yog	O
-tus	O
-zoo	O
 .	O
 
 
@@ -354,9 +342,6 @@ qhov	B
 ntsej	I
 qhov	I
 muag	I
-ntsej	O
-qhov	O
-muag	O
 saib	O
 kev	O
 ncaj	O
@@ -541,9 +526,6 @@ raws	B
 kev	I
 raws	I
 cai	I
-kev	O
-raws	O
-cai	O
 thiab	O
 lau	O
 .......	O
@@ -1071,9 +1053,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 pab	O
 yus	O
 cov	O

@@ -682,9 +682,6 @@ koj	B
 puj	I
 koj	I
 yawm	I
-puj	O
-koj	O
-yawm	O
 ,	O
 tsi	O
 yog	O
@@ -826,9 +823,6 @@ kev	B
 txhoj	I
 kev	I
 txhaum	I
-txhoj	O
-kev	O
-txhaum	O
 ,	O
 koj	O
 tau	O
@@ -836,9 +830,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 los	O
 yog	O
 txoj	O
@@ -905,18 +896,12 @@ siab	B
 loj	I
 siab	I
 ntev	I
-loj	O
-siab	O
-ntev	O
 ,	O
 ua	O
 neeg	B
 ncaj	I
 neeg	I
 ncees	I
-ncaj	O
-neeg	O
-ncees	O
 ,	O
 ua	O
 neeg	O
@@ -924,9 +909,6 @@ siab	B
 dawb	I
 siab	I
 dav	I
-dawb	O
-siab	O
-dav	O
 thiab	O
 kom	O
 los	O
@@ -936,9 +918,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 nkaus	O
 xwb	O
 .	O
@@ -2592,9 +2571,6 @@ dlaag	B
 noj	I
 dlaag	I
 haus	I
-noj	O
-dlaag	O
-haus	O
 ,	O
 tsi	O
 muaj	O
@@ -2607,9 +2583,6 @@ ua	B
 paab	I
 ua	I
 pawg	I
-paab	O
-ua	O
-pawg	O
 ,	O
 sib	O
 tshua	O
@@ -3132,9 +3105,6 @@ sib	B
 txu	I
 sib	I
 txov	I
-txu	O
-sib	O
-txov	O
 .	O
 
 
@@ -3576,9 +3546,6 @@ ua	B
 plees	I
 ua	I
 yi	I
-plees	O
-ua	O
-yi	O
 mas	O
 message	O
 thread	O
@@ -3937,9 +3904,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 .	O
 
 

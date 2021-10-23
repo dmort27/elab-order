@@ -81,9 +81,6 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 rau	O
 yus	O
 noj	O
@@ -100,9 +97,6 @@ tua	B
 tsiaj	I
 tua	I
 txhuv	I
-tsiaj	O
-tua	O
-txhuv	O
 rau	O
 yus	O
 noj	O
@@ -317,9 +311,6 @@ ua	B
 pawg	I
 ua	I
 lug	I
-pawg	O
-ua	O
-lug	O
 ,	O
 muaj	O
 tsheej	O

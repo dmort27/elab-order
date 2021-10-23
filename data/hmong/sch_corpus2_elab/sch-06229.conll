@@ -605,9 +605,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 pob	O
 .	O
 
@@ -1007,9 +1004,6 @@ muaj	B
 tub	I
 muaj	I
 kiv	I
-tub	O
-muaj	O
-kiv	O
 kawm	O
 ntaub	O
 ntawd	O
@@ -1031,9 +1025,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 zoo	O
 txhua	O
 tus	O
@@ -1061,9 +1052,6 @@ luag	B
 kwv	I
 luag	I
 tij	I
-kwv	O
-luag	O
-tij	O
 kuj	O
 bluad	O
 nuj	O
@@ -1088,9 +1076,6 @@ muab	B
 noj	I
 muab	I
 haus	I
-noj	O
-muab	O
-haus	O
 li	O
 koj	O
 nyuag	O
@@ -3132,9 +3117,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 hais	O
 tias	O
 nws	O
@@ -3265,9 +3247,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 pab	O
 put	O
 pressure	O
@@ -3559,9 +3538,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 es	O
 dad	O
 luj	O
@@ -3578,9 +3554,6 @@ puag	B
 tes	I
 puag	I
 taw	I
-tes	O
-puag	O
-taw	O
 nyob	O
 yam	O
 tsis	O

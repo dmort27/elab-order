@@ -661,9 +661,6 @@ hais	B
 yeej	I
 hais	I
 swb	I
-yeej	O
-hais	O
-swb	O
 los	O
 tsi	O
 tau	O
@@ -929,9 +926,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 .	O
 
 
@@ -948,9 +942,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 zoo	O
 li	O
 no	O
@@ -1180,9 +1171,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hais	O
 tias	O
 tim	O
@@ -1412,9 +1400,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 ,	O
 yuav	O
 tsis	O
@@ -1516,9 +1501,6 @@ lawv	B
 kwv	I
 lawv	I
 tij	I
-kwv	O
-lawv	O
-tij	O
 los	O
 sis	O
 raws	O
@@ -2124,9 +2106,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 coj	O
 los	O
 txuam	O
@@ -2635,9 +2614,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 .	O
 
 
@@ -2784,9 +2760,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 tsi	O
 tso	O
 tseg	O

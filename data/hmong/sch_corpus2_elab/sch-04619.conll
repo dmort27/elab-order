@@ -203,9 +203,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 xwb	O
 ,	O
 yeej	O
@@ -387,9 +384,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 npaum	O
 li	O
 Henry	O
@@ -446,9 +440,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 los	O
 yuav	O
 tau	O
@@ -676,9 +667,6 @@ muaj	B
 plaub	I
 muaj	I
 ntug	I
-plaub	O
-muaj	O
-ntug	O
 ne	O
 ,	O
 yog	O
@@ -686,9 +674,6 @@ muaj	B
 plaub	I
 muaj	I
 ntug	I
-plaub	O
-muaj	O
-ntug	O
 tuaj	O
 ,	O
 leej	O

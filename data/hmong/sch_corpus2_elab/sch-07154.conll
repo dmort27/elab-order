@@ -294,9 +294,6 @@ qhov	B
 ntsej	I
 qhov	I
 muag	I
-ntsej	O
-qhov	O
-muag	O
 txawj	O
 saib	O
 siab	O
@@ -373,9 +370,6 @@ paub	B
 siab	I
 paub	I
 qis	I
-siab	O
-paub	O
-qis	O
 ..	O
 etc	O
 ..	O
@@ -491,9 +485,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 .	O
 
 
@@ -539,9 +530,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 nrov	O
 los	O
 yog	O

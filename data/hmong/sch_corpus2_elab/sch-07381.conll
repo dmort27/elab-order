@@ -845,9 +845,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 yam	O
 nyav	O
 heev	O
@@ -1076,9 +1073,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 kuv	O
 tseem	O
 yuav	O

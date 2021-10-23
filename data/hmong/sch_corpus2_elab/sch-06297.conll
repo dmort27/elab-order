@@ -88,9 +88,6 @@ nej	B
 niam	I
 nej	I
 txiv	I
-niam	O
-nej	O
-txiv	O
 ,	O
 nej	O
 tub	O
@@ -1879,9 +1876,6 @@ tsi	B
 meej	I
 tsi	I
 pem	I
-meej	O
-tsi	O
-pem	O
 hab	O
 tsi	O
 yog	O
@@ -2339,9 +2333,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 xwb	O
 ces	O
 twb	O
@@ -2618,9 +2609,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 zoo	O
 li	O
 yus	O
@@ -2838,9 +2826,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 xwb	O
 ces	O
 twb	O
@@ -3117,9 +3102,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 zoo	O
 li	O
 yus	O
@@ -3427,9 +3409,6 @@ ua	B
 phem	I
 ua	I
 zoo	I
-phem	O
-ua	O
-zoo	O
 los	O
 sawv	O
 daws	O
@@ -4199,9 +4178,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 yuav	O
 yog	O
 saub	O
@@ -4258,9 +4234,6 @@ ua	B
 ciaj	I
 ua	I
 tuag	I
-ciaj	O
-ua	O
-tuag	O
 rau	O
 nws	O
 qhov	O

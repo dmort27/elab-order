@@ -456,9 +456,6 @@ lub	B
 paus	I
 lub	I
 ntsis	I
-paus	O
-lub	O
-ntsis	O
 peb	O
 thiaj	O
 paub	O
@@ -1180,9 +1177,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ...	O
 tsi	O
 hais	O
@@ -1890,9 +1884,6 @@ nqaij	B
 qaib	I
 nqaij	I
 npua	I
-qaib	O
-nqaij	O
-npua	O
 xwb	O
 .	O
 
@@ -2004,9 +1995,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 hauv	O
 tshav	O
 rog	O

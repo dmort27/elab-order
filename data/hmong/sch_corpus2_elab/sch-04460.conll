@@ -84,9 +84,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 hab	O
 cib	O
 nyeej	O
@@ -746,9 +743,6 @@ tham	B
 txhij	I
 tham	I
 txhua	I
-txhij	O
-tham	O
-txhua	O
 los	O
 muaj	O
 lawm	O
@@ -779,9 +773,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 ntxiv	O
 nad	O
 .......	O

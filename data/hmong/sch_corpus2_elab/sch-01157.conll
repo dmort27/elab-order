@@ -617,9 +617,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 muab	O
 kaus	O
 lawm	O
@@ -940,9 +937,6 @@ thawm	B
 niaj	I
 thawm	I
 xyoo	I
-niaj	O
-thawm	O
-xyoo	O
 thiaj	O
 tau	O
 zoo	O
@@ -984,9 +978,6 @@ thawm	B
 niaj	I
 thawm	I
 xyoo	I
-niaj	O
-thawm	O
-xyoo	O
 ib	O
 zaug	O
 tau	O
@@ -1219,9 +1210,6 @@ thawm	B
 niaj	I
 thawm	I
 xyoo	I
-niaj	O
-thawm	O
-xyoo	O
 thiaj	O
 tau	O
 zoo	O
@@ -1252,9 +1240,6 @@ thawm	B
 niaj	I
 thawm	I
 xyoo	I
-niaj	O
-thawm	O
-xyoo	O
 ib	O
 zaug	O
 tau	O
@@ -2600,9 +2585,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 yog	O
 muaj	O
 siab	O
@@ -2646,9 +2628,6 @@ hnab	B
 ris	I
 hnab	I
 tsho	I
-ris	O
-hnab	O
-tsho	O
 tag	O
 mam	O
 tso	O
@@ -2673,9 +2652,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 ,	O
 meejpem	O
 kawg	O
@@ -2964,9 +2940,6 @@ tham	B
 mus	I
 tham	I
 los	I
-mus	O
-tham	O
-los	O
 tseem	O
 tham	O
 txog	O

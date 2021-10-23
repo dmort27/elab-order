@@ -1130,9 +1130,6 @@ ua	B
 ciaj	I
 ua	I
 tuag	I
-ciaj	O
-ua	O
-tuag	O
 kom	O
 tau	O
 xwb	O
@@ -1184,9 +1181,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 lawm	O
 thiab	O
 law	O
@@ -1230,9 +1224,6 @@ nyiaj	B
 hnub	I
 nyiaj	I
 hli	I
-hnub	O
-nyiaj	O
-hli	O
 nrog	O
 ces	O
 #	O
@@ -1709,9 +1700,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ?	O
 
 
@@ -2318,9 +2306,6 @@ qee	B
 leej	I
 qee	I
 tug	I
-leej	O
-qee	O
-tug	O
 pobkub	O
 ua	O
 suv	O
@@ -2794,9 +2779,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 yav	O
 dhau	O
 los.\	O

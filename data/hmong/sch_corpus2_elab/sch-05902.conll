@@ -1329,9 +1329,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 ntuas	O
 yawg	O
 tsev	O
@@ -1346,9 +1343,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 ,	O
 thiab	O
 tag	O
@@ -1727,9 +1721,6 @@ khuam	B
 tes	I
 khuam	I
 taw	I
-tes	O
-khuam	O
-taw	O
 pes	O
 tsawg	O
 lawm	O
@@ -2654,9 +2645,6 @@ ua	B
 dab	I
 ua	I
 tsov	I
-dab	O
-ua	O
-tsov	O
 los	O
 yeej	O
 ntes	O
@@ -2747,9 +2735,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 tawb	O
 NkaujNyiag	O
 es	O

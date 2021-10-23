@@ -892,9 +892,6 @@ hav	B
 hmab	I
 hav	I
 zoov	I
-hmab	O
-hav	O
-zoov	O
 luag	O
 lawm	O
 xwb	O
@@ -949,9 +946,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 no	O
 es	O
 leej	O
@@ -1825,9 +1819,6 @@ hauv	B
 ntaub	I
 hauv	I
 ntawv	I
-ntaub	O
-hauv	O
-ntawv	O
 xwb	O
 ....	O
 luag	O
@@ -1869,9 +1860,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 es	O
 txawm	O
@@ -1882,9 +1870,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ,	O
 mas	O
 tsi	O
@@ -2007,9 +1992,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 ntawv	O
 luag	O
 twb	O
@@ -2204,9 +2186,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 xwb	O
 .	O
 
@@ -2384,9 +2363,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 tab	O
 sis	O
 hnov	O
@@ -2428,9 +2404,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 tab	O
 sis	O
 ho	O

@@ -730,9 +730,6 @@ txiv	B
 laus	I
 txiv	I
 hluas	I
-laus	O
-txiv	O
-hluas	O
 ,	O
 Zam	O
 Va	O
@@ -1349,9 +1346,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 yog	O
 neeg	O
 sib	O

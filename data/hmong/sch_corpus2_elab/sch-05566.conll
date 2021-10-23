@@ -32,9 +32,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 kom	O
 rov	O
 zoo	O
@@ -202,9 +199,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 raws	O
 siab	O
 xav	O
@@ -311,9 +305,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -324,9 +315,6 @@ neeg	B
 dawb	I
 neeg	I
 huv	I
-dawb	O
-neeg	O
-huv	O
 los	O
 sad	O
 .....	O
@@ -848,9 +836,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 ov	O
 .	O
 
@@ -980,9 +965,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 hab	O
 lau	O
 .	O

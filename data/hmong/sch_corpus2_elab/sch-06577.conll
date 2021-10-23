@@ -685,9 +685,6 @@ muag	B
 teb	I
 muag	I
 chaw	I
-teb	O
-muag	O
-chaw	O
 tiag	O
 tiag	O
 .	O
@@ -958,17 +955,11 @@ tis	B
 tshoob	I
 tis	I
 kos	I
-tshoob	O
-tis	O
-kos	O
 thiab	O
 tis	B
 neej	I
 tis	I
 tsav	I
-neej	O
-tis	O
-tsav	O
 nrog	O
 Nplog	O
 li	O
@@ -1016,9 +1007,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 ntxiv	O
 mus	O
 .	O

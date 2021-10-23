@@ -522,9 +522,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 es	O
 luag	O
 thiaj	O
@@ -799,9 +796,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 .	O
 
 
@@ -825,9 +819,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 mas	O
 hnov	O
 hais	O

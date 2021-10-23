@@ -828,18 +828,12 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 noj	O
 ,	O
 tu	B
 vaaj	I
 tu	I
 tsev	I
-vaaj	O
-tu	O
-tsev	O
 ,	O
 tu	O
 tej	O
@@ -929,9 +923,6 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 noj	O
 es	O
 pluas	O
@@ -1662,9 +1653,6 @@ mus	B
 ub	I
 mus	I
 no	I
-ub	O
-mus	O
-no	O
 .	O
 
 
@@ -1817,9 +1805,6 @@ lav	B
 ntuj	I
 lav	I
 teb	I
-ntuj	O
-lav	O
-teb	O
 ......	O
 tau	O
 paum	O
@@ -1988,9 +1973,6 @@ txhua	B
 hnub	I
 txhua	I
 hmo	I
-hnub	O
-txhua	O
-hmo	O
 li	O
 tus	O
 qhev	O

@@ -119,9 +119,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 paub	O
 tag	O
 tsis	O
@@ -552,9 +549,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 no	O
 ces	O
 tsis	O
@@ -1532,9 +1526,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 xav	O
 tau	O
 ntsej	O

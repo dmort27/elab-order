@@ -307,9 +307,6 @@ phaum	B
 niam	I
 phaum	I
 txiv	I
-niam	O
-phaum	O
-txiv	O
 (	O
 our	O
 parents	O
@@ -387,9 +384,6 @@ luag	B
 teb	I
 luag	I
 chaw	I
-teb	O
-luag	O
-chaw	O
 ces	O
 luag	O
 saib	O
@@ -419,9 +413,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 los	O
 tsis	O
 swm	O

@@ -369,9 +369,6 @@ qaum	B
 liab	I
 qaum	I
 ntsuab	I
-liab	O
-qaum	O
-ntsuab	O
 ntxias	O
 lawv	O
 pos	O
@@ -653,9 +650,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 no	O
 nas	O
 puas	O
@@ -783,9 +777,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 hauv	O
 luag	O
 tej	O

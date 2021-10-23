@@ -458,9 +458,6 @@ ntau	B
 leej	I
 ntau	I
 tus	I
-leej	O
-ntau	O
-tus	O
 lawm	O
 tias	O
 ,	O
@@ -808,9 +805,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 (	O
 technology	O
 )	O
@@ -1542,9 +1536,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 tsis	O
 muaj	O
 hnub	O
@@ -1854,17 +1845,11 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ,	O
 coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 kev	O
 respect	O
@@ -1926,17 +1911,11 @@ dab	B
 niam	I
 dab	I
 txiv	I
-niam	O
-dab	O
-txiv	O
 ,	O
 dab	B
 pog	I
 dab	I
 yawg	I
-pog	O
-dab	O
-yawg	O
 no	O
 ?	O
 
@@ -1957,9 +1936,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 especially	O
 noj	O
 tsiab	O
@@ -2036,9 +2012,6 @@ niaj	B
 hnub	I
 niaj	I
 hmo	I
-hnub	O
-niaj	O
-hmo	O
 mus	O
 txho	O
 caug	O
@@ -2154,9 +2127,6 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 muaj	O
 xwsli	O
 :	O

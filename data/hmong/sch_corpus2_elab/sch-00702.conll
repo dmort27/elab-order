@@ -78,9 +78,6 @@ qhov	B
 txhia	I
 qhov	I
 chaw	I
-txhia	O
-qhov	O
-chaw	O
 poob	O
 tag	O
 ,	O
@@ -237,9 +234,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 tsuas	O
 yug	O
 tau	O
@@ -793,9 +787,6 @@ lawv	B
 cem	I
 lawv	I
 hais	I
-cem	O
-lawv	O
-hais	O
 kuv	O
 hos	O
 tseem	O
@@ -1768,9 +1759,6 @@ qhov	B
 txhia	I
 qhov	I
 chaw	I
-txhia	O
-qhov	O
-chaw	O
 poob	O
 tag	O
 ,	O

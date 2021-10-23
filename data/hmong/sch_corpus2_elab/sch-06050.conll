@@ -336,9 +336,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 lawm	O
 yeej	O
 yuav	O
@@ -730,9 +727,6 @@ coj	B
 teb	I
 coj	I
 chaw	I
-teb	O
-coj	O
-chaw	O
 rau	O
 Hmoob	O
 ,	O
@@ -1274,9 +1268,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 kiag	O
 li	O
 --	O
@@ -1683,9 +1674,6 @@ yog	B
 kwv	I
 yog	I
 tij	I
-kwv	O
-yog	O
-tij	O
 hmoob	O
 lawm	O
 tiag	O

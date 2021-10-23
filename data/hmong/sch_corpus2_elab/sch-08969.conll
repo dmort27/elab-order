@@ -169,9 +169,6 @@ tej	B
 nam	I
 tej	I
 txiv	I
-nam	O
-tej	O
-txiv	O
 tej	O
 kaasmoos	O
 mas	O
@@ -1291,9 +1288,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 xwb	O
 .	O
 
@@ -1411,9 +1405,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 li	O
 .	O
 
@@ -2603,9 +2594,6 @@ tau	B
 pab	I
 tau	I
 pawg	I
-pab	O
-tau	O
-pawg	O
 .	O
 
 

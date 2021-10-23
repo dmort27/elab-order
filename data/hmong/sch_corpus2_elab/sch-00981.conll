@@ -2031,9 +2031,6 @@ kev	B
 pluj	I
 kev	I
 tuag	I
-pluj	O
-kev	O
-tuag	O
 xwb	O
 .	O
 
@@ -2061,9 +2058,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 mas	O
 Moob	O
 sib	O
@@ -2169,9 +2163,6 @@ cam	B
 dlej	I
 cam	I
 aav	I
-dlej	O
-cam	O
-aav	O
 ,	O
 kuv	O
 tuaj	O
@@ -2182,9 +2173,6 @@ cam	B
 dlej	I
 cam	I
 aav	I
-dlej	O
-cam	O
-aav	O
 .	O
 
 
@@ -2893,9 +2881,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 yuav	O
 tsum	O
 txawj	O

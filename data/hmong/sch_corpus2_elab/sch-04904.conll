@@ -214,9 +214,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 tiag	O
 tiag	O
 ,	O
@@ -229,9 +226,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 thaum	O
 ub	O
 es	O
@@ -312,9 +306,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 txaus	O
 xwb	O
 ....	O
@@ -428,9 +419,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 yeej	O
 ua	O
 le	O
@@ -951,9 +939,6 @@ nqi	B
 vaj	I
 nqi	I
 tsev	I
-vaj	O
-nqi	O
-tsev	O
 ,	O
 nqi	O
 noj	O
@@ -993,9 +978,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 twb	O
 mus	O
 deb	O
@@ -1010,9 +992,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 los	O
 yuav	O
 tau	O
@@ -1022,9 +1001,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 .	O
 
 
@@ -1033,9 +1009,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 hmoob	O
 twb	O
 mus	O
@@ -1072,9 +1045,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 los	O
 tseem	O
 khaw	O

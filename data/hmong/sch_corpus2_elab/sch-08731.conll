@@ -1365,9 +1365,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 los	O
 kuv	O
 tsuas	O
@@ -1536,9 +1533,6 @@ mlom	B
 tooj	I
 mlom	I
 hlau	I
-tooj	O
-mlom	O
-hlau	O
 tuaj	O
 hais	O
 los	O
@@ -1696,9 +1690,6 @@ muaj	B
 yeej	I
 muaj	I
 swb	I
-yeej	O
-muaj	O
-swb	O
 .	O
 
 
@@ -2123,9 +2114,6 @@ tham	B
 mus	I
 tham	I
 los	I
-mus	O
-tham	O
-los	O
 es	O
 cov	O
 NOOB	O
@@ -3549,9 +3537,6 @@ muaj	B
 qab	I
 muaj	I
 hauv	I
-qab	O
-muaj	O
-hauv	O
 xwb	O
 maj	O
 ?	O

@@ -58,9 +58,6 @@ ntoo	B
 loj	I
 ntoo	I
 me	I
-loj	O
-ntoo	O
-me	O
 los	O
 lawm	O
 ntau	O
@@ -123,9 +120,6 @@ noj	B
 zaub	I
 noj	I
 mov	I
-zaub	O
-noj	O
-mov	O
 nyob	O
 hauv	O
 tej	O
@@ -230,9 +224,6 @@ kaum	B
 roob	I
 kaum	I
 hav	I
-roob	O
-kaum	O
-hav	O
 txhua	O
 nro	O
 lawm	O
@@ -1339,9 +1330,6 @@ tas	B
 zaj	I
 tas	I
 zog	I
-zaj	O
-tas	O
-zog	O
 lis	O
 lauj	O
 ,	O
@@ -1689,9 +1677,6 @@ paub	B
 ub	I
 paub	I
 no	I
-ub	O
-paub	O
-no	O
 ces	O
 tsis	O
 xav	O
@@ -1897,9 +1882,6 @@ paub	B
 ub	I
 paub	I
 no	I
-ub	O
-paub	O
-no	O
 ,	O
 koj	O
 puas	O
@@ -1971,9 +1953,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 qhuav	O
 xwb	O
 kuv	O

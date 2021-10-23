@@ -261,9 +261,6 @@ muab	B
 txuj	I
 muab	I
 ci	I
-txuj	O
-muab	O
-ci	O
 los	O
 seb	O
 li	O
@@ -1362,9 +1359,6 @@ muaj	B
 txij	I
 muaj	I
 nkawm	I
-txij	O
-muaj	O
-nkawm	O
 tag	O
 ,	O
 hos	O
@@ -1386,9 +1380,6 @@ muaj	B
 txij	I
 muaj	I
 nkawm	I
-txij	O
-muaj	O
-nkawm	O
 li	O
 naj	O
 ?	O
@@ -1659,9 +1650,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 es	O
 thiaj	O
 li	O
@@ -1802,9 +1790,6 @@ kaum	B
 vaaj	I
 kaum	I
 tsev	I
-vaaj	O
-kaum	O
-tsev	O
 xwb	O
 mas	O
 ,	O
@@ -2227,9 +2212,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 tej	O
 tax	O
 ,	O
@@ -2298,9 +2280,6 @@ yuav	B
 ub	I
 yuav	I
 no	I
-ub	O
-yuav	O
-no	O
 txawv	O
 lwm	O
 teb	O
@@ -2327,9 +2306,6 @@ phov	B
 ub	I
 phov	I
 no	I
-ub	O
-phov	O
-no	O
 ........	O
 neb	O
 puas	O

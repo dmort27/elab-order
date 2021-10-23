@@ -147,9 +147,6 @@ rau	B
 roj	I
 rau	I
 ntsev	I
-roj	O
-rau	O
-ntsev	O
 hlo	O
 le	O
 ,	O
@@ -401,9 +398,6 @@ kuag	B
 kaab	I
 kuag	I
 hlau	I
-kaab	O
-kuag	O
-hlau	O
 nuav	O
 xaav	O
 mas	O
@@ -447,9 +441,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 los	O
 nws	O
 lub	O
@@ -477,9 +468,6 @@ tub	B
 tes	I
 tub	I
 taw	I
-tes	O
-tub	O
-taw	O
 ntawm	O
 ib	O
 phav	O
@@ -533,9 +521,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 uas	O
 peb	O
 nrog	O
@@ -564,9 +549,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 heev	O
 no	O
 los	O

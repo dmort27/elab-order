@@ -1020,17 +1020,11 @@ lawv	B
 kwv	I
 lawv	I
 tij	I
-kwv	O
-lawv	O
-tij	O
 ,	O
 lawv	B
 neej	I
 lawv	I
 tsav	I
-neej	O
-lawv	O
-tsav	O
 ,	O
 thiab	O
 yug	O
@@ -1231,9 +1225,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 .	O
 
 
@@ -1374,9 +1365,6 @@ teg	B
 dej	I
 teg	I
 num	I
-dej	O
-teg	O
-num	O
 .	O
 
 
@@ -1761,9 +1749,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 has	O
 lug	O
 nrov	O
@@ -1945,9 +1930,6 @@ teev	B
 dab	I
 teev	I
 qhua	I
-dab	O
-teev	O
-qhua	O
 kom	O
 dab	O
 nyeg	O
@@ -2358,9 +2340,6 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 los	O
 npws	O
 los	O

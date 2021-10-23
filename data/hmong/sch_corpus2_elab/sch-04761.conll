@@ -8,9 +8,6 @@ coob	B
 leej	I
 coob	I
 tus	I
-leej	O
-coob	O
-tus	O
 hais	O
 tias	O
 Nplog	O
@@ -328,9 +325,6 @@ them	B
 nuj	I
 them	I
 nqi	I
-nuj	O
-them	O
-nqi	O
 tagnrho	O
 ,	O
 including	O
@@ -943,9 +937,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 rau	O
 cov	O
 subordinate	O
@@ -1325,9 +1316,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 rau	O
 mob	O
 los	O

@@ -35,9 +35,6 @@ ua	B
 phem	I
 ua	I
 qas	I
-phem	O
-ua	O
-qas	O
 taag	O
 tes	O
 ho	O
@@ -117,9 +114,6 @@ qhov	B
 txhia	I
 qhov	I
 chaw	I
-txhia	O
-qhov	O
-chaw	O
 le	O
 .	O
 
@@ -521,9 +515,6 @@ ua	B
 phem	I
 ua	I
 qias	I
-phem	O
-ua	O
-qias	O
 hauv	O
 SCH	O
 nov	O
@@ -1371,9 +1362,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 nawb	O
 .	O
 
@@ -2337,18 +2325,12 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 kom	O
 raws	O
 txoj	B
 kab	I
 txoj	I
 kev	I
-kab	O
-txoj	O
-kev	O
 me	O
 ntsis	O
 .	O
@@ -2447,9 +2429,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 yuav	O
 tsum	O
 sib	O
@@ -2603,9 +2582,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 .	O
 
 

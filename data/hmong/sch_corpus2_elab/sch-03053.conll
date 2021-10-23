@@ -113,9 +113,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 ,	O
 tsis	O
 pe	O
@@ -147,9 +144,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 noj	O
 7	O
 xyoo	O
@@ -299,9 +293,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 nyob	O
 lawm	O
 .	O
@@ -313,9 +304,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 hu	O
 ua	O
 niam	O

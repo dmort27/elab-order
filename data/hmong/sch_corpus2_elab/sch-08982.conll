@@ -715,9 +715,6 @@ lub	B
 vaaj	I
 lub	I
 tsev	I
-vaaj	O
-lub	O
-tsev	O
 los	O
 pauv	O
 tsi	O
@@ -808,9 +805,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 ,	O
 teeb	O
 meem	O
@@ -1380,9 +1374,6 @@ muaj	B
 nyiaj	I
 muaj	I
 txiaj	I
-nyiaj	O
-muaj	O
-txiaj	O
 ntau	O
 ,	O
 los	O
@@ -1483,9 +1474,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 yuav	O
 tsis	O
 hais	O
@@ -1806,9 +1794,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 mas	O
 yeej	O
 muaj	O

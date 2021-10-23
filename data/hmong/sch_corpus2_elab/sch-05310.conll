@@ -549,9 +549,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 txaus	O
 luag	O
 xwb	O
@@ -806,9 +803,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 niaj	O
 hnub	O
 sib	O
@@ -1018,9 +1012,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 rau	O
 nplog	O
 teb	O
@@ -1856,9 +1847,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 koj	O
 tsaws	O
 mus	O
@@ -2142,9 +2130,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 tag	O
 ,	O
 PUAS	O
@@ -2551,9 +2536,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 nyob	O
 sab	O
 hauv	O
@@ -2591,9 +2573,6 @@ tig	B
 mus	I
 tig	I
 los	I
-mus	O
-tig	O
-los	O
 ,	O
 Rov	O
 los	O

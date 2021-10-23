@@ -5,9 +5,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 haistias	O
 YD	O
 tsis	O
@@ -156,9 +153,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 los	O
 as	O
@@ -490,9 +484,6 @@ tsis	B
 meej	I
 tsis	I
 pem	I
-meej	O
-tsis	O
-pem	O
 li	O
 ko	O
 na	O
@@ -866,9 +857,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 haistias	O
 YD	O
 tsis	O
@@ -920,9 +908,6 @@ tsis	B
 meej	I
 tsis	I
 pem	I
-meej	O
-tsis	O
-pem	O
 li	O
 ko	O
 na	O
@@ -1861,9 +1846,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 uas	O
 koj	O
 hnov	O
@@ -1918,9 +1900,6 @@ hais	B
 kwv	I
 hais	I
 tij	I
-kwv	O
-hais	O
-tij	O
 tuaj	O
 sib	O
 pab	O
@@ -1991,9 +1970,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 uas	O
 yuav	O
 coj	O

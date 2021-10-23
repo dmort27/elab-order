@@ -813,9 +813,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 yus	O
 hais	O
 li	O
@@ -1153,9 +1150,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ntxiv	O
 lawm	O
 ces	O
@@ -1906,9 +1900,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 tab	O
 sis	O
 zoo	O

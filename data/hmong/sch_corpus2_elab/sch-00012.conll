@@ -1597,9 +1597,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 ,	O
 neeg	O
 cig	O
@@ -1616,9 +1613,6 @@ ua	B
 laj	I
 ua	I
 kam	I
-laj	O
-ua	O
-kam	O
 )	O
 .	O
 

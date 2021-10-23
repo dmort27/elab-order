@@ -99,9 +99,6 @@ paub	B
 ntaub	I
 paub	I
 ntawv	I
-ntaub	O
-paub	O
-ntawv	O
 tseem	O
 hajyam	O
 tsi	O
@@ -349,9 +346,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 es	O
 tsi	O
 muaj	O
@@ -363,9 +357,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 li	O
 .	O
 
@@ -399,9 +390,6 @@ pab	B
 kwv	I
 pab	I
 tij	I
-kwv	O
-pab	O
-tij	O
 xwb	O
 ...	O
 :	O

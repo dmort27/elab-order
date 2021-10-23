@@ -81,9 +81,6 @@ uas	B
 nom	I
 uas	I
 tswv	I
-nom	O
-uas	O
-tswv	O
 los	O
 vim	O
 hmoob	O
@@ -94,9 +91,6 @@ poob	B
 nom	I
 poob	I
 tswv	I
-nom	O
-poob	O
-tswv	O
 los	O
 vim	O
 hmoob	O
@@ -850,9 +844,6 @@ uas	B
 pab	I
 uas	I
 pawg	I
-pab	O
-uas	O
-pawg	O
 los	O
 vim	O
 hmoob	O
@@ -1980,9 +1971,6 @@ hais	B
 txhij	I
 hais	I
 txhua	I
-txhij	O
-hais	O
-txhua	O
 kawg	O
 ;	O
 muaj	O
@@ -2097,9 +2085,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 ;	O
 kuv	O
 xav	O
@@ -2183,9 +2168,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 ,	O
 puas	O
 muaj	O
@@ -2295,9 +2277,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 ;	O
 kuv	O
 xav	O
@@ -2365,9 +2344,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 ,	O
 puas	O
 muaj	O
@@ -2508,9 +2484,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 yeejmeem	O
 muab	O
 dig	O
@@ -2520,9 +2493,6 @@ kom	B
 txhij	I
 kom	I
 txhua	I
-txhij	O
-kom	O
-txhua	O
 .	O
 
 

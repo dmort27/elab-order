@@ -472,9 +472,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 ,	O
 lam	O
 tau	O
@@ -490,9 +487,6 @@ raug	B
 kev	I
 raug	I
 cai	I
-kev	O
-raug	O
-cai	O
 ces	O
 kuv	O
 thwm	O

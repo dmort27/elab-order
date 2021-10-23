@@ -618,9 +618,6 @@ hauv	B
 paug	I
 hauv	I
 ntsis	I
-paug	O
-hauv	O
-ntsis	O
 le	O
 ?	O
 
@@ -1488,9 +1485,6 @@ nqi	B
 mis	I
 nqi	I
 hno	I
-mis	O
-nqi	O
-hno	O
 rov	O
 qab	O
 rau	O
@@ -1654,9 +1648,6 @@ nqi	B
 mis	I
 nqi	I
 hno	I
-mis	O
-nqi	O
-hno	O
 lawm	O
 .	O
 
@@ -2298,16 +2289,10 @@ tej	B
 neej	I
 tej	I
 tsav	I
-neej	O
-tej	O
-tsav	O
 tej	B
 kwv	I
 tej	I
 tij	I
-kwv	O
-tej	O
-tij	O
 tseem	O
 fwshlos	O
 koj	O
@@ -2449,9 +2434,6 @@ hmoob	B
 neej	I
 hmoob	I
 tsav	I
-neej	O
-hmoob	O
-tsav	O
 li	O
 lawm	O
 nawb	O

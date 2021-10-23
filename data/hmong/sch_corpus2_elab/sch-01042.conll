@@ -30,9 +30,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 sawv	O
 daws	O
@@ -277,9 +274,6 @@ khwv	B
 ciaj	I
 khwv	I
 tuag	I
-ciaj	O
-khwv	O
-tuag	O
 le	O
 es	O
 txhaj	O

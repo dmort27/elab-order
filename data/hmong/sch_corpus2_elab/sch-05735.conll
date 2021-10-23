@@ -1336,9 +1336,6 @@ keb	B
 ub	I
 keb	I
 no	I
-ub	O
-keb	O
-no	O
 es	O
 thiaj	O
 li	O
@@ -3798,9 +3795,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 kav	O
 lub	O
 me	O
@@ -3945,9 +3939,6 @@ hais	B
 txhij	I
 hais	I
 txhua	I
-txhij	O
-hais	O
-txhua	O
 li	O
 os	O
 thaub	O
@@ -4170,9 +4161,6 @@ qhov	B
 txhia	I
 qhov	I
 chaw	I
-txhia	O
-qhov	O
-chaw	O
 rov	O
 tau	O
 los	O

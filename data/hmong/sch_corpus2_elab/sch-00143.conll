@@ -257,9 +257,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 ,	O
 tshauj	O
 ntsuab	O
@@ -1381,9 +1378,6 @@ txiv	B
 neeb	I
 txiv	I
 yaig	I
-neeb	O
-txiv	O
-yaig	O
 no	O
 koj	O
 puas	O
@@ -1530,9 +1524,6 @@ yuav	B
 ub	I
 yuav	I
 no	I
-ub	O
-yuav	O
-no	O
 es	O
 ho	O
 tau	O
@@ -2049,9 +2040,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -2117,9 +2105,6 @@ taw	B
 ub	I
 taw	I
 no	I
-ub	O
-taw	O
-no	O
 rau	O
 tus	O
 patient	O
@@ -2322,9 +2307,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 thiab	O
 neeg	O
 paubtab	O
@@ -2462,9 +2444,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 lawm	O
 ....	O
 LOLz	O
@@ -2543,9 +2522,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ,	O
 ces	O
 kawg	O
@@ -2592,9 +2568,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 es	O
 paub	O
 when	O
@@ -2740,9 +2713,6 @@ yuav	B
 ub	I
 yuav	I
 no	I
-ub	O
-yuav	O
-no	O
 es	O
 ho	O
 tau	O
@@ -2872,9 +2842,6 @@ hais	B
 ntuj	I
 hais	I
 teb	I
-ntuj	O
-hais	O
-teb	O
 thiab	O
 cuab	O
 qhov	O
@@ -3065,9 +3032,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 no	O
 .	O
 
@@ -3616,9 +3580,6 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 nchopa	O
 lug	O
 .	O
@@ -4569,9 +4530,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 lawm	O
 tiag	O
 tiag	O
@@ -4587,9 +4545,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 thiab	O
 thaum	O
 hais	O
@@ -4937,9 +4892,6 @@ txiv	B
 neeb	I
 txiv	I
 yaig	I
-neeb	O
-txiv	O
-yaig	O
 cov	O
 mus	O
 loj	O
@@ -5809,9 +5761,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 in	O
 GENERAL	O
 .	O
@@ -5851,9 +5800,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 ,	O
 looking	O
 from	O
@@ -5874,9 +5820,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 (	O
 uas	O
 kuv	O

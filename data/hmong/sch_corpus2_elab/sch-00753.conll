@@ -485,9 +485,6 @@ muaj	B
 ntsej	I
 muaj	I
 muag	I
-ntsej	O
-muaj	O
-muag	O
 thiab	O
 thawj	O
 coj	O
@@ -772,9 +769,6 @@ teev	B
 dab	I
 teev	I
 qhua	I
-dab	O
-teev	O
-qhua	O
 lub	O
 neej	O
 txoj	O
@@ -992,9 +986,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 thiab	O
 lawv	O
 txoj	O
@@ -1482,17 +1473,11 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hais	O
 li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 mas	O
 ?	O
 

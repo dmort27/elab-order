@@ -1351,9 +1351,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 li	O
 no	O
 .	O
@@ -1502,9 +1499,6 @@ tsis	B
 qab	I
 tsis	I
 tsuag	I
-qab	O
-tsis	O
-tsuag	O
 hais	O
 tias	O
 ``	O

@@ -103,9 +103,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 xwb	O
 los	O
 --	O
@@ -543,9 +540,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 ne	O
 ,	O
@@ -1216,9 +1210,6 @@ khoom	B
 vaj	I
 khoom	I
 tsev	I
-vaj	O
-khoom	O
-tsev	O
 muag	O
 tib	O
 si	O
@@ -1667,9 +1658,6 @@ ib	B
 paab	I
 ib	I
 pawg	I
-paab	O
-ib	O
-pawg	O
 ruaj	O
 qhov	O
 ,	O
@@ -1760,9 +1748,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 kawg	O
 le	O
 hab	O
@@ -1782,9 +1767,6 @@ lug	B
 txawj	I
 lug	I
 ntse	I
-txawj	O
-lug	O
-ntse	O
 sov	O
 yog	O
 dlaab	O
@@ -1824,9 +1806,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 los	O
 le	O
 caag	O
@@ -1927,9 +1906,6 @@ ua	B
 dlawb	I
 ua	I
 huv	I
-dlawb	O
-ua	O
-huv	O
 ,	O
 paab	O
 dlawb	O
@@ -2247,9 +2223,6 @@ nris	B
 riam	I
 nris	I
 phom	I
-riam	O
-nris	O
-phom	O
 yuam	O
 kom	O
 ua	O
@@ -3150,9 +3123,6 @@ khoom	B
 vaj	I
 khoom	I
 tsev	I
-vaj	O
-khoom	O
-tsev	O
 muag	O
 tib	O
 si	O
@@ -3882,9 +3852,6 @@ khoom	B
 vaj	I
 khoom	I
 tsev	I
-vaj	O
-khoom	O
-tsev	O
 muag	O
 tib	O
 si	O
@@ -4328,9 +4295,6 @@ vuag	B
 ub	I
 vuag	I
 no	I
-ub	O
-vuag	O
-no	O
 los	O
 tham	O
 mas	O
@@ -4342,9 +4306,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 nawb	O
 .	O
 
@@ -4404,9 +4365,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 .	O
 
 
@@ -4424,9 +4382,6 @@ lus	B
 iab	I
 lus	I
 daw	I
-iab	O
-lus	O
-daw	O
 nyob	O
 rau	O
 hauv	O
@@ -5643,9 +5598,6 @@ khoom	B
 vaj	I
 khoom	I
 tsev	I
-vaj	O
-khoom	O
-tsev	O
 muag	O
 tib	O
 si	O
@@ -6098,9 +6050,6 @@ vuag	B
 ub	I
 vuag	I
 no	I
-ub	O
-vuag	O
-no	O
 los	O
 tham	O
 mas	O
@@ -6112,9 +6061,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 nawb	O
 .	O
 
@@ -6174,9 +6120,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 .	O
 
 
@@ -6194,9 +6137,6 @@ lus	B
 iab	I
 lus	I
 daw	I
-iab	O
-lus	O
-daw	O
 nyob	O
 rau	O
 hauv	O
@@ -6878,9 +6818,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 tiag	O
 ,	O
 rau	O
@@ -7143,9 +7080,6 @@ vuag	B
 ub	I
 vuag	I
 no	I
-ub	O
-vuag	O
-no	O
 coj	O
 los	O
 hais	O
@@ -7165,9 +7099,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 txawv	O
 deb	O
 ntawm	O

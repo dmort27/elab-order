@@ -196,9 +196,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 raug	O
 tua	O
 .	O
@@ -1162,9 +1159,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 .	O
 
 
@@ -1401,9 +1395,6 @@ tiav	B
 niam	I
 tiav	I
 txiv	I
-niam	O
-tiav	O
-txiv	O
 li	O
 luag	O
 tso	O
@@ -1961,9 +1952,6 @@ tseem	B
 kev	I
 tseem	I
 cai	I
-kev	O
-tseem	O
-cai	O
 lawm	O
 thiab	O
 tiam	O
@@ -2209,9 +2197,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 rau	O
 hmoob	O
 mojthem	O

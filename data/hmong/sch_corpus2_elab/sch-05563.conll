@@ -1186,9 +1186,6 @@ paum	B
 nyuj	I
 paum	I
 twm	I
-nyuj	O
-paum	O
-twm	O
 tom	O
 tshav	O
 rog	O
@@ -1233,9 +1230,6 @@ paum	B
 nyuj	I
 paum	I
 twm	I
-nyuj	O
-paum	O
-twm	O
 tom	O
 tshav	O
 rog	O
@@ -1290,9 +1284,6 @@ paum	B
 nyuj	I
 paum	I
 twm	I
-nyuj	O
-paum	O
-twm	O
 tag	O
 nrho	O
 puas	O
@@ -1462,9 +1453,6 @@ paum	B
 nyuj	I
 paum	I
 twm	I
-nyuj	O
-paum	O
-twm	O
 tom	O
 tshav	O
 rog	O
@@ -2351,9 +2339,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 mam	O
 hais	O
 ....	O
@@ -3417,9 +3402,6 @@ tus	B
 phem	I
 tus	I
 zoo	I
-phem	O
-tus	O
-zoo	O
 sib	O
 xyaw	O
 ua	O
@@ -4181,9 +4163,6 @@ tus	B
 phem	I
 tus	I
 zoo	I
-phem	O
-tus	O
-zoo	O
 sib	O
 xyaw	O
 ua	O
@@ -4892,9 +4871,6 @@ tiv	B
 tsov	I
 tiv	I
 rog	I
-tsov	O
-tiv	O
-rog	O
 tiag	O
 tiag	O
 xwb	O
@@ -4939,9 +4915,6 @@ paum	B
 nyuj	I
 paum	I
 twm	I
-nyuj	O
-paum	O
-twm	O
 tom	O
 tshav	O
 rog	O
@@ -5035,9 +5008,6 @@ paum	B
 nyuj	I
 paum	I
 twm	I
-nyuj	O
-paum	O
-twm	O
 xwb	O
 yog	O
 thov	O
@@ -5146,9 +5116,6 @@ xav	B
 paub	I
 xav	I
 pom	I
-paub	O
-xav	O
-pom	O
 ,	O
 xav	O
 xyaum	O
@@ -5439,9 +5406,6 @@ thawm	B
 niaj	I
 thawm	I
 xyoo	I
-niaj	O
-thawm	O
-xyoo	O
 .	O
 
 

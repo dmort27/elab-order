@@ -419,9 +419,6 @@ raug	B
 ploj	I
 raug	I
 tuag	I
-ploj	O
-raug	O
-tuag	O
 .	O
 
 
@@ -533,9 +530,6 @@ xaa	B
 moog	I
 xaa	I
 lug	I
-moog	O
-xaa	O
-lug	O
 ces	O
 mov	O
 nplaum	O
@@ -721,9 +715,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 .	O
 
 
@@ -834,9 +825,6 @@ tej	B
 tub	I
 tej	I
 ki	I
-tub	O
-tej	O
-ki	O
 thiajli	O
 tseg	O
 tau	O

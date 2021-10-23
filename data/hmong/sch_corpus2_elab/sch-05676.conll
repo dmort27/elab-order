@@ -105,9 +105,6 @@ kuaj	B
 mus	I
 kuaj	I
 los	I
-mus	O
-kuaj	O
-los	O
 tsi	O
 txawj	O
 tso	O
@@ -859,9 +856,6 @@ tuav	B
 riam	I
 tuav	I
 phom	I
-riam	O
-tuav	O
-phom	O
 tab	O
 sis	O
 kom	O
@@ -2145,9 +2139,6 @@ raws	B
 kev	I
 raws	I
 cai	I
-kev	O
-raws	O
-cai	O
 li	O
 lawv	O
 ntag	O
@@ -2858,9 +2849,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 tsem	O
 puav	O
 los	O
@@ -3050,9 +3038,6 @@ sab	B
 khwb	I
 sab	I
 ntxeev	I
-khwb	O
-sab	O
-ntxeev	O
 (	O
 li	O
 ntaus	O

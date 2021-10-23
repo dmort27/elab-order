@@ -316,9 +316,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 nawb	O
 !	O
 
@@ -344,9 +341,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 ...	O
 kuv	O
 tij	O
@@ -1939,9 +1933,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ,	O
 tab	O
 tus	O

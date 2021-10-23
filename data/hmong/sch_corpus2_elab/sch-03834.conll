@@ -98,9 +98,6 @@ cov	B
 tub	I
 cov	I
 kiv	I
-tub	O
-cov	O
-kiv	O
 xwb	O
 ...	O
 tzianeng	O
@@ -433,9 +430,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 li	O
 ned	O
 --	O

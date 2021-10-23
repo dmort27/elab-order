@@ -1049,9 +1049,6 @@ tub	B
 sab	I
 tub	I
 nyiag	I
-sab	O
-tub	O
-nyiag	O
 ces	O
 txawm	O
 yog	O
@@ -1820,9 +1817,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 ,	O
 txawj	O
 hais	O
@@ -2911,9 +2905,6 @@ xim	B
 liab	I
 xim	I
 ntsuab	I
-liab	O
-xim	O
-ntsuab	O
 es	O
 coj	O
 mus	O
@@ -4288,9 +4279,6 @@ tus	B
 yeej	I
 tus	I
 swb	I
-yeej	O
-tus	O
-swb	O
 .	O
 
 
@@ -4931,9 +4919,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 yog	O
 koj	O
@@ -5163,9 +5148,6 @@ tej	B
 zaub	I
 tej	I
 mov	I
-zaub	O
-tej	O
-mov	O
 ua	O
 nkag	O
 tsi	O
@@ -5289,9 +5271,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 puav	O
 leej	O
 yog	O

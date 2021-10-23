@@ -3667,9 +3667,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 uas	O
 twb	O
 tag	O
@@ -3730,9 +3727,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 ntawd	O
 peb	O
 pej	O
@@ -4318,9 +4312,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ''	O
 ntag	O
 les	O
@@ -5584,9 +5575,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 (	O
 government	O
 )	O
@@ -6393,9 +6381,6 @@ tsa	B
 tes	I
 tsa	I
 taw	I
-tes	O
-tsa	O
-taw	O
 nrog	O
 hos	O
 kuv	O

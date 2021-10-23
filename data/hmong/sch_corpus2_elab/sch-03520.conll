@@ -83,9 +83,6 @@ vaaj	B
 luj	I
 vaaj	I
 miv	I
-luj	O
-vaaj	O
-miv	O
 yuav	O
 tau	O
 ua	O
@@ -175,9 +172,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 .	O
 
 
@@ -874,9 +868,6 @@ vaaj	B
 luj	I
 vaaj	I
 miv	I
-luj	O
-vaaj	O
-miv	O
 lawm	O
 cais	O
 tsi	O
@@ -980,9 +971,6 @@ le	B
 ub	I
 le	I
 nuav	I
-ub	O
-le	O
-nuav	O
 ,	O
 rua	O
 qhov	O

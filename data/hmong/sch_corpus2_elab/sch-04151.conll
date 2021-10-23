@@ -638,9 +638,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 tabis	O
 ib	O
 qha	O
@@ -649,9 +646,6 @@ sib	B
 hlub	I
 sib	I
 paab	I
-hlub	O
-sib	O
-paab	O
 hab	O
 qha	O
 ua	O
@@ -807,9 +801,6 @@ kev	B
 toj	I
 kev	I
 taug	I
-toj	O
-kev	O
-taug	O
 los	O
 mus	O
 lawm	O
@@ -1423,9 +1414,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 es	O
 cia	O
 li	O
@@ -2717,9 +2705,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 tabis	O
 ib	O
 qha	O
@@ -2728,9 +2713,6 @@ sib	B
 hlub	I
 sib	I
 paab	I
-hlub	O
-sib	O
-paab	O
 hab	O
 qha	O
 ua	O

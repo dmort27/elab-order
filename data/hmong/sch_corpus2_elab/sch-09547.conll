@@ -166,9 +166,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 mus	O
 kawm	O
 txuj	O
@@ -633,9 +630,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 kawm	O
 ntaub	O
 ntawv	O
@@ -643,9 +637,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 .	O
 
 
@@ -697,9 +688,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 Hmoob	O
 .	O
 
@@ -1223,9 +1211,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 li	O
 vp	O
 lawv	O
@@ -1733,9 +1718,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 koj	O
 naj	O
@@ -1986,9 +1968,6 @@ muaj	B
 pab	I
 muaj	I
 pawg	I
-pab	O
-muaj	O
-pawg	O
 lawv	O
 yog	O
 neeg	O
@@ -2016,9 +1995,6 @@ muaj	B
 pab	I
 muaj	I
 pawg	I
-pab	O
-muaj	O
-pawg	O
 li	O
 nej	O
 mas	O

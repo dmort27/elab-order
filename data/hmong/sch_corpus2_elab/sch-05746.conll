@@ -1243,9 +1243,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 rau	O
 cov	O
 ua	O
@@ -1407,9 +1404,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 .	O
 
 
@@ -1428,9 +1422,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 coj	O
 mus	O
 siv	O

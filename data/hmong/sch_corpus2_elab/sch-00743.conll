@@ -1075,9 +1075,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 tiv	O
 nqis	O
@@ -1086,9 +1083,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 yuav	O
 qhais	O
 zog	O
@@ -1668,9 +1662,6 @@ poj	B
 nrauj	I
 poj	I
 ntsuam	I
-nrauj	O
-poj	O
-ntsuam	O
 na	O
 .	O
 
@@ -1692,18 +1683,12 @@ poj	B
 nrauj	I
 poj	I
 ntsuam	I
-nrauj	O
-poj	O
-ntsuam	O
 unless	O
 saw	O
 me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 .	O
 
 
@@ -1722,9 +1707,6 @@ poj	B
 nrauj	I
 poj	I
 ntsuam	I
-nrauj	O
-poj	O
-ntsuam	O
 los	O
 muaj	O
 sau	O
@@ -1795,9 +1777,6 @@ poj	B
 nrauj	I
 poj	I
 ntsuam	I
-nrauj	O
-poj	O
-ntsuam	O
 tias	O
 lawv	O
 tseem	O
@@ -1857,9 +1836,6 @@ nqi	B
 tshoob	I
 nqi	I
 kos	I
-tshoob	O
-nqi	O
-kos	O
 tsis	O
 yog	O
 ib	O
@@ -1879,17 +1855,11 @@ yug	B
 tub	I
 yug	I
 ntxhais	I
-tub	O
-yug	O
-ntxhais	O
 los	O
 ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 li	O
 tej	O
 tsiaj	O
@@ -1907,9 +1877,6 @@ nqi	B
 tshoob	I
 nqi	I
 kos	I
-tshoob	O
-nqi	O
-kos	O
 twb	O
 yog	O
 cov	O
@@ -1929,17 +1896,11 @@ tsa	B
 cuab	I
 tsa	I
 yim	I
-cuab	O
-tsa	O
-yim	O
 rau	O
 tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 lawm	O
 .	O
 
@@ -1989,9 +1950,6 @@ nqi	B
 tshoob	I
 nqi	I
 kos	I
-tshoob	O
-nqi	O
-kos	O
 kom	O
 ntiaj	O
 teb	O
@@ -2060,9 +2018,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 .	O
 
 
@@ -2101,9 +2056,6 @@ luag	B
 poj	I
 luag	I
 sev	I
-poj	O
-luag	O
-sev	O
 dua	O
 los	O
 lawm	O
@@ -2180,9 +2132,6 @@ ua	B
 txwj	I
 ua	I
 nkawm	I
-txwj	O
-ua	O
-nkawm	O
 ,	O
 peb	O
 yuav	O
@@ -2945,9 +2894,6 @@ nqi	B
 mis	I
 nqi	I
 hno	I
-mis	O
-nqi	O
-hno	O
 lawm	O
 ces	O
 cia	O
@@ -3376,9 +3322,6 @@ muaj	B
 qab	I
 muaj	I
 hauv	I
-qab	O
-muaj	O
-hauv	O
 --	O
 ua	O
 yeej	O
@@ -3583,17 +3526,11 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 thiab	O
 yog	B
 nom	I
 yog	I
 tswv	I
-nom	O
-yog	O
-tswv	O
 lawm	O
 .	O
 
@@ -3877,9 +3814,6 @@ ntxhais	B
 nom	I
 ntxhais	I
 tswv	I
-nom	O
-ntxhais	O
-tswv	O
 ces	O
 koj	O
 kuj	O
@@ -3887,9 +3821,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 li	O
 nom	O
 tswv	O
@@ -4707,9 +4638,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 xwb	O
 ,	O
 hos	O
@@ -4720,9 +4648,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 ces	O
 luag	O
 lub	O
@@ -4825,9 +4750,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 .	O
 
 

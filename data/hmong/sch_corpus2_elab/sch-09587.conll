@@ -8,9 +8,6 @@ kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 ,	O
 kev	O
 pleeg	O
@@ -355,9 +352,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 thiab	O
 coj	O
 lub	O
@@ -563,9 +557,6 @@ muaj	B
 txij	I
 muaj	I
 nkawm	I
-txij	O
-muaj	O
-nkawm	O
 nws	O
 thiaj	O
 li	O
@@ -825,9 +816,6 @@ ua	B
 plees	I
 ua	I
 yi	I
-plees	O
-ua	O
-yi	O
 ,	O
 los	O
 lus	O
@@ -952,9 +940,6 @@ kev	B
 plees	I
 kev	I
 yi	I
-plees	O
-kev	O
-yi	O
 .	O
 
 
@@ -1461,9 +1446,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 thiab	O
 thiaj	O
 tsis	O

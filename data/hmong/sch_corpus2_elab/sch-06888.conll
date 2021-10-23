@@ -31,9 +31,6 @@ qhov	B
 zeb	I
 qhov	I
 tsua	I
-zeb	O
-qhov	O
-tsua	O
 ua	O
 nyob	O
 rau	O
@@ -333,9 +330,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 koj	O
 xav	O
@@ -598,9 +592,6 @@ muab	B
 roj	I
 muab	I
 ntshav	I
-roj	O
-muab	O
-ntshav	O
 mus	O
 pua	O
 es	O
@@ -646,9 +637,6 @@ zov	B
 vaj	I
 zov	I
 tsev	I
-vaj	O
-zov	O
-tsev	O
 ...	O
 Alien_Farmer	O
 Phooj	O
@@ -1307,9 +1295,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 ua	O
 dab	O
 tsov	O

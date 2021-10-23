@@ -962,9 +962,6 @@ ua	B
 vaaj	I
 ua	I
 tsev	I
-vaaj	O
-ua	O
-tsev	O
 ntau	O
 kawg	O
 nkaus	O
@@ -1024,9 +1021,6 @@ tej	B
 txheeb	I
 tej	I
 ze	I
-txheeb	O
-tej	O
-ze	O
 npe	O
 ces	O
 yog	O
@@ -1199,9 +1193,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 los	O
 yeej	O
 dlav	O
@@ -1792,9 +1783,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 lawm	O
 ned	O
 ....	O
@@ -2146,9 +2134,6 @@ luag	B
 teb	I
 luag	I
 chaw	I
-teb	O
-luag	O
-chaw	O
 xwb	O
 ,	O
 kuj	O
@@ -2913,9 +2898,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 npe	O
 nawb	O
 ,	O
@@ -3190,9 +3172,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 tim	O
 ub	O
 loj	O

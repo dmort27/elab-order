@@ -469,18 +469,12 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 thiab	O
 kev	O
 cog	B
 qoob	I
 cog	I
 loo	I
-qoob	O
-cog	O
-loo	O
 phaum	O
 tshiab	O
 xwb	O
@@ -496,9 +490,6 @@ kwv	B
 riam	I
 kwv	I
 phom	I
-riam	O
-kwv	O
-phom	O
 .	O
 
 
@@ -523,9 +514,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 (	O
 humanitarian	O
 purposes	O
@@ -568,9 +556,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 nyob	O
 hauv	O
 lub	O

@@ -375,9 +375,6 @@ pw	B
 noj	I
 pw	I
 haus	I
-noj	O
-pw	O
-haus	O
 tag	O
 tag	O
 ,	O
@@ -508,9 +505,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 ces	O
 dlub	O
 yog	O

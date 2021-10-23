@@ -15,9 +15,6 @@ tsis	B
 mus	I
 tsis	I
 los	I
-mus	O
-tsis	O
-los	O
 .	O
 
 
@@ -233,9 +230,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 nawb	O
 .	O
 
@@ -1717,9 +1711,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 ,	O
 kev	O
 txoos	O
@@ -1727,9 +1718,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 thiab	O
 kawm	O
 los	O
@@ -1798,34 +1786,22 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 ,	O
 kev	O
 ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ,	O
 kev	O
 tu	B
 tsiaj	I
 tu	I
 txhuv	I
-tsiaj	O
-tu	O
-txhuv	O
 ,	O
 kev	O
 tu	O

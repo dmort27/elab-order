@@ -1122,9 +1122,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 ua	O
 niam	O
 ntiav	O
@@ -1197,17 +1194,11 @@ ua	B
 vaj	I
 ua	I
 tsev	I
-vaj	O
-ua	O
-tsev	O
 ,	O
 ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 .	O
 
 
@@ -1443,9 +1434,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ...	O
 tau	O
 hnub	O
@@ -1488,9 +1476,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ...	O
 ces	O
 kawg	O

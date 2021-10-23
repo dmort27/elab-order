@@ -140,9 +140,6 @@ cov	B
 nom	I
 cov	I
 tswv	I
-nom	O
-cov	O
-tswv	O
 Hmoob	O
 thiab	O
 Thaib	O
@@ -177,9 +174,6 @@ ntau	B
 tsav	I
 ntau	I
 yam	I
-tsav	O
-ntau	O
-yam	O
 los	O
 ntawm	O
 Hmoob	O
@@ -366,9 +360,6 @@ ua	B
 lag	I
 ua	I
 luag	I
-lag	O
-ua	O
-luag	O
 rau/nrog	O
 Hmoob	O
 Vinai	O
@@ -384,9 +375,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 rau	O
 cov	O
 Hmoob	O
@@ -1126,9 +1114,6 @@ sib	B
 ceg	I
 sib	I
 ntaus	I
-ceg	O
-sib	O
-ntaus	O
 hauv	O
 no	O
 tag	O
@@ -1759,9 +1744,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 los	O
 ?	O
 
@@ -2255,9 +2237,6 @@ tsis	B
 txob	I
 tsis	I
 txhawj	I
-txob	O
-tsis	O
-txhawj	O
 lawm	O
 tsuas	O
 yog	O
@@ -2312,9 +2291,6 @@ noj	B
 seem	I
 noj	I
 sos	I
-seem	O
-noj	O
-sos	O
 tiam	O
 sis	O
 kuv	O

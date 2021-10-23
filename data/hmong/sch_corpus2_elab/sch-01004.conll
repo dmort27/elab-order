@@ -369,9 +369,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 zoo	O
 tshaj	O
 nplog	O
@@ -645,9 +642,6 @@ tej	B
 sab	I
 tej	I
 ntsws	I
-sab	O
-tej	O
-ntsws	O
 tawm	O
 .	O
 
@@ -867,9 +861,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 xwb	O
 thiab	O
 .	O

@@ -306,9 +306,6 @@ huab	B
 noj	I
 huab	I
 haus	I
-noj	O
-huab	O
-haus	O
 pem	O
 Looj	O
 Ceeb	O
@@ -1055,9 +1052,6 @@ raws	B
 noj	I
 raws	I
 haus	I
-noj	O
-raws	O
-haus	O
 ntawm	O
 yawg	O
 nkaus	O
@@ -1114,9 +1108,6 @@ niaj	B
 hnub	I
 niaj	I
 hmo	I
-hnub	O
-niaj	O
-hmo	O
 raws	O
 tus	O
 tswv	O
@@ -1154,9 +1145,6 @@ luag	B
 noj	I
 luag	I
 haus	I
-noj	O
-luag	O
-haus	O
 ,	O
 tos	O
 tsis	O
@@ -1803,9 +1791,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ,	O
 tabsi	O
 ntshuav	O
@@ -2459,9 +2444,6 @@ ua	B
 nam	I
 ua	I
 txiv	I
-nam	O
-ua	O
-txiv	O
 le	O
 kev	O
 phem	O
@@ -2691,9 +2673,6 @@ yog	B
 neej	I
 yog	I
 tsav	I
-neej	O
-yog	O
-tsav	O
 ntau	O
 tiam	O
 neeg	O

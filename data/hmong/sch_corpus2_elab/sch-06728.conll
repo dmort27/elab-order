@@ -792,9 +792,6 @@ tej	B
 tub	I
 tej	I
 ki	I
-tub	O
-tej	O
-ki	O
 ;	O
 txawm	O
 peb	O
@@ -854,9 +851,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 lawv	O
 twb	O
 los	O
@@ -864,9 +858,6 @@ nyiag	B
 noj	I
 nyiag	I
 haus	I
-noj	O
-nyiag	O
-haus	O
 .	O
 
 
@@ -2216,9 +2207,6 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 mus	O
 tas	O
 tiam	O

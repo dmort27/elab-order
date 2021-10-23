@@ -326,9 +326,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 lawm	O
 .	O
 
@@ -398,9 +395,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 ma	O
 zoo	O
 lis	O
@@ -431,9 +425,6 @@ cuag	B
 puj	I
 cuag	I
 yawg	I
-puj	O
-cuag	O
-yawg	O
 naj	O
 ,	O
 tuab	O
@@ -539,9 +530,6 @@ lug	B
 nyaj	I
 lug	I
 kub	I
-nyaj	O
-lug	O
-kub	O
 ntaag	O
 hos	O
 ,	O
@@ -1810,9 +1798,6 @@ quas	B
 puj	I
 quas	I
 yawm	I
-puj	O
-quas	O
-yawm	O
 nua	O
 nawb	O
 .	O

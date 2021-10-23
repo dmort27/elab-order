@@ -758,9 +758,6 @@ seem	B
 kev	I
 seem	I
 cai	I
-kev	O
-seem	O
-cai	O
 .	O
 
 
@@ -1087,9 +1084,6 @@ nyias	B
 pab	I
 nyias	I
 pawg	I
-pab	O
-nyias	O
-pawg	O
 tw	O
 ntxiab	O
 yog	O
@@ -1106,9 +1100,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 kuj	O
 zoo	O
 muaj	O
@@ -1127,9 +1118,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 yog	O
 li	O
@@ -1264,9 +1252,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 tuaj	O
 sab	O
 peb	O
@@ -1308,9 +1293,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 no	O
 raug	O
 tsoom	O
@@ -1321,9 +1303,6 @@ ua	B
 ntsej	I
 ua	I
 muag	I
-ntsej	O
-ua	O
-muag	O
 koom	O
 peb	O
 Hmoob	O
@@ -1384,9 +1363,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 luag	O
 thiaj	O
 nco	O
@@ -1394,9 +1370,6 @@ yus	B
 txiaj	I
 yus	I
 ntsim	I
-txiaj	O
-yus	O
-ntsim	O
 nawb	O
 .	O
 ''	O
@@ -1609,9 +1582,6 @@ nyiag	B
 noj	I
 nyiag	I
 haus	I
-noj	O
-nyiag	O
-haus	O
 thov	O
 khawv	O
 xwb	O
@@ -1763,9 +1733,6 @@ ua	B
 ntsej	I
 ua	I
 muag	I
-ntsej	O
-ua	O
-muag	O
 xwb	O
 twb	O
 txhawj	O
@@ -1875,9 +1842,6 @@ tau	B
 teb	I
 tau	I
 chaw	I
-teb	O
-tau	O
-chaw	O
 tso	O
 no	O
 ne	O
@@ -2003,9 +1967,6 @@ tos	B
 nom	I
 tos	I
 tswv	I
-nom	O
-tos	O
-tswv	O
 mas	O
 tsis	O
 yog	O
@@ -2304,9 +2265,6 @@ nyiag	B
 noj	I
 nyiag	I
 haus	I
-noj	O
-nyiag	O
-haus	O
 thov	O
 khawv	O
 xwb	O
@@ -2360,9 +2318,6 @@ nyias	B
 pab	I
 nyias	I
 pawg	I
-pab	O
-nyias	O
-pawg	O
 tw	O
 ntxiab	O
 yog	O
@@ -2379,9 +2334,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 kuj	O
 zoo	O
 muaj	O
@@ -2400,9 +2352,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 yog	O
 li	O
@@ -2558,9 +2507,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 tuaj	O
 sab	O
 peb	O
@@ -2596,9 +2542,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 no	O
 raug	O
 tsoom	O
@@ -2609,9 +2552,6 @@ ua	B
 ntsej	I
 ua	I
 muag	I
-ntsej	O
-ua	O
-muag	O
 koom	O
 peb	O
 Hmoob	O
@@ -2672,9 +2612,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 luag	O
 thiaj	O
 nco	O
@@ -2682,9 +2619,6 @@ yus	B
 txiaj	I
 yus	I
 ntsim	I
-txiaj	O
-yus	O
-ntsim	O
 nawb	O
 .	O
 ''	O

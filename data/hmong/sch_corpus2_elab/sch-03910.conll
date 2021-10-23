@@ -134,9 +134,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 .	O
 
 
@@ -149,9 +146,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 nqis	O
 dua	O
 yus	O

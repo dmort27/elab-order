@@ -767,9 +767,6 @@ dab	B
 teb	I
 dab	I
 chaw	I
-teb	O
-dab	O
-chaw	O
 no	O
 ...	O
 ntshai	O
@@ -804,9 +801,6 @@ koom	B
 roj	I
 koom	I
 ntshav	I
-roj	O
-koom	O
-ntshav	O
 ces	O
 luag	O
 yeej	O

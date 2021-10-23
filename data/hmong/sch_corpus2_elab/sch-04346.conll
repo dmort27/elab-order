@@ -396,9 +396,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 yam	O
 nyhav	O
 kawg	O
@@ -529,9 +526,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 thiaj	O
 txuas	O
 zis	O
@@ -550,9 +544,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 no	O
 loj	O
 hlob	O
@@ -1561,9 +1552,6 @@ tag	B
 phab	I
 tag	I
 pheev	I
-phab	O
-tag	O
-pheev	O
 li	O
 lawm	O
 ntag	O
@@ -1696,9 +1684,6 @@ tag	B
 phab	I
 tag	I
 pheev	I
-phab	O
-tag	O
-pheev	O
 li	O
 lawm	O
 ntag	O
@@ -1854,9 +1839,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 txij	O
 lub	O
 June	O

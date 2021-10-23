@@ -699,9 +699,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 ua	O
 si	O
 xwb	O
@@ -2216,9 +2213,6 @@ luaj	B
 qoob	I
 luaj	I
 loo	I
-qoob	O
-luaj	O
-loo	O
 xwb	O
 ,	O
 tabsis	O
@@ -2270,9 +2264,6 @@ paub	B
 dab	I
 paub	I
 qhua	I
-dab	O
-paub	O
-qhua	O
 ,	O
 paub	O
 tshoob	O
@@ -2694,9 +2685,6 @@ ua	B
 dlog	I
 ua	I
 dlig	I
-dlog	O
-ua	O
-dlig	O
 le	O
 maj	O
 ?	O

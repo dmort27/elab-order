@@ -190,9 +190,6 @@ pab	B
 ntau	I
 pab	I
 tsawg	I
-ntau	O
-pab	O
-tsawg	O
 los	O
 yuav	O
 .	O
@@ -402,9 +399,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ,	O
 ``	O
 Slang	O
@@ -1054,17 +1048,11 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 hab	O
 kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 .	O
 
 
@@ -1107,9 +1095,6 @@ tsev	B
 zeb	I
 tsev	I
 tsua	I
-zeb	O
-tsev	O
-tsua	O
 nyob	O
 hab	O
 muaj	O

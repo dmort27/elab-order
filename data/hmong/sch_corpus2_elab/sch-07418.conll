@@ -65,9 +65,6 @@ muaj	B
 plaub	I
 muaj	I
 ntug	I
-plaub	O
-muaj	O
-ntug	O
 nrog	O
 leej	O
 twg	O
@@ -88,9 +85,6 @@ ntsis	B
 ntaj	I
 ntsis	I
 phom	I
-ntaj	O
-ntsis	O
-phom	O
 li	O
 no	O
 ?	O
@@ -234,9 +228,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 qw	O
 tias	O
 ,	O

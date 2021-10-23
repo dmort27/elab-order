@@ -884,9 +884,6 @@ lawg	B
 moog	I
 lawg	I
 lug	I
-moog	O
-lawg	O
-lug	O
 qhov	O
 qub	O
 tab	O
@@ -2140,9 +2137,6 @@ yug	B
 teej	I
 yug	I
 tug	I
-teej	O
-yug	O
-tug	O
 ntawm	O
 yug	O
 ndlag	O
@@ -2651,9 +2645,6 @@ muaj	B
 qaab	I
 muaj	I
 quas	I
-qaab	O
-muaj	O
-quas	O
 .	O
 
 
@@ -2745,9 +2736,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 .	O
 
 
@@ -3473,9 +3461,6 @@ tsis	B
 caj	I
 tsis	I
 tuag	I
-caj	O
-tsis	O
-tuag	O
 xwb	O
 .	O
 
@@ -3639,9 +3624,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 le	O
 .	O
 
@@ -3705,9 +3687,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 lawm	O
 ce	O
 yeej	O
@@ -4018,9 +3997,6 @@ tsis	B
 caj	I
 tsis	I
 tuag	I
-caj	O
-tsis	O
-tuag	O
 xwb	O
 .	O
 
@@ -4403,9 +4379,6 @@ miv	B
 tub	I
 miv	I
 nyuas	I
-tub	O
-miv	O
-nyuas	O
 tseem	O
 xyum	O
 lug	O

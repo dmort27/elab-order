@@ -385,9 +385,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 es	O
 Hmoob	O
 raug	O
@@ -573,9 +570,6 @@ laug	B
 hnub	I
 laug	I
 hmo	I
-hnub	O
-laug	O
-hmo	O
 xwb	O
 no	O
 kuj	O
@@ -657,9 +651,6 @@ puas	B
 koob	I
 puas	I
 npe	I
-koob	O
-puas	O
-npe	O
 ntxiv	O
 .	O
 
@@ -724,9 +715,6 @@ xuas	B
 nyaj	I
 xuas	I
 kub	I
-nyaj	O
-xuas	O
-kub	O
 lug	O
 looj	O
 haiv	O

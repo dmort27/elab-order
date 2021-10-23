@@ -1581,9 +1581,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 mus	O
 vote	O
 ua	O
@@ -1677,9 +1674,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 mas	O
 yuav	O
 tau	O
@@ -2101,9 +2095,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 mus	O
 vote	O
 ua	O
@@ -2764,9 +2755,6 @@ muaj	B
 yeej	I
 muaj	I
 swb	I
-yeej	O
-muaj	O
-swb	O
 nawb	O
 .	O
 

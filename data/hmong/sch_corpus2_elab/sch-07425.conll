@@ -397,9 +397,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 lub	O
 tsho	O
 mus	O
@@ -439,9 +436,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 yug	O
 koj	O
 cev	O
@@ -669,9 +663,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 noj	O
 dab	O
 tsi	O
@@ -706,9 +697,6 @@ nees	B
 mus	I
 nees	I
 los	I
-mus	O
-nees	O
-los	O
 lam	O
 mloog	O
 .	O

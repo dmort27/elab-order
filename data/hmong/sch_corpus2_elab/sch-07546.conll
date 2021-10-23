@@ -53,9 +53,6 @@ cuag	B
 niam	I
 cuag	I
 txiv	I
-niam	O
-cuag	O
-txiv	O
 tso	O
 no	O
 los	O
@@ -477,9 +474,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 .	O
 
 

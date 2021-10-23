@@ -362,9 +362,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 nyob	O
 teb	O
 chaws	O
@@ -631,9 +628,6 @@ cov	B
 nom	I
 cov	I
 tswv	I
-nom	O
-cov	O
-tswv	O
 .	O
 
 
@@ -743,9 +737,6 @@ nej	B
 niam	I
 nej	I
 txiv	I
-niam	O
-nej	O
-txiv	O
 kuv	O
 tsis	O
 tau	O
@@ -868,9 +859,6 @@ yog	B
 nom	I
 yog	I
 tswv	I
-nom	O
-yog	O
-tswv	O
 nws	O
 yuav	O
 tsis	O
@@ -1539,9 +1527,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 tiag	O
 tiag	O
 lawv	O
@@ -1868,9 +1853,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 ,	O
 nej	O
 txawm	O
@@ -2401,9 +2383,6 @@ yuam	B
 kev	I
 yuam	I
 cai	I
-kev	O
-yuam	O
-cai	O
 los	O
 nej	O
 yuav	O

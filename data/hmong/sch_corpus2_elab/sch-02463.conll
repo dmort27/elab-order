@@ -292,9 +292,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 yeej	O
 luv	O
 rau	O
@@ -352,9 +349,6 @@ laug	B
 caij	I
 laug	I
 nyoog	I
-caij	O
-laug	O
-nyoog	O
 (	O
 kill	O
 time	O
@@ -574,9 +568,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 kawg	O
 li	O
 .	O
@@ -1001,9 +992,6 @@ tu	B
 vaj	I
 tu	I
 tsev	I
-vaj	O
-tu	O
-tsev	O
 ,	O
 nrog	O
 yus	O
@@ -1022,9 +1010,6 @@ mus	B
 noj	I
 mus	I
 haus	I
-noj	O
-mus	O
-haus	O
 tom	O
 tej	O
 kwv	O

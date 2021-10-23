@@ -19,9 +19,6 @@ muaj	B
 tub	I
 muaj	I
 kiv	I
-tub	O
-muaj	O
-kiv	O
 lawm	O
 es	O
 pheej	O
@@ -156,9 +153,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 deviate	O
 from	O
 the	O
@@ -265,9 +259,6 @@ yuav	B
 cem	I
 yuav	I
 thuam	I
-cem	O
-yuav	O
-thuam	O
 los	O
 nws	O
 yeej	O
@@ -349,9 +340,6 @@ lus	B
 ub	I
 lus	I
 no	I
-ub	O
-lus	O
-no	O
 kom	O
 tsis	O
 muaj	O
@@ -695,9 +683,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 cem	O
 cov	O
 kwvtij	O
@@ -995,9 +980,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 tim	O
 no	O
 xyov	O
@@ -1140,9 +1122,6 @@ qee	B
 leej	I
 qee	I
 pawg	I
-leej	O
-qee	O
-pawg	O
 tseem	O
 npau	O
 suav	O
@@ -1244,9 +1223,6 @@ tsi	B
 meej	I
 tsi	I
 pem	I
-meej	O
-tsi	O
-pem	O
 los	O
 yog	O
 tsi	O
@@ -1318,9 +1294,6 @@ ua	B
 lwj	I
 ua	I
 lam	I
-lwj	O
-ua	O
-lam	O
 yaam	O
 tsi	O
 saib	O
@@ -1882,9 +1855,6 @@ nyias	B
 pab	I
 nyias	I
 pawg	I
-pab	O
-nyias	O
-pawg	O
 li	O
 nej	O
 ko	O
@@ -1897,9 +1867,6 @@ tus	B
 dag	I
 tus	I
 zog	I
-dag	O
-tus	O
-zog	O
 .	O
 
 
@@ -2024,9 +1991,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 kom	O
 Hmoob	O
 pom	O
@@ -2250,9 +2214,6 @@ paub	B
 ntaub	I
 paub	I
 ntawv	I
-ntaub	O
-paub	O
-ntawv	O
 li	O
 cov	O
 Hmoob	O
@@ -2350,9 +2311,6 @@ tshuav	B
 kwv	I
 tshuav	I
 tij	I
-kwv	O
-tshuav	O
-tij	O
 nyob	O
 tim	O
 nplog	O
@@ -2386,9 +2344,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 nyob	O
 ywjsiab	O
@@ -3133,18 +3088,12 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 tsis	O
 txhob	O
 sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 dua	O
 peb	O
 txhua	O
@@ -3157,9 +3106,6 @@ neeg	B
 teb	I
 neeg	I
 chaw	I
-teb	O
-neeg	O
-chaw	O
 .	O
 
 
@@ -3377,9 +3323,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 xwb	O
 .	O
 
@@ -3481,9 +3424,6 @@ lub	B
 roob	I
 lub	I
 hav	I
-roob	O
-lub	O
-hav	O
 ;	O
 puas	O
 muaj	O
@@ -3819,9 +3759,6 @@ fim	B
 ntsej	I
 fim	I
 muag	I
-ntsej	O
-fim	O
-muag	O
 .	O
 
 
@@ -3875,9 +3812,6 @@ rov	B
 qab	I
 rov	I
 quav	I
-qab	O
-rov	O
-quav	O
 li	O
 koj	O
 maj	O
@@ -4194,9 +4128,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 rov	O
 tim	O
 Nplog	O
@@ -4394,9 +4325,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 .	O
 
 
@@ -4413,9 +4341,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 xwb	O
 ;	O
 nimno	O
@@ -4489,9 +4414,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 ,	O
 koj	O
 cov	O

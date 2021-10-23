@@ -1116,9 +1116,6 @@ tswv	B
 liaj	I
 tswv	I
 av	I
-liaj	O
-tswv	O
-av	O
 .	O
 
 
@@ -1186,9 +1183,6 @@ txiv	B
 xyoob	I
 txiv	I
 ntoo	I
-xyoob	O
-txiv	O
-ntoo	O
 txawm	O
 txi	O
 lawm	O
@@ -1737,9 +1731,6 @@ lub	B
 nkaub	I
 lub	I
 ntsiab	I
-nkaub	O
-lub	O
-ntsiab	O
 sawv	O
 raws	O
 twb	O
@@ -2736,9 +2727,6 @@ me	B
 ntswb	I
 me	I
 ntsis	I
-ntswb	O
-me	O
-ntsis	O
 pab	O
 thiab	O
 tiag	O
@@ -2816,9 +2804,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 tsis	O
 sib	O
 koom	O
@@ -3023,9 +3008,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 ntawd	O
 .	O
 
@@ -3082,9 +3064,6 @@ yog	B
 dag	I
 yog	I
 tiag	I
-dag	O
-yog	O
-tiag	O
 tiag	O
 li	O
 ,	O
@@ -3690,9 +3669,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 ,	O
 kev	O
 xyaum	O
@@ -4020,9 +3996,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 ti	O
 nkaus	O
 Hmoob	O
@@ -5409,9 +5382,6 @@ tas	B
 niaj	I
 tas	I
 xyoo	I
-niaj	O
-tas	O
-xyoo	O
 tsis	O
 muaj	O
 chaw	O

@@ -138,9 +138,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 thiaj	O
 li	O
 tsis	O
@@ -508,9 +505,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 xwb	O
 .	O
 
@@ -707,9 +701,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 nawb	O
 .	O
 
@@ -969,9 +960,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 xwb	O
 .	O
 
@@ -1168,9 +1156,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 nawb	O
 .	O
 

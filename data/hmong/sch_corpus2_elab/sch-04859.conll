@@ -11,9 +11,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 rau	O
 tej	O
 me	O
@@ -119,9 +116,6 @@ ua	B
 voj	I
 ua	I
 viag	I
-voj	O
-ua	O
-viag	O
 li	O
 no	O
 mas	O
@@ -672,9 +666,6 @@ lug	B
 toj	I
 lug	I
 pes	I
-toj	O
-lug	O
-pes	O
 lob	O
 puas	O
 tsav	O

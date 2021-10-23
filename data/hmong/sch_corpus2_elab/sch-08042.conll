@@ -331,9 +331,6 @@ coj	B
 tshoob	I
 coj	I
 kos	I
-tshoob	O
-coj	O
-kos	O
 join	O
 H18X	O
 (	O
@@ -372,9 +369,6 @@ tus	B
 tub	I
 tus	I
 ntxhais	I
-tub	O
-tus	O
-ntxhais	O
 los	O
 peb	O
 yeej	O
@@ -409,9 +403,6 @@ kev	B
 txheeb	I
 kev	I
 ze	I
-txheeb	O
-kev	O
-ze	O
 xwb	O
 .	O
 
@@ -467,9 +458,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 txog	O
 lawv	O
 es	O
@@ -719,9 +707,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 sij	O
 liam	O
 tias	O

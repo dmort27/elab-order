@@ -54,9 +54,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 .	O
 
 
@@ -202,9 +199,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 ,	O
 nim	O
 ua	O
@@ -212,9 +206,6 @@ tau	B
 ub	I
 tau	I
 no	I
-ub	O
-tau	O
-no	O
 li	O
 ,	O
 mas	O
@@ -290,9 +281,6 @@ sib	B
 pab	I
 sib	I
 koom	I
-pab	O
-sib	O
-koom	O
 ua	O
 ib	O
 pawg	O
@@ -723,9 +711,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 thiab	O
 sab	O
 nyiaj	O
@@ -883,9 +868,6 @@ mloog	B
 niam	I
 mloog	I
 txiv	I
-niam	O
-mloog	O
-txiv	O
 lus	O
 ces	O
 thaum	O
@@ -968,9 +950,6 @@ mloog	B
 niam	I
 mloog	I
 txiv	I
-niam	O
-mloog	O
-txiv	O
 lus	O
 laib	O
 laus	O
@@ -1650,9 +1629,6 @@ qhov	B
 zoo	I
 qhov	I
 phem	I
-zoo	O
-qhov	O
-phem	O
 hauv	O
 ob	O
 lub	O
@@ -2406,9 +2382,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ua	O
 phem	O
 .	O
@@ -2480,9 +2453,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 nyob	O
 ua	O
 ke	O
@@ -2682,9 +2652,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 dag	O
 rau	O
 Hmoob	O
@@ -3403,9 +3370,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 rhuav	O
 kom	O
 ploj	O
@@ -3441,9 +3405,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 thiab	O
 tso	O
 tej	O
@@ -3470,9 +3431,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 kom	O
 sis	O
 ntxub	O
@@ -3566,9 +3524,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 hais	O
 tias	O
 lawv	O
@@ -3594,9 +3549,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 cov	O
 npe	O
 coj	O
@@ -3644,9 +3596,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 mas	O
 tsuas	O
 yuav	O
@@ -3681,9 +3630,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 coj	O
 los	O
 piv	O
@@ -3694,9 +3640,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 tej	O
 neej	O
 mas	O
@@ -4349,9 +4292,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 yuav	O
 yog	O
 coj	O
@@ -4622,9 +4562,6 @@ ua	B
 phab	I
 ua	I
 pheev	I
-phab	O
-ua	O
-pheev	O
 tuaj	O
 ?	O
 
@@ -4798,9 +4735,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 neeg	O
 coj	O
 noj	O
@@ -4826,9 +4760,6 @@ hais	B
 siab	I
 hais	I
 qis	I
-siab	O
-hais	O
-qis	O
 nrog	O
 koj	O
 sis	O
@@ -5527,9 +5458,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 ib	O
 sij	O

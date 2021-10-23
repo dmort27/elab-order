@@ -151,9 +151,6 @@ tog	B
 vaaj	I
 tog	I
 tsev	I
-vaaj	O
-tog	O
-tsev	O
 maam	O
 moog	O
 taw	O
@@ -1174,9 +1171,6 @@ muaj	B
 liaj	I
 muaj	I
 teb	I
-liaj	O
-muaj	O
-teb	O
 ua	O
 .	O
 
@@ -1207,9 +1201,6 @@ ua	B
 sab	I
 ua	I
 sua	I
-sab	O
-ua	O
-sua	O
 tsis	O
 muaj	O
 av	O
@@ -1759,9 +1750,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 mas	O
 yuav	O
 tsis	O
@@ -1915,9 +1903,6 @@ puas	B
 siab	I
 puas	I
 ntsws	I
-siab	O
-puas	O
-ntsws	O
 tej	O
 zaum	O
 tav	O
@@ -2174,9 +2159,6 @@ ua	B
 vaj	I
 ua	I
 tsev	I
-vaj	O
-ua	O
-tsev	O
 zoo	O
 thiab	O
 nyob	O
@@ -2528,9 +2510,6 @@ lug	B
 nyaj	I
 lug	I
 kub	I
-nyaj	O
-lug	O
-kub	O
 ...	O
 nqq	O
 He	O
@@ -2606,9 +2585,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 khiav	O
 saib	O
 puas	O

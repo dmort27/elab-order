@@ -573,9 +573,6 @@ hmoob	B
 neej	I
 hmoob	I
 tsav	I
-neej	O
-hmoob	O
-tsav	O
 thiab	O
 kev	O
 sib	O
@@ -904,9 +901,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 nawb	O
 .	O
 
@@ -952,9 +946,6 @@ yeej	B
 teb	I
 yeej	I
 chaw	I
-teb	O
-yeej	O
-chaw	O
 nad	O
 ....	O
 LOLz	O
@@ -1049,9 +1040,6 @@ dai	B
 zej	I
 dai	I
 zos	I
-zej	O
-dai	O
-zos	O
 ...	O
 xyov	O
 yus	O
@@ -1529,9 +1517,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 ua	O
 zug	O
 koog	O
@@ -1731,16 +1716,10 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 kev	B
 txheeb	I
 kev	I
 ze	I
-txheeb	O
-kev	O
-ze	O
 ces	O
 kawg	O
 thiaj	O
@@ -1954,9 +1933,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 thiab	O
 ntau	O
 yam	O

@@ -386,9 +386,6 @@ tau	B
 koob	I
 tau	I
 npe	I
-koob	O
-tau	O
-npe	O
 .	O
 
 
@@ -398,9 +395,6 @@ tau	B
 koob	I
 tau	I
 npe	I
-koob	O
-tau	O
-npe	O
 lawm	O
 ces	O
 ,	O

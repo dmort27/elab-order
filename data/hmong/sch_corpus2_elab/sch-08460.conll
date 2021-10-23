@@ -589,9 +589,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 nrog	O
 Nplog	O
 ,	O
@@ -599,18 +596,12 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 ,	O
 thiab	O
 ua	B
 kwv	I
 ua	I
 tij	I
-kwv	O
-ua	O
-tij	O
 nrog	O
 Nplog	O
 xwb	O
@@ -861,9 +852,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 xwb	O
 .	O
 
@@ -1117,9 +1105,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 nyob	O
 nplog	O
 teb	O
@@ -1496,9 +1481,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsaus	I
-qab	O
-qhuas	O
-tsaus	O
 rau	O
 lawv	O
 cov	O
@@ -2173,9 +2155,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 kom	O
 zoo	O
 li	O
@@ -2242,9 +2221,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 tuav	O
 cov	O
 koom	O

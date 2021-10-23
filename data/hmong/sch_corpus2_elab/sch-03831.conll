@@ -51,9 +51,6 @@ ua	B
 loj	I
 ua	I
 lug	I
-loj	O
-ua	O
-lug	O
 no	O
 nyaj	O
 lawv	O
@@ -206,9 +203,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 li	O
 .	O
 
@@ -420,9 +414,6 @@ qub	B
 zej	I
 qub	I
 zos	I
-zej	O
-qub	O
-zos	O
 thiab	O
 peb	O
 qub	O
@@ -1735,9 +1726,6 @@ nyias	B
 vaj	I
 nyias	I
 tsev	I
-vaj	O
-nyias	O
-tsev	O
 ,	O
 liaj	O
 teb	O
@@ -1805,9 +1793,6 @@ nriav	B
 noj	I
 nriav	I
 haus	I
-noj	O
-nriav	O
-haus	O
 ,	O
 tiam	O
 sis	O
@@ -2030,9 +2015,6 @@ nriav	B
 noj	I
 nriav	I
 haus	I
-noj	O
-nriav	O
-haus	O
 ,	O
 tiam	O
 sis	O
@@ -2413,9 +2395,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 mus	O
 kawm	O
 ``	O

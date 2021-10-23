@@ -226,9 +226,6 @@ tej	B
 hmab	I
 tej	I
 ntoo	I
-hmab	O
-tej	O
-ntoo	O
 no	O
 ,	O
 koj	O
@@ -519,9 +516,6 @@ ntsia	B
 mus	I
 ntsia	I
 los	I
-mus	O
-ntsia	O
-los	O
 ,	O
 tsis	O
 paub	O
@@ -725,9 +719,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 txhiaj	O
 los	O
 Tswv	O
@@ -2741,9 +2732,6 @@ pa	B
 hlob	I
 pa	I
 yau	I
-hlob	O
-pa	O
-yau	O
 tab	O
 sis	O
 tsim	O
@@ -2855,9 +2843,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 tag	O
 .	O
 
@@ -2956,9 +2941,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 leejtwg	O
 pom	O
 los	O
@@ -2985,9 +2967,6 @@ ua	B
 poj	I
 ua	I
 sev	I
-poj	O
-ua	O
-sev	O
 nyob	O
 mus	O
 laus	O
@@ -3214,9 +3193,6 @@ ua	B
 num	I
 ua	I
 tswv	I
-num	O
-ua	O
-tswv	O
 lug	O
 ntev	O
 lawm	O
@@ -3318,9 +3294,6 @@ le	B
 teb	I
 le	I
 chaw	I
-teb	O
-le	O
-chaw	O
 --	O
 ua	O
 lawv	O
@@ -6386,9 +6359,6 @@ nyag	B
 ub	I
 nyag	I
 nua	I
-ub	O
-nyag	O
-nua	O
 sub	O
 puab	O
 txhaj	O
@@ -7209,9 +7179,6 @@ ntau	B
 tsaav	I
 ntau	I
 yaam	I
-tsaav	O
-ntau	O
-yaam	O
 hab	O
 --	O
 kuv	O
@@ -7341,9 +7308,6 @@ lwm	B
 leej	I
 lwm	I
 tug	I
-leej	O
-lwm	O
-tug	O
 ?	O
 
 
@@ -8155,9 +8119,6 @@ thaws	B
 moog	I
 thaws	I
 lug	I
-moog	O
-thaws	O
-lug	O
 ntxwv	O
 lawm	O
 .	O
@@ -8192,9 +8153,6 @@ ndlog	B
 moog	I
 ndlog	I
 lug	I
-moog	O
-ndlog	O
-lug	O
 tsw	O
 txawj	O
 tsum	O
@@ -8408,9 +8366,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 lug	O
 sibtshuam	O
 uake	O
@@ -9189,9 +9144,6 @@ sib	B
 daj	I
 sib	I
 dee	I
-daj	O
-sib	O
-dee	O
 mas	O
 tsis	O
 tos	O
@@ -9429,9 +9381,6 @@ koj	B
 caij	I
 koj	I
 nyoog	I
-caij	O
-koj	O
-nyoog	O
 lawm	O
 lauj	O
 ....	O

@@ -54,9 +54,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 es	O
 sub	O
 pejkum	O
@@ -499,9 +496,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 yug	O
 peb	O
 ua	O
@@ -1340,9 +1334,6 @@ hais	B
 dog	I
 hais	I
 dig	I
-dog	O
-hais	O
-dig	O
 muab	O
 tej	O
 lus	O
@@ -1382,9 +1373,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ces	O
 peb	O
 Hmoob	O
@@ -1470,9 +1458,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ?	O
 
 

@@ -64,9 +64,6 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 no	O
 xwb	O
 laud	O
@@ -860,9 +857,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 .	O
 
 
@@ -919,9 +913,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 .	O
 
 
@@ -1402,9 +1393,6 @@ tub	B
 qoob	I
 tub	I
 loo	I
-qoob	O
-tub	O
-loo	O
 no	O
 xwb	O
 es	O

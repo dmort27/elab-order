@@ -3112,9 +3112,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 .	O
 
 
@@ -3450,9 +3447,6 @@ luag	B
 poj	I
 luag	I
 txiv	I
-poj	O
-luag	O
-txiv	O
 ,	O
 txhob	O
 tua	O
@@ -3694,9 +3688,6 @@ dej	B
 kub	I
 dej	I
 npau	I
-kub	O
-dej	O
-npau	O
 thiab	O
 dab	O
 ntxwg	O
@@ -3832,9 +3823,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ntawd	O
 ib	O
 feem	O
@@ -4157,9 +4145,6 @@ nws	B
 pog	I
 nws	I
 yawg	I
-pog	O
-nws	O
-yawg	O
 thaum	O
 nws	O
 tuag	O
@@ -4403,9 +4388,6 @@ cuag	B
 pog	I
 cuag	I
 yawg	I
-pog	O
-cuag	O
-yawg	O
 thaum	O
 tuag	O
 no	O
@@ -5124,9 +5106,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 ,	O
 cov	O
 coj	O
@@ -5931,9 +5910,6 @@ kom	B
 yeej	I
 kom	I
 swb	I
-yeej	O
-kom	O
-swb	O
 txog	O
 nws	O
 yam	O
@@ -6052,9 +6028,6 @@ tej	B
 ntaub	I
 tej	I
 ntawv	I
-ntaub	O
-tej	O
-ntawv	O
 los	O
 yog	O
 bible	O
@@ -6119,9 +6092,6 @@ tej	B
 ntaub	I
 tej	I
 ntawv	I
-ntaub	O
-tej	O
-ntawv	O
 ntawd	O
 mas	O
 niam	O
@@ -6177,9 +6147,6 @@ lus	B
 dog	I
 lus	I
 dig	I
-dog	O
-lus	O
-dig	O
 no	O
 coj	O
 los	O

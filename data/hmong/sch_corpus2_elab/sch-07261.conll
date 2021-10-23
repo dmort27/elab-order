@@ -311,9 +311,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 siab	O
 tshaj	O
 cov	O
@@ -548,9 +545,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 li	O
 .	O
 
@@ -644,9 +638,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 xwb	O
 ces	O
 koj	O
@@ -672,9 +663,6 @@ ntxias	B
 noj	I
 ntxias	I
 qhe	I
-noj	O
-ntxias	O
-qhe	O
 thiab	O
 mag	O
 nws	O
@@ -684,9 +672,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 .	O
 
 
@@ -929,9 +914,6 @@ tos	B
 noj	I
 tos	I
 haus	I
-noj	O
-tos	O
-haus	O
 tsis	O
 pub	O
 ua	O

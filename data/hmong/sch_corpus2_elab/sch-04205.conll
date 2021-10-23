@@ -31,9 +31,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 zoo	O
 tau	O
 mus	O
@@ -218,9 +215,6 @@ kam	B
 teb	I
 kam	I
 chaw	I
-teb	O
-kam	O
-chaw	O
 es	O
 raug	O
 puav	O

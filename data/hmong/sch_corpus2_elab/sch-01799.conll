@@ -2127,9 +2127,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 tsim	O
 tsa	O
 tej	O
@@ -2137,9 +2134,6 @@ kev	B
 iab	I
 kev	I
 daw	I
-iab	O
-kev	O
-daw	O
 los	O
 kav	O
 coj	O

@@ -280,9 +280,6 @@ kev	B
 tshaib	I
 kev	I
 nqhis	I
-tshaib	O
-kev	O
-nqhis	O
 .	O
 
 
@@ -416,9 +413,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 .	O
 
 
@@ -477,9 +471,6 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 nyiaj	O
 rau	O
 tus	O
@@ -653,9 +644,6 @@ xeeb	B
 teb	I
 xeeb	I
 chaw	I
-teb	O
-xeeb	O
-chaw	O
 ,	O
 starting	O
 from	O
@@ -779,9 +767,6 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 .	O
 
 
@@ -837,9 +822,6 @@ tsi	B
 tshaib	I
 tsi	I
 nqhis	I
-tshaib	O
-tsi	O
-nqhis	O
 tau	O
 zoo	O
 nyob	O

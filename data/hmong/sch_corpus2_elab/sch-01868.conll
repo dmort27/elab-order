@@ -2256,9 +2256,6 @@ kev	B
 txheeb	I
 kev	I
 ze	I
-txheeb	O
-kev	O
-ze	O
 ces	O
 kuv	O
 yeej	O
@@ -2509,9 +2506,6 @@ sib	B
 txheeb	I
 sib	I
 ze	I
-txheeb	O
-sib	O
-ze	O
 thiab	O
 lau	O
 !	O
@@ -2625,9 +2619,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 teeb	O
 chaws	O
 luag	O
@@ -2860,9 +2851,6 @@ kev	B
 txheeb	I
 kev	I
 ze	I
-txheeb	O
-kev	O
-ze	O
 ces	O
 kuv	O
 yeej	O
@@ -3074,9 +3062,6 @@ sib	B
 txheeb	I
 sib	I
 ze	I
-txheeb	O
-sib	O
-ze	O
 thiab	O
 lau	O
 !	O
@@ -3794,9 +3779,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 .	O
 
@@ -4020,9 +4002,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 

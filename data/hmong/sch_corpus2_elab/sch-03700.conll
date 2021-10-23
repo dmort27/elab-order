@@ -750,9 +750,6 @@ ib	B
 hnub	I
 ib	I
 hmo	I
-hnub	O
-ib	O
-hmo	O
 no	O
 nej	O
 twb	O
@@ -818,9 +815,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 ....	O
 smiles	O
 !	O

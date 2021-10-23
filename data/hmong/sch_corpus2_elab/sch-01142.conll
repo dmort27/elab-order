@@ -198,9 +198,6 @@ kev	B
 lag	I
 kev	I
 luam	I
-lag	O
-kev	O
-luam	O
 thiab	O
 nrhiav	O
 nyiaj	O
@@ -531,9 +528,6 @@ khwv	B
 iab	I
 khwv	I
 daw	I
-iab	O
-khwv	O
-daw	O
 ,	O
 los	O
 sib	O
@@ -1143,9 +1137,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 pab	O
 ces	O
 yeej	O
@@ -1195,9 +1186,6 @@ nyiaj	B
 hnub	I
 nyiaj	I
 hli	I
-hnub	O
-nyiaj	O
-hli	O
 .	O
 
 
@@ -1434,9 +1422,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 mam	O
 li	O
 ntxeem	O
@@ -1486,9 +1471,6 @@ tiav	B
 nkauj	I
 tiav	I
 nraug	I
-nkauj	O
-tiav	O
-nraug	O
 lawm	O
 los	O
 peb	O
@@ -1542,9 +1524,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 mas	O
 muaj	O
 kev	O
@@ -1598,9 +1577,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 lub	O
 neej	O
 pauv	O
@@ -1612,16 +1588,10 @@ muaj	B
 noj	I
 muaj	I
 hnav	I
-noj	O
-muaj	O
-hnav	O
 thawm	B
 niaj	I
 thawm	I
 xyoo	I
-niaj	O
-thawm	O
-xyoo	O
 ,	O
 lawv	O
 muaj	O
@@ -1634,9 +1604,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 ,	O
 tseem	O
 muaj	O
@@ -1804,9 +1771,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 lub	O
 sib	O
 mus	O

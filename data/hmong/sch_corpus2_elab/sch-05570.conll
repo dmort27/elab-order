@@ -44,9 +44,6 @@ raug	B
 thuv	I
 raug	I
 txim	I
-thuv	O
-raug	O
-txim	O
 lawm	O
 ,	O
 yog	O
@@ -147,9 +144,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 tib	O
 neeg	O
 niaj	O
@@ -241,9 +235,6 @@ khoom	B
 ub	I
 khoom	I
 no	I
-ub	O
-khoom	O
-no	O
 tuaj	O
 tshaj	O
 tawm	O
@@ -457,9 +448,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 qhuab	O
 ntuas	O
 hauv	O
@@ -646,9 +634,6 @@ kwv	B
 tij	I
 kwv	I
 npawg	I
-tij	O
-kwv	O
-npawg	O
 uas	O
 paub	O
 yawg	O

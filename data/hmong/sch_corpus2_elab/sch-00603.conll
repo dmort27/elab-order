@@ -746,9 +746,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 .	O
 
 
@@ -1112,9 +1109,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 los	O
 kuj	O
 zoo	O
@@ -1126,9 +1120,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 los	O
 yeej	O
 zoo	O
@@ -1198,9 +1189,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 yug	O
 kiag	O
 yus	O
@@ -1822,9 +1810,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 zoo	O
 li	O
 kab	O
@@ -2122,9 +2107,6 @@ ncig	B
 mus	I
 ncig	I
 los	I
-mus	O
-ncig	O
-los	O
 ntawm	O
 nyuj	O
 ib	O

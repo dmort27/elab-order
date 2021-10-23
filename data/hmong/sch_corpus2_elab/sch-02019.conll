@@ -34,9 +34,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 sib	O
 hais	O
 txog	O
@@ -461,9 +458,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 tias	O
 zaum	O
 no	O
@@ -1752,17 +1746,11 @@ ua	B
 liab	I
 ua	I
 cuam	I
-liab	O
-ua	O
-cuam	O
 noj	O
 txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 li	O
 no	O
 es	O
@@ -3148,9 +3136,6 @@ ntau	B
 tsav	I
 ntau	I
 yam	I
-tsav	O
-ntau	O
-yam	O
 rau	O
 America	O
 ,	O
@@ -3634,9 +3619,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 kev	O
 tsab	O
 yus	O
@@ -3838,9 +3820,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 luj	O
 kawg	O
 le	O
@@ -4079,17 +4058,11 @@ miv	B
 tub	I
 miv	I
 ntxhais	I
-tub	O
-miv	O
-ntxhais	O
 ,	O
 xeeb	B
 luj	I
 xeeb	I
 lam	I
-luj	O
-xeeb	O
-lam	O
 tub	O
 moog	O
 caj	O
@@ -4196,9 +4169,6 @@ tau	B
 nom	I
 tau	I
 tswv	I
-nom	O
-tau	O
-tswv	O
 ,	O
 ua	O
 kom	O
@@ -4657,9 +4627,6 @@ ciaj	B
 nom	I
 ciaj	I
 tswv	I
-nom	O
-ciaj	O
-tswv	O
 .	O
 
 
@@ -4906,9 +4873,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 lawv	O
 tig	O
 nrog	O
@@ -4925,9 +4889,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 ,	O
 nrog	O
 luag	O
@@ -4937,9 +4898,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 ua	O
 thawj	O
@@ -4962,9 +4920,6 @@ kwv	B
 riam	I
 kwv	I
 phom	I
-riam	O
-kwv	O
-phom	O
 tiv	O
 thaiv	O
 lub	O

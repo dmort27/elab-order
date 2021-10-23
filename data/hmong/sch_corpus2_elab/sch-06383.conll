@@ -212,9 +212,6 @@ paub	B
 qab	I
 paub	I
 hauv	I
-qab	O
-paub	O
-hauv	O
 lino	O
 lawm	O
 .	O
@@ -2072,9 +2069,6 @@ txhia	B
 leej	I
 txhia	I
 tus	I
-leej	O
-txhia	O
-tus	O
 lub	O
 siab	O
 kom	O
@@ -2105,9 +2099,6 @@ lub	B
 koob	I
 lub	I
 meej	I
-koob	O
-lub	O
-meej	O
 nyob	O
 qab	O
 ntuj	O
@@ -2375,9 +2366,6 @@ sib	B
 saib	I
 sib	I
 xyuas	I
-saib	O
-sib	O
-xyuas	O
 thiab	O
 .	O
 
@@ -2465,9 +2453,6 @@ noj	B
 siav	I
 noj	I
 zog	I
-siav	O
-noj	O
-zog	O
 rau	O
 sawv	O
 daws	O

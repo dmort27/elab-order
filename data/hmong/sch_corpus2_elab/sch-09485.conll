@@ -235,9 +235,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 yuav	O
 rov	O
 qab	O
@@ -606,9 +603,6 @@ lug	B
 toj	I
 lug	I
 pes	I
-toj	O
-lug	O
-pes	O
 vuag	O
 txoj	O
 khiav	O
@@ -719,9 +713,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 tsis	O
 muaj	O
@@ -864,9 +855,6 @@ cov	B
 txheeb	I
 cov	I
 ze	I
-txheeb	O
-cov	O
-ze	O
 yeej	O
 tuaj	O
 nrog	O
@@ -1044,9 +1032,6 @@ kev	B
 phem	I
 kev	I
 zoo	I
-phem	O
-kev	O
-zoo	O
 nyob	O
 hauv	O
 ob	O
@@ -1066,9 +1051,6 @@ pom	B
 tseeb	I
 pom	I
 tsum	I
-tseeb	O
-pom	O
-tsum	O
 VP	O
 tau	O
 mus	O

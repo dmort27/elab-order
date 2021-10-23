@@ -599,9 +599,6 @@ tag	B
 zej	I
 tag	I
 zos	I
-zej	O
-tag	O
-zos	O
 tuaj	O
 no	O
 tuaj	O
@@ -698,9 +695,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 noj	O
 thiab	O
 haus	O
@@ -713,9 +707,6 @@ nyias	B
 dab	I
 nyias	I
 qhua	I
-dab	O
-nyias	O
-qhua	O
 ....	O
 2.	O
 cov	O
@@ -741,9 +732,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 li	O
 ntag	O
 ,	O
@@ -819,9 +807,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 los	O
 --	O
 tsi	O

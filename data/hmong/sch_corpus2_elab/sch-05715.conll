@@ -119,9 +119,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 xwb	O
 .	O
 
@@ -341,9 +338,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 ziag	O
 no	O
@@ -1806,9 +1800,6 @@ teb	B
 ncaj	I
 teb	I
 ncees	I
-ncaj	O
-teb	O
-ncees	O
 ces	O
 kuv	O
 mloog	O
@@ -1868,9 +1859,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 ces	O
 yog	O
 koj	O
@@ -2311,9 +2299,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 yeej	O
 du	O
 lug	O
@@ -2341,9 +2326,6 @@ quav	B
 qaib	I
 quav	I
 npua	I
-qaib	O
-quav	O
-npua	O
 ''	O
 rau	O
 kuv	O
@@ -2352,9 +2334,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 kom	O
 koj	O
 ntseeg	O
@@ -3106,9 +3085,6 @@ thim	B
 laj	I
 thim	I
 sob	I
-laj	O
-thim	O
-sob	O
 zog	O
 me	O
 ntsis	O
@@ -3176,9 +3152,6 @@ pem	B
 ntuj	I
 pem	I
 teb	I
-ntuj	O
-pem	O
-teb	O
 uas	O
 koj	O
 mus	O
@@ -3825,9 +3798,6 @@ thov	B
 txim	I
 thov	I
 thuv	I
-txim	O
-thov	O
-thuv	O
 ntawm	O
 ib	O
 tsoom	O

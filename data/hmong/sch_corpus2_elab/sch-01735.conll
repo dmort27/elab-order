@@ -199,9 +199,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 zoo	O
 tsi	O
 tau	O
@@ -222,9 +219,6 @@ siab	B
 loj	I
 siab	I
 dav	I
-loj	O
-siab	O
-dav	O
 ,	O
 peb	O
 ntshaw	O
@@ -248,9 +242,6 @@ pab	B
 nyiaj	I
 pab	I
 txiaj	I
-nyiaj	O
-pab	O
-txiaj	O
 npaum	O
 li	O
 cas	O
@@ -261,9 +252,6 @@ txog	B
 vaj	I
 txog	I
 tsev	I
-vaj	O
-txog	O
-tsev	O
 ...	O
 pojniam	O
 hais	O
@@ -548,9 +536,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 zoo	O
 tsi	O
 tau	O
@@ -571,9 +556,6 @@ siab	B
 loj	I
 siab	I
 dav	I
-loj	O
-siab	O
-dav	O
 ,	O
 peb	O
 ntshaw	O
@@ -597,9 +579,6 @@ pab	B
 nyiaj	I
 pab	I
 txiaj	I
-nyiaj	O
-pab	O
-txiaj	O
 npaum	O
 li	O
 cas	O
@@ -610,9 +589,6 @@ txog	B
 vaj	I
 txog	I
 tsev	I
-vaj	O
-txog	O
-tsev	O
 ...	O
 pojniam	O
 hais	O

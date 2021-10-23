@@ -501,9 +501,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 seb	O
 lawv	O
 tej	O
@@ -1114,9 +1111,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 li	O
 cov	O
 uas	O
@@ -1368,9 +1362,6 @@ sib	B
 coj	I
 sib	I
 yoog	I
-coj	O
-sib	O
-yoog	O
 .	O
 
 
@@ -1631,9 +1622,6 @@ pom	B
 dhuav	I
 pom	I
 txaus	I
-dhuav	O
-pom	O
-txaus	O
 ...	O
 Yog	O
 tsi	O
@@ -1669,17 +1657,11 @@ kev	B
 plas	I
 kev	I
 pluag	I
-plas	O
-kev	O
-pluag	O
 poob	O
 kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 .	O
 
 
@@ -2328,9 +2310,6 @@ pom	B
 dhuav	I
 pom	I
 txaus	I
-dhuav	O
-pom	O
-txaus	O
 ...	O
 Yog	O
 tsi	O
@@ -2366,17 +2345,11 @@ kev	B
 plas	I
 kev	I
 pluag	I
-plas	O
-kev	O
-pluag	O
 poob	O
 kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 .	O
 
 

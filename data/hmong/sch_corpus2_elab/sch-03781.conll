@@ -250,9 +250,6 @@ peb	B
 nom	I
 peb	I
 tswv	I
-nom	O
-peb	O
-tswv	O
 los	O
 pab	O
 peb	O
@@ -949,9 +946,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 .	O
 
 

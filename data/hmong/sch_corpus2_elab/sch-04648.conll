@@ -317,9 +317,6 @@ muaj	B
 ntsej	I
 muaj	I
 muag	I
-ntsej	O
-muaj	O
-muag	O
 thiab	O
 muaj	O
 feem	O
@@ -728,9 +725,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ,	O
 yog	O
 ib	O
@@ -1608,9 +1602,6 @@ dhau	B
 kev	I
 dhau	I
 cai	I
-kev	O
-dhau	O
-cai	O
 lawm	O
 ntuj	O
 mam	O
@@ -1958,9 +1949,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 ,	O
 thaum	O
 pejxeem	O
@@ -2200,9 +2188,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 laam	O
 yoog	O
 kuas	O

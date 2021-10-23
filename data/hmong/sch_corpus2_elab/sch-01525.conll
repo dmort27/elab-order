@@ -648,9 +648,6 @@ muaj	B
 pab	I
 muaj	I
 pawg	I
-pab	O
-muaj	O
-pawg	O
 ,	O
 ib	O
 tug	O
@@ -709,9 +706,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 ,	O
 Suav	O
 ua	O
@@ -777,9 +771,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 ,	O
 tsis	O
 hais	O
@@ -1656,9 +1647,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 nkag	O
 mus	O
 rau	O
@@ -2514,9 +2502,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 thiaj	O
 nyob	O
 Nplog	O
@@ -3076,9 +3061,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 khiav	O
 dim	O
 hauv	O
@@ -3334,9 +3316,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 tus	O
 yeeb	O
 ncuab	O
@@ -3751,9 +3730,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 thiaj	O
 nyob	O
 Nplog	O
@@ -4313,9 +4289,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 khiav	O
 dim	O
 hauv	O
@@ -4923,9 +4896,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 .	O
 
 

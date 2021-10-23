@@ -422,9 +422,6 @@ dag	B
 ub	I
 dag	I
 no	I
-ub	O
-dag	O
-no	O
 tsi	O
 kam	O
 tuaj	O
@@ -781,9 +778,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 ,	O
 thiab	O
 tseem	O
@@ -791,9 +785,6 @@ sib	B
 txheeb	I
 sib	I
 ze	I
-txheeb	O
-sib	O
-ze	O
 thiab	O
 es	O
 cas	O
@@ -1879,9 +1870,6 @@ yog	B
 kwv	I
 yog	I
 tij	I
-kwv	O
-yog	O
-tij	O
 ces	O
 txhob	O
 rawm	O

@@ -337,17 +337,11 @@ tso	B
 kwv	I
 tso	I
 tij	I
-kwv	O
-tso	O
-tij	O
 ,	O
 tso	B
 niam	I
 tso	I
 txiv	I
-niam	O
-tso	O
-txiv	O
 tseg	O
 .	O
 
@@ -1736,9 +1730,6 @@ siab	B
 mos	I
 siab	I
 muag	I
-mos	O
-siab	O
-muag	O
 li	O
 pojniam	O
 hos	O
@@ -2527,9 +2518,6 @@ teg	B
 dlej	I
 teg	I
 num	I
-dlej	O
-teg	O
-num	O
 kws	O
 puab	O
 tau	O

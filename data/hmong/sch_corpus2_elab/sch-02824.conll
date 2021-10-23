@@ -75,9 +75,6 @@ nqi	B
 mis	I
 nqi	I
 hno	I
-mis	O
-nqi	O
-hno	O
 tag	O
 rau	O
 niam	O
@@ -101,9 +98,6 @@ pav	B
 tes	I
 pav	I
 taw	I
-tes	O
-pav	O
-taw	O
 nrhab	O
 rau	O
 saum	O
@@ -1158,9 +1152,6 @@ hauv	B
 riam	I
 hauv	I
 phom	I
-riam	O
-hauv	O
-phom	O
 xwb	O
 es	O
 cas	O
@@ -1530,9 +1521,6 @@ haus	B
 yeeb	I
 haus	I
 tshuaj	I
-yeeb	O
-haus	O
-tshuaj	O
 ,	O
 cov	O
 tub	O
@@ -1931,9 +1919,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 ,	O
 peb	O
 tseem	O

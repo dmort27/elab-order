@@ -616,9 +616,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 ,	O
 tham	O
 hluas	O
@@ -627,9 +624,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 xwb	O
 ?	O
 

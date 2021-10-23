@@ -867,9 +867,6 @@ tej	B
 kwv	I
 tej	I
 tij	I
-kwv	O
-tej	O
-tij	O
 thiab	O
 tej	O
 pawg	O
@@ -975,9 +972,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 mus	O
 ua	O
 rau	O
@@ -985,9 +979,6 @@ tej	B
 kwv	I
 tej	I
 tij	I
-kwv	O
-tej	O
-tij	O
 es	O
 txawm	O
 tau	O
@@ -1022,9 +1013,6 @@ nyias	B
 pab	I
 nyias	I
 pawg	I
-pab	O
-nyias	O
-pawg	O
 .	O
 
 
@@ -1157,9 +1145,6 @@ siv	B
 dag	I
 siv	I
 zog	I
-dag	O
-siv	O
-zog	O
 ua	O
 es	O
 luag	O
@@ -1603,9 +1588,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 tag	O
 tsis	O
 txaus	O
@@ -1828,9 +1810,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 ....	O
 es	O
 thiaj	O

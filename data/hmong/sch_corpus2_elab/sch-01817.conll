@@ -1306,9 +1306,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 tau	O
 .	O
 
@@ -1760,9 +1757,6 @@ rau	B
 ub	I
 rau	I
 nua	I
-ub	O
-rau	O
-nua	O
 ,	O
 moog	O
 hloo	O
@@ -1797,9 +1791,6 @@ miv	B
 tub	I
 miv	I
 nyuas	I
-tub	O
-miv	O
-nyuas	O
 nua	O
 neb	O
 ,	O
@@ -1859,9 +1850,6 @@ lus	B
 ntxhib	I
 lus	I
 ntxho	I
-ntxhib	O
-lus	O
-ntxho	O
 lawm	O
 los	O
 yog	O

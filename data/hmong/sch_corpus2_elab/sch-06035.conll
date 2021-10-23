@@ -397,9 +397,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 xwb	O
 .	O
 
@@ -570,9 +567,6 @@ kaug	B
 ub	I
 kaug	I
 no	I
-ub	O
-kaug	O
-no	O
 xwb	O
 .	O
 
@@ -633,9 +627,6 @@ muaj	B
 riam	I
 muaj	I
 phom	I
-riam	O
-muaj	O
-phom	O
 yuav	O
 sawv	O
 tauj	O
@@ -654,9 +645,6 @@ nriav	B
 noj	I
 nriav	I
 haus	I
-noj	O
-nriav	O
-haus	O
 nyob	O
 ywj	O
 pheej	O
@@ -710,9 +698,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 tauj	O
 xub	O
 txog	O
@@ -781,9 +766,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 no	O
 los	O
 tau	O
@@ -861,9 +843,6 @@ raug	B
 cuab	I
 raug	I
 khi	I
-cuab	O
-raug	O
-khi	O
 lawm	O
 nej/kuv/peb	O
 yeej	O
@@ -1303,9 +1282,6 @@ coj	B
 teb	I
 coj	I
 chaw	I
-teb	O
-coj	O
-chaw	O
 rau	O
 Hmoob	O
 ,	O

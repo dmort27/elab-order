@@ -63,9 +63,6 @@ tes	B
 qav	I
 tes	I
 num	I
-qav	O
-tes	O
-num	O
 kom	O
 tiav	O
 thiab	O
@@ -361,9 +358,6 @@ dhia	B
 siab	I
 dhia	I
 nqi	I
-siab	O
-dhia	O
-nqi	O
 li	O
 --	O
 es	O
@@ -380,9 +374,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 thiab	O
 lub	O
 sijhawm	O
@@ -500,9 +491,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 tuaj	O
 lawm	O
 yog	O
@@ -988,9 +976,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 ;	O
 tsis	O
 paub	O
@@ -1094,9 +1079,6 @@ tsis	B
 meej	I
 tsis	I
 pem	I
-meej	O
-tsis	O
-pem	O
 zoo	O
 li	O
 neeg	O

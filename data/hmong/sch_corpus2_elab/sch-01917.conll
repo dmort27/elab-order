@@ -565,9 +565,6 @@ lawv	B
 fuab	I
 lawv	I
 cua	I
-fuab	O
-lawv	O
-cua	O
 le	O
 najnub	O
 nwgnuav	O
@@ -1713,9 +1710,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 tiag	O
 tiag	O
 ov	O
@@ -1815,9 +1809,6 @@ ua	B
 txuj	I
 ua	I
 ci	I
-txuj	O
-ua	O
-ci	O
 ntau	O
 yam	O
 tshwm	O

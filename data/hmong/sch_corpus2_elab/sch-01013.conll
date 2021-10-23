@@ -3871,9 +3871,6 @@ muaj	B
 yeej	I
 muaj	I
 swb	I
-yeej	O
-muaj	O
-swb	O
 ces	O
 lwn	O
 hnub	O
@@ -5351,9 +5348,6 @@ rooj	B
 nom	I
 rooj	I
 tswv	I
-nom	O
-rooj	O
-tswv	O
 ect	O
 ...	O
 so	O
@@ -5547,9 +5541,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 -	O
 ob	O
 tug	O
@@ -5899,9 +5890,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 qw	O
 qw	O
 thiab	O
@@ -6193,9 +6181,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 kiag	O
 los	O
 yog	O

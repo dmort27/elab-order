@@ -209,9 +209,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 es	O
 tsam	O
 hos	O
@@ -221,9 +218,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 ces	O
 yuav	O
 tau	O
@@ -403,9 +397,6 @@ nrog	B
 poj	I
 nrog	I
 yawm	I
-poj	O
-nrog	O
-yawm	O
 nyob	O
 no	O
 os	O
@@ -1190,9 +1181,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 xwb	O
 es	O
 av	O
@@ -1205,9 +1193,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 --	O
 -cog	O
 dabtsi	O
@@ -1245,9 +1230,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 thiab	O
 thiaj	O
 li	O
@@ -1259,9 +1241,6 @@ rau	B
 poj	I
 rau	I
 yawm	I
-poj	O
-rau	O
-yawm	O
 no	O
 os	O
 ....	O
@@ -1307,9 +1286,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 ,	O
 es	O
 thiaj	O
@@ -2240,9 +2216,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ces	O
 Vajtswv	O
 Ntuj	O

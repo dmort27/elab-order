@@ -2067,9 +2067,6 @@ txog	B
 ub	I
 txog	I
 no	I
-ub	O
-txog	O
-no	O
 ,	O
 txhob	O
 ntsaws	O
@@ -2078,9 +2075,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 lawm	O
 ,	O
 rau	O

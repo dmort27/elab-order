@@ -169,9 +169,6 @@ raug	B
 ploj	I
 raug	I
 tuag	I
-ploj	O
-raug	O
-tuag	O
 ces	O
 yeej	O
 fit	O
@@ -392,9 +389,6 @@ ua	B
 phab	I
 ua	I
 pheev	I
-phab	O
-ua	O
-pheev	O
 hauv	O
 no	O
 es	O
@@ -854,9 +848,6 @@ khub	B
 laj	I
 khub	I
 kam	I
-laj	O
-khub	O
-kam	O
 los	O
 ntev	O
 .	O
@@ -1244,9 +1235,6 @@ kis	B
 toj	I
 kis	I
 pes	I
-toj	O
-kis	O
-pes	O
 thiab	O
 os	O
 .	O
@@ -1264,9 +1252,6 @@ nyuj	B
 ciab	I
 nyuj	I
 ncau	I
-ciab	O
-nyuj	O
-ncau	O
 ,	O
 nyuj	O
 ciab	O
@@ -2601,17 +2586,11 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 ,	O
 cag	B
 hmab	I
 cag	I
 ntoo	I
-hmab	O
-cag	O
-ntoo	O
 tau	O
 noj	O
 tag	O
@@ -2730,9 +2709,6 @@ me	B
 kab	I
 me	I
 noog	I
-kab	O
-me	O
-noog	O
 luag	O
 nyob	O
 rau	O

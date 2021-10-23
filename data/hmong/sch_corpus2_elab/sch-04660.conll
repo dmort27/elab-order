@@ -317,9 +317,6 @@ dhia	B
 ciaj	I
 dhia	I
 tuag	I
-ciaj	O
-dhia	O
-tuag	O
 los	O
 kuv	O
 yeej	O
@@ -485,17 +482,11 @@ ua	B
 phooj	I
 ua	I
 ywg	I
-phooj	O
-ua	O
-ywg	O
 ,	O
 ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 tabsi	O
 tsi	O
 yog	O
@@ -1767,9 +1758,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 lawm	O
 ,	O
 li	O
@@ -2791,9 +2779,6 @@ tau	B
 kwv	I
 tau	I
 tij	I
-kwv	O
-tau	O
-tij	O
 ,	O
 tau	O
 txiv	O
@@ -2880,9 +2865,6 @@ nram	B
 ntej	I
 nram	I
 qab	I
-ntej	O
-nram	O
-qab	O
 li	O
 lawm	O
 no	O
@@ -2956,9 +2938,6 @@ nram	B
 ntej	I
 nram	I
 qab	I
-ntej	O
-nram	O
-qab	O
 tej	O
 zaum	O
 ncaimtseemnco	O
@@ -3104,9 +3083,6 @@ tau	B
 kwv	I
 tau	I
 tij	I
-kwv	O
-tau	O
-tij	O
 thiab	O
 tau	O
 txheeb	O
@@ -3316,9 +3292,6 @@ paub	B
 ntaub	I
 paub	I
 ntawv	I
-ntaub	O
-paub	O
-ntawv	O
 lawm	O
 hos	O
 tseem	O

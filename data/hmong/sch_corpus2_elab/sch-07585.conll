@@ -550,9 +550,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 rau	O
 Hmab	O
 Sua	O
@@ -686,9 +683,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 .	O
 
 
@@ -910,9 +904,6 @@ qhov	B
 zoo	I
 qhov	I
 phem	I
-zoo	O
-qhov	O
-phem	O
 nthuav	O
 tawm	O
 rau	O
@@ -1263,9 +1254,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 yog	O
 nom	O
 tim	O

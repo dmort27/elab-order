@@ -218,9 +218,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 .	O
 
 
@@ -528,18 +525,12 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 ,	O
 kev	O
 zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 nws	O
 yog	O
 nws	O
@@ -606,9 +597,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 mas	O
 nyob	O
 ntawm	O
@@ -705,9 +693,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 ntawm	O
 yus	O
 haiv	O
@@ -1187,9 +1172,6 @@ txawj	B
 ub	I
 txawj	I
 no	I
-ub	O
-txawj	O
-no	O
 ;	O
 hos	O
 Hmong	O

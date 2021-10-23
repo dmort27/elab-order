@@ -67,9 +67,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 peb	O
 ib	O
 leeg	O
@@ -212,9 +209,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 )	O
 .	O
 
@@ -308,9 +302,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 lawm	O
 .	O
 
@@ -562,9 +553,6 @@ qhov	B
 txhia	I
 qhov	I
 chaw	I
-txhia	O
-qhov	O
-chaw	O
 (	O
 txawv	O
 lav	O
@@ -606,9 +594,6 @@ yus	B
 kwv	I
 yus	I
 tij	I
-kwv	O
-yus	O
-tij	O
 .	O
 
 
@@ -632,9 +617,6 @@ qhov	B
 txhia	I
 qhov	I
 chaw	I
-txhia	O
-qhov	O
-chaw	O
 dua	O
 lawm	O
 thiab	O
@@ -650,9 +632,6 @@ raws	B
 kwv	I
 raws	I
 tij	I
-kwv	O
-raws	O
-tij	O
 thiab	O
 mus	O
 raws	O
@@ -671,9 +650,6 @@ qhov	B
 nyiaj	I
 qhov	I
 kub	I
-nyiaj	O
-qhov	O
-kub	O
 lawm	O
 .	O
 
@@ -685,9 +661,6 @@ tau	B
 nyiaj	I
 tau	I
 kub	I
-nyiaj	O
-tau	O
-kub	O
 yooj	O
 yim	O
 ,	O

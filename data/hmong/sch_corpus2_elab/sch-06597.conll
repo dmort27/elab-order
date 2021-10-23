@@ -244,9 +244,6 @@ paub	B
 ub	I
 paub	I
 no	I
-ub	O
-paub	O
-no	O
 kawg	O
 tab	O
 sis	O
@@ -327,9 +324,6 @@ pam	B
 neej	I
 pam	I
 dab	I
-neej	O
-pam	O
-dab	O
 .	O
 
 
@@ -569,9 +563,6 @@ tej	B
 siab	I
 tej	I
 ntsws	I
-siab	O
-tej	O
-ntsws	O
 ces	O
 kuj	O
 paub	O

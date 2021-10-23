@@ -109,9 +109,6 @@ ua	B
 txuj	I
 ua	I
 ci	I
-txuj	O
-ua	O
-ci	O
 sib	O
 tsoo/ntaus	O
 li	O
@@ -402,9 +399,6 @@ tsis	B
 mus	I
 tsis	I
 los	I
-mus	O
-tsis	O
-los	O
 .	O
 
 
@@ -1017,9 +1011,6 @@ kws	B
 txwj	I
 kws	I
 laus	I
-txwj	O
-kws	O
-laus	O
 tuaj	O
 tim	O
 phwvxev	O
@@ -1314,9 +1305,6 @@ rooj	B
 plaub	I
 rooj	I
 ntug	I
-plaub	O
-rooj	O
-ntug	O
 es	O
 tsis	O
 lees	O
@@ -1397,9 +1385,6 @@ ntau	B
 tsav	I
 ntau	I
 yam	I
-tsav	O
-ntau	O
-yam	O
 txog	O
 lawv	O
 tab	O
@@ -1426,9 +1411,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 nrog	O
 nraim	O
 yawg	O

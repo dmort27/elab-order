@@ -32,9 +32,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 twb	O
 pauv	O
 mus	O
@@ -260,9 +257,6 @@ niaj	B
 hnub	I
 niaj	I
 hmo	I
-hnub	O
-niaj	O
-hmo	O
 mus	O
 ned	O
 .	O
@@ -543,9 +537,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 twb	O
 changed	O
 mus	O

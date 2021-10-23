@@ -22,9 +22,6 @@ rau	B
 roj	I
 rau	I
 ntsev	I
-roj	O
-rau	O
-ntsev	O
 os	O
 ?	O
 .......	O
@@ -373,9 +370,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 .	O
 
 
@@ -391,9 +385,6 @@ kev	B
 pluj	I
 kev	I
 tuag	I
-pluj	O
-kev	O
-tuag	O
 kom	O
 ntau	O
 tshaaj	O
@@ -728,9 +719,6 @@ ua	B
 tub	I
 ua	I
 kiv	I
-tub	O
-ua	O
-kiv	O
 has	O
 ntau	O
 tes	O
@@ -1323,12 +1311,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	B
-pab	I
-sib	I
-koom	I
-pab	O
 sib	O
 koom	O
 tes	O
@@ -1385,9 +1367,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 pab	O
 es	O
 kom	O

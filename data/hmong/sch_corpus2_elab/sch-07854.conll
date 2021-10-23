@@ -188,9 +188,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 rau	O
 leej	O
 twg	O
@@ -233,9 +230,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 thiab	O
 ua	O
 pem	O
@@ -264,9 +258,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 xwb	O
 .	O
 
@@ -446,9 +437,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 ,	O
 hos	O
 kuv	O
@@ -461,9 +449,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 mus	O
 ua	O
 tej	O

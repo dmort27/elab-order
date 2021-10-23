@@ -81,9 +81,6 @@ sib	B
 daj	I
 sib	I
 dee	I
-daj	O
-sib	O
-dee	O
 los	O
 .	O
 
@@ -95,9 +92,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 nyob	O
 mas	O
 hmo	O
@@ -260,9 +254,6 @@ tej	B
 kwv	I
 tej	I
 tij	I
-kwv	O
-tej	O
-tij	O
 ,	O
 thiab	O
 tej	O
@@ -965,9 +956,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 xwb	O
 ces	O
 xob	O

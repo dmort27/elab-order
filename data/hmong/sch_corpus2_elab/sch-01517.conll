@@ -623,9 +623,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 nrov	O
 thaum	O
 ua	O
@@ -633,9 +630,6 @@ tub	B
 tes	I
 tub	I
 taw	I
-tes	O
-tub	O
-taw	O
 ntawm	O
 CIA	O
 es	O
@@ -809,9 +803,6 @@ qub	B
 zaub	I
 qub	I
 mov	I
-zaub	O
-qub	O
-mov	O
 lawm	O
 xwb	O
 .	O
@@ -898,9 +889,6 @@ xws	B
 teb	I
 xws	I
 chaw	I
-teb	O
-xws	O
-chaw	O
 thiab	O
 thiaj	O
 li	O

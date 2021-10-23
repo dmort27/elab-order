@@ -84,9 +84,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 .	O
 
 
@@ -181,9 +178,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 .	O
 
 
@@ -339,9 +333,6 @@ sib	B
 hlub	I
 sib	I
 paab	I
-hlub	O
-sib	O
-paab	O
 le	O
 nuav	O
 nua	O
@@ -519,9 +510,6 @@ sib	B
 hlub	I
 sib	I
 paab	I
-hlub	O
-sib	O
-paab	O
 le	O
 nuav	O
 nua	O
@@ -699,9 +687,6 @@ sib	B
 hlub	I
 sib	I
 paab	I
-hlub	O
-sib	O
-paab	O
 le	O
 nuav	O
 nua	O
@@ -765,9 +750,6 @@ ntshaw	B
 ub	I
 ntshaw	I
 no	I
-ub	O
-ntshaw	O
-no	O
 .	O
 
 
@@ -1063,9 +1045,6 @@ sib	B
 pab	I
 sib	I
 hlub	I
-pab	O
-sib	O
-hlub	O
 ,	O
 es	O
 peb	O
@@ -1151,9 +1130,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 ,	O
 thiab	O
 kho	O
@@ -1184,9 +1160,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 ,	O
 sib	O
 hwm	O
@@ -1222,9 +1195,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 kom	O
 lwm	O
 tus	O
@@ -1296,9 +1266,6 @@ ntau	B
 leej	I
 ntau	I
 tus	I
-leej	O
-ntau	O
-tus	O
 kuv	O
 pom	O
 mas	O
@@ -1559,9 +1526,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 thiab	O
 sib	O
 qhia	O
@@ -2239,9 +2203,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 tas	O
 ntxeev	O
 sab	O
@@ -2274,9 +2235,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 ntxiv	O
 lawm	O
 .	O

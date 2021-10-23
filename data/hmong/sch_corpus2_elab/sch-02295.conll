@@ -709,9 +709,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 mas	O
 mob	O
 mob	O
@@ -821,16 +818,10 @@ nrhav	B
 noj	I
 nrhav	I
 haus	I
-noj	O
-nrhav	O
-haus	O
 haav	B
 zoov	I
 haav	I
 tsuag	I
-zoov	O
-haav	O
-tsuag	O
 mas	O
 loj	O
 sim	O
@@ -1406,9 +1397,6 @@ lov	B
 tes	I
 lov	I
 taw	I
-tes	O
-lov	O
-taw	O
 coj	O
 mus	O
 yug	O
@@ -2382,9 +2370,6 @@ sib	B
 pom	I
 sib	I
 paub	I
-pom	O
-sib	O
-paub	O
 .	O
 
 
@@ -4750,9 +4735,6 @@ nti	B
 ciaj	I
 nti	I
 tuag	I
-ciaj	O
-nti	O
-tuag	O
 ,	O
 ua	O
 rau	O
@@ -5053,9 +5035,6 @@ qhov	B
 zeb	I
 qhov	I
 av	I
-zeb	O
-qhov	O
-av	O
 mas	O
 kuv	O
 rhiab	O
@@ -5557,9 +5536,6 @@ cua	B
 daj	I
 cua	I
 dub	I
-daj	O
-cua	O
-dub	O
 los	O
 kiag	O
 ntawm	O

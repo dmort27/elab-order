@@ -425,9 +425,6 @@ siv	B
 riam	I
 siv	I
 phom	I
-riam	O
-siv	O
-phom	O
 nrog	O
 Nplog	O
 hais	O
@@ -511,17 +508,11 @@ coob	B
 leej	I
 coob	I
 tus	I
-leej	O
-coob	O
-tus	O
 ua	O
 qhov	B
 ntsej	I
 qhov	I
 muag	I
-ntsej	O
-qhov	O
-muag	O
 pom	O
 .	O
 

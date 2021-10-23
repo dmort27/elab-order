@@ -154,9 +154,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 ib	O
 hmo	O
 nkaus	O
@@ -958,9 +955,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 kom	O
 hos	O
 lajsiab	O
@@ -1453,9 +1447,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 tus	O
 me	O
 me	O
@@ -1732,9 +1723,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 ib	O
 hmo	O
 nkaus	O
@@ -2359,9 +2347,6 @@ pauv	B
 noj	I
 pauv	I
 haus	I
-noj	O
-pauv	O
-haus	O
 thiab	O
 !	O
 
@@ -3740,9 +3725,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 ib	O
 hmo	O
 nkaus	O
@@ -4931,9 +4913,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 ib	O
 hmo	O
 nkaus	O

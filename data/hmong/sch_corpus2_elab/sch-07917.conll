@@ -1308,9 +1308,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 ,	O
 tabsi	O
 nws	O
@@ -1661,9 +1658,6 @@ tau	B
 koob	I
 tau	I
 npe	I
-koob	O
-tau	O
-npe	O
 ,	O
 ces	O
 muab	O
@@ -1740,9 +1734,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 nyob	O
 tebchaw	O
 no	O
@@ -1928,9 +1919,6 @@ tiv	B
 tshav	I
 tiv	I
 nag	I
-tshav	O
-tiv	O
-nag	O
 ,	O
 li	O
 ntawd	O
@@ -3683,9 +3671,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 zoo	O
 li	O
 nej	O

@@ -104,9 +104,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ...	O
 Puas	O
 fair	O
@@ -447,9 +444,6 @@ txhua	B
 tsaav	I
 txhua	I
 yaam	I
-tsaav	O
-txhua	O
-yaam	O
 hab	O
 nchuav	O
 koob	O
@@ -560,9 +554,6 @@ pw	B
 noj	I
 pw	I
 haus	I
-noj	O
-pw	O
-haus	O
 los	O
 sis	O
 yuav	O
@@ -693,9 +684,6 @@ kawg	B
 sab	I
 kawg	I
 ntsws	I
-sab	O
-kawg	O
-ntsws	O
 hab	O
 plaab	O
 plaw	O
@@ -761,9 +749,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 hab	O
 kev	O
 txawj	O
@@ -1038,17 +1023,11 @@ kawg	B
 sab	I
 kawg	I
 ntsws	I
-sab	O
-kawg	O
-ntsws	O
 ,	O
 kawg	B
 plaab	I
 kawg	I
 plawv	I
-plaab	O
-kawg	O
-plawv	O
 ,	O
 kawg	O
 yug	O
@@ -1056,9 +1035,6 @@ tug	B
 dlaag	I
 tug	I
 zug	I
-dlaag	O
-tug	O
-zug	O
 tsis	O
 txhob	O
 laam	O
@@ -1074,9 +1050,6 @@ yuav	B
 ntsej	I
 yuav	I
 muag	I
-ntsej	O
-yuav	O
-muag	O
 kuas	O
 lwm	O
 tug	O
@@ -1197,9 +1170,6 @@ kev	B
 phem	I
 kev	I
 qas	I
-phem	O
-kev	O
-qas	O
 ,	O
 tug	O
 hov	O
@@ -1697,9 +1667,6 @@ ntsuj	B
 dluab	I
 ntsuj	I
 hlaus	I
-dluab	O
-ntsuj	O
-hlaus	O
 sis	O
 txawv	O
 ,	O
@@ -2239,9 +2206,6 @@ nws	B
 pab	I
 nws	I
 pawg	I
-pab	O
-nws	O
-pawg	O
 neeg	O
 xwb	O
 .	O
@@ -2300,9 +2264,6 @@ nws	B
 poj	I
 nws	I
 yawm	I
-poj	O
-nws	O
-yawm	O
 thiab	O
 coj	O
 nws	O
@@ -2633,9 +2594,6 @@ nqa	B
 nyiaj	I
 nqa	I
 txiaj	I
-nyiaj	O
-nqa	O
-txiaj	O
 tuaj	O
 pab	O
 peb	O
@@ -2700,9 +2658,6 @@ tus	B
 txiaj	I
 tus	I
 ntsim	I
-txiaj	O
-tus	O
-ntsim	O
 --	O
 peb	O
 yuav	O
@@ -2712,18 +2667,12 @@ tsi	B
 tag	I
 tsi	I
 kawg	I
-tag	O
-tsi	O
-kawg	O
 ,	O
 mus	O
 ib	B
 txhiab	I
 ib	I
 txhis	I
-txhiab	O
-ib	O
-txhis	O
 no	O
 nawb	O
 .	O
@@ -2816,24 +2765,15 @@ xav	B
 neej	I
 xav	I
 tsav	I
-neej	O
-xav	O
-tsav	O
 ,	O
 xav	B
 kwv	I
 xav	I
 tij	I
-kwv	O
-xav	O
-tij	O
 nqa	B
 nyiaj	I
 nqa	I
 txiaj	I
-nyiaj	O
-nqa	O
-txiaj	O
 tuaj	O
 pab	O
 peb	O
@@ -2894,9 +2834,6 @@ tus	B
 txiaj	I
 tus	I
 ntsim	I
-txiaj	O
-tus	O
-ntsim	O
 --	O
 peb	O
 yuav	O
@@ -2908,9 +2845,6 @@ ib	B
 txhiab	I
 ib	I
 txhis	I
-txhiab	O
-ib	O
-txhis	O
 no	O
 nawb	O
 .	O
@@ -3064,17 +2998,11 @@ xav	B
 kwv	I
 xav	I
 tij	I
-kwv	O
-xav	O
-tij	O
 (	O
 xav	B
 neej	I
 xav	I
 tsav	I
-neej	O
-xav	O
-tsav	O
 )	O
 ''	O
 --	O
@@ -3093,9 +3021,6 @@ pab	B
 nyiaj	I
 pab	I
 txiaj	I
-nyiaj	O
-pab	O
-txiaj	O
 og	O
 ...	O
 smile	O
@@ -3219,9 +3144,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 thiab	O
 kev	O
 siv	O
@@ -3245,9 +3167,6 @@ tag	B
 nuj	I
 tag	I
 nqi	I
-nuj	O
-tag	O
-nqi	O
 --	O
 xws	O
 li	O
@@ -3295,9 +3214,6 @@ tag	B
 nuj	I
 tag	I
 nqi	I
-nuj	O
-tag	O
-nqi	O
 tib	O
 yam	O
 xwb	O
@@ -3415,9 +3331,6 @@ tag	B
 siab	I
 tag	I
 ntsws	I
-siab	O
-tag	O
-ntsws	O
 tsis	O
 txhob	O
 cia	O
@@ -3440,9 +3353,6 @@ tsis	B
 ciaj	I
 tsis	I
 tuag	I
-ciaj	O
-tsis	O
-tuag	O
 ,	O
 yuav	O
 sov	O
@@ -3848,9 +3758,6 @@ nta	B
 dab	I
 nta	I
 qhua	I
-dab	O
-nta	O
-qhua	O
 ''	O
 vim	O
 tias	O
@@ -4033,9 +3940,6 @@ tej	B
 ntaub	I
 tej	I
 ntawv	I
-ntaub	O
-tej	O
-ntawv	O
 ua	O
 yuav	O
 coj	O
@@ -4251,9 +4155,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 xwb	O
 .	O
 
@@ -4363,9 +4264,6 @@ rau	B
 dab	I
 rau	I
 qhua	I
-dab	O
-rau	O
-qhua	O
 ntag	O
 .	O
 
@@ -4382,9 +4280,6 @@ tiam	B
 dab	I
 tiam	I
 qhua	I
-dab	O
-tiam	O
-qhua	O
 lossis	O
 ua	O
 lawv	O
@@ -4639,9 +4534,6 @@ khaws	B
 chawj	I
 khaws	I
 chim	I
-chawj	O
-khaws	O
-chim	O
 mas	O
 kuj	O
 ho	O
@@ -4784,25 +4676,16 @@ cov	B
 nyiaj	I
 cov	I
 txiaj	I
-nyiaj	O
-cov	O
-txiaj	O
 ua	O
 kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 ,	O
 kev	B
 kwv	I
 kev	I
 tij	I
-kwv	O
-kev	O
-tij	O
 tuaj	O
 pab	O
 rau	O
@@ -4815,9 +4698,6 @@ ti	B
 nuj	I
 ti	I
 nqi	I
-nuj	O
-ti	O
-nqi	O
 xwb	O
 .	O
 
@@ -4834,9 +4714,6 @@ pab	B
 nyiaj	I
 pab	I
 txiaj	I
-nyiaj	O
-pab	O
-txiaj	O
 lawm	O
 es	O
 peb	O
@@ -5000,9 +4877,6 @@ yog	B
 txiaj	I
 yog	I
 ntsim	I
-txiaj	O
-yog	O
-ntsim	O
 tagnrho	O
 --	O
 vim	O
@@ -5061,9 +4935,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 .	O
 
 
@@ -5119,9 +4990,6 @@ leg	B
 qav	I
 leg	I
 num	I
-qav	O
-leg	O
-num	O
 ntawd	O
 los	O
 lawv	O
@@ -5131,9 +4999,6 @@ pab	B
 qhuab	I
 pab	I
 qhia	I
-qhuab	O
-pab	O
-qhia	O
 tus	O
 tuag	O
 ntawd	O
@@ -5144,9 +5009,6 @@ nws	B
 poj	I
 nws	I
 yawm	I
-poj	O
-nws	O
-yawm	O
 thiab	O
 mus	O
 nyob	O

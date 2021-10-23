@@ -859,9 +859,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 los	O
 mas.Koj	O
 yog	O
@@ -873,9 +870,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 tom	O
 tsev	O
 ned	O
@@ -1019,9 +1013,6 @@ muaj	B
 plaub	I
 muaj	I
 ntug	I
-plaub	O
-muaj	O
-ntug	O
 li	O
 no	O
 thiab	O
@@ -1342,9 +1333,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 mas	O
 ,	O
 nej	O

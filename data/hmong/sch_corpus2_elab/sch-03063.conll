@@ -75,9 +75,6 @@ tau	B
 teb	I
 tau	I
 chaw	I
-teb	O
-tau	O
-chaw	O
 ntag	O
 au	O
 !	O
@@ -205,9 +202,6 @@ rua	B
 ub	I
 rua	I
 nua	I
-ub	O
-rua	O
-nua	O
 los	O
 yog	O
 muaj	O
@@ -1695,9 +1689,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 ....	O
 nws	O
 xav	O
@@ -1838,9 +1829,6 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 kom	O
 peb	O
 ib	O

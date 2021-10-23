@@ -805,9 +805,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ces	O
 taab	O
 txawm	O
@@ -1526,9 +1523,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 li	O
 os	O
 ....	O
@@ -1739,9 +1733,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 xwb	O
 ov	O
 ...	O

@@ -858,9 +858,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 twb	O
 tsim	O
 tau	O
@@ -1020,9 +1017,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 .	O
 
 
@@ -1053,9 +1047,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ntxiv	O
 lawm	O
 .	O
@@ -1343,9 +1334,6 @@ coj	B
 ncaj	I
 coj	I
 ncees	I
-ncaj	O
-coj	O
-ncees	O
 xwb	O
 .	O
 
@@ -1648,9 +1636,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -2049,9 +2034,6 @@ ua	B
 phem	I
 ua	I
 qias	I
-phem	O
-ua	O
-qias	O
 tua	O
 neeg	O
 npog	O
@@ -2253,16 +2235,10 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 lawv	B
 teb	I
 lawv	I
 chaw	I
-teb	O
-lawv	O
-chaw	O
 taag	O
 lawm	O
 .	O
@@ -2743,9 +2719,6 @@ nyuag	B
 fuab	I
 nyuag	I
 cua	I
-fuab	O
-nyuag	O
-cua	O
 cia	O
 li	O
 formed	O

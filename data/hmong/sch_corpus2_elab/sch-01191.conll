@@ -198,9 +198,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 lawm	O
 .	O
 
@@ -255,9 +252,6 @@ txhua	B
 hnub	I
 txhua	I
 hmo	I
-hnub	O
-txhua	O
-hmo	O
 ua	O
 ke	O
 lawm	O
@@ -337,9 +331,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 yeej	O
 kam	O
 kam	O
@@ -382,9 +373,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 xwb	O
 ces	O
 ua	O
@@ -470,9 +458,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 lawm	O
 --	O
 luag	O
@@ -588,16 +573,10 @@ tus	B
 dub	I
 tus	I
 dawb	I
-dub	O
-tus	O
-dawb	O
 tus	B
 mab	I
 tus	I
 suav	I
-mab	O
-tus	O
-suav	O
 los	O
 yeej	O
 yuav	O
@@ -683,9 +662,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 li	O
 peb	O
 niaj	O
@@ -800,9 +776,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 tsi	O
 sibhaum	O
 thaum	O
@@ -1206,9 +1179,6 @@ tus	B
 mab	I
 tus	I
 suav	I
-mab	O
-tus	O
-suav	O
 ned	O
 ,	O
 luag	O
@@ -1259,9 +1229,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 ces	O
 twb	O
 zoosiab	O
@@ -1275,9 +1242,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 tau	O
 ib	O
 tug	O
@@ -1417,9 +1381,6 @@ tus	B
 tub	I
 tus	I
 ntxhais	I
-tub	O
-tus	O
-ntxhais	O
 yog	O
 qhov	O
 tseeb	O
@@ -1620,9 +1581,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 lawm	O
 .	O
 
@@ -1835,9 +1793,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 cojmus	O
 rau	O
 nkaujnyab	O
@@ -2649,9 +2604,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 .	O
 
 
@@ -2717,9 +2669,6 @@ pom	B
 niam	I
 pom	I
 txiv	I
-niam	O
-pom	O
-txiv	O
 ...	O
 txhais	O
 tau	O
@@ -3386,9 +3335,6 @@ txis	B
 txij	I
 txis	I
 nkawm	I
-txij	O
-txis	O
-nkawm	O
 xwb	O
 ,	O
 YOG	O
@@ -3410,9 +3356,6 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 .	O
 
 
@@ -4234,9 +4177,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 kom	O
 dus	O
 lug	O
@@ -4803,9 +4743,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 li	O
 ntag	O
 .	O
@@ -5511,9 +5448,6 @@ kev	B
 dab	I
 kev	I
 qhua	I
-dab	O
-kev	O
-qhua	O
 txawv	O
 dua	O
 lwm	O
@@ -5626,9 +5560,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 ob	O
 tus	O
 yawg	O
@@ -5699,9 +5630,6 @@ nyias	B
 dab	I
 nyias	I
 qhua	I
-dab	O
-nyias	O
-qhua	O
 nyias	O
 muaj	O
 nyias	O
@@ -6020,9 +5948,6 @@ pe	B
 niam	I
 pe	I
 txiv	I
-niam	O
-pe	O
-txiv	O
 li	O
 Hmoob	O
 kev	O

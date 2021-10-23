@@ -1764,9 +1764,6 @@ paub	B
 ntaub	I
 paub	I
 ntawv	I
-ntaub	O
-paub	O
-ntawv	O
 npaum	O
 li	O
 yawm	O
@@ -1832,9 +1829,6 @@ muaj	B
 ploj	I
 muaj	I
 tuag	I
-ploj	O
-muaj	O
-tuag	O
 es	O
 luag	O
 hu	O

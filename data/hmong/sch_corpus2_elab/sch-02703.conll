@@ -473,9 +473,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 qhia	O
 kuv	O
 zoo	O
@@ -1167,9 +1164,6 @@ ntuj	B
 dub	I
 ntuj	I
 txig	I
-dub	O
-ntuj	O
-txig	O
 tsis	O
 paub	O
 xyov	O
@@ -1284,9 +1278,6 @@ ua	B
 vij	I
 ua	I
 swv	I
-vij	O
-ua	O
-swv	O
 rau	O
 koj	O
 .	O
@@ -2016,9 +2007,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 li	O
 .	O
 
@@ -2263,9 +2251,6 @@ ua	B
 roob	I
 ua	I
 hav	I
-roob	O
-ua	O
-hav	O
 ...	O
 sib	O
 cab	O
@@ -2365,9 +2350,6 @@ lus	B
 dog	I
 lus	I
 dig	I
-dog	O
-lus	O
-dig	O
 ,	O
 ua	O
 hais	O

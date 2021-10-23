@@ -1585,9 +1585,6 @@ koom	B
 niam	I
 koom	I
 txiv	I
-niam	O
-koom	O
-txiv	O
 .	O
 
 
@@ -2310,9 +2307,6 @@ muaj	B
 qab	I
 muaj	I
 tsuag	I
-qab	O
-muaj	O
-tsuag	O
 los	O
 yawg	O
 Nom	O
@@ -3350,9 +3344,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 thiaj	O
 muab	O
 hus	O
@@ -3371,9 +3362,6 @@ lav	B
 tshoob	I
 lav	I
 kos	I
-tshoob	O
-lav	O
-kos	O
 mas	O
 koj	O
 txiv	O
@@ -3572,9 +3560,6 @@ sib	B
 tham	I
 sib	I
 paub	I
-tham	O
-sib	O
-paub	O
 xwb	O
 .	O
 
@@ -3685,9 +3670,6 @@ yawm	B
 yij	I
 yawm	I
 dab	I
-yij	O
-yawm	O
-dab	O
 lawm	O
 nawb	O
 ,	O
@@ -4108,9 +4090,6 @@ sib	B
 tham	I
 sib	I
 paub	I
-tham	O
-sib	O
-paub	O
 xwb	O
 .	O
 
@@ -4221,9 +4200,6 @@ yawm	B
 yij	I
 yawm	I
 dab	I
-yij	O
-yawm	O
-dab	O
 lawm	O
 nawb	O
 ,	O
@@ -5253,9 +5229,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 xwb	O
 .	O
 

@@ -41,9 +41,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 nrog	O
 tib	O
 si	O
@@ -64,9 +61,6 @@ tsis	B
 saib	I
 tsis	I
 xyuas	I
-saib	O
-tsis	O
-xyuas	O
 li	O
 lawm	O
 ...	O
@@ -90,9 +84,6 @@ ua	B
 txwj	I
 ua	I
 nkawm	I
-txwj	O
-ua	O
-nkawm	O
 tso	O
 tseg	O
 .	O
@@ -106,9 +97,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 rau	O
 tej	O
 me	O

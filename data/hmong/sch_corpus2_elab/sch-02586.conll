@@ -11,9 +11,6 @@ hniav	B
 ntaj	I
 hniav	I
 riam	I
-ntaj	O
-hniav	O
-riam	O
 ....	O
 txhua	O
 yam	O
@@ -73,9 +70,6 @@ muab	B
 riam	I
 muab	I
 phom	I
-riam	O
-muab	O
-phom	O
 los	O
 tiv	O
 thaiv	O
@@ -138,9 +132,6 @@ hniav	B
 ntaj	I
 hniav	I
 riam	I
-ntaj	O
-hniav	O
-riam	O
 ces	O
 yog	O
 cov	O

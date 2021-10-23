@@ -267,9 +267,6 @@ peb	B
 noj	I
 peb	I
 haus	I
-noj	O
-peb	O
-haus	O
 xwb	O
 as	O
 .	O
@@ -305,9 +302,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 khwv	O
 kub	O
 teg	O
@@ -327,9 +321,6 @@ muas	B
 noj	I
 muas	I
 haus	I
-noj	O
-muas	O
-haus	O
 thiab	O
 xwb	O
 las	O

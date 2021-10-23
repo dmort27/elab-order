@@ -514,9 +514,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 tsi	O
 Txhawb	O
 yus	O
@@ -524,9 +521,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 li	O
 lawm	O
 --	O
@@ -632,9 +626,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 los	O
 sis	O
 lus	O
@@ -687,9 +678,6 @@ muaj	B
 plaub	I
 muaj	I
 ntug	I
-plaub	O
-muaj	O
-ntug	O
 raws	O
 nws	O
 qib	O
@@ -785,9 +773,6 @@ muaj	B
 plaub	I
 muaj	I
 ntug	I
-plaub	O
-muaj	O
-ntug	O
 dab	O
 tsi	O
 .	O

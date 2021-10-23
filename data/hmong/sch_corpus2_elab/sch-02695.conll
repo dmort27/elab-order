@@ -105,9 +105,6 @@ khwv	B
 nyiaj	I
 khwv	I
 txiaj	I
-nyiaj	O
-khwv	O
-txiaj	O
 los	O
 hmoob	O
 qav	O
@@ -126,9 +123,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 los	O
 hmoob	O
 qav	O
@@ -249,9 +243,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 los	O
 yog	O
 tej	O
@@ -259,9 +250,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 kuj	O
 yuav	O
 ua	O
@@ -820,9 +808,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 npaum	O
 twg	O
 los	O

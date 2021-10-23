@@ -1621,9 +1621,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 los	O
 nyaj	O
 yuav	O
@@ -2286,9 +2283,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 xwb	O
 puas	O
 yog	O
@@ -2341,9 +2335,6 @@ nruab	B
 huab	I
 nruab	I
 cua	I
-huab	O
-nruab	O
-cua	O
 no	O
 .	O
 

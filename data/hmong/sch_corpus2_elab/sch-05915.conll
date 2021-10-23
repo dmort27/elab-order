@@ -834,9 +834,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 .	O
 
 
@@ -2106,9 +2103,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 .	O
 
 
@@ -2186,9 +2180,6 @@ kav	B
 teb	I
 kav	I
 chaw	I
-teb	O
-kav	O
-chaw	O
 lawm	O
 mas	O
 thiab	O
@@ -2364,9 +2355,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 ntiav	O
 nyiaj	O

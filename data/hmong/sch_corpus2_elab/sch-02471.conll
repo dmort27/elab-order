@@ -255,18 +255,12 @@ ntees	B
 ploj	I
 ntees	I
 tuag	I
-ploj	O
-ntees	O
-tuag	O
 ,	O
 kev	O
 ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 tibyam	O
 li	O
 qub	O
@@ -450,9 +444,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 lawm	O
 .	O
 
@@ -725,9 +716,6 @@ yus	B
 dab	I
 yus	I
 qhua	I
-dab	O
-yus	O
-qhua	O
 ces	O
 tsi	O
 pub	O
@@ -845,9 +833,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 lawm	O
 ,	O
 hos	O
@@ -1117,17 +1102,11 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 ,	O
 tua	B
 tsiaj	I
 tua	I
 txhuv	I
-tsiaj	O
-tua	O
-txhuv	O
 ,	O
 hu	O
 plig	O
@@ -1146,9 +1125,6 @@ ua	B
 qeej	I
 ua	I
 nruas	I
-qeej	O
-ua	O
-nruas	O
 ,	O
 pam	O
 neeg	O
@@ -1684,9 +1660,6 @@ hwm	B
 niam	I
 hwm	I
 txiv	I
-niam	O
-hwm	O
-txiv	O
 no	O
 mas	O
 koj	O
@@ -1735,9 +1708,6 @@ hwm	B
 niam	I
 hwm	I
 txiv	I
-niam	O
-hwm	O
-txiv	O
 ces	O
 muaj	O
 txim	O
@@ -1750,9 +1720,6 @@ hwm	B
 niam	I
 hwm	I
 txiv	I
-niam	O
-hwm	O
-txiv	O
 ces	O
 tam	O
 tsis	O

@@ -96,9 +96,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 ,	O
 nws	O
 yeej	O
@@ -184,18 +181,12 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 kev	O
 nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 vim	O
 tias	O
 txhua	O
@@ -214,9 +205,6 @@ muaj	B
 pab	I
 muaj	I
 pawg	I
-pab	O
-muaj	O
-pawg	O
 ,	O
 nyias	O
 yeej	O
@@ -232,9 +220,6 @@ nws	B
 pab	I
 nws	I
 pawg	I
-pab	O
-nws	O
-pawg	O
 .	O
 
 
@@ -302,9 +287,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 thiab	O
 lawv	O
 tsis	O
@@ -363,9 +345,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 peb	O
 yeej	O
 ua	O

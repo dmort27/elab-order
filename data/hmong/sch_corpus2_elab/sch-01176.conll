@@ -7,9 +7,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ,	O
 Kuv	O
 hnug	O
@@ -532,9 +529,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 .	O
 
 
@@ -802,9 +796,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 yeej	O
 tsis	O
 muaj	O
@@ -1632,9 +1623,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 .	O
 
 
@@ -2041,9 +2029,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 yeej	O
 tsis	O
 muaj	O

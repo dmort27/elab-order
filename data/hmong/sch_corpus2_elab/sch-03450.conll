@@ -519,9 +519,6 @@ raug	B
 kev	I
 raug	I
 cai	I
-kev	O
-raug	O
-cai	O
 ,	O
 tsis	O
 txhob	O
@@ -710,9 +707,6 @@ txhiam	B
 laj	I
 txhiam	I
 xwm	I
-laj	O
-txhiam	O
-xwm	O
 txhaum	O
 cai	O
 li	O
@@ -1030,9 +1024,6 @@ ua	B
 loj	I
 ua	I
 lug	I
-loj	O
-ua	O
-lug	O
 nrhiav	O
 kom	O
 tau	O
@@ -1060,9 +1051,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 li	O
 .	O
 
@@ -2094,9 +2082,6 @@ me	B
 tes	I
 me	I
 taw	I
-tes	O
-me	O
-taw	O
 ...	O
 lwm	O
 yam	O
@@ -2174,9 +2159,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 ..	O
 yeeb	O
 ,	O
@@ -2231,9 +2213,6 @@ puas	B
 tsav	I
 puas	I
 yam	I
-tsav	O
-puas	O
-yam	O
 ,	O
 ua	O
 DR	O

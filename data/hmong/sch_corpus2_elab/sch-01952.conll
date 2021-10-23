@@ -99,9 +99,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 ua	O
 tshoob	O
 ua	O
@@ -163,9 +160,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 .	O
 
 
@@ -556,9 +550,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 .	O
 
 
@@ -584,9 +575,6 @@ tam	B
 niam	I
 tam	I
 txiv	I
-niam	O
-tam	O
-txiv	O
 ,	O
 niamtxiv	O
 tam	O
@@ -695,9 +683,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ...	O
 mas	O
 ntshe	O
@@ -725,9 +710,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 tau	O
 nawb	O
 .	O
@@ -775,9 +757,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 tseem	O
 muaj	O
 lub	O
@@ -1100,9 +1079,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 ,	O
 kuj	O
 tsis	O
@@ -1295,9 +1271,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 tsis	O
 siv	O
 sijhawm	O
@@ -1536,16 +1509,10 @@ tau	B
 kwv	I
 tau	I
 tij	I
-kwv	O
-tau	O
-tij	O
 tau	B
 neej	I
 tau	I
 tsav	I
-neej	O
-tau	O
-tsav	O
 ,	O
 tau	O
 ib	O
@@ -1608,9 +1575,6 @@ muaj	B
 plaub	I
 muaj	I
 ntug	I
-plaub	O
-muaj	O
-ntug	O
 ua	O
 ,	O
 li	O
@@ -1982,9 +1946,6 @@ kev	B
 pluj	I
 kev	I
 tuag	I
-pluj	O
-kev	O
-tuag	O
 ,	O
 muaj	O
 1	O

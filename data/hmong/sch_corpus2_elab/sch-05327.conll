@@ -109,9 +109,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 .	O
 
 
@@ -226,9 +223,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 ,	O
 thaum	O
 noj	O
@@ -258,9 +252,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 rov	O
 taw	O
 tuam	O
@@ -702,9 +693,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 los	O
 ,	O
 yog	O

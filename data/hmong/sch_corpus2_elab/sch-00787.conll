@@ -1575,9 +1575,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 .	O
 
 
@@ -1623,9 +1620,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 .	O
 
 
@@ -4778,9 +4772,6 @@ txheeb	B
 nuj	I
 txheeb	I
 nqi	I
-nuj	O
-txheeb	O
-nqi	O
 tsuas	O
 yog	O
 tsis	O

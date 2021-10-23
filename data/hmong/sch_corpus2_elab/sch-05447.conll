@@ -1100,9 +1100,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 coob	O
 tas	O
 npaud	O
@@ -1414,9 +1411,6 @@ ua	B
 paab	I
 ua	I
 pawg	I
-paab	O
-ua	O
-pawg	O
 na	O
 .	O
 

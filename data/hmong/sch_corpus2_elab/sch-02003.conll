@@ -126,9 +126,6 @@ ua	B
 kwv	I
 ua	I
 tij	I
-kwv	O
-ua	O
-tij	O
 vim	O
 lawv	O
 tias	O
@@ -187,9 +184,6 @@ lav	B
 tshoob	I
 lav	I
 kos	I
-tshoob	O
-lav	O
-kos	O
 yog	O
 kev	O
 dag	O
@@ -679,9 +673,6 @@ kho	B
 neej	I
 kho	I
 tsav	I
-neej	O
-kho	O
-tsav	O
 no	O
 mas	O
 thiaj	O
@@ -716,9 +707,6 @@ kho	B
 neej	I
 kho	I
 tsav	I
-neej	O
-kho	O
-tsav	O
 no	O
 mas	O
 thiaj	O
@@ -749,9 +737,6 @@ lav	B
 tshoob	I
 lav	I
 kos	I
-tshoob	O
-lav	O
-kos	O
 tog	O
 tub	O
 mas	O
@@ -842,9 +827,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 ntawd	O
 cov	O
 neej	O
@@ -978,9 +960,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 Hmoob	O
 laus	O
 no	O
@@ -1140,9 +1119,6 @@ laug	B
 hnub	I
 laug	I
 hmo	I
-hnub	O
-laug	O
-hmo	O
 xwb	O
 tiag	O
 laud	O

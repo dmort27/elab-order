@@ -301,9 +301,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 xwb	O
 es	O
 yuav	O
@@ -724,9 +721,6 @@ vuag	B
 ub	I
 vuag	I
 no	I
-ub	O
-vuag	O
-no	O
 los	O
 rau	O
 yus	O
@@ -865,9 +859,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 .	O
 
 
@@ -1165,9 +1156,6 @@ lus	B
 xaiv	I
 lus	I
 ncua	I
-xaiv	O
-lus	O
-ncua	O
 los	O
 hais	O
 ,	O

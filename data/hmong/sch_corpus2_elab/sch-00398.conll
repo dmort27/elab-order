@@ -405,9 +405,6 @@ roob	B
 nqeeb	I
 roob	I
 tauj	I
-nqeeb	O
-roob	O
-tauj	O
 .	O
 
 
@@ -2163,9 +2160,6 @@ roob	B
 nqeeb	I
 roob	I
 tauj	I
-nqeeb	O
-roob	O
-tauj	O
 .	O
 
 
@@ -3355,9 +3349,6 @@ pom	B
 ub	I
 pom	I
 no	I
-ub	O
-pom	O
-no	O
 ,	O
 pom	O
 tej	O

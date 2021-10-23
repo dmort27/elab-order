@@ -356,9 +356,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 yeej	O
 tso	O
 cai	O
@@ -514,9 +511,6 @@ rau	B
 noj	I
 rau	I
 haus	I
-noj	O
-rau	O
-haus	O
 nas	O
 .	O
 
@@ -891,9 +885,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 xwb	O
 maj	O
 ...	O
@@ -1369,9 +1360,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 tau	O
 tuaj	O
 moog	O
@@ -1394,9 +1382,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 le	O
 luag	O
 lwm	O

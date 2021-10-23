@@ -69,9 +69,6 @@ kev	B
 pluj	I
 kev	I
 tuag	I
-pluj	O
-kev	O
-tuag	O
 ,	O
 hab	O
 kev	O
@@ -101,9 +98,6 @@ sib	B
 caav	I
 sib	I
 tshe	I
-caav	O
-sib	O
-tshe	O
 xwb	O
 es	O
 tsi	O
@@ -516,9 +510,6 @@ taag	B
 zaaj	I
 taag	I
 zug	I
-zaaj	O
-taag	O
-zug	O
 rua	O
 nyag	O
 qhov	O
@@ -1788,9 +1779,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 hab	O
 ua	O
 ib	O
@@ -1854,9 +1842,6 @@ kev	B
 lag	I
 kev	I
 luam	I
-lag	O
-kev	O
-luam	O
 los	O
 cuam	O
 tshuam	O

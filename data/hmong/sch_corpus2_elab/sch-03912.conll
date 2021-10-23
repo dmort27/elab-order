@@ -399,9 +399,6 @@ tau	B
 qoob	I
 tau	I
 loo	I
-qoob	O
-tau	O
-loo	O
 tshiab	O
 thiab	O
 ua	O
@@ -459,9 +456,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 .	O
 
 
@@ -476,9 +470,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 .	O
 
 
@@ -545,9 +536,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 es	O
 suav	O
 dlawg	O
@@ -669,9 +657,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 li	O
 nej	O
 twb	O
@@ -720,9 +705,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 even	O
 tias	O
 Vajtswv	O
@@ -749,9 +731,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 lawm	O
 ,	O
 coob	O
@@ -783,9 +762,6 @@ cog	B
 qoob	I
 cog	I
 loo	I
-qoob	O
-cog	O
-loo	O
 ,	O
 yog	O
 qhab	O
@@ -876,9 +852,6 @@ dab	B
 teb	I
 dab	I
 chaw	I
-teb	O
-dab	O
-chaw	O
 tsaug	O
 ,	O
 ua	O
@@ -886,9 +859,6 @@ dab	B
 niam	I
 dab	I
 txiv	I
-niam	O
-dab	O
-txiv	O
 dab	O
 nceg	O
 tas	O

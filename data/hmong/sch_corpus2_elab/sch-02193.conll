@@ -330,9 +330,6 @@ paub	B
 siab	I
 paub	I
 nqi	I
-siab	O
-paub	O
-nqi	O
 li	O
 koj	O
 lub	O
@@ -736,9 +733,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 ,	O
 ces	O
 SY	O
@@ -1310,9 +1304,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -1923,9 +1914,6 @@ ua	B
 dlog	I
 ua	I
 dlig	I
-dlog	O
-ua	O
-dlig	O
 rua	O
 SY	O
 xwb	O
@@ -2306,9 +2294,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 mas	O
 thiaj	O
 yuav	O

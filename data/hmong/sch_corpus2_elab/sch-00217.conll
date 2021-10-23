@@ -1279,9 +1279,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ses	O
 khaum	O
 koj	O
@@ -1351,9 +1348,6 @@ yuav	B
 koob	I
 yuav	I
 npe	I
-koob	O
-yuav	O
-npe	O
 xwb	O
 laiv	O
 .	O
@@ -1557,9 +1551,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 tshwm	O
 sim	O
 tsis	O
@@ -1620,9 +1611,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 lawm	O
 nawb	O
 .	O

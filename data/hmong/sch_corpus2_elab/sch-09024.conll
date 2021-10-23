@@ -91,9 +91,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 nyob	O
 nroog	O
 loj	O
@@ -985,9 +982,6 @@ muaj	B
 qab	I
 muaj	I
 tsuag	I
-qab	O
-muaj	O
-tsuag	O
 sibfaib	O
 noj	O
 ,	O
@@ -1351,17 +1345,11 @@ ua	B
 vaj	I
 ua	I
 tsev	I
-vaj	O
-ua	O
-tsev	O
 rau	O
 tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 nyob	O
 mas	O
 thiaj	O
@@ -1779,9 +1767,6 @@ tus	B
 neej	I
 tus	I
 tsav	I
-neej	O
-tus	O
-tsav	O
 twg	O
 lawm	O
 ?	O
@@ -1857,9 +1842,6 @@ tau	B
 teb	I
 tau	I
 chaw	I
-teb	O
-tau	O
-chaw	O
 rau	O
 peb	O
 nyob	O

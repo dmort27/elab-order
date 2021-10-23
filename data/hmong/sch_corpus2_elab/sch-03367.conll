@@ -596,9 +596,6 @@ nej	B
 niam	I
 nej	I
 txiv	I
-niam	O
-nej	O
-txiv	O
 puas	O
 tos	O
 tos	O
@@ -1009,9 +1006,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 ua	O
 cas	O
 tsis	O
@@ -1176,9 +1170,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 ,	O
 nws	O
 kuj	O
@@ -1187,9 +1178,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 --	O
 tabsi	O
 ua	O
@@ -1322,9 +1310,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 es	O
 kom	O
 sawvdaws	O

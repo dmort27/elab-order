@@ -99,9 +99,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 (	O
 culture	O
 )	O
@@ -126,9 +123,6 @@ yaam	B
 ub	I
 yaam	I
 nua	I
-ub	O
-yaam	O
-nua	O
 kuam	O
 moob	O
 tej	O
@@ -189,9 +183,6 @@ yaam	B
 ub	I
 yaam	I
 nua	I
-ub	O
-yaam	O
-nua	O
 tseem-tseem	O
 ceeb	O
 huv	O
@@ -220,9 +211,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 yeej	O
 sib	O
 yuav	O
@@ -289,9 +277,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 tsi	O
 coj	O
 le	O
@@ -445,9 +430,6 @@ raug	B
 kev	I
 raug	I
 cai	I
-kev	O
-raug	O
-cai	O
 peb	O
 mam	O
 le	O
@@ -891,9 +873,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 mas	O
 peb	O
 as	O
@@ -1006,9 +985,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 le	O
 cov	O
 rabbi	O
@@ -1426,9 +1402,6 @@ tej	B
 nam	I
 tej	I
 txiv	I
-nam	O
-tej	O
-txiv	O
 rid	O
 .	O
 
@@ -1540,9 +1513,6 @@ neeg	B
 txwj	I
 neeg	I
 laug	I
-txwj	O
-neeg	O
-laug	O
 kws	O
 tub	O
 tuaj	O
@@ -1583,9 +1553,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 coj	O
 lug	O
 hloov	O
@@ -2103,9 +2070,6 @@ nqi	B
 mis	I
 nqi	I
 hno	I
-mis	O
-nqi	O
-hno	O
 rau	O
 nam	O
 hab	O

@@ -188,9 +188,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 mog	O
 .	O
 
@@ -484,9 +481,6 @@ raws	B
 kev	I
 raws	I
 cai	I
-kev	O
-raws	O
-cai	O
 thiab	O
 thiaj	O
 li	O
@@ -540,9 +534,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 .	O
 
 
@@ -2512,9 +2503,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hais	O
 tias	O
 hluas	O
@@ -2782,9 +2770,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hais	O
 xwb	O
 ces	O
@@ -2913,9 +2898,6 @@ raws	B
 kev	I
 raws	I
 cai	I
-kev	O
-raws	O
-cai	O
 thiab	O
 tau	O
 raug	O
@@ -3417,9 +3399,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 .	O
 
 
@@ -3507,9 +3486,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 lawm	O
 kuv	O
 mam	O
@@ -3740,9 +3716,6 @@ raws	B
 kev	I
 raws	I
 cai	I
-kev	O
-raws	O
-cai	O
 thiab	O
 cov	O
 lus	O
@@ -5755,9 +5728,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 thiaj	O
 li	O
 muaj	O
@@ -5942,9 +5912,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 mam	O
 hais	O
 .	O
@@ -6068,9 +6035,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 hauv	O
 tsev	O
 neeg	O
@@ -6447,9 +6411,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 sib	O
 hais	O
 kiag	O
@@ -6708,9 +6669,6 @@ muab	B
 ub	I
 muab	I
 no	I
-ub	O
-muab	O
-no	O
 coj	O
 los	O
 ua	O
@@ -7483,9 +7441,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 hu	O
 tuaj	O
 rau	O
@@ -8640,9 +8595,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 los	O
 keb	O
 tuas	O
@@ -8815,9 +8767,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 lawm	O
 ,	O
 colonel	O

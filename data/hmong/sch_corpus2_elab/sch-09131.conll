@@ -36,9 +36,6 @@ has	B
 txhij	I
 has	I
 txhua	I
-txhij	O
-has	O
-txhua	O
 .	O
 
 
@@ -189,9 +186,6 @@ khwv	B
 ciaj	I
 khwv	I
 tuag	I
-ciaj	O
-khwv	O
-tuag	O
 ua	O
 luaj	O
 no	O
@@ -470,9 +464,6 @@ yam	B
 ub	I
 yam	I
 no	I
-ub	O
-yam	O
-no	O
 xwb	O
 ces	O
 yeej	O

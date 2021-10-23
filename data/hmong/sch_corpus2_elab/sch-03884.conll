@@ -65,9 +65,6 @@ cov	B
 tub	I
 cov	I
 kiv	I
-tub	O
-cov	O
-kiv	O
 yuav	O
 los	O
 thov	O
@@ -603,9 +600,6 @@ qhua	B
 num	I
 qhua	I
 tswv	I
-num	O
-qhua	O
-tswv	O
 (	O
 if	O
 ua	O
@@ -678,9 +672,6 @@ cov	B
 tub	I
 cov	I
 kiv	I
-tub	O
-cov	O
-kiv	O
 yuav	O
 mus	O
 pib	O
@@ -694,9 +685,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 ,	O
 yuav	O
 mus	O
@@ -704,9 +692,6 @@ ua	B
 qav	I
 ua	I
 num	I
-qav	O
-ua	O
-num	O
 ...	O
 etc	O
 ......	O
@@ -721,9 +706,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 ib	O
 tus	O
 sawm	O
@@ -751,9 +733,6 @@ plig	B
 nyiaj	I
 plig	I
 kub	I
-nyiaj	O
-plig	O
-kub	O
 ,	O
 plig	O
 maj	O
@@ -1441,9 +1420,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 ...	O
 koj	O
 muab	O

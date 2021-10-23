@@ -363,9 +363,6 @@ kwv	B
 yaig	I
 kwv	I
 luag	I
-yaig	O
-kwv	O
-luag	O
 ua	O
 ke	O
 .	O
@@ -394,9 +391,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 .	O
 
 
@@ -471,9 +465,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 rua	O
 Moob	O
 ua	O
@@ -538,9 +529,6 @@ kwv	B
 rag	I
 kwv	I
 phom	I
-rag	O
-kwv	O
-phom	O
 tawm	O
 tsaam	O
 tua	O
@@ -1757,9 +1745,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 thiab	O
 maj	O
 mam	O
@@ -1801,9 +1786,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 tuag	O
 tshaib	O
@@ -2373,9 +2355,6 @@ tsi	B
 mus	I
 tsi	I
 los	I
-mus	O
-tsi	O
-los	O
 vim	O
 koj	O
 niag	O

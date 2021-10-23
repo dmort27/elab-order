@@ -269,9 +269,6 @@ kev	B
 lag	I
 kev	I
 luam	I
-lag	O
-kev	O
-luam	O
 kom	O
 dav	O
 dua	O
@@ -897,9 +894,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 li	O
 cas	O
 thiab	O
@@ -1609,9 +1603,6 @@ lub	B
 nkaub	I
 lub	I
 ntsiab	I
-nkaub	O
-lub	O
-ntsiab	O
 uas	O
 nplog	O
 ua	O
@@ -1653,9 +1644,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ,	O
 txhim	O
 kho	O
@@ -1804,9 +1792,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 hauv	O
 TwinCity	O
 no	O
@@ -2890,9 +2875,6 @@ tsi	B
 deb	I
 tsi	I
 ze	I
-deb	O
-tsi	O
-ze	O
 ntawd	O
 ntag	O
 ,	O
@@ -3596,9 +3578,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 kom	O
 nws	O
 dim	O
@@ -3861,9 +3840,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ntawm	O
 cov	O
 niag	O

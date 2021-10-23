@@ -56,9 +56,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 yeej	O
 yug	O
 tau	O
@@ -67,9 +64,6 @@ zoo	B
 ntsej	I
 zoo	I
 muag	I
-ntsej	O
-zoo	O
-muag	O
 .	O
 
 

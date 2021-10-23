@@ -576,9 +576,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 yav	O
 tom	O
 ntej	O
@@ -969,9 +966,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 mas	O
 tsis	O
 muaj	O
@@ -1581,9 +1575,6 @@ ua	B
 dej	I
 ua	I
 num	I
-dej	O
-ua	O
-num	O
 yus	O
 tseem	O
 yuav	O
@@ -1611,9 +1602,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 tiag	O
 ,	O
 tiag	O

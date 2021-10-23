@@ -693,9 +693,6 @@ thawm	B
 niaj	I
 thawm	I
 xyoo	I
-niaj	O
-thawm	O
-xyoo	O
 .	O
 
 
@@ -2229,9 +2226,6 @@ thov	B
 ntuj	I
 thov	I
 teb	I
-ntuj	O
-thov	O
-teb	O
 thiaj	O
 tsis	O
 yog	O
@@ -2266,9 +2260,6 @@ thov	B
 ntuj	I
 thov	I
 teb	I
-ntuj	O
-thov	O
-teb	O
 mas	O
 yog	O
 zoo	O
@@ -3966,9 +3957,6 @@ yuav	B
 quaj	I
 yuav	I
 qw	I
-quaj	O
-yuav	O
-qw	O
 los	O
 tsam	O
 nrov	O
@@ -4327,9 +4315,6 @@ yog	B
 txheeb	I
 yog	I
 ze	I
-txheeb	O
-yog	O
-ze	O
 ,	O
 ua	O
 zoo	O
@@ -4488,9 +4473,6 @@ kom	B
 yeej	I
 kom	I
 swb	I
-yeej	O
-kom	O
-swb	O
 nav	O
 ,	O
 luag	O

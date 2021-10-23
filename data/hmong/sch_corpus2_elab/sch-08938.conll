@@ -463,9 +463,6 @@ ntsis	B
 ntaj	I
 ntsis	I
 phom	I
-ntaj	O
-ntsis	O
-phom	O
 ....	O
 So	O
 who	O
@@ -490,9 +487,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 los	O
 dag	O
 lawv	O
@@ -736,9 +730,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 ,	O
 tu	O
 txiaj	O
@@ -756,9 +747,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 los	O
 nrog	O
 luag	O
@@ -766,9 +754,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 kav	O
 lub	O
 teb	O
@@ -2119,9 +2104,6 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 mus	O
 them	O
 xwb	O
@@ -2190,9 +2172,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ntau	O
 ces	O
 kuv	O
@@ -2811,9 +2790,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 

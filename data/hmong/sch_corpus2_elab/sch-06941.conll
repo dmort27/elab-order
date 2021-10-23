@@ -398,9 +398,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 xwb	O
 .	O
 
@@ -575,9 +572,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 (	O
 nyuj	O
 dab	O
@@ -628,17 +622,11 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 ,	O
 ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 raws	O
 yus	O
 kev	O
@@ -683,9 +671,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 uas	O
 yog	O
 cov	O

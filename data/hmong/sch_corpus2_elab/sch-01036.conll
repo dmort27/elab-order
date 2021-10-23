@@ -653,9 +653,6 @@ sib	B
 ntsib	I
 sib	I
 tham	I
-ntsib	O
-sib	O
-tham	O
 ces	O
 xyu	O
 xyu	O
@@ -829,9 +826,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -2074,9 +2068,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 ntawm	O
 yus	O
 rau	O
@@ -2570,9 +2561,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 ntawm	O
 yus	O
 rau	O

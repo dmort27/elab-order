@@ -128,9 +128,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 txawm	O
 yuav	O
 mus	O
@@ -284,16 +281,10 @@ koj	B
 ntsuj	I
 koj	I
 plig	I
-ntsuj	O
-koj	O
-plig	O
 mus	B
 cuab	I
 mus	I
 khi	I
-cuab	O
-mus	O
-khi	O
 lawm	O
 los	O
 cia	O
@@ -389,9 +380,6 @@ tshuav	B
 niam	I
 tshuav	I
 txiv	I
-niam	O
-tshuav	O
-txiv	O
 .	O
 
 
@@ -433,9 +421,6 @@ tsi	B
 txhij	I
 tsi	I
 txhua	I
-txhij	O
-tsi	O
-txhua	O
 .	O
 
 

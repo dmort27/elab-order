@@ -50,9 +50,6 @@ tsi	B
 moog	I
 tsi	I
 lug	I
-moog	O
-tsi	O
-lug	O
 .	O
 
 
@@ -260,9 +257,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 neeg	O
 mas	O
 .	O
@@ -836,9 +830,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 kawg	O
 li	O
 tab	O
@@ -1161,9 +1152,6 @@ qub	B
 phooj	I
 qub	I
 ywg	I
-phooj	O
-qub	O
-ywg	O
 thiaj	O
 sib	O
 pab	O

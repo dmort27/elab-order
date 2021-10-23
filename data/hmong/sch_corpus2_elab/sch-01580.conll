@@ -311,9 +311,6 @@ zoo	B
 siab	I
 zoo	I
 plawv	I
-siab	O
-zoo	O
-plawv	O
 .	O
 
 
@@ -4908,9 +4905,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 rua	O
 cov	O
 pej	O
@@ -4924,9 +4918,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 ,	O
 kom	O
 luas	O
@@ -4987,9 +4978,6 @@ taag	B
 zaaj	I
 taag	I
 zug	I
-zaaj	O
-taag	O
-zug	O
 le	O
 .	O
 
@@ -5649,9 +5637,6 @@ puv	B
 ntuj	I
 puv	I
 teb	I
-ntuj	O
-puv	O
-teb	O
 lawm	O
 .	O
 
@@ -5664,9 +5649,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 los	O
 --	O
 lawv	O

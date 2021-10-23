@@ -400,9 +400,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 ,	O
 hais	O
 lus	O
@@ -683,9 +680,6 @@ hau	B
 zej	I
 hau	I
 zos	I
-zej	O
-hau	O
-zos	O
 ,	O
 tsam	O
 leej	O
@@ -700,9 +694,6 @@ tsim	B
 teev	I
 tsim	I
 tsi	I
-teev	O
-tsim	O
-tsi	O
 .	O
 
 
@@ -734,9 +725,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 li	O
 tej	O
 ntawd	O

@@ -848,9 +848,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 lwm	O
 xyoo	O
@@ -1566,9 +1563,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 ,	O
 tswj	O
 xeeb	O
@@ -1811,9 +1805,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ntxias	O
 tsam	O
 mag	O

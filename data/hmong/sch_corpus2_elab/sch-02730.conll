@@ -228,9 +228,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 lawm	O
 xwb	O
 .	O
@@ -389,9 +386,6 @@ kev	B
 phem	I
 kev	I
 qias	I
-phem	O
-kev	O
-qias	O
 ,	O
 kev	O
 sib	O
@@ -403,9 +397,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ,	O
 etc	O
 ..	O
@@ -1050,9 +1041,6 @@ lwm	B
 leej	I
 lwm	I
 tug	I
-leej	O
-lwm	O
-tug	O
 .	O
 
 
@@ -1305,9 +1293,6 @@ lwm	B
 leej	I
 lwm	I
 tug	I
-leej	O
-lwm	O
-tug	O
 .	O
 
 

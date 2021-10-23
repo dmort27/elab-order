@@ -233,9 +233,6 @@ yuav	B
 poj	I
 yuav	I
 sev	I
-poj	O
-yuav	O
-sev	O
 coobX	O
 ,	O
 thaum	O
@@ -836,9 +833,6 @@ muag	B
 vaj	I
 muag	I
 tsev	I
-vaj	O
-muag	O
-tsev	O
 thiab	O
 .	O
 
@@ -964,9 +958,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 .	O
 
 
@@ -1180,9 +1171,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 rau	O
 nej	O
 .	O
@@ -1205,9 +1193,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 ntawv	O
 od	O
 .	O
@@ -1218,9 +1203,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 yuav	O
 raug	O
 felony	O
@@ -1450,9 +1432,6 @@ tsheej	B
 phab	I
 tsheej	I
 pheev	I
-phab	O
-tsheej	O
-pheev	O
 rau	O
 ntej	O
 teb	O

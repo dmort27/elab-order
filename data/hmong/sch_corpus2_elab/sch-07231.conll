@@ -481,9 +481,6 @@ nws	B
 dej	I
 nws	I
 num	I
-dej	O
-nws	O
-num	O
 .	O
 
 
@@ -1083,9 +1080,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 xwb	O
 thaum	O
 kawg	O
@@ -1214,9 +1208,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 nej	O
 cov	O
 hauv	O
@@ -2261,9 +2252,6 @@ qhov	B
 ntsej	I
 qhov	I
 ntswg	I
-ntsej	O
-qhov	O
-ntswg	O
 txhaws	O
 tag	O
 -	O
@@ -2545,9 +2533,6 @@ peem	B
 ciaj	I
 peem	I
 tuag	I
-ciaj	O
-peem	O
-tuag	O
 saib	O
 tuaj	O
 mus	O
@@ -2670,9 +2655,6 @@ tub	B
 ntsoj	I
 tub	I
 ntsuag	I
-ntsoj	O
-tub	O
-ntsuag	O
 los	O
 zoo	O
 ib	O
@@ -3010,9 +2992,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 .	O
 
 
@@ -3500,9 +3479,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 tab	O
 sis	O
 tsis	O
@@ -4159,9 +4135,6 @@ keb	B
 ub	I
 keb	I
 no	I
-ub	O
-keb	O
-no	O
 lawm	O
 xwb	O
 las	O
@@ -4660,9 +4633,6 @@ pab	B
 ub	I
 pab	I
 no	I
-ub	O
-pab	O
-no	O
 thiab	O
 nas	O
 ?	O

@@ -321,9 +321,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 kom	O
 Hmoob	O
 tau	O
@@ -754,9 +751,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 thiab	O
 lub	O
 niam	O
@@ -2082,9 +2076,6 @@ yoog	B
 roj	I
 yoog	I
 ntshav	I
-roj	O
-yoog	O
-ntshav	O
 nos	O
 ,	O
 yeej	O
@@ -2230,9 +2221,6 @@ hmoob	B
 teej	I
 hmoob	I
 tug	I
-teej	O
-hmoob	O
-tug	O
 yam	O
 tsis	O
 paub	O
@@ -2265,9 +2253,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 pab	O
 kom	O
 Hmoob	O

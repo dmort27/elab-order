@@ -254,9 +254,6 @@ ua	B
 kab	I
 ua	I
 kev	I
-kab	O
-ua	O
-kev	O
 cuag	O
 li	O
 ``	O
@@ -363,9 +360,6 @@ nyias	B
 vaj	I
 nyias	I
 tsev	I
-vaj	O
-nyias	O
-tsev	O
 lawm	O
 xwb	O
 .	O
@@ -392,9 +386,6 @@ tsheej	B
 zej	I
 tsheej	I
 zog	I
-zej	O
-tsheej	O
-zog	O
 ces	O
 cias	O
 li	O
@@ -586,9 +577,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 ua	O
 cov	O
 ua	O
@@ -771,9 +759,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 xwb	O
 ,	O
 yuav	O
@@ -789,9 +774,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 mas	O
 thiaj	O
 li	O
@@ -1877,9 +1859,6 @@ mus	B
 vaj	I
 mus	I
 tsev	I
-vaj	O
-mus	O
-tsev	O
 ,	O
 khiav	O
 mus	O
@@ -2358,9 +2337,6 @@ mus	B
 vaj	I
 mus	I
 tsev	I
-vaj	O
-mus	O
-tsev	O
 ntawv	O
 ces	O
 txawm	O
@@ -2437,9 +2413,6 @@ nyias	B
 vaj	I
 nyias	I
 tsev	I
-vaj	O
-nyias	O
-tsev	O
 ntag	O
 ,	O
 ces	O
@@ -2510,9 +2483,6 @@ tim	B
 vaj	I
 tim	I
 tsev	I
-vaj	O
-tim	O
-tsev	O
 lawm	O
 ntag	O
 os	O
@@ -2630,9 +2600,6 @@ mus	B
 vaj	I
 mus	I
 tsev	I
-vaj	O
-mus	O
-tsev	O
 duas	O
 xwb	O
 ,	O
@@ -2981,9 +2948,6 @@ kawg	B
 siab	I
 kawg	I
 ntsws	I
-siab	O
-kawg	O
-ntsws	O
 with	O
 tough	O
 questions	O
@@ -3137,9 +3101,6 @@ mus	B
 vaj	I
 mus	I
 tsev	I
-vaj	O
-mus	O
-tsev	O
 ,	O
 pajtaub	O
 ntsiag	O
@@ -3473,9 +3434,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hais	O
 xwb	O
 ces	O
@@ -3750,9 +3708,6 @@ tsis	B
 mus	I
 tsis	I
 los	I
-mus	O
-tsis	O
-los	O
 ces	O
 lawv	O
 kuj	O
@@ -3820,9 +3775,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 kuj	O
 ua	O
 nyaum	O
@@ -3879,9 +3831,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 no	O
 lawm	O
 .	O
@@ -4140,9 +4089,6 @@ mus	B
 vaj	I
 mus	I
 tsev	I
-vaj	O
-mus	O
-tsev	O
 thiab	O
 walk	O
 rov	O

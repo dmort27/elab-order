@@ -1344,9 +1344,6 @@ muaj	B
 txhij	I
 muaj	I
 txhua	I
-txhij	O
-muaj	O
-txhua	O
 yus	O
 ua	O
 siab	O
@@ -2268,9 +2265,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 tas	O
 kom	O
 yog	O
@@ -2504,9 +2498,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 .	O
 
 
@@ -3998,9 +3989,6 @@ nyias	B
 pab	I
 nyias	I
 pawg	I
-pab	O
-nyias	O
-pawg	O
 .	O
 
 
@@ -4764,9 +4752,6 @@ txiv	B
 hlob	I
 txiv	I
 yau	I
-hlob	O
-txiv	O
-yau	O
 .	O
 
 
@@ -4781,9 +4766,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 xwb	O
 .	O
 
@@ -4801,9 +4783,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 no	O
 na	O
 .	O

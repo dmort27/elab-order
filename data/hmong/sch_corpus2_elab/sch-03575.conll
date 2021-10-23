@@ -582,9 +582,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 .	O
 
 
@@ -1484,9 +1481,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 raws	O
 li	O
 kev	O
@@ -1604,9 +1598,6 @@ qhov	B
 txhia	I
 qhov	I
 chaw	I
-txhia	O
-qhov	O
-chaw	O
 ...	O
 ces	O
 thaum	O

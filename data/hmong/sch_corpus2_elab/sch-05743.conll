@@ -2356,9 +2356,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 thiaj	O
 li	O
 tsis	O
@@ -2366,9 +2363,6 @@ kis	B
 toj	I
 kis	I
 pes	I
-toj	O
-kis	O
-pes	O
 .	O
 
 
@@ -2583,9 +2577,6 @@ tham	B
 mus	I
 tham	I
 los	I
-mus	O
-tham	O
-los	O
 ces	O
 nkawd	O
 txawm	O

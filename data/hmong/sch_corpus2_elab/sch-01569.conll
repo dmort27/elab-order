@@ -789,9 +789,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 ect	O
 ...	O
 NO	O
@@ -1012,9 +1009,6 @@ liam	B
 ub	I
 liam	I
 no	I
-ub	O
-liam	O
-no	O
 kom	O
 KUV	O
 tus	O
@@ -1469,9 +1463,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 tau	O
 nyaj	O
 noj	O
@@ -1671,9 +1662,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 ,	O
 tau	O
 ua	O
@@ -1923,9 +1911,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 ,	O
 kev	O
 nplua	O
@@ -2603,9 +2588,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 ,	O
 tabsi	O
 yog	O
@@ -3379,9 +3361,6 @@ tsis	B
 yog	I
 tsis	I
 zoo	I
-yog	O
-tsis	O
-zoo	O
 lawm	O
 ces	O
 lwm	O
@@ -3407,9 +3386,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 yuav	O
 ploj	O
 mus	O
@@ -4978,9 +4954,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 nkaus	O
 xwb	O
 .	O
@@ -7652,9 +7625,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 tabsi	O
 yus	O

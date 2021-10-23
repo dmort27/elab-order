@@ -1070,9 +1070,6 @@ luag	B
 poj	I
 luag	I
 sev	I
-poj	O
-luag	O
-sev	O
 li	O
 ;	O
 hos	O
@@ -1114,9 +1111,6 @@ luag	B
 poj	I
 luag	I
 sev	I
-poj	O
-luag	O
-sev	O
 puas	O
 muaj	O
 nuj	O
@@ -1193,17 +1187,11 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 ,	O
 tsoo	B
 vaj	I
 tsoo	I
 tsev	I
-vaj	O
-tsoo	O
-tsev	O
 ua	O
 niag	O
 vwm	O

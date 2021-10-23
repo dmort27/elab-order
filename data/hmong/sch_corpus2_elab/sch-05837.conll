@@ -524,9 +524,6 @@ ua	B
 rwj	I
 ua	I
 aws	I
-rwj	O
-ua	O
-aws	O
 rov	O
 rua	O
 yug	O
@@ -1235,9 +1232,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 .	O
 
 
@@ -2906,9 +2900,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 .	O
 
 
@@ -3879,9 +3870,6 @@ nqa	B
 riam	I
 nqa	I
 phom	I
-riam	O
-nqa	O
-phom	O
 tuaj	O
 quab	O
 yuam	O
@@ -3906,9 +3894,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ces	O
 cov	O
 tsis	O
@@ -3966,9 +3951,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 mav	O
 ?	O
 
@@ -4438,9 +4420,6 @@ nqi	B
 vaj	I
 nqi	I
 tsev	I
-vaj	O
-nqi	O
-tsev	O
 ,	O
 nqi	O
 fais	O
@@ -4625,9 +4604,6 @@ sis	B
 caav	I
 sis	I
 tshe	I
-caav	O
-sis	O
-tshe	O
 naj	O
 .	O
 
@@ -4680,9 +4656,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 luas	O
 tsi	O
 naj	O

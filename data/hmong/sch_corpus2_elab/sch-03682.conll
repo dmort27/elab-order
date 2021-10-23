@@ -35,9 +35,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 yuav	O
 teb	O
 li	O
@@ -255,17 +252,11 @@ nplog	B
 nom	I
 nplog	I
 tswv	I
-nom	O
-nplog	O
-tswv	O
 ,	O
 tswv	B
 teb	I
 tswv	I
 chaw	I
-teb	O
-tswv	O
-chaw	O
 tua	O
 tuag	O
 tas	O
@@ -297,9 +288,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 ntawd	O
 ,	O
 tsuas	O
@@ -797,9 +785,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 yuav	O
 teb	O
 li	O
@@ -1004,17 +989,11 @@ nplog	B
 nom	I
 nplog	I
 tswv	I
-nom	O
-nplog	O
-tswv	O
 ,	O
 tswv	B
 teb	I
 tswv	I
 chaw	I
-teb	O
-tswv	O
-chaw	O
 tua	O
 tuag	O
 tas	O
@@ -1046,9 +1025,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 ntawd	O
 ,	O
 tsuas	O
@@ -1353,9 +1329,6 @@ ib	B
 txhiab	I
 ib	I
 txhis	I
-txhiab	O
-ib	O
-txhis	O
 .	O
 
 
@@ -1621,9 +1594,6 @@ hloov	B
 nom	I
 hloov	I
 tswv	I
-nom	O
-hloov	O
-tswv	O
 tshiab	O
 los	O
 hlub	O
@@ -2029,9 +1999,6 @@ xaiv	B
 ntsej	I
 xaiv	I
 muag	I
-ntsej	O
-xaiv	O
-muag	O
 thiav	O
 limhiam	O
 rau	O
@@ -2614,9 +2581,6 @@ ib	B
 txhiab	I
 ib	I
 txhis	I
-txhiab	O
-ib	O
-txhis	O
 .	O
 
 
@@ -2882,9 +2846,6 @@ hloov	B
 nom	I
 hloov	I
 tswv	I
-nom	O
-hloov	O
-tswv	O
 tshiab	O
 los	O
 hlub	O

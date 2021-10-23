@@ -166,9 +166,6 @@ muaj	B
 cag	I
 muaj	I
 ceg	I
-cag	O
-muaj	O
-ceg	O
 thiab	O
 piav	O
 txog	O
@@ -560,9 +557,6 @@ tsis	B
 mob	I
 tsis	I
 khaus	I
-mob	O
-tsis	O
-khaus	O
 lawv	O
 tawv	O
 li	O
@@ -660,9 +654,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 thiab	O
 twb	O
 tawm	O
@@ -686,9 +677,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 .	O
 
 

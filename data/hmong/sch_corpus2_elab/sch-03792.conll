@@ -838,9 +838,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 ...	O
 e.g	O
 .	O
@@ -1504,9 +1501,6 @@ muaj	B
 qab	I
 muaj	I
 hau	I
-qab	O
-muaj	O
-hau	O
 os	O
 .	O
 
@@ -1772,9 +1766,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 xyaum	O
 hais	O
 lus	O
@@ -2175,9 +2166,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 .	O
 

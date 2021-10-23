@@ -761,9 +761,6 @@ txhaum	B
 kev	I
 txhaum	I
 cai	I
-kev	O
-txhaum	O
-cai	O
 lawm	O
 .	O
 
@@ -799,9 +796,6 @@ ua	B
 siv	I
 ua	I
 npog	I
-siv	O
-ua	O
-npog	O
 loj	O
 .	O
 

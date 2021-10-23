@@ -427,9 +427,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 lawd	O
 yeej	O
 tsis	O
@@ -1297,17 +1294,11 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 txawj	O
 xaiv	B
 ntsej	I
 xaiv	I
 muag	I
-ntsej	O
-xaiv	O
-muag	O
 thiab	O
 no	O
 ?	O

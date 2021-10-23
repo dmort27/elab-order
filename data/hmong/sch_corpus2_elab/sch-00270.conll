@@ -1215,9 +1215,6 @@ tshum	B
 ub	I
 tshum	I
 no	I
-ub	O
-tshum	O
-no	O
 es	O
 lam	O
 tshum	O
@@ -1441,17 +1438,11 @@ dab	B
 txeej	I
 dab	I
 qus	I
-txeej	O
-dab	O
-qus	O
 twb	O
 txeem	B
 vaj	I
 txeem	I
 tsev	I
-vaj	O
-txeem	O
-tsev	O
 tag	O
 ,	O
 mam	O
@@ -2621,9 +2612,6 @@ kaug	B
 ub	I
 kaug	I
 nuav	I
-ub	O
-kaug	O
-nuav	O
 hab	O
 laam	O
 muab	O
@@ -2634,9 +2622,6 @@ tug	B
 ub	I
 tug	I
 nuav	I
-ub	O
-tug	O
-nuav	O
 xwb	O
 ,	O
 kuv	O

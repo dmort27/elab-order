@@ -7,9 +7,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 xwb	O
 ua	O
 li	O
@@ -31,9 +28,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 hauv	O
 city	O
 kav	O

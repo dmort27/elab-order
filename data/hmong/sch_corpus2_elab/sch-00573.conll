@@ -187,9 +187,6 @@ poob	B
 teb	I
 poob	I
 chaw	I
-teb	O
-poob	O
-chaw	O
 txom	O
 nyem	O
 txaus	O
@@ -1002,9 +999,6 @@ sis	B
 ntau	I
 sis	I
 tua	I
-ntau	O
-sis	O
-tua	O
 ntawm	O
 qua	O
 puj	O
@@ -1251,9 +1245,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 mas	O
 tsis	O
 tau	O
@@ -1811,9 +1802,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 xwb	O
 tsis	O
 yog	O

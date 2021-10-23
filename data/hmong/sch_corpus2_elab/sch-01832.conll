@@ -318,9 +318,6 @@ ua	B
 dej	I
 ua	I
 num	I
-dej	O
-ua	O
-num	O
 uas	O
 tseem	O
 ceeb	O
@@ -484,9 +481,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 ho	O
 .	O
 
@@ -1275,9 +1269,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 .	O
 
 
@@ -1501,9 +1492,6 @@ tswv	B
 ntuj	I
 tswv	I
 teb	I
-ntuj	O
-tswv	O
-teb	O
 muab	O
 tej	O
 neeg	O
@@ -4136,9 +4124,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 li	O
 tej	O
 nyuag	O
@@ -4156,9 +4141,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 los	O
 txis	O
 ua	O
@@ -4194,9 +4176,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 --	O
 ua	O
 nws	O

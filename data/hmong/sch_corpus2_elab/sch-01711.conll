@@ -541,9 +541,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 no	O
 maj	O
 ?	O
@@ -1557,9 +1554,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 li	O
 koj	O
 hais	O
@@ -2312,9 +2306,6 @@ ntug	B
 zej	I
 ntug	I
 zos	I
-zej	O
-ntug	O
-zos	O
 xwb	O
 ,	O
 siv	O
@@ -2375,9 +2366,6 @@ txhua	B
 tsav	I
 txhua	I
 yam	I
-tsav	O
-txhua	O
-yam	O
 txhij	O
 vog	O
 lawm	O
@@ -2558,9 +2546,6 @@ ntug	B
 zej	I
 ntug	I
 zos	I
-zej	O
-ntug	O
-zos	O
 xwb	O
 nav	O
 .	O

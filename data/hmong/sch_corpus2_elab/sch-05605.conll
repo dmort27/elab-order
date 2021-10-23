@@ -82,9 +82,6 @@ xyaw	B
 mab	I
 xyaw	I
 suav	I
-mab	O
-xyaw	O
-suav	O
 ntau	O
 .	O
 
@@ -568,9 +565,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 npaum	O
 li	O
 cas	O
@@ -593,9 +587,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 ces	O
 haiv	O
 neeg	O
@@ -714,9 +705,6 @@ ua	B
 sab	I
 ua	I
 sua	I
-sab	O
-ua	O
-sua	O
 es	O
 kom	O
 zoo	O

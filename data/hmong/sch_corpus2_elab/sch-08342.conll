@@ -365,9 +365,6 @@ txhua	B
 pab	I
 txhua	I
 pawg	I
-pab	O
-txhua	O
-pawg	O
 mas	O
 thiaj	O
 li	O
@@ -643,9 +640,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 twb	O
 puas	O
 tag	O
@@ -1617,9 +1611,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 twb	O
 puas	O
 tag	O
@@ -2240,9 +2231,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 .	O
 
 
@@ -2576,9 +2564,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 .	O
 
 
@@ -3042,9 +3027,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 twb	O
 puas	O
 tag	O
@@ -3664,9 +3646,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 .	O
 
 
@@ -4000,9 +3979,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 .	O
 
 
@@ -4775,9 +4751,6 @@ muaj	B
 tseeb	I
 muaj	I
 tsum	I
-tseeb	O
-muaj	O
-tsum	O
 li	O
 koj	O
 hais	O
@@ -5686,9 +5659,6 @@ muaj	B
 tseeb	I
 muaj	I
 tsum	I
-tseeb	O
-muaj	O
-tsum	O
 coj	O
 los	O
 nthuav	O
@@ -5704,9 +5674,6 @@ muaj	B
 plaub	I
 muaj	I
 ntug	I
-plaub	O
-muaj	O
-ntug	O
 los	O
 ,	O
 kawg	O
@@ -5939,9 +5906,6 @@ qhov	B
 txhia	I
 qhov	I
 chaw	I
-txhia	O
-qhov	O
-chaw	O
 li	O
 koj	O
 ,	O
@@ -5975,9 +5939,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 kom	O
 koj	O
 muaj	O
@@ -6136,9 +6097,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 tib	O
 yam	O
 ,	O
@@ -6148,9 +6106,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 .	O
 
 

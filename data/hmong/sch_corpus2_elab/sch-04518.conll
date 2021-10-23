@@ -64,9 +64,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 xwb	O
 .	O
 
@@ -171,9 +168,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 rau	O
 yus	O
 zoo	O
@@ -305,9 +299,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 ,	O
 dag	O
 luag	O
@@ -315,9 +306,6 @@ sib	B
 tua	I
 sib	I
 ntaus	I
-tua	O
-sib	O
-ntaus	O
 xwb	O
 .	O
 

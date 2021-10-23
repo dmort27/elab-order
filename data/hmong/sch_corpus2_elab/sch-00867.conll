@@ -994,9 +994,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 tsis	O
 hais	O
 Hmoob	O
@@ -2772,9 +2769,6 @@ ua	B
 liab	I
 ua	I
 cuam	I
-liab	O
-ua	O
-cuam	O
 luag	O
 nyob	O
 ib	O
@@ -2846,9 +2840,6 @@ tej	B
 kwv	I
 tej	I
 tij	I
-kwv	O
-tej	O
-tij	O
 ,	O
 poj	O
 niam	O
@@ -3278,9 +3269,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 txog	O
 niaj	O
 hnub	O
@@ -3375,9 +3363,6 @@ cam	B
 dlej	I
 cam	I
 aav	I
-dlej	O
-cam	O
-aav	O
 tawm	O
 sis	O
 ib	O

@@ -1107,9 +1107,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 xwb	O
 os	O
 .	O
@@ -1756,9 +1753,6 @@ muaj	B
 pog	I
 muaj	I
 yawg	I
-pog	O
-muaj	O
-yawg	O
 ,	O
 muaj	O
 niamtais	O
@@ -1861,9 +1855,6 @@ yuav	B
 ciaj	I
 yuav	I
 tuag	I
-ciaj	O
-yuav	O
-tuag	O
 los	O
 tseg	O
 no	O

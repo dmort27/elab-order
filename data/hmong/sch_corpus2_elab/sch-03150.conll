@@ -233,9 +233,6 @@ sib	B
 txheeb	I
 sib	I
 ze	I
-txheeb	O
-sib	O
-ze	O
 dua	O
 .	O
 
@@ -258,17 +255,11 @@ koom	B
 poj	I
 koom	I
 yawm	I
-poj	O
-koom	O
-yawm	O
 ,	O
 koom	B
 dab	I
 koom	I
 qhua	I
-dab	O
-koom	O
-qhua	O
 .	O
 
 
@@ -300,9 +291,6 @@ tug	B
 dab	I
 tug	I
 qhua	I
-dab	O
-tug	O
-qhua	O
 ,	O
 ua	O
 kom	O
@@ -317,9 +305,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 ''	O
 no	O
 coj	O
@@ -428,9 +413,6 @@ tej	B
 txheeb	I
 tej	I
 ze	I
-txheeb	O
-tej	O
-ze	O
 rau	O
 tog	O
 ntxais	O
@@ -1081,9 +1063,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 2-3	O
 tiam	O
 dhau	O
@@ -1329,9 +1308,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 kawg	O
 lawm	O
 ,	O
@@ -2226,9 +2202,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 nyob	O
 caj	O
 ces	O

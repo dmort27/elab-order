@@ -250,9 +250,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 ,	O
 Nws	O
 thiaj	O
@@ -386,9 +383,6 @@ rau	B
 noj	I
 rau	I
 haus	I
-noj	O
-rau	O
-haus	O
 xwb	O
 .	O
 
@@ -448,9 +442,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 Tsi	O
 raug	O
 nom	O
@@ -562,9 +553,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 tsuas	O
 pom	O
 khiav	O
@@ -574,9 +562,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 Txhuv	O
 noj	O
@@ -617,9 +602,6 @@ tos	B
 noj	I
 tos	I
 haus	I
-noj	O
-tos	O
-haus	O
 li	O
 no	O
 tsi	O
@@ -1549,9 +1531,6 @@ luag	B
 teb	I
 luag	I
 chaw	I
-teb	O
-luag	O
-chaw	O
 thiab	O
 ...	O
 temsis	O
@@ -1572,9 +1551,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 kom	O
 xob	O
 tuag	O
@@ -1854,9 +1830,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 muaj	O
 3	O
 pab	O
@@ -1872,9 +1845,6 @@ ua	B
 laj	I
 ua	I
 kam	I
-laj	O
-ua	O
-kam	O
 thiab	O
 ua	O
 lag	O
@@ -2073,9 +2043,6 @@ ua	B
 laj	I
 ua	I
 kam	I
-laj	O
-ua	O
-kam	O
 thiab	O
 ,	O
 tab	O
@@ -3193,9 +3160,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 tau	O
 Dr	O
 li	O
@@ -3544,9 +3508,6 @@ tsis	B
 ncaj	I
 tsis	I
 zoo	I
-ncaj	O
-tsis	O
-zoo	O
 .	O
 
 

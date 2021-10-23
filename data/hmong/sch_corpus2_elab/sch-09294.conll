@@ -223,9 +223,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 lawm	O
 no	O
 nad	O
@@ -806,9 +803,6 @@ raug	B
 ntes	I
 raug	I
 kaw	I
-ntes	O
-raug	O
-kaw	O
 ;	O
 thaum	O
 kawg	O
@@ -1016,9 +1010,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 es	O
 nws	O
 nyob	O
@@ -1131,9 +1122,6 @@ raug	B
 ntes	I
 raug	I
 kaw	I
-ntes	O
-raug	O
-kaw	O
 .	O
 
 
@@ -1872,9 +1860,6 @@ kev	B
 caub	I
 kev	I
 chim	I
-caub	O
-kev	O
-chim	O
 thiab	O
 pom	O
 kiag	O

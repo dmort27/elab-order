@@ -624,9 +624,6 @@ puab	B
 nam	I
 puab	I
 txiv	I
-nam	O
-puab	O
-txiv	O
 vim	O
 txuj	O
 cai	O
@@ -1243,9 +1240,6 @@ cov	B
 nam	I
 cov	I
 txiv	I
-nam	O
-cov	O
-txiv	O
 txhuatug	O
 tsi	O
 xaav	O
@@ -1344,9 +1338,6 @@ puab	B
 nam	I
 puab	I
 txiv	I
-nam	O
-puab	O
-txiv	O
 xij	O
 tsi	O
 kaam	O
@@ -1830,9 +1821,6 @@ puab	B
 nam	I
 puab	I
 txiv	I
-nam	O
-puab	O
-txiv	O
 thaam	O
 txug	O
 kev	O
@@ -1923,9 +1911,6 @@ cov	B
 nam	I
 cov	I
 txiv	I
-nam	O
-cov	O
-txiv	O
 tsi	O
 kaam	O
 nrug	O
@@ -2026,9 +2011,6 @@ puab	B
 nam	I
 puab	I
 txiv	I
-nam	O
-puab	O
-txiv	O
 .	O
 
 
@@ -2161,9 +2143,6 @@ nwg	B
 nam	I
 nwg	I
 txiv	I
-nam	O
-nwg	O
-txiv	O
 nyob	O
 uake	O
 yog	O
@@ -2962,9 +2941,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 ntawm	O
 ob	O
 tug	O
@@ -3113,9 +3089,6 @@ ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 sib	O
 tham	O
 ,	O
@@ -3153,9 +3126,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 tu	O
 .	O
 
@@ -3293,9 +3263,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 ho	O
 sau	O
 kuv	O
@@ -3331,9 +3298,6 @@ hu	B
 kwv	I
 hu	I
 tij	I
-kwv	O
-hu	O
-tij	O
 hu	O
 neej	O
 hu	O
@@ -3343,9 +3307,6 @@ tuav	B
 tes	I
 tuav	I
 taw	I
-tes	O
-tuav	O
-taw	O
 rau	O
 yawg	O
 thaub	O
@@ -3382,9 +3343,6 @@ pav	B
 tes	I
 pav	I
 taw	I
-tes	O
-pav	O
-taw	O
 rau	O
 sawm	O
 txaj	O
@@ -3559,9 +3517,6 @@ tswv	B
 zej	I
 tswv	I
 zos	I
-zej	O
-tswv	O
-zos	O
 cheb	O
 thiab	O
 tshem	O
@@ -3908,9 +3863,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 ntawm	O
 ob	O
 tug	O
@@ -4059,9 +4011,6 @@ ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 sib	O
 tham	O
 ,	O
@@ -4099,9 +4048,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 tu	O
 .	O
 
@@ -4239,9 +4185,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 ho	O
 sau	O
 kuv	O
@@ -4277,9 +4220,6 @@ hu	B
 kwv	I
 hu	I
 tij	I
-kwv	O
-hu	O
-tij	O
 hu	O
 neej	O
 hu	O
@@ -4289,9 +4229,6 @@ tuav	B
 tes	I
 tuav	I
 taw	I
-tes	O
-tuav	O
-taw	O
 rau	O
 yawg	O
 thaub	O
@@ -4328,9 +4265,6 @@ pav	B
 tes	I
 pav	I
 taw	I
-tes	O
-pav	O
-taw	O
 rau	O
 sawm	O
 txaj	O
@@ -4505,9 +4439,6 @@ tswv	B
 zej	I
 tswv	I
 zos	I
-zej	O
-tswv	O
-zos	O
 cheb	O
 thiab	O
 tshem	O
@@ -5663,9 +5594,6 @@ hais	B
 txhij	I
 hais	I
 txhua	I
-txhij	O
-hais	O
-txhua	O
 lawm	O
 .	O
 

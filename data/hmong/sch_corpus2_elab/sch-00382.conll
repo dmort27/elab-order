@@ -250,9 +250,6 @@ le	B
 ub	I
 le	I
 nuav	I
-ub	O
-le	O
-nuav	O
 .	O
 
 
@@ -395,9 +392,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 seb	O
 lawv	O
 puas	O

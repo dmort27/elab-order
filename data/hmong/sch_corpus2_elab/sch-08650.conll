@@ -7,9 +7,6 @@ lug	B
 dlev	I
 lug	I
 npua	I
-dlev	O
-lug	O
-npua	O
 txhua	O
 yaam	O
 hab	O
@@ -27,9 +24,6 @@ yaam	B
 ub	I
 yaam	I
 nuav	I
-ub	O
-yaam	O
-nuav	O
 ,	O
 call	O
 each	O

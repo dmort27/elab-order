@@ -179,9 +179,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 li	O
 niaj	O
 hnub	O
@@ -459,9 +456,6 @@ hais	B
 ciaj	I
 hais	I
 tuag	I
-ciaj	O
-hais	O
-tuag	O
 los	O
 yeej	O
 tsi	O

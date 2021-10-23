@@ -447,9 +447,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 kav	O
 hmoob	O
 thiab	O
@@ -556,9 +553,6 @@ sau	B
 qoob	I
 sau	I
 loo	I
-qoob	O
-sau	O
-loo	O
 lawm	O
 tiam	O
 sis	O

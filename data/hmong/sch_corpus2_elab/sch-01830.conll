@@ -413,9 +413,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -995,9 +992,6 @@ tas	B
 zaj	I
 tas	I
 zog	I
-zaj	O
-tas	O
-zog	O
 vuag	O
 cov	O
 niag	O
@@ -1098,9 +1092,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 li	O
 lau	O
 ......	O
@@ -1771,9 +1762,6 @@ tswv	B
 ntuj	I
 tswv	I
 teb	I
-ntuj	O
-tswv	O
-teb	O
 muab	O
 tej	O
 neeg	O
@@ -1863,9 +1851,6 @@ ua	B
 pab	I
 ua	I
 pheev	I
-pab	O
-ua	O
-pheev	O
 li	O
 Jouatrue	O
 Vang	O
@@ -2068,9 +2053,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 thiab	O
 muab	O
 yus	O
@@ -2234,9 +2216,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 nawb	O
 .	O
 
@@ -2752,9 +2731,6 @@ quaj	B
 ntuj	I
 quaj	I
 teb	I
-ntuj	O
-quaj	O
-teb	O
 no	O
 mas	O
 tsis	O
@@ -2895,9 +2871,6 @@ dim	B
 dawb	I
 dim	I
 do	I
-dawb	O
-dim	O
-do	O
 nawb	O
 hos	O
 yus	O

@@ -993,9 +993,6 @@ dua	B
 ub	I
 dua	I
 no	I
-ub	O
-dua	O
-no	O
 lawm	O
 es	O
 koj	O
@@ -1117,9 +1114,6 @@ tso	B
 dlaag	I
 tso	I
 luag	I
-dlaag	O
-tso	O
-luag	O
 xwb	O
 ,	O
 sob	O
@@ -1183,9 +1177,6 @@ ua	B
 dlog	I
 ua	I
 dlig	I
-dlog	O
-ua	O
-dlig	O
 cuag	O
 tsi	O
 tau	O
@@ -1241,9 +1232,6 @@ leej	B
 nam	I
 leej	I
 txiv	I
-nam	O
-leej	O
-txiv	O
 tsi	O
 pub	O
 lug	O
@@ -1429,9 +1417,6 @@ lus	B
 ntxhib	I
 lus	I
 ntxho	I
-ntxhib	O
-lus	O
-ntxho	O
 xwb	O
 os	O
 .....	O
@@ -3227,9 +3212,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 thiab	O
 tsis	O
 lam	O
@@ -3238,9 +3220,6 @@ pluas	B
 noj	I
 pluas	I
 haus	I
-noj	O
-pluas	O
-haus	O
 li	O
 .	O
 
@@ -3256,9 +3235,6 @@ txhua	B
 hnub	I
 txhua	I
 hmo	I
-hnub	O
-txhua	O
-hmo	O
 ,	O
 yog	O
 tsis	O
@@ -3659,9 +3635,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 ,	O
 ua	O
 rau	O
@@ -4020,9 +3993,6 @@ yus	B
 caj	I
 yus	I
 ceg	I
-caj	O
-yus	O
-ceg	O
 -	O
 yus	O
 cov	O

@@ -468,9 +468,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 hais	O
 tias	O
 ,	O
@@ -644,9 +641,6 @@ pw	B
 noj	I
 pw	I
 haus	I
-noj	O
-pw	O
-haus	O
 los	O
 ntawm	O
 hmoob	O
@@ -676,9 +670,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 dawb	O
 dawg	O
 ,	O

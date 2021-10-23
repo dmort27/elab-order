@@ -489,9 +489,6 @@ ua	B
 neej	I
 ua	I
 tsaav	I
-neej	O
-ua	O
-tsaav	O
 rua	O
 Moob	O
 Vaaj	O
@@ -1137,9 +1134,6 @@ yuav	B
 poj	I
 yuav	I
 sev	I
-poj	O
-yuav	O
-sev	O
 ,	O
 tab	O
 sis	O
@@ -1156,17 +1150,11 @@ yuav	B
 poj	I
 yuav	I
 sev	I
-poj	O
-yuav	O
-sev	O
 thiab	O
 ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 .	O
 
 
@@ -1269,9 +1257,6 @@ saib	B
 neej	I
 saib	I
 tsav	I
-neej	O
-saib	O
-tsav	O
 lis	O
 .	O
 

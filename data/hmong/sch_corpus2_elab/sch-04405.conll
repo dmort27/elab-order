@@ -272,9 +272,6 @@ tam	B
 niam	I
 tam	I
 txiv	I
-niam	O
-tam	O
-txiv	O
 ,	O
 yog	O
 vim	O
@@ -893,9 +890,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 thiab	O
 coj	O
 mus	O
@@ -975,9 +969,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 lawm	O
 .	O
 
@@ -1286,9 +1277,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 kom	O
 tiav	O
 tso	O

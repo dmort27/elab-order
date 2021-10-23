@@ -85,9 +85,6 @@ poob	B
 nyiaj	I
 poob	I
 txiaj	I
-nyiaj	O
-poob	O
-txiaj	O
 .	O
 
 
@@ -404,9 +401,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 nawb	O
 ,	O
 tabsi	O
@@ -424,9 +418,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 tiag	O
 mas	O
 .	O

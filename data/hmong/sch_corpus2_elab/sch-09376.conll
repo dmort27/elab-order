@@ -907,9 +907,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 no	O
 coj	O
 los	O
@@ -2209,9 +2206,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 xwb	O
 .	O
 
@@ -2326,9 +2320,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 lawm	O
 xwb	O
 .	O

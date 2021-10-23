@@ -391,9 +391,6 @@ pub	B
 qaib	I
 pub	I
 npua	I
-qaib	O
-pub	O
-npua	O
 nram	O
 tej	O
 ntug	O
@@ -440,9 +437,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 nai	O
 pha	O
 nai	O
@@ -855,9 +849,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 nyob	O
 Vang	O
 Vieng	O

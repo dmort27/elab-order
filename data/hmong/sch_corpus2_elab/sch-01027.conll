@@ -491,9 +491,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 ...	O
 luag	O
 puas	O
@@ -598,9 +595,6 @@ sis	B
 caav	I
 sis	I
 tshe	I
-caav	O
-sis	O
-tshe	O
 .	O
 
 
@@ -3330,9 +3324,6 @@ nws	B
 pog	I
 nws	I
 yawg	I
-pog	O
-nws	O
-yawg	O
 xwb	O
 ,	O
 cov	O
@@ -3469,17 +3460,11 @@ tsi	B
 meej	I
 tsi	I
 pem	I
-meej	O
-tsi	O
-pem	O
 hais	O
 tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 .	O
 
 

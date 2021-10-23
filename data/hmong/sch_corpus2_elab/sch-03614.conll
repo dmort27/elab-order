@@ -101,9 +101,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 ci	O
 li	O
 zoo	O
@@ -369,9 +366,6 @@ raug	B
 ntsej	I
 raug	I
 muag	I
-ntsej	O
-raug	O
-muag	O
 pes	O
 tsawg	O
 lawm	O
@@ -631,9 +625,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 dawj	O
 kom	O
 qhov	O
@@ -674,9 +665,6 @@ tus	B
 daj	I
 tus	I
 dub	I
-daj	O
-tus	O
-dub	O
 ,	O
 tus	O
 txheeb	O
@@ -719,9 +707,6 @@ leej	B
 niam	I
 leej	I
 txiv	I
-niam	O
-leej	O
-txiv	O
 lawm	O
 thiab	O
 lauj	O
@@ -1993,9 +1978,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 los	O
 sib	O
 tham	O
@@ -2196,9 +2178,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 los	O
 sib	O
 tham	O

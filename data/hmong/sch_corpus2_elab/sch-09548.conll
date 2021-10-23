@@ -123,9 +123,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 mas	O
 thiaj	O
 tsim	O
@@ -630,9 +627,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 xwb	O
 .	O
 
@@ -758,9 +752,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 xwb	O
 los	O
 puab	O

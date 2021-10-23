@@ -56,9 +56,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 npaum	O
 li	O
 nej	O
@@ -1838,9 +1835,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 xa	O
 os	O
 .	O
@@ -2793,9 +2787,6 @@ tus	B
 phem	I
 tus	I
 zoo	I
-phem	O
-tus	O
-zoo	O
 los	O
 yuav	O
 dhau	O

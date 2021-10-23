@@ -512,9 +512,6 @@ qaum	B
 liab	I
 qaum	I
 ntsuab	I
-liab	O
-qaum	O
-ntsuab	O
 ntxias	O
 koj	O
 hnub	O
@@ -848,16 +845,10 @@ kev	B
 kwv	I
 kev	I
 tij	I
-kwv	O
-kev	O
-tij	O
 kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 es	O
 koj	O
 thiaj	O
@@ -1831,9 +1822,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 ntawd	O
 ntag	O
 es	O

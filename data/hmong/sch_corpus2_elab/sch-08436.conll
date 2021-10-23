@@ -383,9 +383,6 @@ lug	B
 nyaj	I
 lug	I
 kub	I
-nyaj	O
-lug	O
-kub	O
 lug	O
 tes	O
 ,	O
@@ -438,9 +435,6 @@ lug	B
 nyaj	I
 lug	I
 kub	I
-nyaj	O
-lug	O
-kub	O
 lug	O
 tes	O
 ,	O
@@ -526,9 +520,6 @@ rua	B
 nam	I
 rua	I
 txiv	I
-nam	O
-rua	O
-txiv	O
 los	O
 yog	O
 has	O
@@ -715,9 +706,6 @@ tshuav	B
 kwv	I
 tshuav	I
 tij	I
-kwv	O
-tshuav	O
-tij	O
 uas	O
 nco	O
 qab	O
@@ -1061,9 +1049,6 @@ ntees	B
 ploj	I
 ntees	I
 tuag	I
-ploj	O
-ntees	O
-tuag	O
 xwb	O
 tsij	O
 sub	O
@@ -1079,9 +1064,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 kuj	O
 yog	O
 hu	O

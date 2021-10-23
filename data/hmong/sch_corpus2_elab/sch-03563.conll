@@ -85,9 +85,6 @@ qhov	B
 siab	I
 qhov	I
 qis	I
-siab	O
-qhov	O
-qis	O
 .	O
 
 
@@ -152,9 +149,6 @@ hla	B
 roob	I
 hla	I
 hav	I
-roob	O
-hla	O
-hav	O
 tuaj	O
 muab	O
 xyoob	O
@@ -328,9 +322,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 muab	O
 office	O
 nyob	O
@@ -1155,9 +1146,6 @@ ke	B
 tes	I
 ke	I
 taw	I
-tes	O
-ke	O
-taw	O
 xwb	O
 niv	O
 ,	O

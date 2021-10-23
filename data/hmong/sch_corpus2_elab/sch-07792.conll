@@ -30,9 +30,6 @@ kuag	B
 kaab	I
 kuag	I
 hlau	I
-kaab	O
-kuag	O
-hlau	O
 nuav	O
 xaav	O
 mas	O
@@ -133,9 +130,6 @@ lwm	B
 paab	I
 lwm	I
 pawg	I
-paab	O
-lwm	O
-pawg	O
 qha	O
 tawm	O
 .	O
@@ -201,9 +195,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 .	O
 
 
@@ -1649,16 +1640,10 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 tab	O
 sis	O
 ziag	O
@@ -3532,9 +3517,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 kom	O
 du	O
 du	O
@@ -3556,9 +3538,6 @@ dawm	B
 tes	I
 dawm	I
 taw	I
-tes	O
-dawm	O
-taw	O
 .	O
 
 

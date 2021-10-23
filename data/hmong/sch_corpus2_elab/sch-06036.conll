@@ -226,9 +226,6 @@ tom	B
 vaaj	I
 tom	I
 tsev	I
-vaaj	O
-tom	O
-tsev	O
 (	O
 personal	O
 life	O
@@ -273,9 +270,6 @@ ntxhais	B
 nom	I
 ntxhais	I
 tswv	I
-nom	O
-ntxhais	O
-tswv	O
 ,	O
 ntxhais	O
 faj	O
@@ -679,9 +673,6 @@ khiav	B
 tsov	I
 khiav	I
 rog	I
-tsov	O
-khiav	O
-rog	O
 los	O
 ntsib	O
 kiag	O

@@ -240,9 +240,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 tsi	O
 yog	O
@@ -891,9 +888,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 es	O
 nyiaj	O
 ploj	O
@@ -937,9 +931,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 .	O
 
 
@@ -1047,9 +1038,6 @@ nam	B
 hlub	I
 nam	I
 yau	I
-hlub	O
-nam	O
-yau	O
 txhua	O
 tug	O
 .	O
@@ -1700,9 +1688,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 --	O
 peb	O
 cov	O

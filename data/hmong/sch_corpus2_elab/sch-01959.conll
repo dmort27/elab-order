@@ -228,9 +228,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 .	O
 
 
@@ -312,9 +309,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 rov	O
 mus	O
 tsev	O
@@ -363,9 +357,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 rov	O
 tuaj	O
 zam	O
@@ -386,9 +377,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 yuav	O
 rov	O
 tuaj	O
@@ -511,9 +499,6 @@ tus	B
 yeej	I
 tus	I
 swb	I
-yeej	O
-tus	O
-swb	O
 ,	O
 nyias	O
 rov	O
@@ -821,9 +806,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 lawm	O
 ,	O
 yus	O
@@ -1580,9 +1562,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 pem	O
 khw	O
 thiab	O

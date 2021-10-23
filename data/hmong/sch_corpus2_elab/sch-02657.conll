@@ -63,9 +63,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 ho	O
 yuav	O
 muab	O
@@ -460,9 +457,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 rau	O
 lub	O
 sijhawm	O
@@ -491,9 +485,6 @@ saib	B
 neej	I
 saib	I
 tsav	I
-neej	O
-saib	O
-tsav	O
 xwb	O
 .	O
 
@@ -641,9 +632,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 xws	O
 li	O
 wedding	O
@@ -751,9 +739,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 thiab	O
 kev	O
 pamtuag	O
@@ -782,9 +767,6 @@ tsi	B
 txawj	I
 tsi	I
 ntse	I
-txawj	O
-tsi	O
-ntse	O
 mas	O
 --	O
 -khwv	O
@@ -797,9 +779,6 @@ pluag	B
 noj	I
 pluag	I
 haus	I
-noj	O
-pluag	O
-haus	O
 xwb	O
 .	O
 
@@ -1082,9 +1061,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 no	O
 tuaj	O
 lawm	O
@@ -1156,9 +1132,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 .	O
 
 
@@ -1376,9 +1349,6 @@ kev	B
 ncaj	I
 kev	I
 ncees	I
-ncaj	O
-kev	O
-ncees	O
 .	O
 
 
@@ -1414,9 +1384,6 @@ yog	B
 nom	I
 yog	I
 tswv	I
-nom	O
-yog	O
-tswv	O
 ,	O
 los	O
 yog	O
@@ -1779,9 +1746,6 @@ kev	B
 pluj	I
 kev	I
 tuag	I
-pluj	O
-kev	O
-tuag	O
 lawm	O
 tes	O
 yeej	O

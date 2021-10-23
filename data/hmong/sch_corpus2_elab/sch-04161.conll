@@ -104,9 +104,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 xwb	O
 .	O
 
@@ -649,9 +646,6 @@ noj	B
 dawb	I
 noj	I
 do	I
-dawb	O
-noj	O
-do	O
 .	O
 
 
@@ -1889,9 +1883,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ces	O
 peb	O
 tsuas	O
@@ -2687,9 +2678,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ,	O
 GVP	O
 yog	O

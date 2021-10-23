@@ -1037,9 +1037,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 yawg	O
 loj	O
 ,	O
@@ -1194,9 +1191,6 @@ nws	B
 vaj	I
 nws	I
 tsev	I
-vaj	O
-nws	O
-tsev	O
 xwb	O
 ces	O
 kuj	O
@@ -1294,9 +1288,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 (	O
 kuv	O
 ntseeg	O
@@ -1404,9 +1395,6 @@ raug	B
 ploj	I
 raug	I
 tuag	I
-ploj	O
-raug	O
-tuag	O
 tsis	O
 yog	O
 ua	O

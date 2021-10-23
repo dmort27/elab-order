@@ -1385,17 +1385,11 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 ,	O
 xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 yuav	O
 tau	O
 lub	O
@@ -1407,9 +1401,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 mus	O
 pem	O
 hauv	O
@@ -1590,9 +1581,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 los	O
 tham	O
 xwb	O

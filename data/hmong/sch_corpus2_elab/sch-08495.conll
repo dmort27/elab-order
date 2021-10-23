@@ -975,9 +975,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 ,	O
 curse	O
 ,	O
@@ -1003,9 +1000,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 ntawd	O
 lawm	O
 ntag	O
@@ -2017,9 +2011,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 los	O
 puv	O
 ntuj	O
@@ -2052,9 +2043,6 @@ neeg	B
 dawb	I
 neeg	I
 huv	I
-dawb	O
-neeg	O
-huv	O
 ,	O
 peb	O
 tsi	O
@@ -2247,9 +2235,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 no	O
 nrog	O
 lub	O

@@ -101,9 +101,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 muab	O
 koj	O
 hus	O
@@ -390,9 +387,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 tsam	O
 tsis	O
 zoo	O
@@ -504,9 +498,6 @@ hlub	B
 niam	I
 hlub	I
 txiv	I
-niam	O
-hlub	O
-txiv	O
 thiab	O
 kawvtij	O
 niajtsa	O
@@ -563,9 +554,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 ntag	O
 .	O
 

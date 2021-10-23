@@ -1092,9 +1092,6 @@ siab	B
 phem	I
 siab	I
 zoo	I
-phem	O
-siab	O
-zoo	O
 ntawd	O
 yog	O
 los	O
@@ -1171,9 +1168,6 @@ kev	B
 phem	I
 kev	I
 zoo	I
-phem	O
-kev	O
-zoo	O
 ntawm	O
 tus	O
 kheej	O
@@ -1186,9 +1180,6 @@ dej	B
 siab	I
 dej	I
 ntsws	I
-siab	O
-dej	O
-ntsws	O
 tuaj	O
 xwb	O
 .	O
@@ -2111,9 +2102,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 hab	O
 nyaj	O
 txag	O
@@ -2597,9 +2585,6 @@ ua	B
 rwj	I
 ua	I
 aws	I
-rwj	O
-ua	O
-aws	O
 ncus	O
 ntxiv	O
 lawm	O

@@ -559,9 +559,6 @@ ncig	B
 mus	I
 ncig	I
 los	I
-mus	O
-ncig	O
-los	O
 tsi	O
 pom	O
 ib	O
@@ -1030,9 +1027,6 @@ tswv	B
 ntuj	I
 tswv	I
 teb	I
-ntuj	O
-tswv	O
-teb	O
 kom	O
 koj	O
 txhob	O

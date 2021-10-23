@@ -1093,9 +1093,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 ces	O
 nim	O
 no	O
@@ -3999,9 +3996,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 xwb	O
 ..	O
 Yeej	O

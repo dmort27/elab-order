@@ -590,9 +590,6 @@ ua	B
 dlog	I
 ua	I
 dlig	I
-dlog	O
-ua	O
-dlig	O
 le	O
 hov	O
 ....	O
@@ -645,9 +642,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 ntawg	O
 lawm	O
 le	O
@@ -791,9 +785,6 @@ tug	B
 ub	I
 tug	I
 nuav	I
-ub	O
-tug	O
-nuav	O
 ,	O
 tsis	O
 ntshai	O

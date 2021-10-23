@@ -183,9 +183,6 @@ muaj	B
 yeej	I
 muaj	I
 swb	I
-yeej	O
-muaj	O
-swb	O
 xwb	O
 mas	O
 thiaj	O
@@ -310,9 +307,6 @@ hmoob	B
 nom	I
 hmoob	I
 tswv	I
-nom	O
-hmoob	O
-tswv	O
 coob	O
 ces	O
 neej	O
@@ -325,9 +319,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 ,	O
 lino	O
 peb	O
@@ -498,9 +489,6 @@ muaj	B
 kev	I
 muaj	I
 cai	I
-kev	O
-muaj	O
-cai	O
 .	O
 
 
@@ -697,9 +685,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 loj	O
 heev	O
 lawm	O

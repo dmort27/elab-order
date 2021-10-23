@@ -1225,9 +1225,6 @@ piav	B
 mus	I
 piav	I
 los	I
-mus	O
-piav	O
-los	O
 ces	O
 ntawd	O
 puv	O
@@ -1380,9 +1377,6 @@ nwg	B
 nam	I
 nwg	I
 txiv	I
-nam	O
-nwg	O
-txiv	O
 tsi	O
 pum	O
 qaab	O
@@ -3018,9 +3012,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 tua	O
 thiab	O
 tsim	O
@@ -3901,9 +3892,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 peb	O
 tus	O
 thawj	O
@@ -4183,9 +4171,6 @@ txaus	B
 chim	I
 txaus	I
 tu	I
-chim	O
-txaus	O
-tu	O
 siab	O
 tiag2	O
 li	O
@@ -4257,9 +4242,6 @@ muaj	B
 suab	I
 muaj	I
 npe	I
-suab	O
-muaj	O
-npe	O
 tau	O
 tso	O
 hmoob	O

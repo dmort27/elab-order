@@ -337,9 +337,6 @@ dag	B
 mab	I
 dag	I
 suav	I
-mab	O
-dag	O
-suav	O
 tau	O
 npib	O
 puav	O
@@ -374,9 +371,6 @@ dag	B
 mab	I
 dag	I
 suav	I
-mab	O
-dag	O
-suav	O
 nad	O
 ,	O
 lawv	O

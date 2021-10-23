@@ -482,9 +482,6 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 nqa	O
 tuaj	O
 rau	O
@@ -634,9 +631,6 @@ puag	B
 tes	I
 puag	I
 taw	I
-tes	O
-puag	O
-taw	O
 cia	O
 peb	O
 cov	O
@@ -944,9 +938,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 tas	O
 .	O
 
@@ -2707,9 +2698,6 @@ hu	B
 ntuj	I
 hu	I
 teb	I
-ntuj	O
-hu	O
-teb	O
 thaum	O
 pom	O
 ib	O
@@ -2731,9 +2719,6 @@ hu	B
 ntuj	I
 hu	I
 teb	I
-ntuj	O
-hu	O
-teb	O
 tas	O
 .	O
 

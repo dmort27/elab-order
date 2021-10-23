@@ -235,9 +235,6 @@ kis	B
 toj	I
 kis	I
 pes	I
-toj	O
-kis	O
-pes	O
 li	O
 ob	O
 niam	O
@@ -264,9 +261,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 kom	O
 haum	O
 lub	O
@@ -298,9 +292,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 ;	O
 peb	O
 tsis	O
@@ -316,9 +307,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 ntxiv	O
 li	O
 .	O
@@ -461,9 +449,6 @@ ua	B
 nam	I
 ua	I
 txiv	I
-nam	O
-ua	O
-txiv	O
 (	O
 ob	O
 tug	O
@@ -795,9 +780,6 @@ pluag	B
 noj	I
 pluag	I
 haus	I
-noj	O
-pluag	O
-haus	O
 .	O
 
 
@@ -905,9 +887,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 ,	O
 ces	O
 tej	O
@@ -1413,9 +1392,6 @@ khiav	B
 ciaj	I
 khiav	I
 tuag	I
-ciaj	O
-khiav	O
-tuag	O
 thiab	O
 ua	O
 heev	O
@@ -1594,9 +1570,6 @@ ua	B
 nam	I
 ua	I
 txiv	I
-nam	O
-ua	O
-txiv	O
 yeej	O
 paub	O
 lawm	O
@@ -1849,9 +1822,6 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 foom	O
 yawg	O
 thiab	O
@@ -2235,9 +2205,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 xyaum	O
 nkag	O
@@ -2411,9 +2378,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 kev	O
 ua	O
 neeg	O
@@ -4656,9 +4620,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 .	O
 
 

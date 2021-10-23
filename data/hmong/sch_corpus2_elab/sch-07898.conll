@@ -368,9 +368,6 @@ tej	B
 ub	I
 tej	I
 no	I
-ub	O
-tej	O
-no	O
 nram	O
 ntej	O
 thaum	O
@@ -385,9 +382,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 yog	O
 li	O
 lawv	O
@@ -1307,9 +1301,6 @@ vij	B
 sub	I
 vij	I
 npog	I
-sub	O
-vij	O
-npog	O
 ntawd	O
 sau	O
 tag	O
@@ -1588,9 +1579,6 @@ raug	B
 cuab	I
 raug	I
 khi	I
-cuab	O
-raug	O
-khi	O
 ces	O
 lawv	O
 dim	O
@@ -1797,9 +1785,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ...	O
 koj	O
 tseem	O
@@ -2017,9 +2002,6 @@ cua	B
 daj	I
 cua	I
 dub	I
-daj	O
-cua	O
-dub	O
 nrog	O
 lawg	O
 thiab	O
@@ -2080,9 +2062,6 @@ hu	B
 ntuj	I
 hu	I
 teb	I
-ntuj	O
-hu	O
-teb	O
 pab	O
 cawm	O
 peb	O

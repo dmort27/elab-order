@@ -188,9 +188,6 @@ tso	B
 riam	I
 tso	I
 phom	I
-riam	O
-tso	O
-phom	O
 tseg	O
 .	O
 
@@ -214,9 +211,6 @@ ua	B
 kub	I
 ua	I
 ntxhov	I
-kub	O
-ua	O
-ntxhov	O
 tsis	O
 raws	O
 txoj	O
@@ -239,9 +233,6 @@ ua	B
 kub	I
 ua	I
 ntxhov	I
-kub	O
-ua	O
-ntxhov	O
 no	O
 yog	O
 noob	O
@@ -607,9 +598,6 @@ hmoob	B
 teb	I
 hmoob	I
 chaw	I
-teb	O
-hmoob	O
-chaw	O
 ,	O
 qhov	O
 no	O

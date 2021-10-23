@@ -1042,9 +1042,6 @@ kauv	B
 tes	I
 kauv	I
 taw	I
-tes	O
-kauv	O
-taw	O
 ntawd	O
 thov	O
 muab	O
@@ -1517,9 +1514,6 @@ cov	B
 nom	I
 cov	I
 tswv	I
-nom	O
-cov	O
-tswv	O
 Hmoob	O
 LPDR	O
 tsis	O
@@ -1581,9 +1575,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 Hmoob	O
 uas	O
 Noj	O
@@ -1879,9 +1870,6 @@ kawg	B
 paus	I
 kawg	I
 ntsis	I
-paus	O
-kawg	O
-ntsis	O
 hov	O
 .	O
 

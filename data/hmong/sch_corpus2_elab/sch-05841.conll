@@ -421,9 +421,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 txhua-ua	O
 hnub	O
 xyov	O
@@ -578,9 +575,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 koj	O
 sim	O
 piav	O
@@ -1679,9 +1673,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ?	O
 
 
@@ -2114,9 +2105,6 @@ ua	B
 rwj	I
 ua	I
 aws	I
-rwj	O
-ua	O
-aws	O
 rua	O
 luas	O
 lwm	O

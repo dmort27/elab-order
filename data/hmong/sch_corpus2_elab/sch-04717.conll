@@ -676,9 +676,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 ib	O
 yam	O
 li	O
@@ -697,9 +694,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 tsis	O
 zoo	O
 ;	O

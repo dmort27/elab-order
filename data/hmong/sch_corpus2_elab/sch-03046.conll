@@ -168,9 +168,6 @@ poob	B
 teb	I
 poob	I
 chaw	I
-teb	O
-poob	O
-chaw	O
 ned	O
 ''	O
 .	O
@@ -368,9 +365,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 thiaj	O
 tsis	O
 poob	O
@@ -385,9 +379,6 @@ paub	B
 paus	I
 paub	I
 ntsis	I
-paus	O
-paub	O
-ntsis	O
 ces	O
 xum	O
 nyob	O
@@ -839,9 +830,6 @@ nrhav	B
 noj	I
 nrhav	I
 haus	I
-noj	O
-nrhav	O
-haus	O
 tsi	O
 txawj	O
 has	O
@@ -1042,9 +1030,6 @@ muaj	B
 txhij	I
 muaj	I
 txhua	I
-txhij	O
-muaj	O
-txhua	O
 .	O
 
 
@@ -1279,9 +1264,6 @@ dlaag	B
 noj	I
 dlaag	I
 haus	I
-noj	O
-dlaag	O
-haus	O
 ua	O
 rua	O
 moob	O
@@ -1993,9 +1975,6 @@ nyiaj	B
 hnub	I
 nyiaj	I
 hli	I
-hnub	O
-nyiaj	O
-hli	O
 rau	O
 peb	O
 tej	O

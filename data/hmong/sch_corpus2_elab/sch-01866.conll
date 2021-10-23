@@ -266,9 +266,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -533,9 +530,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 ces	O
 kuv	O
@@ -627,9 +621,6 @@ ncig	B
 mus	I
 ncig	I
 los	I
-mus	O
-ncig	O
-los	O
 ze-e	O
 ntawd	O
 ,	O
@@ -1267,9 +1258,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 ib	O
 pliag	O
@@ -1288,9 +1276,6 @@ ntau	B
 leej	I
 ntau	I
 tus	I
-leej	O
-ntau	O
-tus	O
 tuaj	O
 piav	O
 koj	O
@@ -1652,9 +1637,6 @@ poob	B
 nyiaj	I
 poob	I
 txiaj	I
-nyiaj	O
-poob	O
-txiaj	O
 lawm	O
 mas	O
 koj	O
@@ -2761,9 +2743,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 ,	O
 kuj	O
 zoo	O
@@ -3087,9 +3066,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 tau	O
 kev	O
 poob	O
@@ -3429,9 +3405,6 @@ sib	B
 daj	I
 sib	I
 deev	I
-daj	O
-sib	O
-deev	O
 no	O
 yeej	O
 muaj	O
@@ -3654,9 +3627,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ,	O
 yam	O
 loojkoov	O
@@ -4240,9 +4210,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 hiv-v-v	O
 .	O
@@ -4325,9 +4292,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 .	O
 
 
@@ -4822,9 +4786,6 @@ tom	B
 ntej	I
 tom	I
 qaab	I
-ntej	O
-tom	O
-qaab	O
 ces	O
 yog	O
 thaaj	O

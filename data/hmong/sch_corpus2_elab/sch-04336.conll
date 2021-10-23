@@ -88,9 +88,6 @@ lawv	B
 vaj	I
 lawv	I
 tsev	I
-vaj	O
-lawv	O
-tsev	O
 kom	O
 thiaj	O
 tsi	O
@@ -377,9 +374,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 li	O
 .	O
 
@@ -405,9 +399,6 @@ mloog	B
 qab	I
 mloog	I
 hauv	I
-qab	O
-mloog	O
-hauv	O
 li	O
 --	O
 cias	O
@@ -418,9 +409,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 lawm	O
 xwb	O
@@ -565,9 +553,6 @@ hais	B
 phem	I
 hais	I
 zoo	I
-phem	O
-hais	O
-zoo	O
 tib	O
 si	O
 es	O

@@ -1126,9 +1126,6 @@ yog	B
 txheeb	I
 yog	I
 ze	I
-txheeb	O
-yog	O
-ze	O
 .	O
 
 
@@ -1520,9 +1517,6 @@ raws	B
 kev	I
 raws	I
 cai	I
-kev	O
-raws	O
-cai	O
 ...	O
 COV	O
 NEEG	O
@@ -1593,9 +1587,6 @@ nws	B
 txawj	I
 nws	I
 ntse	I
-txawj	O
-nws	O
-ntse	O
 xwb	O
 ...	O
 tsis	O
@@ -1722,9 +1713,6 @@ qhov	B
 tseeb	I
 qhov	I
 cuav	I
-tseeb	O
-qhov	O
-cuav	O
 )	O
 es	O
 los	O
@@ -2719,9 +2707,6 @@ taag	B
 phaab	I
 taag	I
 pheev	I
-phaab	O
-taag	O
-pheev	O
 le	O
 hov	O
 .	O
@@ -3251,9 +3236,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 tuaj	O
 lawm	O
 ?	O
@@ -3331,9 +3313,6 @@ tshum	B
 ub	I
 tshum	I
 no	I
-ub	O
-tshum	O
-no	O
 maj	O
 !	O
 !	O
@@ -3514,9 +3493,6 @@ tus	B
 ntaub	I
 tus	I
 ntawv	I
-ntaub	O
-tus	O
-ntawv	O
 ,	O
 txoj	O
 ke	O
@@ -3683,9 +3659,6 @@ koj	B
 txuj	I
 koj	I
 ci	I
-txuj	O
-koj	O
-ci	O
 ...	O
 koj	O
 teej	O
@@ -3722,9 +3695,6 @@ rooj	B
 zeb	I
 rooj	I
 hlau	I
-zeb	O
-rooj	O
-hlau	O
 mus	O
 Nuam	O
 sab	O
@@ -3734,9 +3704,6 @@ luag	B
 zej	I
 luag	I
 zos	I
-zej	O
-luag	O
-zos	O
 txom	O
 nyem	O
 ....	O
@@ -4382,9 +4349,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 los	O
 hais	O
 mas	O

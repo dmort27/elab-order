@@ -110,9 +110,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 ces	O
 kawg	O
 yuav	O
@@ -620,9 +617,6 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 tos	O
 kwvtij	O
 neej	O
@@ -688,9 +682,6 @@ laug	B
 hnub	I
 laug	I
 hmo	I
-hnub	O
-laug	O
-hmo	O
 kom	O
 tas	O
 lub	O
@@ -1126,9 +1117,6 @@ mus	B
 noj	I
 mus	I
 haus	I
-noj	O
-mus	O
-haus	O
 .	O
 
 
@@ -2282,9 +2270,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 .	O
 
 
@@ -2502,9 +2487,6 @@ dab	B
 ub	I
 dab	I
 no	I
-ub	O
-dab	O
-no	O
 pob	O
 ?	O
 
@@ -2747,9 +2729,6 @@ yog	B
 caij	I
 yog	I
 nyoog	I
-caij	O
-yog	O
-nyoog	O
 heev	O
 lawm	O
 laid	O

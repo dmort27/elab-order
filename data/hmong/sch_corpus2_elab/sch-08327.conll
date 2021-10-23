@@ -222,9 +222,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 mas	O
 tsis	O
 paub	O
@@ -319,9 +316,6 @@ kev	B
 txog	I
 kev	I
 txhaum	I
-txog	O
-kev	O
-txhaum	O
 ntau	O
 yam	O
 los	O
@@ -732,9 +726,6 @@ ywj	B
 fab	I
 ywj	I
 fwj	I
-fab	O
-ywj	O
-fwj	O
 rau	O
 qhov	O
 nej	O
@@ -1005,9 +996,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 kev	O
 cai	O
@@ -1118,9 +1106,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 ,	O
 hu	O
 nkauj	O

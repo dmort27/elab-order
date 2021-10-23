@@ -1231,9 +1231,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 kuj	O
 tuaj	O
 kawm	O
@@ -1287,9 +1284,6 @@ muaj	B
 nyiaj	I
 muaj	I
 txiaj	I
-nyiaj	O
-muaj	O
-txiaj	O
 lawm	O
 thiab	O
 .	O
@@ -1626,9 +1620,6 @@ tus	B
 kwv	I
 tus	I
 tij	I
-kwv	O
-tus	O
-tij	O
 thiab	O
 tus	O
 nkauj	O
@@ -1748,9 +1739,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 es	O
 lawv	O
 yuav	O
@@ -1769,9 +1757,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 xwb	O
 --	O
 lawv	O
@@ -1857,9 +1842,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 ,	O
 thiaj	O
 li	O

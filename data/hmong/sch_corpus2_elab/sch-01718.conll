@@ -430,16 +430,10 @@ ntsuag	B
 niam	I
 ntsuag	I
 txiv	I
-niam	O
-ntsuag	O
-txiv	O
 ntsuag	B
 nom	I
 ntsuag	I
 tswv	I
-nom	O
-ntsuag	O
-tswv	O
 .	O
 
 
@@ -460,9 +454,6 @@ tawg	B
 pab	I
 tawg	I
 pawg	I
-pab	O
-tawg	O
-pawg	O
 thiab	O
 nyiaj	O
 pheev	O
@@ -684,9 +675,6 @@ tej	B
 kwv	I
 tej	I
 tij	I
-kwv	O
-tej	O
-tij	O
 lossis	O
 tej	O
 twb	O
@@ -800,9 +788,6 @@ hauv	B
 paug	I
 hauv	I
 ntsis	I
-paug	O
-hauv	O
-ntsis	O
 rua	O
 hmoob	O
 txhua	O

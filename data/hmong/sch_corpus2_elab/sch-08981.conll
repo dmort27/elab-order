@@ -87,9 +87,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 xwb	O
 los	O
 muaj	O
@@ -308,9 +305,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 yam	O
 tsis	O
 muaj	O
@@ -649,9 +643,6 @@ mus	B
 dawb	I
 mus	I
 huv	I
-dawb	O
-mus	O
-huv	O
 tam	O
 li	O
 tus	O
@@ -1066,9 +1057,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 lawm	O
 mas	O
 !	O

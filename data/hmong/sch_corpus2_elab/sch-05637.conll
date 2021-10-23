@@ -583,9 +583,6 @@ sib	B
 hlub	I
 sib	I
 tshua	I
-hlub	O
-sib	O
-tshua	O
 xwb	O
 .	O
 
@@ -683,9 +680,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 mas	O
 niaj	O
 hnub	O
@@ -938,9 +932,6 @@ ywj	B
 fab	I
 ywj	I
 fwj	I
-fab	O
-ywj	O
-fwj	O
 ,	O
 mem	O
 muj	O
@@ -1473,9 +1464,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 li	O
 lawm	O
 os	O
@@ -1504,9 +1492,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 os	O
 mog	O
 .	O

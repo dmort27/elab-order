@@ -1105,9 +1105,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 los	O
 tha	O
 los	O
@@ -1179,9 +1176,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 achieved	O
 a	O
 rank	O
@@ -1356,9 +1350,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 uas	O
 thaum	O
 Xou	O
@@ -2027,9 +2018,6 @@ peem	B
 ciaj	I
 peem	I
 tuag	I
-ciaj	O
-peem	O
-tuag	O
 muab	O
 txojsia	O
 thiab	O
@@ -2442,9 +2430,6 @@ ywj	B
 fab	I
 ywj	I
 fwj	I
-fab	O
-ywj	O
-fwj	O
 ,	O
 sib	O
 npug	O
@@ -2494,9 +2479,6 @@ khoom	B
 vaj	I
 khoom	I
 tsev	I
-vaj	O
-khoom	O
-tsev	O
 hauv	O
 nws	O
 lub	O
@@ -2515,9 +2497,6 @@ khoom	B
 vaj	I
 khoom	I
 tsev	I
-vaj	O
-khoom	O
-tsev	O
 thiab	O
 tsiaj	O
 txhu	O
@@ -2534,9 +2513,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 tau	O
 ob	O
 peb	O
@@ -2880,9 +2856,6 @@ ywj	B
 fab	I
 ywj	I
 fwj	I
-fab	O
-ywj	O
-fwj	O
 nyuaj	O
 siab	O
 kawg	O
@@ -3296,9 +3269,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 .	O
 
 
@@ -3340,9 +3310,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 thiab	O
 yuav	O
 dhau	O
@@ -3352,9 +3319,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 .	O
 ''	O
 
@@ -3548,9 +3512,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 ua	O
 siv	O
 siv	O
@@ -3559,9 +3520,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 rau	O
 peb	O
 haivneeg	O
@@ -4256,17 +4214,11 @@ ceg	B
 hmab	I
 ceg	I
 ntoo	I
-hmab	O
-ceg	O
-ntoo	O
 ,	O
 yoo	B
 tshaib	I
 yoo	I
 nqhis	I
-tshaib	O
-yoo	O
-nqhis	O
 --	O
 -	O
 ua	O
@@ -4428,9 +4380,6 @@ tsis	B
 deb	I
 tsis	I
 zes	I
-deb	O
-tsis	O
-zes	O
 ntawm	O
 ib	O
 tug	O
@@ -4550,9 +4499,6 @@ ywj	B
 fab	I
 ywj	I
 fwj	I
-fab	O
-ywj	O
-fwj	O
 ,	O
 kuv	O
 niam	O
@@ -4658,9 +4604,6 @@ nco	B
 niam	I
 nco	I
 txiv	I
-niam	O
-nco	O
-txiv	O
 tshaj	O
 plaws	O
 .	O

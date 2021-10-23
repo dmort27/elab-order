@@ -431,9 +431,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 tias	O
 Hmoob	O
 kubxaj	O
@@ -652,9 +649,6 @@ yuav	B
 noj	I
 yuav	I
 haus	I
-noj	O
-yuav	O
-haus	O
 .	O
 
 
@@ -823,9 +817,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 ,	O
 muaj	O
 liaj	O
@@ -911,9 +902,6 @@ muaj	B
 riam	I
 muaj	I
 phom	I
-riam	O
-muaj	O
-phom	O
 thiab	O
 ,	O
 luag	O

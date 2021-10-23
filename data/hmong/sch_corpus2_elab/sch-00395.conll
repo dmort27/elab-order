@@ -817,9 +817,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 li	O
 lawm	O
 .	O
@@ -932,9 +929,6 @@ tsis	B
 paub	I
 tsis	I
 hnov	I
-paub	O
-tsis	O
-hnov	O
 thaum	O
 hnov	O
 ces	O

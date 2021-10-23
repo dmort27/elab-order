@@ -92,9 +92,6 @@ pab	B
 ntau	I
 pab	I
 tsawg	I
-ntau	O
-pab	O
-tsawg	O
 los	O
 nej	O
 cov	O
@@ -219,9 +216,6 @@ kuv	B
 vaj	I
 kuv	I
 tsev	I
-vaj	O
-kuv	O
-tsev	O
 tsam	O
 rau	O
 kuv	O

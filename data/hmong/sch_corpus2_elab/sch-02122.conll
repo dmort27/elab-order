@@ -122,9 +122,6 @@ paub	B
 qab	I
 paub	I
 hau	I
-qab	O
-paub	O
-hau	O
 ,	O
 paub	O
 txog	O
@@ -132,9 +129,6 @@ yam	B
 phem	I
 yam	I
 zoo	I
-phem	O
-yam	O
-zoo	O
 ,	O
 nws	O
 yuav	O
@@ -618,9 +612,6 @@ xaiv	B
 nom	I
 xaiv	I
 tswv	I
-nom	O
-xaiv	O
-tswv	O
 ,	O
 los	O
 yog	O

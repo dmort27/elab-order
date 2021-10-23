@@ -253,9 +253,6 @@ suab	B
 quaj	I
 suab	I
 nyiav	I
-quaj	O
-suab	O
-nyiav	O
 mam	O
 laug	O
 laws	O
@@ -430,9 +427,6 @@ tub	B
 sab	I
 tub	I
 nyiag	I
-sab	O
-tub	O
-nyiag	O
 twv	O
 txiaj	O
 yuam	O
@@ -813,9 +807,6 @@ ntau	B
 leej	I
 ntau	I
 tus	I
-leej	O
-ntau	O
-tus	O
 Hmoob	O
 cov	O
 hluas	O
@@ -940,9 +931,6 @@ sib	B
 daj	I
 sib	I
 deev	I
-daj	O
-sib	O
-deev	O
 .	O
 
 
@@ -1271,9 +1259,6 @@ tua	B
 nas	I
 tua	I
 noog	I
-nas	O
-tua	O
-noog	O
 pem	O
 roob	O
 thiab	O

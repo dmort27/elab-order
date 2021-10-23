@@ -256,17 +256,11 @@ qhua	B
 txwj	I
 qhua	I
 laus	I
-txwj	O
-qhua	O
-laus	O
 ,	O
 qhua	B
 nom	I
 qhua	I
 tswv	I
-nom	O
-qhua	O
-tswv	O
 sawvdaws	O
 ..	O
 ''	O
@@ -300,9 +294,6 @@ qhua	B
 num	I
 qhua	I
 tswv	I
-num	O
-qhua	O
-tswv	O
 ........	O
 siav	O
 ...	O
@@ -444,9 +435,6 @@ qhua	B
 num	I
 qhua	I
 tswv	I
-num	O
-qhua	O
-tswv	O
 ,	O
 neeb	O
 niag	O
@@ -466,9 +454,6 @@ qhua	B
 num	I
 qhua	I
 tswv	I
-num	O
-qhua	O
-tswv	O
 ,	O
 qhua	O
 txij	O
@@ -1312,9 +1297,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 ..	O
 )	O
 ,	O
@@ -2581,9 +2563,6 @@ ua	B
 dej	I
 ua	I
 num	I
-dej	O
-ua	O
-num	O
 li	O
 nawd.Kuv	O
 twb	O
@@ -3037,9 +3016,6 @@ tsev	B
 ploj	I
 tsev	I
 tuag	I
-ploj	O
-tsev	O
-tuag	O
 ,	O
 tsev	O
 pua	O
@@ -3105,9 +3081,6 @@ nws	B
 qav	I
 nws	I
 num	I
-qav	O
-nws	O
-num	O
 kom	O
 tseg	O
 hlo	O
@@ -3168,9 +3141,6 @@ tus	B
 txiaj	I
 tus	I
 ntsim	I
-txiaj	O
-tus	O
-ntsim	O
 ,	O
 yog	O
 tsis	O

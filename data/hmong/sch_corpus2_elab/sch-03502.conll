@@ -85,9 +85,6 @@ txiv	B
 qeej	I
 txiv	I
 nruas	I
-qeej	O
-txiv	O
-nruas	O
 li	O
 no	O
 .	O
@@ -794,17 +791,11 @@ kev	B
 tshoob	I
 kev	I
 kos	I
-tshoob	O
-kev	O
-kos	O
 ..	O
 kev	B
 neej	I
 kev	I
 tsaav	I
-neej	O
-kev	O
-tsaav	O
 ...	O
 example	O
 ....	O

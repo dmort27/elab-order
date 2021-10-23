@@ -382,9 +382,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 .	O
 
 
@@ -461,9 +458,6 @@ ua	B
 phooj	I
 ua	I
 ywg	I
-phooj	O
-ua	O
-ywg	O
 zoo	O
 .	O
 
@@ -528,9 +522,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 thiab	O
 tig	O
 rov	O
@@ -567,9 +558,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 thiab	O
 tso	O
 tseg	O
@@ -579,9 +567,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 .	O
 
 

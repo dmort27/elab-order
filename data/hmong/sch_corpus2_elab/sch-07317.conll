@@ -224,9 +224,6 @@ ua	B
 hmo	I
 ua	I
 tshais	I
-hmo	O
-ua	O
-tshais	O
 ntawd	O
 (	O
 I	O
@@ -601,9 +598,6 @@ tsis	B
 mob	I
 tsis	I
 khaus	I
-mob	O
-tsis	O
-khaus	O
 lawv	O
 vim	O
 lawv	O
@@ -773,9 +767,6 @@ hmoob	B
 neej	I
 hmoob	I
 tsav	I
-neej	O
-hmoob	O
-tsav	O
 sib	O
 ntxub	O
 xwb	O

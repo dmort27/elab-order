@@ -45,17 +45,11 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ,	O
 muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 li	O
 lwm	O
 hais	O
@@ -1039,9 +1033,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 hmoob	O
 tau2	O
 zoo	O

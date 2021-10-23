@@ -183,9 +183,6 @@ sib	B
 daj	I
 sib	I
 deev	I
-daj	O
-sib	O
-deev	O
 ,	O
 thaum	O
 luag	O
@@ -643,9 +640,6 @@ qai	B
 tooj	I
 qai	I
 hlau	I
-tooj	O
-qai	O
-hlau	O
 or	O
 nplaim	O
 tooj	O
@@ -949,9 +943,6 @@ qai	B
 tooj	I
 qai	I
 hlau	I
-tooj	O
-qai	O
-hlau	O
 nyob	O
 rau	O
 txiv	O

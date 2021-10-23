@@ -228,9 +228,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 tsis	O
 ntev	O
 LPDR	O
@@ -272,9 +269,6 @@ tus	B
 neej	I
 tus	I
 tsav	I
-neej	O
-tus	O
-tsav	O
 ua	O
 lub	O
 chaw	O
@@ -736,9 +730,6 @@ tom	B
 ntej	I
 tom	I
 qaab	I
-ntej	O
-tom	O
-qaab	O
 dlaab	O
 tsi	O
 hlox	O
@@ -832,9 +823,6 @@ ua	B
 dlej	I
 ua	I
 num	I
-dlej	O
-ua	O
-num	O
 yog	O
 ``	O
 Dev	O

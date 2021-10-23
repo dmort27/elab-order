@@ -300,9 +300,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 npe	O
 .	O
 
@@ -724,9 +721,6 @@ muaj	B
 nuj	I
 muaj	I
 nqi	I
-nuj	O
-muaj	O
-nqi	O
 yuav	O
 zoo	O
 dua	O

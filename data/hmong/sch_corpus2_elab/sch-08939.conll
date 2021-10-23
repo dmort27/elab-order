@@ -359,9 +359,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 (	O
 saib	O
 cov	O
@@ -908,9 +905,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 zov	O
 hav	O
 zoov	O
@@ -1056,9 +1050,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 tau	O
 30	O
 tawm	O
@@ -1283,9 +1274,6 @@ fim	B
 ntsej	I
 fim	I
 muag	I
-ntsej	O
-fim	O
-muag	O
 ,	O
 kwv	O
 tij	O
@@ -1298,9 +1286,6 @@ cai	B
 pab	I
 cai	I
 pawg	I
-pab	O
-cai	O
-pawg	O
 tias	O
 koj	O
 yog	O
@@ -1532,9 +1517,6 @@ yog	B
 nom	I
 yog	I
 tswv	I
-nom	O
-yog	O
-tswv	O
 es	O
 nthe	O
 ib	O
@@ -1574,9 +1556,6 @@ tej	B
 kwv	I
 tej	I
 tij	I
-kwv	O
-tej	O
-tij	O
 no	O
 xwb	O
 .	O
@@ -1848,9 +1827,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 tab	O
 sis	O
 phooj	O
@@ -1926,9 +1902,6 @@ mag	B
 cuab	I
 mag	I
 khi	I
-cuab	O
-mag	O
-khi	O
 lawm	O
 ua	O
 li	O

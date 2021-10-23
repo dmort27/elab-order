@@ -373,9 +373,6 @@ sib	B
 txhawb	I
 sib	I
 pab	I
-txhawb	O
-sib	O
-pab	O
 .	O
 
 
@@ -579,9 +576,6 @@ dlha	B
 sab	I
 dlha	I
 qeg	I
-sab	O
-dlha	O
-qeg	O
 xwb	O
 .	O
 
@@ -921,9 +915,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 ntxias	O
 tus	O
 Hmoob	O
@@ -2296,9 +2287,6 @@ sib	B
 txhawb	I
 sib	I
 pab	I
-txhawb	O
-sib	O
-pab	O
 .	O
 
 
@@ -2907,9 +2895,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 ntxias	O
 tus	O
 Hmoob	O

@@ -64,9 +64,6 @@ nplooj	B
 hmab	I
 nplooj	I
 ntoo	I
-hmab	O
-nplooj	O
-ntoo	O
 ,	O
 tos	O
 txog	O
@@ -460,9 +457,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 los	O
 yug	O
 siav	O
@@ -490,9 +484,6 @@ tua	B
 tsiaj	I
 tua	I
 txhuv	I
-tsiaj	O
-tua	O
-txhuv	O
 ua	O
 ntshav	O
 liab	O
@@ -513,9 +504,6 @@ ua	B
 phooj	I
 ua	I
 ywg	I
-phooj	O
-ua	O
-ywg	O
 .	O
 
 
@@ -2359,9 +2347,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 nyob	O
 rau	O
 Nplog	O
@@ -2411,9 +2396,6 @@ ntsis	B
 ntaj	I
 ntsis	I
 phom	I
-ntaj	O
-ntsis	O
-phom	O
 los	O
 yuav	O
 tuag	O
@@ -2448,9 +2430,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 xwb	O
 .	O
 

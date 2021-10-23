@@ -696,9 +696,6 @@ ua	B
 dlog	I
 ua	I
 dlig	I
-dlog	O
-ua	O
-dlig	O
 le	O
 tad	O
 ....	O
@@ -1166,9 +1163,6 @@ tu	B
 vaj	I
 tu	I
 tsev	I
-vaj	O
-tu	O
-tsev	O
 .	O
 
 
@@ -1293,9 +1287,6 @@ rau	B
 tes	I
 rau	I
 taw	I
-tes	O
-rau	O
-taw	O
 ,	O
 tu	O
 huv	O

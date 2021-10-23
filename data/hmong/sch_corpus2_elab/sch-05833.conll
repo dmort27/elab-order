@@ -157,9 +157,6 @@ lawv	B
 noj	I
 lawv	I
 haus	I
-noj	O
-lawv	O
-haus	O
 li	O
 .	O
 
@@ -557,9 +554,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -728,9 +722,6 @@ tej	B
 rooj	I
 tej	I
 tog	I
-rooj	O
-tej	O
-tog	O
 ua	O
 ke	O
 xwb	O

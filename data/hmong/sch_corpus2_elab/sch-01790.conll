@@ -358,17 +358,11 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 raws	O
 yus	B
 pab	I
 yus	I
 pawg	I
-pab	O
-yus	O
-pawg	O
 Hmoob	O
 xwb	O
 thiaj	O
@@ -746,9 +740,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 ,	O
 los	O
 ntxias	O
@@ -1265,9 +1256,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 los	O
 yeej	O
 zoo	O
@@ -1654,9 +1642,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 los	O
 rau	O
 noobneej	O
@@ -2273,9 +2258,6 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 .	O
 
 
@@ -2450,9 +2432,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 mus	O
 ua	O
 dab	O
@@ -4483,9 +4462,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 nyob	O
 hauv	O
 lub	O

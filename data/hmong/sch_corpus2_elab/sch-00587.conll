@@ -974,9 +974,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 nyiaj	O
 SSI	O
 .	O
@@ -1025,9 +1022,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 .	O
 
 
@@ -1341,9 +1335,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 nyiaj	O
 SSI	O
 .	O
@@ -1392,9 +1383,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 .	O
 
 
@@ -2230,9 +2218,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 thiab	O
 ua	O
 rau	O
@@ -2251,9 +2236,6 @@ kev	B
 phem	I
 kev	I
 qias	I
-phem	O
-kev	O
-qias	O
 uas	O
 nyob	O
 hauv	O
@@ -2278,9 +2260,6 @@ yam	B
 ub	I
 yam	I
 no	I
-ub	O
-yam	O
-no	O
 tab	O
 sis	O
 koj	O
@@ -2313,12 +2292,6 @@ sib	B
 ceg	I
 sib	I
 ntaus	I
-ceg	O
-sib	B
-ntaus	I
-sib	I
-tua	I
-ntaus	O
 sib	O
 tua	O
 .	O
@@ -2539,9 +2512,6 @@ dej	B
 kub	I
 dej	I
 npau	I
-kub	O
-dej	O
-npau	O
 uas	O
 Vajtswv	O
 tab	O
@@ -2600,9 +2570,6 @@ nws	B
 kwv	I
 nws	I
 tij	I
-kwv	O
-nws	O
-tij	O
 ,	O
 nws	O
 ua	O
@@ -2698,9 +2665,6 @@ dej	B
 kub	I
 dej	I
 npau	I
-kub	O
-dej	O
-npau	O
 thiab	O
 nkuajtawg	O
 lawm	O
@@ -2890,9 +2854,6 @@ ya	B
 mus	I
 ya	I
 los	I
-mus	O
-ya	O
-los	O
 ntev	O
 loo	O
 yog	O

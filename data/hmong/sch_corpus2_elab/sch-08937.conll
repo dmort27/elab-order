@@ -121,9 +121,6 @@ khiav	B
 mus	I
 khiav	I
 los	I
-mus	O
-khiav	O
-los	O
 nyob	O
 luag	O
 ntxhi	O
@@ -268,9 +265,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 lawm	O
 xwb	O
 .	O
@@ -302,9 +296,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 tham	O
 lawm-lawv	O
 siab	O
@@ -647,9 +638,6 @@ txog	B
 vaj	I
 txog	I
 tsev	I
-vaj	O
-txog	O
-tsev	O
 lawm	O
 ,	O
 ntiav	O
@@ -705,9 +693,6 @@ kam	B
 teb	I
 kam	I
 chaw	I
-teb	O
-kam	O
-chaw	O
 ,	O
 tuaj	O
 kom	O

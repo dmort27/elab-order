@@ -14,9 +14,6 @@ laug	B
 hnub	I
 laug	I
 hmo	I
-hnub	O
-laug	O
-hmo	O
 rau	O
 peb	O
 saib	O
@@ -119,9 +116,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 ces	O
 txog	O
 thaum	O
@@ -174,9 +168,6 @@ khuj	B
 noj	I
 khuj	I
 haus	I
-noj	O
-khuj	O
-haus	O
 mas	O
 mus	O
 npam	O
@@ -189,9 +180,6 @@ xeeb	B
 luj	I
 xeeb	I
 lam	I
-luj	O
-xeeb	O
-lam	O
 tiam	O
 sis	O
 ziag	O
@@ -451,9 +439,6 @@ tag	B
 phab	I
 tag	I
 pheev	I
-phab	O
-tag	O
-pheev	O
 li	O
 no	O
 ntag	O
@@ -998,9 +983,6 @@ txam	B
 zeb	I
 txam	I
 tsua	I
-zeb	O
-txam	O
-tsua	O
 ,	O
 ntuag	O
 qhov	O

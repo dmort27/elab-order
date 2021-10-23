@@ -578,9 +578,6 @@ txog	B
 vaj	I
 txog	I
 tsev	I
-vaj	O
-txog	O
-tsev	O
 thiab	O
 ua	O
 tau	O
@@ -699,9 +696,6 @@ tuag	B
 dawb	I
 tuag	I
 do	I
-dawb	O
-tuag	O
-do	O
 .	O
 
 
@@ -1286,9 +1280,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 .	O
 
 
@@ -2752,9 +2743,6 @@ tej	B
 txheeb	I
 tej	I
 ze	I
-txheeb	O
-tej	O
-ze	O
 yeej	O
 yuav	O
 tuaj	O
@@ -2827,9 +2815,6 @@ ua	B
 ntaub	I
 ua	I
 ntawv	I
-ntaub	O
-ua	O
-ntawv	O
 thiab	O
 tuaj	O
 ntoj	O

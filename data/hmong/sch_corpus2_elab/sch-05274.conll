@@ -24,9 +24,6 @@ leej	B
 niam	I
 leej	I
 txiv	I
-niam	O
-leej	O
-txiv	O
 thiab	O
 tej	O
 neej	O
@@ -53,9 +50,6 @@ paub	B
 tab	I
 paub	I
 cai	I
-tab	O
-paub	O
-cai	O
 ntawm	O
 ib	O
 tus	O
@@ -70,9 +64,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 ces	O
 ua	O
 li	O
@@ -109,9 +100,6 @@ nrog	B
 niam	I
 nrog	I
 txiv	I
-niam	O
-nrog	O
-txiv	O
 tham	O
 mam	O
 coj	O
@@ -551,9 +539,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 thiab	O
 .	O
 
@@ -671,9 +656,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 pom	O
 laid	O
 .....	O
@@ -769,9 +751,6 @@ khib	B
 ciaj	I
 khib	I
 tuag	I
-ciaj	O
-khib	O
-tuag	O
 .	O
 ''	O
 
@@ -802,9 +781,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 zoo	O
 li	O
 cas	O

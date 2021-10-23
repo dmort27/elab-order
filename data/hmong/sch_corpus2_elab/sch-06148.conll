@@ -173,9 +173,6 @@ tag	B
 kwv	I
 tag	I
 tij	I
-kwv	O
-tag	O
-tij	O
 mus	O
 tham	O
 nkauj	O
@@ -210,9 +207,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 li	O
 .	O
 
@@ -233,9 +227,6 @@ luag	B
 niam	I
 luag	I
 txiv	I
-niam	O
-luag	O
-txiv	O
 mas	O
 nyias	O
 rau	O
@@ -920,9 +911,6 @@ txhua	B
 niaj	I
 txhua	I
 xyoo	I
-niaj	O
-txhua	O
-xyoo	O
 ,	O
 yeej	O
 tsis	O
@@ -1134,9 +1122,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 tiag	O
 tiag	O
 ;	O
@@ -1153,9 +1138,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 yuav	O
 nyob	O
 ntawv	O

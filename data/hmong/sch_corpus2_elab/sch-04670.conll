@@ -181,9 +181,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 sib	O
 tham	O
 koj	O
@@ -724,9 +721,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 tham	O
 xwb	O
 naj	O
@@ -769,9 +763,6 @@ zoo	B
 hnub	I
 zoo	I
 hmo	I
-hnub	O
-zoo	O
-hmo	O
 nws	O
 mam	O
 tuaj	O
@@ -917,9 +908,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 xwb	O
 .	O
 
@@ -942,9 +930,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 kom	O
 sib	O
 tau	O
@@ -1016,9 +1001,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 no	O
 kuv	O
 xav	O
@@ -1290,9 +1272,6 @@ sib	B
 thuam	I
 sib	I
 tshum	I
-thuam	O
-sib	O
-tshum	O
 kom	O
 peb	O
 txhua	O
@@ -1484,9 +1463,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 coj	O
 los	O
 hais	O
@@ -1664,9 +1640,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 ,	O
 thiaj	O
 li	O
@@ -1681,9 +1654,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 .	O
 
 
@@ -1759,9 +1729,6 @@ tsi	B
 txawj	I
 tsi	I
 ntse	I
-txawj	O
-tsi	O
-ntse	O
 ib	O
 yam	O
 ,	O
@@ -1855,9 +1822,6 @@ txog	B
 vaj	I
 txog	I
 tsev	I
-vaj	O
-txog	O
-tsev	O
 lawm	O
 --	O
 rov	O
@@ -1867,9 +1831,6 @@ cov	B
 phooj	I
 cov	I
 ywg	I
-phooj	O
-cov	O
-ywg	O
 ,	O
 ces	O
 tej	O
@@ -1897,9 +1858,6 @@ los	B
 vaj	I
 los	I
 tsev	I
-vaj	O
-los	O
-tsev	O
 .	O
 
 

@@ -424,9 +424,6 @@ rooj	B
 plaub	I
 rooj	I
 ntug	I
-plaub	O
-rooj	O
-ntug	O
 lawm	O
 los	O
 kuj	O
@@ -981,9 +978,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 politic	O
 in	O
 this	O
@@ -997,9 +991,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 no	O
 li	O
 lauv	O
@@ -1050,9 +1041,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 thiab	O
 lauv	O
 .	O
@@ -1235,9 +1223,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 .	O
 
 
@@ -1458,9 +1443,6 @@ raug	B
 vaj	I
 raug	I
 tsev	I
-vaj	O
-raug	O
-tsev	O
 thiab	O
 .	O
 
@@ -1599,9 +1581,6 @@ tag	B
 hnub	I
 tag	I
 hmo	I
-hnub	O
-tag	O
-hmo	O
 xwb	O
 .	O
 

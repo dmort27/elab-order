@@ -249,9 +249,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 ,	O
 muab	O
 tsi	O
@@ -292,9 +289,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 teev	O
 hawm	O
 thiab	O
@@ -313,9 +307,6 @@ pov	B
 hwm	I
 pov	I
 yoom	I
-hwm	O
-pov	O
-yoom	O
 yus	O
 ,	O
 tsi	O
@@ -327,9 +318,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 thov	O
 kom	O
 saib	O
@@ -390,9 +378,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 mus	O
 hawm	O
 li	O
@@ -815,9 +800,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 li	O
 .	O
 
@@ -1081,9 +1063,6 @@ leej	B
 niam	I
 leej	I
 txiv	I
-niam	O
-leej	O
-txiv	O
 saib	O
 xyuas	O
 ces	O

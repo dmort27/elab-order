@@ -84,9 +84,6 @@ xab	B
 nom	I
 xab	I
 tswv	I
-nom	O
-xab	O
-tswv	O
 ntawd	O
 los	O
 twb	O
@@ -112,9 +109,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 qub	O
 .	O
 
@@ -181,9 +175,6 @@ yuav	B
 noj	I
 yuav	I
 haus	I
-noj	O
-yuav	O
-haus	O
 .	O
 
 
@@ -346,9 +337,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 feem	O
 coob	O
 nyob	O
@@ -815,9 +803,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ,	O
 ceej	O
 cia	O
@@ -910,9 +895,6 @@ yuav	B
 cem	I
 yuav	I
 thuam	I
-cem	O
-yuav	O
-thuam	O
 Niahoo	O
 ntxiv	O
 lawm	O
@@ -948,9 +930,6 @@ yuav	B
 cem	I
 yuav	I
 thuam	I
-cem	O
-yuav	O
-thuam	O
 nws	O
 ua	O
 luaj	O
@@ -1011,9 +990,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ntxiv	O
 lawm	O
 no	O
@@ -1229,9 +1205,6 @@ thaj	B
 yog	I
 thaj	I
 zoo	I
-yog	O
-thaj	O
-zoo	O
 tshaj	O
 lawm	O
 .	O
@@ -1252,9 +1225,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 nyob	O
 ces	O
 luag	O
@@ -1265,9 +1235,6 @@ xav	B
 txib	I
 xav	I
 hu	I
-txib	O
-xav	O
-hu	O
 ,	O
 tab	O
 sis	O

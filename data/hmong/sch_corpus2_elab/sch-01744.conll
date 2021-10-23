@@ -578,9 +578,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 raws	O
 li	O
@@ -638,9 +635,6 @@ pw	B
 noj	I
 pw	I
 haus	I
-noj	O
-pw	O
-haus	O
 ntawm	O
 cov	O
 hluav	O
@@ -688,9 +682,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 raws	O
 tej	O
 ntug	O

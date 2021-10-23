@@ -26,9 +26,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 lawm	O
 no	O
 .	O
@@ -988,9 +985,6 @@ puag	B
 tes	I
 puag	I
 taw	I
-tes	O
-puag	O
-taw	O
 nyob	O
 mloog	O
 saib	O
@@ -2308,9 +2302,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 es	O
 leej	O
 twg	O
@@ -2734,9 +2725,6 @@ ntxhais	B
 txawj	I
 ntxhais	I
 ntse	I
-txawj	O
-ntxhais	O
-ntse	O
 --	O
 nws	O
 siv	O
@@ -2781,9 +2769,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 ua	O
 paub	O
 tab	O

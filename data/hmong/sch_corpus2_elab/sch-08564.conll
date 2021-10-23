@@ -277,9 +277,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 es	O
 yuav	O
 mus	O
@@ -289,9 +286,6 @@ ua	B
 dlog	I
 ua	I
 dlig	I
-dlog	O
-ua	O
-dlig	O
 le	O
 hod	O
 .	O
@@ -818,9 +812,6 @@ tshum	B
 ub	I
 tshum	I
 no	I
-ub	O
-tshum	O
-no	O
 tuaj	O
 ,	O
 ces	O

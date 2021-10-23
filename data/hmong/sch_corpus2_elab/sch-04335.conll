@@ -102,9 +102,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 paab	O
 tug	O
 puj	O
@@ -469,9 +466,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 ,	O
 zoosiab	O
 ,	O
@@ -724,9 +718,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 los	O
 ,	O
 kuv	O
@@ -754,9 +745,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 --	O
 kom	O
 kuv	O
@@ -801,9 +789,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ,	O
 kuv	O
 twb	O

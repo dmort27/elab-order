@@ -24,9 +24,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 .	O
 
 
@@ -174,9 +171,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 hauv	O
 lub	O
 qab	O
@@ -246,9 +240,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 lawm	O
 xwb	O
 .	O
@@ -316,9 +307,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 --	O
 tsi	O
 muaj	O
@@ -382,9 +370,6 @@ nrog	B
 kev	I
 nrog	I
 cai	I
-kev	O
-nrog	O
-cai	O
 ,	O
 kom	O
 pejxeem	O
@@ -486,9 +471,6 @@ ua	B
 nas	I
 ua	I
 noog	I
-nas	O
-ua	O
-noog	O
 nyob	O
 zov	O
 tej	O
@@ -587,9 +569,6 @@ me	B
 xyoob	I
 me	I
 ntoo	I
-xyoob	O
-me	O
-ntoo	O
 puv	O
 npo	O
 tag	O
@@ -858,9 +837,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 .	O
 
 
@@ -1296,9 +1272,6 @@ ntshaw	B
 nom	I
 ntshaw	I
 tswv	I
-nom	O
-ntshaw	O
-tswv	O
 ,	O
 kev	O
 xav	O
@@ -1619,9 +1592,6 @@ ua	B
 loj	I
 ua	I
 lug	I
-loj	O
-ua	O
-lug	O
 nriav	O
 teeb	O
 meem	O
@@ -1735,9 +1705,6 @@ tsis	B
 pom	I
 tsis	I
 paub	I
-pom	O
-tsis	O
-paub	O
 li	O
 ,	O
 kuv	O
@@ -1838,9 +1805,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ,	O
 Thiaj	O
 tsis	O
@@ -2473,9 +2437,6 @@ ywj	B
 fab	I
 ywj	I
 fwj	I
-fab	O
-ywj	O
-fwj	O
 pheej	O
 yuav	O
 xuas	O

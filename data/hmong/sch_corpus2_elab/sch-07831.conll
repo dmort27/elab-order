@@ -362,9 +362,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 li	O
 los	O
 .	O
@@ -767,9 +764,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 thiab	O
 ua	O
 heev	O
@@ -891,9 +885,6 @@ yawm	B
 yij	I
 yawm	I
 dab	I
-yij	O
-yawm	O
-dab	O
 xwb	O
 no	O
 tsij	O
@@ -1061,16 +1052,10 @@ kev	B
 kwv	I
 kev	I
 tij	I
-kwv	O
-kev	O
-tij	O
 kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 .	O
 
 
@@ -1108,9 +1093,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -1133,9 +1115,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 tag	O
 lawm	O
 ,	O
@@ -1148,9 +1127,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 xwb	O
 .	O
 
@@ -1214,9 +1190,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 no	O
 xwb	O
 ces	O

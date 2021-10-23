@@ -755,17 +755,11 @@ tej	B
 neej	I
 tej	I
 tsa	I
-neej	O
-tej	O
-tsa	O
 ,	O
 tej	B
 kwv	I
 tej	I
 tij	I
-kwv	O
-tej	O
-tij	O
 .	O
 
 
@@ -1058,9 +1052,6 @@ ua	B
 nam	I
 ua	I
 txiv	I
-nam	O
-ua	O
-txiv	O
 ,	O
 txhaj	O
 tsi	O
@@ -1385,9 +1376,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 muaj	O
 kev	O
 vaam	O
@@ -1960,9 +1948,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 ,	O
 niam	O
 txiv	O
@@ -2129,9 +2114,6 @@ yog	B
 neej	I
 yog	I
 tsaav	I
-neej	O
-yog	O
-tsaav	O
 hab	O
 laiv	O
 yom	O
@@ -2755,9 +2737,6 @@ dhia	B
 siab	I
 dhia	I
 nqi	I
-siab	O
-dhia	O
-nqi	O
 --	O
 ua	O
 heev	O
@@ -3691,9 +3670,6 @@ tsi	B
 txawj	I
 tsi	I
 ntse	I
-txawj	O
-tsi	O
-ntse	O
 sibxws	O
 --	O
 ces	O

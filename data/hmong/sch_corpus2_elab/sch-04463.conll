@@ -419,9 +419,6 @@ yog	B
 nom	I
 yog	I
 tswv	I
-nom	O
-yog	O
-tswv	O
 es	O
 nim	O
 qhuav	O
@@ -1115,9 +1112,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 xwb	O
 .....	O
 nej	O
@@ -1157,9 +1151,6 @@ tub	B
 mab	I
 tub	I
 qhe	I
-mab	O
-tub	O
-qhe	O
 tib	O
 si	O
 ...	O
@@ -2297,9 +2288,6 @@ yuav	B
 vaj	I
 yuav	I
 tsev	I
-vaj	O
-yuav	O
-tsev	O
 .	O
 
 
@@ -2917,9 +2905,6 @@ ua	B
 nrw	I
 ua	I
 nrees	I
-nrw	O
-ua	O
-nrees	O
 li	O
 cov	O
 ua	O
@@ -3410,9 +3395,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 ,	O
 coj	O
 tsis	O
@@ -3903,9 +3885,6 @@ yog	B
 nom	I
 yog	I
 tswv	I
-nom	O
-yog	O
-tswv	O
 es	O
 nim	O
 qhuav	O
@@ -4599,9 +4578,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 xwb	O
 .....	O
 nej	O
@@ -4641,9 +4617,6 @@ tub	B
 mab	I
 tub	I
 qhe	I
-mab	O
-tub	O
-qhe	O
 tib	O
 si	O
 ...	O
@@ -5781,9 +5754,6 @@ yuav	B
 vaj	I
 yuav	I
 tsev	I
-vaj	O
-yuav	O
-tsev	O
 .	O
 
 
@@ -6401,9 +6371,6 @@ ua	B
 nrw	I
 ua	I
 nrees	I
-nrw	O
-ua	O
-nrees	O
 li	O
 cov	O
 ua	O
@@ -6894,9 +6861,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 ,	O
 coj	O
 tsis	O
@@ -7077,9 +7041,6 @@ yuav	B
 vaj	I
 yuav	I
 tsev	I
-vaj	O
-yuav	O
-tsev	O
 .	O
 
 
@@ -7697,9 +7658,6 @@ ua	B
 nrw	I
 ua	I
 nrees	I
-nrw	O
-ua	O
-nrees	O
 li	O
 cov	O
 ua	O
@@ -8190,9 +8148,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 ,	O
 coj	O
 tsis	O
@@ -8441,9 +8396,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 luag	O
 hais	O
 lus	O
@@ -8717,9 +8669,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 ,	O
 yog	O
 luag	O
@@ -9019,9 +8968,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 li	O
 nawb	O
 mog	O

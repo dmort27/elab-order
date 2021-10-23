@@ -1794,9 +1794,6 @@ mloog	B
 qab	I
 mloog	I
 hauv	I
-qab	O
-mloog	O
-hauv	O
 nas	O
 .	O
 
@@ -1986,9 +1983,6 @@ hnab	B
 ris	I
 hnab	I
 tsho	I
-ris	O
-hnab	O
-tsho	O
 lawm	O
 es	O
 mam	O
@@ -2053,9 +2047,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 ua	O
 luaj	O
 los	O
@@ -2327,9 +2318,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 xwb	O
 es	O
 tsis	O
@@ -2338,9 +2326,6 @@ siv	B
 riam	I
 siv	I
 phom	I
-riam	O
-siv	O
-phom	O
 ,	O
 siv	O
 dej	O

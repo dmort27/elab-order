@@ -936,9 +936,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 tiag	O
 tabsis	O
 puas	O
@@ -1299,9 +1296,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 Deja	O
 tsis	O
 yog	O
@@ -1580,9 +1574,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ces	O
 koj	O
 yeej	O
@@ -1943,9 +1934,6 @@ kis	B
 toj	I
 kis	I
 pes	I
-toj	O
-kis	O
-pes	O
 li	O
 no	O
 .	O
@@ -2948,9 +2936,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 haistias	O
 tsis	O
 yog	O

@@ -56,9 +56,6 @@ nyias	B
 zej	I
 nyias	I
 zos	I
-zej	O
-nyias	O
-zos	O
 raws	O
 li	O
 tsoom	O
@@ -302,9 +299,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 nrog	O
 tib	O
 si	O
@@ -389,9 +383,6 @@ txog	B
 caij	I
 txog	I
 nyoog	I
-caij	O
-txog	O
-nyoog	O
 luag	O
 yuav	O
 ua	O
@@ -1192,9 +1183,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 na	O
 ?	O
 
@@ -1853,9 +1841,6 @@ qhov	B
 zoo	I
 qhov	I
 phem	I
-zoo	O
-qhov	O
-phem	O
 thiab	O
 laiv	O
 .	O

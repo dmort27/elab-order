@@ -1354,9 +1354,6 @@ tham	B
 mus	I
 tham	I
 los	I
-mus	O
-tham	O
-los	O
 ces	O
 kuv	O
 thiaj	O
@@ -1516,9 +1513,6 @@ qhia	B
 ub	I
 qhia	I
 no	I
-ub	O
-qhia	O
-no	O
 kom	O
 Phabej	O
 paub	O
@@ -1786,9 +1780,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 kom	O
 Phabej	O
 paub	O
@@ -1978,9 +1969,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 twb	O
 tsis	O
 tau	O
@@ -2140,9 +2128,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 tag	O
 na	O
 li	O

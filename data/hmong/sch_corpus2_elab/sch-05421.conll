@@ -71,16 +71,10 @@ khoom	B
 ub	I
 khoom	I
 no	I
-ub	O
-khoom	O
-no	O
 rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 los	O
 teb	O
 chaws	O
@@ -494,9 +488,6 @@ ua	B
 dlej	I
 ua	I
 num	I
-dlej	O
-ua	O
-num	O
 .	O
 
 
@@ -559,9 +550,6 @@ naj	B
 nub	I
 naj	I
 mo	I
-nub	O
-naj	O
-mo	O
 tawg	O
 yawd	O
 xwb	O
@@ -975,9 +963,6 @@ ua	B
 mus	I
 ua	I
 los	I
-mus	O
-ua	O
-los	O
 lawv	O
 ntes	O
 tau	O

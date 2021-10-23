@@ -1118,9 +1118,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 es	O
 txhua	O
 yam	O
@@ -1130,9 +1127,6 @@ ua	B
 txhij	I
 ua	I
 txhua	I
-txhij	O
-ua	O
-txhua	O
 --	O
 yeej	O
 paub	O
@@ -1362,9 +1356,6 @@ tig	B
 ntsej	I
 tig	I
 muag	I
-ntsej	O
-tig	O
-muag	O
 rov	O
 saib	O
 tuaj	O
@@ -1735,9 +1726,6 @@ muaj	B
 nyiaj	I
 muaj	I
 txiaj	I
-nyiaj	O
-muaj	O
-txiaj	O
 nyob	O
 tom	O
 txhab	O
@@ -1816,9 +1804,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 ,	O
 muaj	O
 dab	O
@@ -2419,9 +2404,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 sawv	O
 tau	O
 ntseg	O

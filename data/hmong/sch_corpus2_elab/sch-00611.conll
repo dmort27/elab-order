@@ -470,9 +470,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 ,	O
 peb	O
 tsis	O
@@ -551,9 +548,6 @@ tub	B
 sab	I
 tub	I
 nyiag	I
-sab	O
-tub	O
-nyiag	O
 coob	O
 zuj	O
 zus	O

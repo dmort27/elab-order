@@ -26,9 +26,6 @@ pem	B
 roob	I
 pem	I
 hav	I
-roob	O
-pem	O
-hav	O
 ua	O
 caubfab	O
 .	O
@@ -91,9 +88,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 kiag	O
 li	O
 na	O
@@ -323,9 +317,6 @@ ua	B
 ciaj	I
 ua	I
 tuag	I
-ciaj	O
-ua	O
-tuag	O
 .	O
 
 
@@ -490,9 +481,6 @@ thov	B
 ntuj	I
 thov	I
 dab	I
-ntuj	O
-thov	O
-dab	O
 xwb	O
 mas	O
 lawv	O

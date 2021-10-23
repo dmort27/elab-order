@@ -42,9 +42,6 @@ me	B
 tub	I
 me	I
 ntxhais	I
-tub	O
-me	O
-ntxhais	O
 mus	O
 ua	O
 laib	O
@@ -246,9 +243,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 ,	O
 yus	O
 pog	O
@@ -300,9 +294,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 los	O
 yeej	O
 tau	O
@@ -390,9 +381,6 @@ mus	B
 noj	I
 mus	I
 haus	I
-noj	O
-mus	O
-haus	O
 lawm	O
 xwb	O
 .	O
@@ -896,9 +884,6 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 phem	O
 ces	O
 zoo	O
@@ -937,9 +922,6 @@ luag	B
 poj	I
 luag	I
 sev	I
-poj	O
-luag	O
-sev	O
 los	O
 pheej	O
 thov	O

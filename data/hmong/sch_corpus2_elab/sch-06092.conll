@@ -1716,9 +1716,6 @@ noob	B
 nom	I
 noob	I
 tswv	I
-nom	O
-noob	O
-tswv	O
 ''	O
 no	O
 xwb	O
@@ -1763,9 +1760,6 @@ yog	B
 nom	I
 yog	I
 tswv	I
-nom	O
-yog	O
-tswv	O
 los	O
 lawm	O
 xwb	O
@@ -1886,9 +1880,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 loj	O
 npaum	O
 twg	O

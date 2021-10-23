@@ -227,9 +227,6 @@ nws	B
 roj	I
 nws	I
 ntshav	I
-roj	O
-nws	O
-ntshav	O
 kiag	O
 xwb	O
 thiaj	O
@@ -529,9 +526,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 pos	O
 tseem	O
 zoo	O
@@ -664,9 +658,6 @@ nqaum	B
 paj	I
 nqaum	I
 nruas	I
-paj	O
-nqaum	O
-nruas	O
 los	O
 yog	O
 tuaj	O
@@ -779,9 +770,6 @@ kov	B
 ub	I
 kov	I
 no	I
-ub	O
-kov	O
-no	O
 ces	O
 nrug	O
 deb	O
@@ -1019,9 +1007,6 @@ pab	B
 teb	I
 pab	I
 chaw	I
-teb	O
-pab	O
-chaw	O
 tav	O
 no	O
 los	O
@@ -1345,9 +1330,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 .	O
 
 

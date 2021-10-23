@@ -111,9 +111,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 npaum	O
 li	O
 thiab	O
@@ -284,9 +281,6 @@ qhov	B
 zoo	I
 qhov	I
 phem	I
-zoo	O
-qhov	O
-phem	O
 rau	O
 cov	O
 mev	O

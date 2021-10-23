@@ -396,9 +396,6 @@ tso	B
 vaj	I
 tso	I
 tsev	I
-vaj	O
-tso	O
-tsev	O
 tso	O
 liaj	O
 tso	O
@@ -459,9 +456,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 no	O
 lawm	O
 xwb	O
@@ -1007,9 +1001,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 ib	O
 peej	O
 dlau	O
@@ -1026,9 +1017,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 sau	O
 tseg	O
 .	O

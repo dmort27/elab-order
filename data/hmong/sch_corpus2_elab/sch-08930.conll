@@ -398,9 +398,6 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 hu	O
 ntuj	O
 ntawm	O
@@ -3118,9 +3115,6 @@ dag	B
 nom	I
 dag	I
 tswv	I
-nom	O
-dag	O
-tswv	O
 ,	O
 dag	O
 pej	O
@@ -3320,9 +3314,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 tuag	O
 tag	O
 tso	O
@@ -3467,9 +3458,6 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 foom	O
 luag	O
 ces	O
@@ -3571,9 +3559,6 @@ raug	B
 txim	I
 raug	I
 kaw	I
-txim	O
-raug	O
-kaw	O
 es	O
 tuag	O
 lawv	O
@@ -4158,9 +4143,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 tuaj	O
 zaum	O
 no	O

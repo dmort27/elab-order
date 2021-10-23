@@ -1279,9 +1279,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 .	O
 
 
@@ -1322,9 +1319,6 @@ tsi	B
 mus	I
 tsi	I
 los	I
-mus	O
-tsi	O
-los	O
 vim	O
 yog	O
 tej	O

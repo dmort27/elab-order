@@ -385,9 +385,6 @@ siab	B
 phem	I
 siab	I
 zoo	I
-phem	O
-siab	O
-zoo	O
 mas	O
 yeej	O
 muaj	O
@@ -714,9 +711,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 thiab	O
 tus	O
 cuj	O
@@ -1136,9 +1130,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 li	O
 cas	O
 .	O
@@ -1180,9 +1171,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 ,	O
 ib	O
 tus	O
@@ -1220,9 +1208,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 .	O
 
 

@@ -149,9 +149,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 sib	O
 cav	O
 puv	O
@@ -327,9 +324,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 mas	O
 cov	O
 tsis	O
@@ -1861,9 +1855,6 @@ fim	B
 ntsej	I
 fim	I
 muag	I
-ntsej	O
-fim	O
-muag	O
 li	O
 nawb	O
 .	O

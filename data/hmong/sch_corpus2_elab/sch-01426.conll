@@ -583,9 +583,6 @@ hauv	B
 paus	I
 hauv	I
 ntsis	I
-paus	O
-hauv	O
-ntsis	O
 thiab	O
 os	O
 .	O
@@ -819,9 +816,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ,	O
 kom	O
 muaj	O
@@ -830,9 +824,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 kom	O
 peb	O
@@ -852,9 +843,6 @@ sib	B
 txib	I
 sib	I
 hu	I
-txib	O
-sib	O
-hu	O
 ,	O
 thiab	O
 kom	O
@@ -969,9 +957,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 lawm	O
 ,	O
 tseem	O
@@ -1007,9 +992,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 ntawv	O
 yuav	O
 tawg	O
@@ -1017,9 +999,6 @@ ua	B
 sab	I
 ua	I
 sua	I
-sab	O
-ua	O
-sua	O
 ;	O
 koj	O
 khiav	O
@@ -1114,9 +1093,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 uas	O
 tuav	O
 tau	O
@@ -1208,9 +1184,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ,	O
 kom	O
 muaj	O
@@ -1219,9 +1192,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 kom	O
 peb	O
@@ -1241,9 +1211,6 @@ sib	B
 txib	I
 sib	I
 hu	I
-txib	O
-sib	O
-hu	O
 ,	O
 thiab	O
 kom	O
@@ -1358,9 +1325,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 lawm	O
 ,	O
 tseem	O
@@ -1396,9 +1360,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 ntawv	O
 yuav	O
 tawg	O
@@ -1406,9 +1367,6 @@ ua	B
 sab	I
 ua	I
 sua	I
-sab	O
-ua	O
-sua	O
 ;	O
 koj	O
 khiav	O
@@ -1503,9 +1461,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 uas	O
 tuav	O
 tau	O
@@ -1580,9 +1535,6 @@ ntau	B
 yam	I
 ntau	I
 tsav	I
-yam	O
-ntau	O
-tsav	O
 tsi	O
 legal	O
 nyob	O

@@ -615,9 +615,6 @@ kev	B
 mob	I
 kev	I
 nkees	I
-mob	O
-kev	O
-nkees	O
 ,	O
 vij	O
 sub	O
@@ -664,9 +661,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 (	O
 or	O
 bad	O

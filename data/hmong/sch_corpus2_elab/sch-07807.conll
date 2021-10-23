@@ -149,9 +149,6 @@ tsis	B
 ruaj	I
 tsis	I
 khov	I
-ruaj	O
-tsis	O
-khov	O
 ib	O
 qhov	O
 chaws	O
@@ -389,9 +386,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 .	O
 
 
@@ -2409,9 +2403,6 @@ muaj	B
 yeej	I
 muaj	I
 swb	I
-yeej	O
-muaj	O
-swb	O
 li	O
 lawm	O
 xwb	O

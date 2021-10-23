@@ -339,9 +339,6 @@ muaj	B
 ploj	I
 muaj	I
 tuag	I
-ploj	O
-muaj	O
-tuag	O
 ,	O
 muaj	O
 sib	O
@@ -779,9 +776,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 tham	O
 luag	O
 ntxhi	O

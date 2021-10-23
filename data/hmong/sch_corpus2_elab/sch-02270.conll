@@ -105,9 +105,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 haistias	O
 YD	O
 tsis	O
@@ -160,9 +157,6 @@ nrhiav	B
 ntaub	I
 nrhiav	I
 ntawv	I
-ntaub	O
-nrhiav	O
-ntawv	O
 coj	O
 los	O
 nyeem	O
@@ -219,9 +213,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 Hwm	O
 ....	O
 yus	O
@@ -1419,9 +1410,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 .....	O
 xyov	O
 koj	O

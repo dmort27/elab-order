@@ -94,9 +94,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 ,	O
 muaj	O
 lub	O
@@ -108,9 +105,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 yuav	O
 dag	O
 tsis	O
@@ -143,9 +137,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 mus	O
 nrog	O
 luag	O
@@ -153,9 +144,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 ,	O
 thiab	O
 hluas	O

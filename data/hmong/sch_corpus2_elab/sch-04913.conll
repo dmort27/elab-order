@@ -165,9 +165,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -238,9 +235,6 @@ qee	B
 leej	I
 qee	I
 tus	I
-leej	O
-qee	O
-tus	O
 xwb	O
 .	O
 
@@ -688,9 +682,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ntxiv	O
 lawm	O
 .	O
@@ -802,9 +793,6 @@ lub	B
 ntsej	I
 lub	I
 muag	I
-ntsej	O
-lub	O
-muag	O
 tuaj	O
 fim	O
 ,	O
@@ -1074,9 +1062,6 @@ tog	B
 vaaj	I
 tog	I
 tsev	I
-vaaj	O
-tog	O
-tsev	O
 lug	O
 ntxuag	O
 mov	O
@@ -1754,9 +1739,6 @@ nrhav	B
 noj	I
 nrhav	I
 haus	I
-noj	O
-nrhav	O
-haus	O
 including	O
 prostitution	O
 .	O
@@ -1780,9 +1762,6 @@ pauv	B
 noj	I
 pauv	I
 haus	I
-noj	O
-pauv	O
-haus	O
 los	O
 suav	O
 dlawg	O
@@ -2082,9 +2061,6 @@ mus	B
 ub	I
 mus	I
 no	I
-ub	O
-mus	O
-no	O
 es	O
 yus	O
 mam	O
@@ -2175,9 +2151,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 ,	O
 tiam	O
 sis	O
@@ -2378,9 +2351,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 nyob	O
 thiab	O
 muaj	O

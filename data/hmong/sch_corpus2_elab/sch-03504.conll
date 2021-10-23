@@ -2613,9 +2613,6 @@ ntau	B
 leej	I
 ntau	I
 tus	I
-leej	O
-ntau	O
-tus	O
 tham	O
 ntau	O
 yam	O
@@ -3166,16 +3163,10 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 muaj	B
 kwv	I
 muaj	I
 tij	I
-kwv	O
-muaj	O
-tij	O
 nyob	O
 3rd	O
 country	O

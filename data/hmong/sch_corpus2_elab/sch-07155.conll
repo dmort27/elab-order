@@ -247,9 +247,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 xwb	O
 as	O
 long	O
@@ -687,9 +684,6 @@ nyob	B
 noj	I
 nyob	I
 haus	I
-noj	O
-nyob	O
-haus	O
 lawm	O
 xwb	O
 .	O
@@ -770,9 +764,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 yawg	O
 kuj	O
 yog	O
@@ -854,9 +845,6 @@ cov	B
 laus	I
 cov	I
 hluas	I
-laus	O
-cov	O
-hluas	O
 niaj	O
 hnub	O
 dia	O

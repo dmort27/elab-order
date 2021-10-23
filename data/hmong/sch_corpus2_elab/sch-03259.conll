@@ -237,17 +237,11 @@ ntsuj	B
 duab	I
 ntsuj	I
 hlaus	I
-duab	O
-ntsuj	O
-hlaus	O
 los	O
 rau	B
 vaj	I
 rau	I
 tsev	I
-vaj	O
-rau	O
-tsev	O
 los	O
 puab	O
 duab	O
@@ -1251,9 +1245,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 ua	O
 piam	O
 tag	O

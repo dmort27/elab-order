@@ -486,9 +486,6 @@ tug	B
 dab	I
 tug	I
 qhua	I
-dab	O
-tug	O
-qhua	O
 las	O
 as	O
 .	O
@@ -1437,9 +1434,6 @@ thaam	B
 moog	I
 thaam	I
 lug	I
-moog	O
-thaam	O
-lug	O
 ces	O
 meb	O
 twb	O
@@ -1878,9 +1872,6 @@ peb	B
 kwv	I
 peb	I
 tij	I
-kwv	O
-peb	O
-tij	O
 le	O
 naj	O
 ,	O

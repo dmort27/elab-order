@@ -68,9 +68,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 le	O
 ,	O
 tsi	O
@@ -831,9 +828,6 @@ khaws	B
 noj	I
 khaws	I
 haus	I
-noj	O
-khaws	O
-haus	O
 .	O
 
 
@@ -1006,9 +1000,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 lawm	O
 thiaj	O
 lauj	O

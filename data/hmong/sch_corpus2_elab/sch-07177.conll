@@ -24,9 +24,6 @@ tham	B
 ub	I
 tham	I
 no	I
-ub	O
-tham	O
-no	O
 rau	O
 yawg	O
 .	O
@@ -147,9 +144,6 @@ kuag	B
 kab	I
 kuag	I
 hlau	I
-kab	O
-kuag	O
-hlau	O
 ''	O
 zoo	O
 li	O
@@ -209,9 +203,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 tab	O
 sis	O
 twb	O
@@ -297,9 +288,6 @@ dhau	B
 kev	I
 dhau	I
 cai	I
-kev	O
-dhau	O
-cai	O
 hwv	O
 lawm	O
 ma	O
@@ -383,9 +371,6 @@ ntau	B
 leej	I
 ntau	I
 tus	I
-leej	O
-ntau	O
-tus	O
 ntxiv	O
 .	O
 
@@ -463,9 +448,6 @@ tag	B
 vaj	I
 tag	I
 tsev	I
-vaj	O
-tag	O
-tsev	O
 cia	O
 li	O
 sawv	O
@@ -483,9 +465,6 @@ dab	B
 ntuj	I
 dab	I
 teb	I
-ntuj	O
-dab	O
-teb	O
 ,	O
 koj	O
 los	O
@@ -764,9 +743,6 @@ xaiv	B
 mus	I
 xaiv	I
 los	I
-mus	O
-xaiv	O
-los	O
 ,	O
 xaiv	O
 ,	O
@@ -1068,9 +1044,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -1877,9 +1850,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ma	O
 ?	O
 

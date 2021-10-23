@@ -889,9 +889,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 ....	O
 lawv	O
 paub	O
@@ -1088,9 +1085,6 @@ kev	B
 coj	I
 kev	I
 ua	I
-coj	O
-kev	O
-ua	O
 zoo	O
 thooj	O
 kiag	O
@@ -1467,9 +1461,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 thiab	O
 txoj	O
 kev	O
@@ -2255,9 +2246,6 @@ nyiaj	B
 hnub	I
 nyiaj	I
 hli	I
-hnub	O
-nyiaj	O
-hli	O
 rau	O
 XF	O
 mas	O
@@ -2350,9 +2338,6 @@ txiv	B
 neeb	I
 txiv	I
 yaig	I
-neeb	O
-txiv	O
-yaig	O
 thiab	O
 .	O
 

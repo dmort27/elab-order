@@ -587,9 +587,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 peb	O
 cov	O
 hmoob	O
@@ -641,9 +638,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 rau	O
 lawv	O
 cov	O
@@ -1473,9 +1467,6 @@ cais	B
 pab	I
 cais	I
 pawg	I
-pab	O
-cais	O
-pawg	O
 ,	O
 los	O
 koom	O
@@ -1677,9 +1668,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 ,	O
 ces	O
 luag	O
@@ -1800,9 +1788,6 @@ raws	B
 noj	I
 raws	I
 haus	I
-noj	O
-raws	O
-haus	O
 xwb	O
 ,	O
 yuav	O
@@ -2402,9 +2387,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 .	O
 
 
@@ -3010,9 +2992,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 ,	O
 es	O
 kom	O
@@ -3038,9 +3017,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 xwb	O
 .	O
 
@@ -3781,9 +3757,6 @@ cais	B
 pab	I
 cais	I
 pawg	I
-pab	O
-cais	O
-pawg	O
 ,	O
 los	O
 koom	O
@@ -3985,9 +3958,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 ,	O
 ces	O
 luag	O
@@ -4108,9 +4078,6 @@ raws	B
 noj	I
 raws	I
 haus	I
-noj	O
-raws	O
-haus	O
 xwb	O
 ,	O
 yuav	O
@@ -4710,9 +4677,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 .	O
 
 
@@ -5318,9 +5282,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 ,	O
 es	O
 kom	O
@@ -5346,9 +5307,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 xwb	O
 .	O
 
@@ -5574,9 +5532,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 ,	O
 es	O
 kom	O
@@ -5602,9 +5557,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 xwb	O
 .	O
 
@@ -6352,9 +6304,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 .	O
 
 
@@ -7303,9 +7252,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 es	O
 ua	O
 rau	O

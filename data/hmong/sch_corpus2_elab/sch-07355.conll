@@ -40,9 +40,6 @@ ntoo	B
 loj	I
 ntoo	I
 me	I
-loj	O
-ntoo	O
-me	O
 tseem	O
 nyob	O
 hauv	O
@@ -250,9 +247,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 e	O
 thiaj	O
 li	O
@@ -353,9 +347,6 @@ lub	B
 ntsej	I
 lub	I
 muag	I
-ntsej	O
-lub	O
-muag	O
 .	O
 
 
@@ -543,9 +534,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 xwb	O
 os	O
 e	O
@@ -576,9 +564,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 ce	O
 ua	O
 lub	O
@@ -588,9 +573,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 xwb	O
 los	O
 mas	O
@@ -609,9 +591,6 @@ txhua	B
 niaj	I
 txhua	I
 xyoo	I
-niaj	O
-txhua	O
-xyoo	O
 ce	O
 zoo	O
 ib	O
@@ -641,9 +620,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 tsuas	O
 lam	O
 tua	O
@@ -651,17 +627,11 @@ me	B
 nas	I
 me	I
 noog	I
-nas	O
-me	O
-noog	O
 ,	O
 me	B
 liab	I
 me	I
 cuam	I
-liab	O
-me	O
-cuam	O
 pub	O
 rau	O
 kuv	O
@@ -705,9 +675,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 puag	O
 Mab	O
 dawb	O
@@ -1462,9 +1429,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 los	O
 nws	O
 yeej	O

@@ -899,9 +899,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 kuv	O
 tsis	O
 lav	O
@@ -1065,9 +1062,6 @@ sib	B
 ntsib	I
 sib	I
 tham	I
-ntsib	O
-sib	O
-tham	O
 uake	O
 li	O
 .	O
@@ -2589,9 +2583,6 @@ lub	B
 meej	I
 lub	I
 npe	I
-meej	O
-lub	O
-npe	O
 lawm	O
 .	O
 

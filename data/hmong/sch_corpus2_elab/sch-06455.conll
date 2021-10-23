@@ -125,9 +125,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 kom	O
 pab	O
 lawv	O
@@ -469,9 +466,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 .	O
 
 
@@ -938,33 +932,21 @@ tus	B
 hlob	I
 tus	I
 yau	I
-hlob	O
-tus	O
-yau	O
 ,	O
 tus	B
 laus	I
 tus	I
 hluas	I
-laus	O
-tus	O
-hluas	O
 ,	O
 tus	B
 ruam	I
 tus	I
 ntse	I
-ruam	O
-tus	O
-ntse	O
 ,	O
 tus	B
 phem	I
 tus	I
 zoo	I
-phem	O
-tus	O
-zoo	O
 los	O
 tsuav	O
 tsa	O
@@ -1550,9 +1532,6 @@ phav	B
 ub	I
 phav	I
 no	I
-ub	O
-phav	O
-no	O
 .	O
 
 
@@ -1832,17 +1811,11 @@ kauv	B
 tes	I
 kauv	I
 taw	I
-tes	O
-kauv	O
-taw	O
 yaim	O
 me	B
 ntswb	I
 me	I
 ntsis	I
-ntswb	O
-me	O
-ntsis	O
 lawm	O
 xwb	O
 no	O
@@ -2087,9 +2060,6 @@ phav	B
 ub	I
 phav	I
 no	I
-ub	O
-phav	O
-no	O
 .	O
 
 
@@ -2575,9 +2545,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 kom	O
 pab	O
 lawv	O
@@ -3085,9 +3052,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ua	O
 rau	O
 lawv	O

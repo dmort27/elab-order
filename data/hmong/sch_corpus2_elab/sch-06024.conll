@@ -907,9 +907,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 xwb	O
 .	O
 
@@ -957,9 +954,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 kom	O
 txhob	O
 txhaum	O
@@ -986,9 +980,6 @@ qhov	B
 siab	I
 qhov	I
 qis	I
-siab	O
-qhov	O
-qis	O
 .	O
 
 
@@ -1277,9 +1268,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 li	O
 no	O
 .	O
@@ -1296,9 +1284,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 lawm	O
 xwb	O
 .	O

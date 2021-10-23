@@ -230,9 +230,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 tsis	O
 muaj	O
 nom	O
@@ -969,9 +966,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ces	O
 yauv	O
 tau	O
@@ -1331,9 +1325,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ces	O
 yeej	O
 .......	O
@@ -1442,9 +1433,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ses	O
 luag	O
 hais	O
@@ -2314,9 +2302,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 muaj	O
 kev	O

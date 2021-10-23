@@ -679,9 +679,6 @@ npaj	B
 riam	I
 npaj	I
 phom	I
-riam	O
-npaj	O
-phom	O
 lawm	O
 ntag	O
 hos	O
@@ -940,9 +937,6 @@ hmoob	B
 neej	I
 hmoob	I
 tsav	I
-neej	O
-hmoob	O
-tsav	O
 sib	O
 tsheeb	O
 sib	O
@@ -1314,9 +1308,6 @@ zoo	B
 caij	I
 zoo	I
 nyoog	I
-caij	O
-zoo	O
-nyoog	O
 lawm	O
 xwb	O
 ov	O
@@ -1682,9 +1673,6 @@ noob	B
 nom	I
 noob	I
 tswv	I
-nom	O
-noob	O
-tswv	O
 .	O
 
 
@@ -1729,9 +1717,6 @@ ciaj	B
 nom	I
 ciaj	I
 tswv	I
-nom	O
-ciaj	O
-tswv	O
 puav	O
 l	O
 ;	O

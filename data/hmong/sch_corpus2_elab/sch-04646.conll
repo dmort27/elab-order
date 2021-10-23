@@ -498,9 +498,6 @@ raug	B
 kev	I
 raug	I
 cai	I
-kev	O
-raug	O
-cai	O
 ces	O
 nom	O
 tswv	O
@@ -1268,9 +1265,6 @@ yam	B
 ub	I
 yam	I
 no	I
-ub	O
-yam	O
-no	O
 tsis	O
 txim	O
 siab	O
@@ -1363,9 +1357,6 @@ muaj	B
 suab	I
 muaj	I
 npe	I
-suab	O
-muaj	O
-npe	O
 xwb	O
 ,	O
 hauv	O
@@ -1627,9 +1618,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 tuav	O
 tej	O
 laj	O
@@ -1669,9 +1657,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 ,	O
 by-law	O
 twb	O
@@ -2458,9 +2443,6 @@ raws	B
 pab	I
 raws	I
 pawg	I
-pab	O
-raws	O
-pawg	O
 xwb	O
 ,	O
 tsis	O
@@ -2631,9 +2613,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 thiab	O
 nyob	O
 peacefully	O
@@ -2719,9 +2698,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 thaum	O
 kawg	O
@@ -3055,9 +3031,6 @@ tu	B
 ub	I
 tu	I
 no	I
-ub	O
-tu	O
-no	O
 cab	O
 .......	O
 Kuv	O

@@ -421,9 +421,6 @@ kawm	B
 txhij	I
 kawm	I
 txhua	I
-txhij	O
-kawm	O
-txhua	O
 npaum	O
 li	O
 twg	O
@@ -1514,9 +1511,6 @@ xuas	B
 nyaj	I
 xuas	I
 kub	I
-nyaj	O
-xuas	O
-kub	O
 tuaj	O
 puas	O
 lawm	O
@@ -1525,9 +1519,6 @@ yug	B
 nam	I
 yug	I
 txiv	I
-nam	O
-yug	O
-txiv	O
 yeej	O
 tsi	O
 kkk	O
@@ -1751,9 +1742,6 @@ tsi	B
 dleb	I
 tsi	I
 ze	I
-dleb	O
-tsi	O
-ze	O
 ........	O
 tsi	O
 raug	O
@@ -2046,9 +2034,6 @@ tsis	B
 deb	I
 tsis	I
 ze	I
-deb	O
-tsis	O
-ze	O
 ntawd	O
 hau	O
 paus	O

@@ -447,9 +447,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 )	O
 cov	O
 ntseeg	O
@@ -504,9 +501,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 xwb	O
 ,	O
 tabsis	O
@@ -534,9 +528,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 los	O
 yog	O
 yus	O
@@ -811,9 +802,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 --	O
 twb	O
 xav	O
@@ -947,9 +935,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 xwb	O
 ....	O
 smile	O
@@ -1256,9 +1241,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 ntawd	O
 ,	O
 cia	O
@@ -1318,9 +1300,6 @@ tuav	B
 tes	I
 tuav	I
 taw	I
-tes	O
-tuav	O
-taw	O
 qoj	O
 mus	O
 qoj	O
@@ -1465,9 +1444,6 @@ khwv	B
 ciaj	I
 khwv	I
 tuag	I
-ciaj	O
-khwv	O
-tuag	O
 tsis	O
 tsaus	O
 niag	O
@@ -1639,9 +1615,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 ,	O
 yus	O
 yeej	O
@@ -1876,9 +1849,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 (	O
 hu	O
 yus	O

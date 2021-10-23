@@ -324,9 +324,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 thiab	O
 peb	O
 pog	O
@@ -338,9 +335,6 @@ peb	B
 noj	I
 peb	I
 haus	I
-noj	O
-peb	O
-haus	O
 zaum	O
 puav	O
 xwb	O
@@ -494,9 +488,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 ...	O
 peb	O
 nyob	O
@@ -550,9 +541,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 .	O
 
 
@@ -1429,9 +1417,6 @@ dab	B
 niam	I
 dab	I
 txiv	I
-niam	O
-dab	O
-txiv	O
 .	O
 
 

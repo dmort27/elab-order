@@ -163,9 +163,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 thiab	O
 muaj	O
 lab	O
@@ -615,9 +612,6 @@ zoo	B
 hnub	I
 zoo	I
 nyoog	I
-hnub	O
-zoo	O
-nyoog	O
 ces	O
 mam	O
 saub-b	O
@@ -831,9 +825,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 sib	O
 nrhav	O
 tsi	O
@@ -1282,9 +1273,6 @@ nug	B
 mus	I
 nug	I
 los	I
-mus	O
-nug	O
-los	O
 yog	O
 yawg	O
 thaub	O

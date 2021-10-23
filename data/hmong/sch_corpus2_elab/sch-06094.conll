@@ -706,9 +706,6 @@ ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 no	O
 dhau	O
 hwv	O
@@ -1249,9 +1246,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 .	O
 
 
@@ -1266,9 +1260,6 @@ ntsuag	B
 niam	I
 ntsuag	I
 txiv	I
-niam	O
-ntsuag	O
-txiv	O
 mas	O
 yuav	O
 tsis	O
@@ -1376,9 +1367,6 @@ ntsuag	B
 niam	I
 ntsuag	I
 txiv	I
-niam	O
-ntsuag	O
-txiv	O
 ces	O
 lam	O
 uv	O
@@ -1549,9 +1537,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 los	O
 li	O
 ,	O
@@ -1560,9 +1545,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 los	O
 ,	O
 yog	O
@@ -1900,9 +1882,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 ,	O
 lawv	O
 tsis	O
@@ -2371,9 +2350,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 mus	O
 nyob	O
 ceeb	O
@@ -2454,9 +2430,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 tuag	O
 tag	O
 nrho	O

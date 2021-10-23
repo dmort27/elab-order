@@ -294,9 +294,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 zoo	O
 nyob	O
 zoo	O
@@ -1395,9 +1392,6 @@ txaus	B
 chim	I
 txaus	I
 ntxub	I
-chim	O
-txaus	O
-ntxub	O
 heev	O
 li	O
 laud	O
@@ -1526,9 +1520,6 @@ lub	B
 roob	I
 lub	I
 haav	I
-roob	O
-lub	O
-haav	O
 mas	O
 txujcai	O
 yeej	O
@@ -2216,9 +2207,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 tuaj	O
 tham	O
 piav	O

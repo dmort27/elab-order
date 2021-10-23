@@ -60,9 +60,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ....	O
 kab	O
 tias	O
@@ -794,9 +791,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 yog	O
 ib	O
 yam	O
@@ -1692,9 +1686,6 @@ zoo	B
 niam	I
 zoo	I
 txiv	I
-niam	O
-zoo	O
-txiv	O
 tawv	O
 cuag	O
 rauj	O

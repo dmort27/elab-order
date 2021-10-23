@@ -171,9 +171,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 ,	O
 yog	O
 tsi	O
@@ -206,9 +203,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ...	O
 cov	O
 niag	O
@@ -294,16 +288,10 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 xwb	O
 .	O
 
@@ -642,9 +630,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 ob	O
 peb	O
@@ -1010,18 +995,12 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 noj	O
 noj	O
 muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 tas	O
 ho	O
 yuav	O
@@ -1120,9 +1099,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 zoo	O
 yuav	O
 poob	O
@@ -1245,9 +1221,6 @@ yam	B
 phem	I
 yam	I
 zoo	I
-phem	O
-yam	O
-zoo	O
 tawm	O
 sib	O
 npaug	O
@@ -2015,9 +1988,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ces	O
 yuav	O
 ua	O
@@ -2166,9 +2136,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 ob	O
 peb	O
@@ -2905,9 +2872,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 thiab	O
 tej	O
 laus	O
@@ -3047,9 +3011,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 thiab	O
 tej	O
 laus	O
@@ -3173,9 +3134,6 @@ yam	B
 zoo	I
 yam	I
 phem	I
-zoo	O
-yam	O
-phem	O
 tibsi	O
 .	O
 
@@ -3687,9 +3645,6 @@ tsi	B
 paub	I
 tsi	I
 pom	I
-paub	O
-tsi	O
-pom	O
 ntawm	O
 qhov	O
 muag	O

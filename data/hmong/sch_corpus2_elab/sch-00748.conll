@@ -81,9 +81,6 @@ uas	B
 nom	I
 uas	I
 tswv	I
-nom	O
-uas	O
-tswv	O
 los	O
 vim	O
 hmoob	O
@@ -94,9 +91,6 @@ poob	B
 nom	I
 poob	I
 tswv	I
-nom	O
-poob	O
-tswv	O
 los	O
 vim	O
 hmoob	O
@@ -602,9 +596,6 @@ uas	B
 mus	I
 uas	I
 los	I
-mus	O
-uas	O
-los	O
 cias	O
 lis	O
 poob	O
@@ -1142,9 +1133,6 @@ uas	B
 pab	I
 uas	I
 pawg	I
-pab	O
-uas	O
-pawg	O
 los	O
 vim	O
 hmoob	O
@@ -1456,9 +1444,6 @@ uas	B
 nom	I
 uas	I
 tswv	I
-nom	O
-uas	O
-tswv	O
 los	O
 vim	O
 hmoob	O
@@ -1469,9 +1454,6 @@ poob	B
 nom	I
 poob	I
 tswv	I
-nom	O
-poob	O
-tswv	O
 los	O
 vim	O
 hmoob	O
@@ -2069,9 +2051,6 @@ uas	B
 pab	I
 uas	I
 pawg	I
-pab	O
-uas	O
-pawg	O
 los	O
 vim	O
 hmoob	O

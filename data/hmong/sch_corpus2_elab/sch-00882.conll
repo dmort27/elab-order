@@ -1825,9 +1825,6 @@ yuav	B
 ciaj	I
 yuav	I
 tuag	I
-ciaj	O
-yuav	O
-tuag	O
 los	O
 ob	O
 tug	O
@@ -3254,9 +3251,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 thiab	O
 muaj	O
 thwj	O
@@ -5550,9 +5544,6 @@ yuav	B
 ciaj	I
 yuav	I
 tuag	I
-ciaj	O
-yuav	O
-tuag	O
 los	O
 ob	O
 tug	O
@@ -5944,9 +5935,6 @@ kom	B
 yeej	I
 kom	I
 swb	I
-yeej	O
-kom	O
-swb	O
 nyob	O
 Nplog	O
 teb	O
@@ -7018,9 +7006,6 @@ sib	B
 txhawb	I
 sib	I
 nqa	I
-txhawb	O
-sib	O
-nqa	O
 kom	O
 mus	O
 txog	O
@@ -8872,9 +8857,6 @@ yuav	B
 ciaj	I
 yuav	I
 tuag	I
-ciaj	O
-yuav	O
-tuag	O
 los	O
 ob	O
 tugFuabtaisyuav	O

@@ -69,9 +69,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -355,17 +352,11 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 ,	O
 nws	B
 kwv	I
 nws	I
 tij	I
-kwv	O
-nws	O
-tij	O
 ,	O
 tus	O
 hlob	O
@@ -1357,9 +1348,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 tib	O
 sis	O
 #	O

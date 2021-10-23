@@ -709,9 +709,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 tau	O
 ib	O
 ntus	O
@@ -1992,9 +1989,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 yeej	O
 xav	O
 nrhiav	O
@@ -2289,9 +2283,6 @@ sib	B
 tua	I
 sib	I
 txeeb	I
-tua	O
-sib	O
-txeeb	O
 cov	O
 HDD	O
 li	O
@@ -2447,9 +2438,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 kiag	O
 .	O
 
@@ -2657,9 +2645,6 @@ kev	B
 lag	I
 kev	I
 luam	I
-lag	O
-kev	O
-luam	O
 ,	O
 nws	O
 yeej	O
@@ -3548,9 +3533,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 ,	O
 ua	O
 lajkam	O

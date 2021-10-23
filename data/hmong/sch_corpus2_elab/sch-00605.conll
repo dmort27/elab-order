@@ -1010,9 +1010,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 hais	O
 lus	O
 .	O
@@ -1141,9 +1138,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 kev	O
 txhim	O
 teb	O
@@ -1171,9 +1165,6 @@ tos	B
 noj	I
 tos	I
 haus	I
-noj	O
-tos	O
-haus	O
 xwb	O
 no	O
 mas	O
@@ -1502,9 +1493,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 los	O
 tseem	O
 nyeem	O
@@ -4278,9 +4266,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 ,	O
 koom	O
 teb	O

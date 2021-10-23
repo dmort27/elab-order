@@ -777,9 +777,6 @@ kev	B
 lis	I
 kev	I
 cai	I
-lis	O
-kev	O
-cai	O
 ua	O
 tshoob	O
 xwb	O
@@ -1471,9 +1468,6 @@ nug	B
 tub	I
 nug	I
 ntxhais	I
-tub	O
-nug	O
-ntxhais	O
 taag	O
 yog	O
 sibyeem	O
@@ -2804,9 +2798,6 @@ hais	B
 tshoob	I
 hais	I
 kos	I
-tshoob	O
-hais	O
-kos	O
 xwb	O
 .	O
 
@@ -3488,26 +3479,17 @@ txuas	B
 tshoob	I
 txuas	I
 kos	I
-tshoob	O
-txuas	O
-kos	O
 kom	O
 tau	B
 tub	I
 tau	I
 ntxhais	I
-tub	O
-tau	O
-ntxhais	O
 thiab	O
 tau	O
 kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 ,	O
 tab	O
 sis	O
@@ -4047,9 +4029,6 @@ ncej	B
 dab	I
 ncej	I
 qhua	I
-dab	O
-ncej	O
-qhua	O
 tibsi	O
 thiab	O
 ....	O
@@ -4792,9 +4771,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 los	O
 avoid	O
 the	O
@@ -5251,9 +5227,6 @@ li	B
 kab	I
 li	I
 kev	I
-kab	O
-li	O
-kev	O
 cai	O
 yeej	O
 tsis	O
@@ -5621,9 +5594,6 @@ pluaj	B
 siab	I
 pluaj	I
 ntsws	I
-siab	O
-pluaj	O
-ntsws	O
 qhib	O
 tsis	O
 tau	O

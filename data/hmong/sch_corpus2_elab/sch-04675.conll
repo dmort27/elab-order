@@ -69,9 +69,6 @@ cov	B
 txawj	I
 cov	I
 ntse	I
-txawj	O
-cov	O
-ntse	O
 thiab	O
 cov	O
 paub	O
@@ -91,9 +88,6 @@ ua	B
 phab	I
 ua	I
 pheev	I
-phab	O
-ua	O
-pheev	O
 lawm	O
 muaj	O
 ob	O
@@ -473,9 +467,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 kiag	O
 no	O
 ntshai	O
@@ -802,9 +793,6 @@ ib	B
 phab	I
 ib	I
 pheev	I
-phab	O
-ib	O
-pheev	O
 ,	O
 los	O
 xaus	O
@@ -926,9 +914,6 @@ ua	B
 ntej	I
 ua	I
 qab	I
-ntej	O
-ua	O
-qab	O
 mas	O
 hais	O
 lus	O
@@ -1302,9 +1287,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 ,	O
 noj	O
 nyog	O
@@ -1496,9 +1478,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 SCH	O
 no	O
 sovsos	O

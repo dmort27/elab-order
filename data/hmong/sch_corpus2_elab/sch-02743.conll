@@ -2202,9 +2202,6 @@ tom	B
 mab	I
 tom	I
 suav	I
-mab	O
-tom	O
-suav	O
 lawm	O
 --	O
 -yog	O
@@ -2608,9 +2605,6 @@ nws	B
 zej	I
 nws	I
 zos	I
-zej	O
-nws	O
-zos	O
 ned	O
 .	O
 
@@ -2880,9 +2874,6 @@ tsis	B
 txawj	I
 tsis	I
 ntse	I
-txawj	O
-tsis	O
-ntse	O
 .	O
 
 
@@ -3032,9 +3023,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 .	O
 
 
@@ -4084,9 +4072,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 --	O
 thiab	O
 tuaj	O

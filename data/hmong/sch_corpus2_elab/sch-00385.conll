@@ -378,9 +378,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 thaum	O
 twg	O
 nkawv	O
@@ -1651,9 +1648,6 @@ hnov	B
 ub	I
 hnov	I
 no	I
-ub	O
-hnov	O
-no	O
 lawm	O
 !	O
 ``	O
@@ -2445,9 +2439,6 @@ tus	B
 yeej	I
 tus	I
 swb	I
-yeej	O
-tus	O
-swb	O
 li	O
 neb	O
 hais	O

@@ -108,9 +108,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 kom	O
 Hmoob	O
 nyias	O
@@ -119,9 +116,6 @@ nyias	B
 vaj	I
 nyias	I
 tsev	I
-vaj	O
-nyias	O
-tsev	O
 tsis	O
 txhob	O
 txav	O
@@ -166,9 +160,6 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 thiab	O
 taws	O
 tswm	O
@@ -184,9 +175,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 om	O
 pab	O
 cawm	O
@@ -944,9 +932,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 ces	O
 cia	O
 li	O
@@ -1723,9 +1708,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 ,	O
 ces	O
 lawv	O
@@ -1798,9 +1780,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 thiab	O
 thaij	O
 tau	O
@@ -3241,16 +3220,10 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 rau	O
 cov	O
 HDD	O

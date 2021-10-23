@@ -959,9 +959,6 @@ ceg	B
 siab	I
 ceg	I
 qis	I
-siab	O
-ceg	O
-qis	O
 hais	O
 tias	O
 zaum	O
@@ -2080,9 +2077,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 txhob	O
 lam	O
 hla	O
@@ -2526,9 +2520,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 haistias	O
 yog	O
 US	O
@@ -2888,9 +2879,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 los	O
 tsis	O
 tu	O
@@ -3497,9 +3485,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 .	O
 
 
@@ -3625,9 +3610,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 ,	O
 kev	O
 sib	O
@@ -4363,9 +4345,6 @@ yog	B
 nom	I
 yog	I
 tswv	I
-nom	O
-yog	O
-tswv	O
 lawm	O
 ,	O
 txog	O

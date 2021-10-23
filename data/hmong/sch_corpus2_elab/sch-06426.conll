@@ -651,9 +651,6 @@ qub	B
 txeej	I
 qub	I
 teg	I
-txeej	O
-qub	O
-teg	O
 .	O
 
 
@@ -969,18 +966,12 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 kev	O
 kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 etc	O
 ...	O
 Cov	O
@@ -2216,9 +2207,6 @@ ywj	B
 fab	I
 ywj	I
 fwj	I
-fab	O
-ywj	O
-fwj	O
 .	O
 
 
@@ -2230,17 +2218,11 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 ,	O
 leg	B
 qav	I
 leg	I
 num	I
-qav	O
-leg	O
-num	O
 ,	O
 nqes	O
 nroos	O
@@ -2255,9 +2237,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 .	O
 
 
@@ -2463,9 +2442,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 lawm	O
 ces	O
 cov	O

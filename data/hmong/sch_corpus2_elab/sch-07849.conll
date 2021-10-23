@@ -190,18 +190,12 @@ qub	B
 phooj	I
 qub	I
 ywg	I
-phooj	O
-qub	O
-ywg	O
 los	O
 sis	O
 yog	B
 txheeb	I
 yog	I
 ze	I
-txheeb	O
-yog	O
-ze	O
 thiab	O
 .	O
 
@@ -293,9 +287,6 @@ zoo	B
 caij	I
 zoo	I
 nyoog	I
-caij	O
-zoo	O
-nyoog	O
 kuv	O
 mam	O
 connect	O
@@ -593,9 +584,6 @@ sib	B
 pab	I
 sib	I
 hlub	I
-pab	O
-sib	O
-hlub	O
 .	O
 
 
@@ -994,9 +982,6 @@ sib	B
 pab	I
 sib	I
 hlub	I
-pab	O
-sib	O
-hlub	O
 .	O
 
 
@@ -1123,9 +1108,6 @@ poob	B
 teb	I
 poob	I
 chaw	I
-teb	O
-poob	O
-chaw	O
 los	O
 vim	O
 nej	O
@@ -1256,9 +1238,6 @@ huab	B
 noj	I
 huab	I
 haus	I
-noj	O
-huab	O
-haus	O
 ,	O
 kev	O
 dag	O
@@ -1581,9 +1560,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 .	O
 
 

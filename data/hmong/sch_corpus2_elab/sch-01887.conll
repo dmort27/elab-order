@@ -448,9 +448,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 ces	O
 kuv	O
 thiaj	O
@@ -825,9 +822,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -1882,9 +1876,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 .	O
 
 
@@ -3118,9 +3109,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 es	O
 cob	O
 khab	O
@@ -3926,9 +3914,6 @@ nej	B
 zej	I
 nej	I
 zos	I
-zej	O
-nej	O
-zos	O
 saib	O
 puas	O
 yuav	O

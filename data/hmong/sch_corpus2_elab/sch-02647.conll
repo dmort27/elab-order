@@ -844,9 +844,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 los	O
 yuav	O
 yog	O
@@ -871,9 +868,6 @@ yus	B
 pab	I
 yus	I
 pawg	I
-pab	O
-yus	O
-pawg	O
 xwb	O
 ces	O
 yeej	O

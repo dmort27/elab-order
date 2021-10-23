@@ -71,9 +71,6 @@ poob	B
 ntsej	I
 poob	I
 muag	I
-ntsej	O
-poob	O
-muag	O
 rau	O
 tog	O
 ntxhais	O
@@ -1460,9 +1457,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 ...	O
 thaum	O
 chiv	O
@@ -1475,9 +1469,6 @@ ua	B
 kub	I
 ua	I
 ceev	I
-kub	O
-ua	O
-ceev	O
 ntes	O
 tus	O
 tub	O
@@ -1538,9 +1529,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 los	O
 yuav	O
 tau	O

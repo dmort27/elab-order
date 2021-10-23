@@ -2648,9 +2648,6 @@ muaj	B
 neej	I
 muaj	I
 tsav	I
-neej	O
-muaj	O
-tsav	O
 ,	O
 los	O
 sis	O
@@ -2658,9 +2655,6 @@ muaj	B
 txheeb	I
 muaj	I
 ze	I
-txheeb	O
-muaj	O
-ze	O
 nyob	O
 tim	O
 Miskas	O
@@ -2677,9 +2671,6 @@ tshuav	B
 nom	I
 tshuav	I
 tswv	I
-nom	O
-tshuav	O
-tswv	O
 nyob	O
 tim	O
 USA	O
@@ -2723,9 +2714,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 tsis	O
 thooj	O
 li	O
@@ -3091,9 +3079,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 nrhiav	O
 kev	O
 pab	O
@@ -3148,9 +3133,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 nyob	O
 tebchaws	O
 no	O
@@ -3342,9 +3324,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 thiab	O
 yuav	O
 muab	O
@@ -3459,9 +3438,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 thiab	O
 tsis	O
 thas	O
@@ -3479,9 +3455,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 os	O
 .	O
 

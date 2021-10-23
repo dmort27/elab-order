@@ -181,9 +181,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 cov	O
 tswv	O
 kiab	O
@@ -639,9 +636,6 @@ tus	B
 loj	I
 tus	I
 me	I
-loj	O
-tus	O
-me	O
 los	O
 ntau	O
 thiab	O
@@ -1650,9 +1644,6 @@ twb	B
 pom	I
 twb	I
 paub	I
-pom	O
-twb	O
-paub	O
 lawm	O
 ces	O
 qhia	O

@@ -468,9 +468,6 @@ tub	B
 mab	I
 tub	I
 qhe	I
-mab	O
-tub	O
-qhe	O
 (	O
 slavery	O
 )	O
@@ -1319,9 +1316,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 xwb	O
 ,	O
 los	O
@@ -1416,9 +1410,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 xwb	O
 .	O
 
@@ -1921,9 +1912,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 lawm	O
 t	O
 hiab	O
@@ -1949,9 +1937,6 @@ yawm	B
 niam	I
 yawm	I
 txiv	I
-niam	O
-yawm	O
-txiv	O
 es	O
 mus	O
 kom	O
@@ -2275,9 +2260,6 @@ muaj	B
 kwv	I
 muaj	I
 tij	I
-kwv	O
-muaj	O
-tij	O
 ,	O
 thaum	O
 lawv	O
@@ -2448,9 +2430,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 xwb	O
 no	O
 leej	O
@@ -2647,9 +2626,6 @@ luag	B
 niam	I
 luag	I
 txiv	I
-niam	O
-luag	O
-txiv	O
 lawm	O
 es	O
 ua	O
@@ -3236,9 +3212,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 zoo	O
 heev	O
 .	O

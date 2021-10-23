@@ -590,9 +590,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ,	O
 kev	O
 tshoob	O
@@ -1113,9 +1110,6 @@ muaj	B
 mob	I
 muaj	I
 nkees	I
-mob	O
-muaj	O
-nkees	O
 los	O
 yog	O
 ntshais	O
@@ -1126,9 +1120,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 los	O
 povhwm	O
 yus	O
@@ -1280,9 +1271,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 5	O
 .	O
 
@@ -1462,9 +1450,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 tuaj	O
 tham	O
 li	O
@@ -1553,9 +1538,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 los	O
 ,	O
 yeej	O
@@ -1834,9 +1816,6 @@ txiv	B
 neeb	I
 txiv	I
 yaig	I
-neeb	O
-txiv	O
-yaig	O
 tshuaj	O
 tau	O
 hais	O

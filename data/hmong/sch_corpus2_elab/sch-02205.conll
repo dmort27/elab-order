@@ -238,9 +238,6 @@ paub	B
 siab	I
 paub	I
 qis	I
-siab	O
-paub	O
-qis	O
 ,	O
 yuav	O
 yaub	O
@@ -422,9 +419,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 es	O
 ho	O
 hais	O

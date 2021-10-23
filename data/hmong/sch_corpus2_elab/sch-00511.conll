@@ -125,9 +125,6 @@ kub	B
 tes	I
 kub	I
 taw	I
-tes	O
-kub	O
-taw	O
 .	O
 
 
@@ -681,9 +678,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 kom	O
 yuav	O
 tau	O
@@ -698,18 +692,12 @@ lawv	B
 kwv	I
 lawv	I
 tij	I
-kwv	O
-lawv	O
-tij	O
 ,	O
 mus	O
 zeem	B
 neej	I
 zeem	I
 tsav	I
-neej	O
-zeem	O
-tsav	O
 .	O
 
 
@@ -794,9 +782,6 @@ luag	B
 txuj	I
 luag	I
 ci	I
-txuj	O
-luag	O
-ci	O
 ,	O
 luag	O
 kab	O

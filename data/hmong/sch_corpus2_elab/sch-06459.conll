@@ -153,9 +153,6 @@ muaj	B
 kuab	I
 muaj	I
 tshuaj	I
-kuab	O
-muaj	O
-tshuaj	O
 heev	O
 ,	O
 tsuav	O
@@ -405,9 +402,6 @@ tuam	B
 meej	I
 tuam	I
 pem	I
-meej	O
-tuam	O
-pem	O
 los	O
 hais	O
 yam	O
@@ -701,9 +695,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 and	O
 pojywm	O
 txwv	O
@@ -1253,9 +1244,6 @@ hais	B
 phem	I
 hais	I
 zoo	I
-phem	O
-hais	O
-zoo	O
 los	O
 koj	O
 yog	O

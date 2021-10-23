@@ -658,9 +658,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 muaj	O
 pobntseg	O
 thiab	O
@@ -884,9 +881,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 is	O
 for	O
 his	O
@@ -1327,9 +1321,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -1954,9 +1945,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 nrog	O
 Nplog	O
 ,	O
@@ -1964,18 +1952,12 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 ,	O
 thiab	O
 ua	B
 kwv	I
 ua	I
 tij	I
-kwv	O
-ua	O
-tij	O
 nrog	O
 Nplog	O
 xwb	O
@@ -2145,9 +2127,6 @@ hais	B
 siab	I
 hais	I
 qis	I
-siab	O
-hais	O
-qis	O
 tag	O
 es	O
 peb	O
@@ -2238,9 +2217,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 mus	O
 ntxias	O
 ;	O

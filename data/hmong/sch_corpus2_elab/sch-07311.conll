@@ -311,9 +311,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 li	O
 koj	O
 pom	O
@@ -467,9 +464,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 ,	O
 lam	O
 tau	O
@@ -478,9 +472,6 @@ liam	B
 ub	I
 liam	I
 no	I
-ub	O
-liam	O
-no	O
 ...	O
 Tsam	O
 no	O
@@ -2087,9 +2078,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 tias	O
 nws	O
 tsuas	O
@@ -2634,9 +2622,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 kom	O
 luag	O
 txhob	O

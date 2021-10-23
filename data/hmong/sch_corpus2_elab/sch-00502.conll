@@ -129,9 +129,6 @@ tsi	B
 deb	I
 tsi	I
 ze	I
-deb	O
-tsi	O
-ze	O
 kem	O
 nrim	O
 States	O
@@ -537,9 +534,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 mas	O
 kuv	O
 tuav	O
@@ -630,9 +624,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 tuaj	O
 ces	O
 ib	O
@@ -3554,9 +3545,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 yeej	O
 tsis	O
 muaj	O
@@ -4335,9 +4323,6 @@ ua	B
 tab	I
 ua	I
 tauv	I
-tab	O
-ua	O
-tauv	O
 li	O
 yus	O
 lawm	O

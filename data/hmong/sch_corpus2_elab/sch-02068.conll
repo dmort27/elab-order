@@ -1139,9 +1139,6 @@ muab	B
 qij	I
 muab	I
 dos	I
-qij	O
-muab	O
-dos	O
 ,	O
 txujlom	O
 los	O
@@ -1190,9 +1187,6 @@ kaum	B
 roob	I
 kaum	I
 hav	I
-roob	O
-kaum	O
-hav	O
 ualuaj	O
 li	O
 lauj	O
@@ -2602,9 +2596,6 @@ kev	B
 lis	I
 kev	I
 cai	I
-lis	O
-kev	O
-cai	O
 ,	O
 kab	O
 kes	O

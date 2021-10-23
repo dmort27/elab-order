@@ -1204,9 +1204,6 @@ ua	B
 nam	I
 ua	I
 txiv	I
-nam	O
-ua	O
-txiv	O
 lawm	O
 ,	O
 txawv	O
@@ -1439,9 +1436,6 @@ ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 ntawm	O
 Moob	O
 Asmelikas	O
@@ -3250,17 +3244,11 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 ,	O
 sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 ...	O
 ''	O
 cas	O

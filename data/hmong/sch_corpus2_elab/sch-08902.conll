@@ -375,9 +375,6 @@ ua	B
 vaj	I
 ua	I
 tsev	I
-vaj	O
-ua	O
-tsev	O
 tshiab	O
 ,	O
 mas	O
@@ -584,9 +581,6 @@ yog	B
 kev	I
 yog	I
 cai	I
-kev	O
-yog	O
-cai	O
 lawm	O
 ..	O
 Yog	O
@@ -1022,9 +1016,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 ,	O
 tsis	O
 muaj	O
@@ -1232,9 +1223,6 @@ lwm	B
 paab	I
 lwm	I
 pawg	I
-paab	O
-lwm	O
-pawg	O
 tsi	O
 tuaj	O
 thaam	O
@@ -1799,9 +1787,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ces	O
 yeej	O
 tsis	O
@@ -2097,9 +2082,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 tej	O
 yam	O
 yus	O
@@ -2188,9 +2170,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 tab	O
 si	O
 laura	O
@@ -3373,9 +3352,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 cesthiaj	O
 muaj	O
 teeb	O

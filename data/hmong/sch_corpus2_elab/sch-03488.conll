@@ -81,9 +81,6 @@ yuav	B
 noj	I
 yuav	I
 haus	I
-noj	O
-yuav	O
-haus	O
 ,	O
 yuav	O
 hnav	O
@@ -1320,9 +1317,6 @@ tau	B
 noj	I
 tau	I
 hnav	I
-noj	O
-tau	O
-hnav	O
 thiab	O
 yuav	O
 muaj	O
@@ -1448,9 +1442,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 thiab	O
 ntse	O
 tsi	O
@@ -1635,9 +1626,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 hnub	O
 twg	O
 lawm	O
@@ -1669,9 +1657,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 mas	O
 ,	O
 nws	O

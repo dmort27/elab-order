@@ -1258,9 +1258,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 has	O
 tas	O
 :	O
@@ -2075,9 +2072,6 @@ tej	B
 nam	I
 tej	I
 txiv	I
-nam	O
-tej	O
-txiv	O
 yim	O
 has	O
 ces	O
@@ -3083,9 +3077,6 @@ zoo	B
 noj	I
 zoo	I
 haus	I
-noj	O
-zoo	O
-haus	O
 ces	O
 tau	O
 ib	O
@@ -3100,9 +3091,6 @@ zoo	B
 noj	I
 zoo	I
 haus	I
-noj	O
-zoo	O
-haus	O
 ces	O
 ib	O
 week	O
@@ -3693,9 +3681,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 xwb	O
 ?	O
 

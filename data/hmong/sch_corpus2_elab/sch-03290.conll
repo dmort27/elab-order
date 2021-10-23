@@ -364,9 +364,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 rau	O
 xwb	O
 .	O
@@ -614,9 +611,6 @@ muaj	B
 neej	I
 muaj	I
 tsav	I
-neej	O
-muaj	O
-tsav	O
 los	O
 nws	O
 tsi	O
@@ -865,9 +859,6 @@ luag	B
 rooj	I
 luag	I
 ntsa	I
-rooj	O
-luag	O
-ntsa	O
 os	O
 ...	O
 ''	O

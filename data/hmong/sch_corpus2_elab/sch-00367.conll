@@ -156,9 +156,6 @@ sib	B
 ceg	I
 sib	I
 ntaus	I
-ceg	O
-sib	O
-ntaus	O
 li	O
 tej	O
 no	O
@@ -1452,9 +1449,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 los	O
 tsis	O
 qub	O

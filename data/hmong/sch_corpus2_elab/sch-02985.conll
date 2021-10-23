@@ -298,17 +298,11 @@ nwg	B
 nam	I
 nwg	I
 txiv	I
-nam	O
-nwg	O
-txiv	O
 ,	O
 nwg	B
 neej	I
 nwg	I
 tsaav	I
-neej	O
-nwg	O
-tsaav	O
 hab	O
 txhua	O
 yaam	O
@@ -534,16 +528,10 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 muaj	B
 seem	I
 muaj	I
 so	I
-seem	O
-muaj	O
-so	O
 ,	O
 nqaj	O
 tub	O
@@ -1440,9 +1428,6 @@ siab	B
 ntev	I
 siab	I
 loj	I
-ntev	O
-siab	O
-loj	O
 zog	O
 ,	O
 tsis	O
@@ -1464,9 +1449,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 tus	O
 txiv	O
 ,	O
@@ -1567,9 +1549,6 @@ teg	B
 dlej	I
 teg	I
 num	I
-dlej	O
-teg	O
-num	O
 ces	O
 sijhawm	O
 muaj	O
@@ -1667,9 +1646,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 le	O
 .......	O
 lub	O
@@ -2130,9 +2106,6 @@ ua	B
 dlog	I
 ua	I
 dlig	I
-dlog	O
-ua	O
-dlig	O
 nawb	O
 .	O
 

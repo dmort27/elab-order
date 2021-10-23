@@ -55,9 +55,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -330,9 +327,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -618,9 +612,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -775,9 +766,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -1336,9 +1324,6 @@ nyob	B
 ub	I
 nyob	I
 no	I
-ub	O
-nyob	O
-no	O
 ...	O
 tabsis	O
 tseem	O
@@ -1357,9 +1342,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 thiab	O
 .	O
 
@@ -1981,9 +1963,6 @@ puas	B
 tsav	I
 puas	I
 yam	I
-tsav	O
-puas	O
-yam	O
 tsuav	O
 yog	O
 lus	O
@@ -2697,9 +2676,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 li	O
 koj	O
 piav	O
@@ -2774,9 +2750,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 yog	O
 ab	O
 tsi	O
@@ -3503,9 +3476,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ...	O
 tus	O
 yuav	O

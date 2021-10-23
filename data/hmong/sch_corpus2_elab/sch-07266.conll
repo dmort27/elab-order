@@ -294,9 +294,6 @@ cov	B
 txheeb	I
 cov	I
 ze	I
-txheeb	O
-cov	O
-ze	O
 pab	O
 pab	O
 xyab	O
@@ -709,9 +706,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ua	O
 ntxov	O
 nyho	O

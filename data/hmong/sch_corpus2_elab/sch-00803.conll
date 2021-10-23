@@ -1528,9 +1528,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 ......	O
 peb	O
 yuav	O
@@ -1565,9 +1562,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 mog	O
 .......	O
 leej	O
@@ -1900,9 +1894,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 xwb	O
 na	O
 ?	O
@@ -2085,9 +2076,6 @@ nyeem	B
 mus	I
 nyeem	I
 los	I
-mus	O
-nyeem	O
-los	O
 tsam	O
 no	O
 zoo	O
@@ -2224,9 +2212,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hu	O
 doctor	O
 no	O

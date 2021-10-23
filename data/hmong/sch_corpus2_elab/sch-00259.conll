@@ -76,9 +76,6 @@ rooj	B
 nom	I
 rooj	I
 tswv	I
-nom	O
-rooj	O
-tswv	O
 no	O
 ,	O
 tab	O
@@ -113,9 +110,6 @@ kav	B
 teb	I
 kav	I
 chaw	I
-teb	O
-kav	O
-chaw	O
 .	O
 
 
@@ -652,9 +646,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 ntawd	O
 .	O
 
@@ -789,9 +780,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 .	O
 
 
@@ -1132,9 +1120,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 .	O
 
 
@@ -1164,9 +1149,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 muaj	O
 feem	O
 nrog	O
@@ -1692,9 +1674,6 @@ muaj	B
 koob	I
 muaj	I
 meej	I
-koob	O
-muaj	O
-meej	O
 li	O
 koj	O
 txhob	O
@@ -2245,9 +2224,6 @@ koj	B
 pog	I
 koj	I
 yawg	I
-pog	O
-koj	O
-yawg	O
 qua	O
 ntxa	O
 ces	O
@@ -2851,9 +2827,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 xwb	O
 ces	O
 kuv	O
@@ -3008,9 +2981,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 tabsis	O
 ua	O
 cas	O

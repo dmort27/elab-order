@@ -93,9 +93,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 li	O
 .	O
 
@@ -113,9 +110,6 @@ ua	B
 plees	I
 ua	I
 yi	I
-plees	O
-ua	O
-yi	O
 ,	O
 es	O
 thiaj	O
@@ -247,9 +241,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 tsis	O
 nrog	O
 poj	O
@@ -323,9 +314,6 @@ ncig	B
 zej	I
 ncig	I
 zos	I
-zej	O
-ncig	O
-zos	O
 ,	O
 lom	O
 zem	O
@@ -686,9 +674,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 ,	O
 kev	O
 nkagsiab	O
@@ -761,9 +746,6 @@ tsi	B
 txawj	I
 tsi	I
 ntse	I
-txawj	O
-tsi	O
-ntse	O
 ,	O
 lam	O
 yog	O
@@ -837,9 +819,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 ,	O
 luag	O
 coj	O

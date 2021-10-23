@@ -27,9 +27,6 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 noj	O
 qab	O
 heev	O
@@ -193,9 +190,6 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 .	O
 
 
@@ -255,9 +249,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 cia	O
 li	O
 sawv	O
@@ -319,9 +310,6 @@ los	B
 vaj	I
 los	I
 tsev	I
-vaj	O
-los	O
-tsev	O
 lawm	O
 los	O
 cia	O
@@ -342,9 +330,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 tseem	O
 tshuav	O
 pojniam	O
@@ -422,9 +407,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 tseem	O
 tshuav	O
 diav	O
@@ -674,9 +656,6 @@ ti	B
 tes	I
 ti	I
 taw	I
-tes	O
-ti	O
-taw	O
 lawm	O
 tiag	O
 kuv	O

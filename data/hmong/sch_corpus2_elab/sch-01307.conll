@@ -437,9 +437,6 @@ lus	B
 dog	I
 lus	I
 dig	I
-dog	O
-lus	O
-dig	O
 zoo	O
 li	O
 no	O
@@ -732,9 +729,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 no	O
 .	O
 

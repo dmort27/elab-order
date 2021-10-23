@@ -85,9 +85,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 tas	O
 zog	O
 kom	O
@@ -140,9 +137,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 tsis	O
 nrog	O
 koj	O
@@ -263,9 +257,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -310,9 +301,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 tsam	O
 tau	O
 kab	O
@@ -780,9 +768,6 @@ tsi	B
 meej	I
 tsi	I
 pem	I
-meej	O
-tsi	O
-pem	O
 li	O
 es	O
 tsis	O
@@ -1056,9 +1041,6 @@ tig	B
 ntsej	I
 tig	I
 muag	I
-ntsej	O
-tig	O
-muag	O
 ntsia	O
 rov	O
 qab	O

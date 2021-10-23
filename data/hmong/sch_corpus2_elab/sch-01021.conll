@@ -1729,9 +1729,6 @@ coob	B
 leej	I
 coob	I
 tus	I
-leej	O
-coob	O
-tus	O
 xav	O
 nawb	O
 .	O
@@ -2445,9 +2442,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 lub	O
 qhov	O
 muag	O
@@ -2525,9 +2519,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 luag	O
 ua	O
@@ -2547,9 +2538,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 neeg	O
 luag	O
 npliag	O
@@ -2961,9 +2949,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 zoo	O
 li	O
 neeg	O
@@ -3546,17 +3531,11 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 thiab	O
 siab	B
 ntev	I
 siab	I
 loj	I
-ntev	O
-siab	O
-loj	O
 npaum	O
 li	O
 cas	O
@@ -3734,9 +3713,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 --	O
 los	O
 yog	O

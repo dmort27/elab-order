@@ -606,9 +606,6 @@ hais	B
 txhij	I
 hais	I
 txhua	I
-txhij	O
-hais	O
-txhua	O
 ...	O
 1	O
 2	O
@@ -671,9 +668,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 zov	O
 bf	O
 kom	O
@@ -1150,9 +1144,6 @@ lub	B
 mob	I
 lub	I
 aws	I
-mob	O
-lub	O
-aws	O
 li	O
 no	O
 --	O

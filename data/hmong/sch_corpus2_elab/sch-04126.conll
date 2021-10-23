@@ -101,9 +101,6 @@ ua	B
 plees	I
 ua	I
 yi	I
-plees	O
-ua	O
-yi	O
 ntawm	O
 cov	O
 neeg	O
@@ -234,9 +231,6 @@ puas	B
 koob	I
 puas	I
 npe	I
-koob	O
-puas	O
-npe	O
 ,	O
 luag	O
 poob	O
@@ -2114,9 +2108,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 tom	O
 kev	O
 lawm	O
@@ -2468,9 +2459,6 @@ khoom	B
 vaaj	I
 khoom	I
 tsev	I
-vaaj	O
-khoom	O
-tsev	O
 .....	O
 hov	O
 .....	O
@@ -2913,9 +2901,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 no	O
 mas	O
 tshe	O
@@ -3076,9 +3061,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 lawm	O
 leej	O
 twg	O
@@ -3114,9 +3096,6 @@ ua	B
 phem	I
 ua	I
 zoo	I
-phem	O
-ua	O
-zoo	O
 los	O
 tsi	O
 pub	O
@@ -3153,9 +3132,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 li	O
 ntawm	O
 yuav	O

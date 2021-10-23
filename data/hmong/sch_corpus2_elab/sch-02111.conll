@@ -395,9 +395,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 lawm	O
 ,	O
 dab	O
@@ -559,9 +556,6 @@ txwv	B
 zeej	I
 txwv	I
 txoob	I
-zeej	O
-txwv	O
-txoob	O
 ntawd	O
 mas	O
 lawv	O
@@ -914,9 +908,6 @@ ua	B
 dawb	I
 ua	I
 do	I
-dawb	O
-ua	O
-do	O
 xwb	O
 ,	O
 nws	O
@@ -990,9 +981,6 @@ kev	B
 dab	I
 kev	I
 qhua	I
-dab	O
-kev	O
-qhua	O
 ,	O
 nws	O
 los	O
@@ -1348,9 +1336,6 @@ saub	B
 npab	I
 saub	I
 vwm	I
-npab	O
-saub	O
-vwm	O
 ntawd	O
 yog	O
 Tswv	O
@@ -1402,9 +1387,6 @@ saub	B
 npab	I
 saub	I
 vwm	I
-npab	O
-saub	O
-vwm	O
 .	O
 
 
@@ -1418,9 +1400,6 @@ saub	B
 npab	I
 saub	I
 vwm	I
-npab	O
-saub	O
-vwm	O
 ''	O
 no	O
 tsis	O
@@ -1630,9 +1609,6 @@ muaj	B
 kev	I
 muaj	I
 cai	I
-kev	O
-muaj	O
-cai	O
 ,	O
 tsis	O
 muaj	O
@@ -1641,9 +1617,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 ,	O
 tsis	O
 muaj	O
@@ -1652,9 +1625,6 @@ sib	B
 txhawb	I
 sib	I
 nqa	I
-txhawb	O
-sib	O
-nqa	O
 li	O
 luag	O
 pej	O
@@ -1744,9 +1714,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 ?	O
 ?	O
 
@@ -2213,9 +2180,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 tam	O
 sim	O
 no	O
@@ -2255,9 +2219,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 yuav	O
 nplua	O
 tus	O
@@ -2265,9 +2226,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 .	O
 
 

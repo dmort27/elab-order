@@ -1056,9 +1056,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 ua	O
 luag	O
 xav	O
@@ -1081,9 +1078,6 @@ ua	B
 nuj	I
 ua	I
 nqi	I
-nuj	O
-ua	O
-nqi	O
 ....	O
 ua	O
 zoo	O
@@ -2178,9 +2172,6 @@ cov	B
 phem	I
 cov	I
 zoo	I
-phem	O
-cov	O
-zoo	O
 .	O
 
 
@@ -2604,9 +2595,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -3401,9 +3389,6 @@ tau	B
 dawb	I
 tau	I
 do	I
-dawb	O
-tau	O
-do	O
 ....	O
 cov	O
 tsi	O
@@ -3521,9 +3506,6 @@ tau	B
 dawb	I
 tau	I
 do	I
-dawb	O
-tau	O
-do	O
 ...	O
 ''	O
 and	O
@@ -3647,9 +3629,6 @@ kev	B
 phem	I
 kev	I
 zoo	I
-phem	O
-kev	O
-zoo	O
 is	O
 totally	O
 different	O

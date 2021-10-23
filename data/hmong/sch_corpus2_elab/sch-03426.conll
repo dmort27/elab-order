@@ -90,9 +90,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 tuaj	O
 leg	O
 lub	O
@@ -391,9 +388,6 @@ tej	B
 nam	I
 tej	I
 txiv	I
-nam	O
-tej	O
-txiv	O
 has	O
 ces	O
 cuab	O
@@ -428,9 +422,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 hab	O
 kevlig	O
 kevcai	O
@@ -517,9 +508,6 @@ kev	B
 pluj	I
 kev	I
 tuag	I
-pluj	O
-kev	O
-tuag	O
 los	O
 suavslawg	O
 yeej	O
@@ -725,9 +713,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 rau	O
 ntees	O
 tuag	O
@@ -988,9 +973,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 txawm	O
 los	O
 hais	O
@@ -1420,9 +1402,6 @@ yug	B
 nam	I
 yug	I
 txiv	I
-nam	O
-yug	O
-txiv	O
 ,	O
 yog	O
 yug	O
@@ -1601,9 +1580,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 mam	O
 yuav	O
 ua	O
@@ -1645,9 +1621,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 yuav	O
 tau	O
 txais	O
@@ -1662,9 +1635,6 @@ siv	B
 caij	I
 siv	I
 nyoog	I
-caij	O
-siv	O
-nyoog	O
 ntev	O
 ...	O
 ntau	O

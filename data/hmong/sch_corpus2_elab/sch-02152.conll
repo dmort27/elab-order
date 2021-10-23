@@ -804,9 +804,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 tau	O
 30	O
 tawm	O
@@ -1119,9 +1116,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 los	O
 tsim	O
 Hmoob	O
@@ -1131,9 +1125,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 los	O
 cawm	O
 Hmoob	O
@@ -1610,9 +1601,6 @@ ua	B
 phem	I
 ua	I
 qas	I
-phem	O
-ua	O
-qas	O
 kws	O
 muaj	O
 nyob	O
@@ -1767,9 +1755,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 sab	O
 tsim	O
 nyog	O
@@ -3397,9 +3382,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ntau	O
 ntau	O
 rau	O

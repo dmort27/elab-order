@@ -116,9 +116,6 @@ tus	B
 yeej	I
 tus	I
 swb	I
-yeej	O
-tus	O
-swb	O
 li	O
 .	O
 
@@ -1243,9 +1240,6 @@ ntsuag	B
 xyoob	I
 ntsuag	I
 ntoo	I
-xyoob	O
-ntsuag	O
-ntoo	O
 txawm	O
 hlob	O
 zom	O
@@ -1661,9 +1655,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -1727,9 +1718,6 @@ txoj	B
 kab	I
 txoj	I
 kev	I
-kab	O
-txoj	O
-kev	O
 li	O
 ,	O
 example	O
@@ -1778,9 +1766,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 uas	O
 ib	O
 txwm	O

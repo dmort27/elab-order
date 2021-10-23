@@ -307,9 +307,6 @@ yog	B
 niam	I
 yog	I
 txiv	I
-niam	O
-yog	O
-txiv	O
 ,	O
 yog	O
 tij	O
@@ -411,9 +408,6 @@ txhua	B
 tsav	I
 txhua	I
 yam	I
-tsav	O
-txhua	O
-yam	O
 hais	O
 kom	O
 tus	O
@@ -1154,9 +1148,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 hauv	O
 no	O
 sib	O
@@ -2079,9 +2070,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 na	O
 .	O
 
@@ -2195,9 +2183,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -2638,9 +2623,6 @@ aus	B
 ciaj	I
 aus	I
 tuag	I
-ciaj	O
-aus	O
-tuag	O
 tsis	O
 cia	O
 sia	O
@@ -2725,9 +2707,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 kiag	O
 saib	O
 xwb	O
@@ -2908,9 +2887,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 thiab	O
 .	O
 
@@ -3001,9 +2977,6 @@ txhuas	B
 leej	I
 txhuas	I
 tus	I
-leej	O
-txhuas	O
-tus	O
 tias	O
 RUAM	O
 ,	O
@@ -3630,9 +3603,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 tsis	O
 muaj	O
@@ -3695,18 +3665,12 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 tiag	O
 tiag	O
 raw	B
 kev	I
 raw	I
 cai	I
-kev	O
-raw	O
-cai	O
 li	O
 Mim	O
 Muas	O

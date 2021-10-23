@@ -202,9 +202,6 @@ tej	B
 roob	I
 tej	I
 hav	I
-roob	O
-tej	O
-hav	O
 ces	O
 tsi	O
 muaj	O
@@ -485,9 +482,6 @@ khiav	B
 mus	I
 khiav	I
 los	I
-mus	O
-khiav	O
-los	O
 ces	O
 ib	O
 txhia	O
@@ -1343,9 +1337,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 mus	O
 .	O
 

@@ -1095,9 +1095,6 @@ sib	B
 chab	I
 sib	I
 chaws	I
-chab	O
-sib	O
-chaws	O
 los	O
 mus	O
 li	O
@@ -1297,9 +1294,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 zoo	O
 li	O
 kuv	O

@@ -149,9 +149,6 @@ nyiaj	B
 hnub	I
 nyiaj	I
 hli	I
-hnub	O
-nyiaj	O
-hli	O
 mas	O
 luag	O
 hais	O
@@ -293,9 +290,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 mas	O
 hmoob	O
 cov	O
@@ -953,9 +947,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 rau	O
 hauv	O
 xov	O
@@ -1042,9 +1033,6 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 hauv	O
 luag	O
 lub	O
@@ -1712,9 +1700,6 @@ haum	B
 kab	I
 haum	I
 kev	I
-kab	O
-haum	O
-kev	O
 lawm	O
 ntag	O
 ,	O

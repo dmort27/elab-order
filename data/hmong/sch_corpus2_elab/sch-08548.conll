@@ -116,9 +116,6 @@ paub	B
 ntaub	I
 paub	I
 ntawv	I
-ntaub	O
-paub	O
-ntawv	O
 thiab	O
 muaj	O
 lub	O
@@ -225,9 +222,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 ,	O
 kev	O
 tev	O
@@ -241,9 +235,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 tsi	O
 yog	O
 hmoob	O
@@ -454,9 +445,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 thiab	O
 tej	O
 hmoob	O
@@ -833,9 +821,6 @@ xws	B
 teb	I
 xws	I
 chaw	I
-teb	O
-xws	O
-chaw	O
 ,	O
 thiab	O
 tsi	O

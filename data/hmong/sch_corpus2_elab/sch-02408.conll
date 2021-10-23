@@ -287,9 +287,6 @@ nug	B
 ub	I
 nug	I
 no	I
-ub	O
-nug	O
-no	O
 saib	O
 koj	O
 puas	O
@@ -1454,9 +1451,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 .	O
 
 
@@ -1767,9 +1761,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 xwb	O
 ntag	O
 hod	O
@@ -1880,9 +1871,6 @@ cov	B
 neej	I
 cov	I
 tsav	I
-neej	O
-cov	O
-tsav	O
 ua	O
 sib	O
 sib	O
@@ -1919,9 +1907,6 @@ nqi	B
 zaub	I
 nqi	I
 mov	I
-zaub	O
-nqi	O
-mov	O
 ntau	O
 ntau	O
 lawm	O
@@ -1967,9 +1952,6 @@ tej	B
 kwv	I
 tej	I
 tij	I
-kwv	O
-tej	O
-tij	O
 thiab	O
 txheeb	O
 tej	O
@@ -1980,9 +1962,6 @@ puv	B
 zej	I
 puv	I
 zos	I
-zej	O
-puv	O
-zos	O
 ...	O
 yus	O
 yuav	O
@@ -2141,9 +2120,6 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 kiag	O
 hauv	O
 tsev	O
@@ -2252,9 +2228,6 @@ ceg	B
 neej	I
 ceg	I
 tsav	I
-neej	O
-ceg	O
-tsav	O
 los	O
 thiab	O
 xwb	O

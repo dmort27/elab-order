@@ -1391,9 +1391,6 @@ sis	B
 caav	I
 sis	I
 tshe	I
-caav	O
-sis	O
-tshe	O
 ntau	O
 zag	O
 .	O
@@ -1650,9 +1647,6 @@ cuag	B
 puj	I
 cuag	I
 yawm	I
-puj	O
-cuag	O
-yawm	O
 tau	O
 nua	O
 laiv	O
@@ -1751,9 +1745,6 @@ ua	B
 num	I
 ua	I
 tswv	I
-num	O
-ua	O
-tswv	O
 kuj	O
 yuav	O
 tsum	O
@@ -1783,9 +1774,6 @@ ua	B
 num	I
 ua	I
 tswv	I
-num	O
-ua	O
-tswv	O
 yuav	O
 tsum	O
 txawj	O
@@ -1852,9 +1840,6 @@ ua	B
 num	I
 ua	I
 tswv	I
-num	O
-ua	O
-tswv	O
 tseem	O
 thuam	O
 lwm	O
@@ -2662,9 +2647,6 @@ twm	B
 zeej	I
 twm	I
 kawv	I
-zeej	O
-twm	O
-kawv	O
 .	O
 
 

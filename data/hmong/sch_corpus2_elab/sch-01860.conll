@@ -506,9 +506,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 tseem	O
 nyog	O
 Appleton	O
@@ -729,9 +726,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 thiab	O
 kev	O
 muaj	O
@@ -769,9 +763,6 @@ tub	B
 nom	I
 tub	I
 tswv	I
-nom	O
-tub	O
-tswv	O
 tub	O
 vaj	O
 tub	O
@@ -1850,9 +1841,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 ,	O
 no	O
 yog	O
@@ -1882,9 +1870,6 @@ sau	B
 ntaub	I
 sau	I
 ntawv	I
-ntaub	O
-sau	O
-ntawv	O
 rau	O
 hauv	O
 no	O
@@ -1943,9 +1928,6 @@ lug	B
 toj	I
 lug	I
 pes	I
-toj	O
-lug	O
-pes	O
 caum	O
 VP	O
 qab	O
@@ -2013,9 +1995,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 noj	O
 xwb	O
 twb	O
@@ -2094,9 +2073,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 xwb	O
 ,	O
 ua	O

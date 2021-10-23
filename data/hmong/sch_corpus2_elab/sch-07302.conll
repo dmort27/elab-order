@@ -60,9 +60,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 uas	O
 tau	O
 siv	O
@@ -686,9 +683,6 @@ hwm	B
 niam	I
 hwm	I
 txiv	I
-niam	O
-hwm	O
-txiv	O
 .	O
 
 
@@ -858,9 +852,6 @@ neeg	B
 loj	I
 neeg	I
 siab	I
-loj	O
-neeg	O
-siab	O
 neeg	O
 zoo	O
 nraug	O
@@ -911,9 +902,6 @@ tsis	B
 loj	I
 tsis	I
 siab	I
-loj	O
-tsis	O
-siab	O
 tsis	O
 zoo	O
 nraug	O
@@ -1414,9 +1402,6 @@ tshum	B
 ub	I
 tshum	I
 no	I
-ub	O
-tshum	O
-no	O
 tsis	O
 raug	O
 qhov	O
@@ -1573,9 +1558,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 li	O
 Nkauj	O
 Nyiag	O

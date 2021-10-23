@@ -619,9 +619,6 @@ muaj	B
 xyab	I
 muaj	I
 ntawv	I
-xyab	O
-muaj	O
-ntawv	O
 hlawv	O
 raus	O
 peb	O
@@ -634,9 +631,6 @@ nrog	B
 poj	I
 nrog	I
 yawm	I
-poj	O
-nrog	O
-yawm	O
 na	O
 ....	O
 Cousin	O
@@ -916,9 +910,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ,	O
 kuv	O
 xav	O
@@ -941,9 +932,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 ces	O
 suav	O
@@ -969,9 +957,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 .	O
 
 

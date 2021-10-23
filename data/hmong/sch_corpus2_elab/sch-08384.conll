@@ -188,9 +188,6 @@ dej	B
 siab	I
 dej	I
 ntsws	I
-siab	O
-dej	O
-ntsws	O
 rau	O
 kav	O
 xwm	O
@@ -339,9 +336,6 @@ qhua	B
 neej	I
 qhua	I
 tsav	I
-neej	O
-qhua	O
-tsav	O
 noj	O
 no	O
 yog	O
@@ -597,9 +591,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 xwb	O
 .	O
 
@@ -806,9 +797,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 .	O
 
 
@@ -819,17 +807,11 @@ pam	B
 ntev	I
 pam	I
 luv	I
-ntev	O
-pam	O
-luv	O
 ,	O
 pam	B
 loj	I
 pam	I
 me	I
-loj	O
-pam	O
-me	O
 los	O
 yog	O
 nyob	O
@@ -875,9 +857,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 ,	O
 siv	O
 nyiaj	O
@@ -885,9 +864,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 .	O
 
 
@@ -1230,9 +1206,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 siv	O
 nyiaj	O
@@ -1240,9 +1213,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 .	O
 
 
@@ -1271,9 +1241,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 xav	O
 pam	O
 nws	O
@@ -1661,9 +1628,6 @@ cov	B
 tub	I
 cov	I
 kiv	I
-tub	O
-cov	O
-kiv	O
 yeej	O
 yeem	O
 ned	O
@@ -2120,9 +2084,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 xwb	O
 ;	O
 nws	O
@@ -2279,9 +2240,6 @@ tas	B
 zaj	I
 tas	I
 zog	I
-zaj	O
-tas	O
-zog	O
 pem	O
 kitchen	O
 lawm	O
@@ -3247,9 +3205,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 ,	O
 tiamsi	O
 hos	O
@@ -3329,9 +3284,6 @@ tuaj	B
 noj	I
 tuaj	I
 haus	I
-noj	O
-tuaj	O
-haus	O
 xwb	O
 .	O
 
@@ -3398,9 +3350,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 nawb	O
 ....	O
 tej	O

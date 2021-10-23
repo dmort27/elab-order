@@ -118,9 +118,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 teb	O
 chaws	O
 no	O
@@ -221,9 +218,6 @@ kaus	B
 xyoob	I
 kaus	I
 ntoo	I
-xyoob	O
-kaus	O
-ntoo	O
 lawm	O
 thiab	O
 lov	O
@@ -559,9 +553,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 qhia	O
 kiag	O
 los	O
@@ -617,9 +608,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 .	O
 
 
@@ -636,9 +624,6 @@ zaum	B
 hnub	I
 zaum	I
 hli	I
-hnub	O
-zaum	O
-hli	O
 los	O
 ,	O
 nws	O

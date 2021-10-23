@@ -86,9 +86,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 xwb	O
 .	O
 
@@ -247,25 +244,16 @@ tso	B
 kwv	I
 tso	I
 tij	I
-kwv	O
-tso	O
-tij	O
 ,	O
 tso	B
 nam	I
 tso	I
 txiv	I
-nam	O
-tso	O
-txiv	O
 ,	O
 tso	B
 neej	I
 tso	I
 tsaav	I
-neej	O
-tso	O
-tsaav	O
 .	O
 
 
@@ -457,9 +445,6 @@ nco	B
 niam	I
 nco	I
 txiv	I
-niam	O
-nco	O
-txiv	O
 --	O
 ces	O
 yog	O
@@ -778,9 +763,6 @@ poob	B
 teb	I
 poob	I
 chaw	I
-teb	O
-poob	O
-chaw	O
 tseem	O
 tuaj	O
 ua	O
@@ -1028,9 +1010,6 @@ tseev	B
 noj	I
 tseev	I
 haus	I
-noj	O
-tseev	O
-haus	O
 li	O
 ,	O
 tabsis	O
@@ -1797,9 +1776,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 tuaj	O
 nyob	O
 coob	O
@@ -1916,9 +1892,6 @@ niag	B
 tsiaj	I
 niag	I
 txhuv	I
-tsiaj	O
-niag	O
-txhuv	O
 saib	O
 lub	O
 siab	O

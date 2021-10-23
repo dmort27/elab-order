@@ -1559,9 +1559,6 @@ rau	B
 teb	I
 rau	I
 chaw	I
-teb	O
-rau	O
-chaw	O
 li	O
 nawb	O
 .	O
@@ -1577,9 +1574,6 @@ khib	B
 ciaj	I
 khib	I
 tuag	I
-ciaj	O
-khib	O
-tuag	O
 li	O
 ntag	O
 ,	O
@@ -2077,9 +2071,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ,	O
 peb	O
 cov	O

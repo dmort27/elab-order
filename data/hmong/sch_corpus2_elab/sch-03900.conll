@@ -909,9 +909,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 no	O
 .	O
 
@@ -1525,9 +1522,6 @@ ua	B
 rwj	I
 ua	I
 aws	I
-rwj	O
-ua	O
-aws	O
 ncu	O
 yod	O
 .	O
@@ -1571,9 +1565,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 vim	O
 kuv	O
 tsis	O
@@ -1594,9 +1585,6 @@ nai	B
 phoo	I
 nai	I
 pha	I
-phoo	O
-nai	O
-pha	O
 caub	O
 keem	O
 caub	O
@@ -2024,9 +2012,6 @@ hmoob	B
 neej	I
 hmoob	I
 tsav	I
-neej	O
-hmoob	O
-tsav	O
 nawb	O
 .	O
 

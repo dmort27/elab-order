@@ -799,9 +799,6 @@ nug	B
 ub	I
 nug	I
 no	I
-ub	O
-nug	O
-no	O
 dab	O
 tsi	O
 naj	O
@@ -1186,9 +1183,6 @@ ib	B
 txhiab	I
 ib	I
 txhis	I
-txhiab	O
-ib	O
-txhis	O
 2.	O
 nws	O
 tsi	O
@@ -1300,9 +1294,6 @@ txhua	B
 hnub	I
 txhua	I
 hmo	I
-hnub	O
-txhua	O
-hmo	O
 --	O
 tomqab	O
 yus	O
@@ -1466,9 +1457,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 thiab	O
 laiv	O
 ...	O

@@ -372,9 +372,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 mus	O
 mus	O
 los	O
@@ -1229,9 +1226,6 @@ ntsis	B
 riam	I
 ntsis	I
 phom	I
-riam	O
-ntsis	O
-phom	O
 rov	O
 los	O
 tua	O
@@ -1298,9 +1292,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ,	O
 lawv	O
 yeej	O
@@ -1319,9 +1310,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 ,	O
 tom	O
 ntej	O

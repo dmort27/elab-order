@@ -82,9 +82,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 huv	O
 tibsi	O
 .	O
@@ -245,9 +242,6 @@ sib	B
 chab	I
 sib	I
 chaws	I
-chab	O
-sib	O
-chaws	O
 lawm	O
 yuav	O
 tsis	O
@@ -625,9 +619,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 hais	O
 tsis	O
 haub	O
@@ -1021,9 +1012,6 @@ ua	B
 mus	I
 ua	I
 los	I
-mus	O
-ua	O
-los	O
 tseem	O
 yuav	O
 hais	O
@@ -1220,9 +1208,6 @@ sib	B
 thuam	I
 sib	I
 tshum	I
-thuam	O
-sib	O
-tshum	O
 mas	O
 thov	O
 tseg	O
@@ -1318,9 +1303,6 @@ koom	B
 siab	I
 koom	I
 ntsws	I
-siab	O
-koom	O
-ntsws	O
 rov	O
 mus	O
 daws	O
@@ -1857,9 +1839,6 @@ sab	B
 dawb	I
 sab	I
 dub	I
-dawb	O
-sab	O
-dub	O
 tib	O
 si	O
 ,	O
@@ -1987,9 +1966,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 luag	O
 tej	O
 nom	O
@@ -2033,9 +2009,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 lawm	O
 xwb	O
 .	O
@@ -3218,9 +3191,6 @@ yeej	B
 cem	I
 yeej	I
 hais	I
-cem	O
-yeej	O
-hais	O
 kawg	O
 lawm	O
 tab	O

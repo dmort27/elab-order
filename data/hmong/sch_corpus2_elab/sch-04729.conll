@@ -110,9 +110,6 @@ ua	B
 num	I
 ua	I
 tswv	I
-num	O
-ua	O
-tswv	O
 kag	O
 .	O
 
@@ -151,9 +148,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 lawm	O
 ,	O
 zag	O
@@ -224,9 +218,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 os	O
 .	O
 

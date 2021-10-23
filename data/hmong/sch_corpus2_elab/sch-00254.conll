@@ -427,9 +427,6 @@ thoob	B
 zej	I
 thoob	I
 zog	I
-zej	O
-thoob	O
-zog	O
 txhaj	O
 muaj	O
 plaub	O
@@ -612,9 +609,6 @@ lem	B
 mus	I
 lem	I
 los	I
-mus	O
-lem	O
-los	O
 kom	O
 koj	O
 mob	O
@@ -1041,9 +1035,6 @@ cov	B
 zoo	I
 cov	I
 phem	I
-zoo	O
-cov	O
-phem	O
 thiab	O
 .	O
 
@@ -2239,9 +2230,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 le	O
 mej	O
 cov	O
@@ -3273,9 +3261,6 @@ puag	B
 tes	I
 puag	I
 taw	I
-tes	O
-puag	O
-taw	O
 ntsia	O
 TV	O
 xwb	O
@@ -3557,9 +3542,6 @@ ua	B
 txij	I
 ua	I
 nkawm	I
-txij	O
-ua	O
-nkawm	O
 txawm	O
 yog	O
 xav	O

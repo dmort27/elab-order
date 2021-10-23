@@ -341,9 +341,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 tsis	O
 ua	O
 ces	O
@@ -369,9 +366,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 es	O
 leej	O
 twg	O
@@ -467,9 +461,6 @@ nti	B
 ciaj	I
 nti	I
 tuag	I
-ciaj	O
-nti	O
-tuag	O
 los	O
 luag	O
 tsis	O

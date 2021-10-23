@@ -57,9 +57,6 @@ kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 hlo	O
 le	O
 ,	O
@@ -1305,9 +1302,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 kom	O
 yus	O
 nyob	O
@@ -1772,9 +1766,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 kom	O
 yus	O
 nyob	O
@@ -3399,9 +3390,6 @@ khoom	B
 vaj	I
 khoom	I
 tsev	I
-vaj	O
-khoom	O
-tsev	O
 faib	O
 tib	O
 zoo	O

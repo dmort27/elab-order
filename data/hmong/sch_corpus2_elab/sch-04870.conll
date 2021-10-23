@@ -70,9 +70,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ntawd	O
 ces	O
 zoo	O
@@ -126,9 +123,6 @@ coj	B
 noj	I
 coj	I
 haus	I
-noj	O
-coj	O
-haus	O
 tam	O
 sim	O
 no	O
@@ -224,9 +218,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 thiab	O
 om	O
 ...	O
@@ -311,9 +302,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ...	O
 kuv	O
 ntseeg	O
@@ -774,9 +762,6 @@ tswj	B
 teb	I
 tswj	I
 chaw	I
-teb	O
-tswj	O
-chaw	O
 li	O
 uas	O
 US	O
@@ -830,9 +815,6 @@ tswj	B
 teb	I
 tswj	I
 chaw	I
-teb	O
-tswj	O
-chaw	O
 .	O
 
 

@@ -577,9 +577,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 tias	O
 yuav	O
 tau	O
@@ -1114,9 +1111,6 @@ vij	B
 sub	I
 vij	I
 npog	I
-sub	O
-vij	O
-npog	O
 li	O
 niaj	O
 hnub	O
@@ -1446,9 +1440,6 @@ hais	B
 siab	I
 hais	I
 qis	I
-siab	O
-hais	O
-qis	O
 los	O
 yeej	O
 tsis	O
@@ -1706,9 +1697,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ntxiv	O
 .	O
 
@@ -1787,9 +1775,6 @@ nyias	B
 pab	I
 nyias	I
 pawg	I
-pab	O
-nyias	O
-pawg	O
 tiam	O
 sis	O
 qhov	O
@@ -1909,9 +1894,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 nyob	O
 qhov	O
 twg	O
@@ -1955,9 +1937,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 lawm	O
 thiab	O
 nav	O
@@ -2000,9 +1979,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 li	O
 os	O
 .	O
@@ -2079,9 +2055,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 yuav	O
 rov	O
 mus	O

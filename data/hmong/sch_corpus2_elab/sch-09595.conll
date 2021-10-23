@@ -10,9 +10,6 @@ koj	B
 noj	I
 koj	I
 haus	I
-noj	O
-koj	O
-haus	O
 tas	O
 es	O
 kuv	O
@@ -33,9 +30,6 @@ koj	B
 neej	I
 koj	I
 tsav	I
-neej	O
-koj	O
-tsav	O
 ,	O
 tsi	O
 yog	O
@@ -43,9 +37,6 @@ koj	B
 kwv	I
 koj	I
 tij	I
-kwv	O
-koj	O
-tij	O
 no	O
 es	O
 .	O
@@ -56,9 +47,6 @@ yuav	B
 noj	I
 yuav	I
 haus	I
-noj	O
-yuav	O
-haus	O
 cas	O
 tsi	O
 mus	O
@@ -77,9 +65,6 @@ koj	B
 noj	I
 koj	I
 haus	I
-noj	O
-koj	O
-haus	O
 thiab	O
 .	O
 
@@ -231,9 +216,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 rau	O
 koj	O
 xwb	O
@@ -252,9 +234,6 @@ vwm	B
 ub	I
 vwm	I
 no	I
-ub	O
-vwm	O
-no	O
 ces	O
 vim	O
 yog	O

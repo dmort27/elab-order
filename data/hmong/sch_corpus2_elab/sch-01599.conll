@@ -694,9 +694,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 txij	O
 thaum	O
 Hmoob	O
@@ -760,9 +757,6 @@ ua	B
 ntej	I
 ua	I
 qab	I
-ntej	O
-ua	O
-qab	O
 tsis	O
 sib	O
 thooj	O
@@ -1170,9 +1164,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 .	O
 
 

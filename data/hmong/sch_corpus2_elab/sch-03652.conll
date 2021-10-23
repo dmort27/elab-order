@@ -203,9 +203,6 @@ raws	B
 noj	I
 raws	I
 haus	I
-noj	O
-raws	O
-haus	O
 xwb	O
 .	O
 
@@ -246,9 +243,6 @@ raws	B
 noj	I
 raws	I
 haus	I
-noj	O
-raws	O
-haus	O
 xwb	O
 .	O
 
@@ -598,9 +592,6 @@ txhua	B
 tsav	I
 txhua	I
 yam	I
-tsav	O
-txhua	O
-yam	O
 los	O
 lov	O
 Laura	O
@@ -1207,9 +1198,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 ?	O
 
 
@@ -1236,9 +1224,6 @@ tib	B
 pab	I
 tib	I
 pawg	I
-pab	O
-tib	O
-pawg	O
 ?	O
 
 
@@ -1620,9 +1605,6 @@ raws	B
 noj	I
 raws	I
 haus	I
-noj	O
-raws	O
-haus	O
 xwb	O
 .	O
 
@@ -1662,9 +1644,6 @@ raws	B
 noj	I
 raws	I
 haus	I
-noj	O
-raws	O
-haus	O
 ?	O
 
 
@@ -2483,9 +2462,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 .	O
 
 
@@ -2562,9 +2538,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ;	O
 tus	O
 cem	O
@@ -2660,9 +2633,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -3187,9 +3157,6 @@ ua	B
 nruj	I
 ua	I
 tsiv	I
-nruj	O
-ua	O
-tsiv	O
 rau	O
 peb	O
 .	O
@@ -3456,9 +3423,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 tag	O
 nro	O
 .	O
@@ -3638,9 +3602,6 @@ ntau	B
 tsav	I
 ntau	I
 yam	I
-tsav	O
-ntau	O
-yam	O
 hauv	O
 no	O
 txog	O
@@ -4558,9 +4519,6 @@ raug	B
 ntes	I
 raug	I
 kaw	I
-ntes	O
-raug	O
-kaw	O
 li	O
 niaj	O
 hnub	O
@@ -4603,9 +4561,6 @@ raug	B
 ntes	I
 raug	I
 kaw	I
-ntes	O
-raug	O
-kaw	O
 ,	O
 ces	O
 cov	O
@@ -4650,9 +4605,6 @@ raug	B
 txim	I
 raug	I
 thuv	I
-txim	O
-raug	O
-thuv	O
 ,	O
 ces	O
 kev	O
@@ -4705,9 +4657,6 @@ ua	B
 phooj	I
 ua	I
 ywg	I
-phooj	O
-ua	O
-ywg	O
 .	O
 
 
@@ -4889,9 +4838,6 @@ ua	B
 phooj	I
 ua	I
 ywg	I
-phooj	O
-ua	O
-ywg	O
 .	O
 
 
@@ -5095,9 +5041,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 thiab	O
 36	O
 las	O
@@ -5161,9 +5104,6 @@ nchav	B
 teb	I
 nchav	I
 chaw	I
-teb	O
-nchav	O
-chaw	O
 los	O
 txog	O
 txij	O
@@ -5188,9 +5128,6 @@ tsis	B
 paus	I
 tsis	I
 ntsis	I
-paus	O
-tsis	O
-ntsis	O
 .	O
 
 

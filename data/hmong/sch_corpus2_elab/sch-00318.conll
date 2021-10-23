@@ -1295,9 +1295,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 thiab	O
 qhia	O
 lawv	O
@@ -2773,9 +2770,6 @@ muaj	B
 cag	I
 muaj	I
 ceg	I
-cag	O
-muaj	O
-ceg	O
 ua	O
 tus	O
 tsi	O

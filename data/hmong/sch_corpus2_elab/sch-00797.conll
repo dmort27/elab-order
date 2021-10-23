@@ -524,9 +524,6 @@ kev	B
 tsov	I
 kev	I
 rog	I
-tsov	O
-kev	O
-rog	O
 ,	O
 qhia	O
 neeg	O
@@ -534,9 +531,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ....	O
 tsis	O
 yog	O
@@ -619,9 +613,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 control	O
 tsis	O
 tau	O
@@ -1404,17 +1395,11 @@ ntsuag	B
 kwv	I
 ntsuag	I
 tij	I
-kwv	O
-ntsuag	O
-tij	O
 ,	O
 ntsuag	B
 niam	I
 ntsuag	I
 txiv	I
-niam	O
-ntsuag	O
-txiv	O
 ,	O
 cov	O
 Hmoob	O
@@ -1480,9 +1465,6 @@ nrhiav	B
 kwv	I
 nrhiav	I
 tij	I
-kwv	O
-nrhiav	O
-tij	O
 ,	O
 ha	O
 ha	O
@@ -2297,9 +2279,6 @@ ua	B
 mus	I
 ua	I
 los	I
-mus	O
-ua	O
-los	O
 ces	O
 XF	O
 Ntsuab	O

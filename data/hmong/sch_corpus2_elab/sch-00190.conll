@@ -446,9 +446,6 @@ siab	B
 ncaj	I
 siab	I
 zoo	I
-ncaj	O
-siab	O
-zoo	O
 tuaj	O
 nawb	O
 .	O
@@ -652,9 +649,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 ,	O
 kev	O
 puas	O
@@ -704,9 +698,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ,	O
 yog	O
 li	O

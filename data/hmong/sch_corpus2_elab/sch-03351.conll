@@ -539,9 +539,6 @@ poob	B
 teb	I
 poob	I
 chaw	I
-teb	O
-poob	O
-chaw	O
 xwb	O
 .	O
 
@@ -1296,9 +1293,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 seb	O
 .	O
 
@@ -2368,9 +2362,6 @@ lov	B
 npab	I
 lov	I
 ceg	I
-npab	O
-lov	O
-ceg	O
 thiab	O
 sav	O
 duav	O

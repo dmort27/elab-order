@@ -405,9 +405,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 rau	O
 koj	O
 kom	O
@@ -645,9 +642,6 @@ neeg	B
 txwj	I
 neeg	I
 laug	I
-txwj	O
-neeg	O
-laug	O
 lam	O
 yuav	O
 yog	O
@@ -1039,9 +1033,6 @@ nco	B
 niam	I
 nco	I
 txiv	I
-niam	O
-nco	O
-txiv	O
 ,	O
 nco	O
 viv	O
@@ -1139,9 +1130,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 lhuub	O
 lhub	O
@@ -1360,9 +1348,6 @@ ua	B
 vaj	I
 ua	I
 tsev	I
-vaj	O
-ua	O
-tsev	O
 zoo	O
 nkauj	O
 tos	O

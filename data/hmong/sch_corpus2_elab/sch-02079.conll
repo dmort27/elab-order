@@ -115,9 +115,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 muaj	O
 lus	O
 zoo	O
@@ -920,9 +917,6 @@ nyob	B
 kaj	I
 nyob	I
 huv	I
-kaj	O
-nyob	O
-huv	O
 ,	O
 ces	O
 luag	O
@@ -1040,9 +1034,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 xav	O
 tej	O
 vij	O
@@ -1272,9 +1263,6 @@ nrog	B
 vaj	I
 nrog	I
 tsev	I
-vaj	O
-nrog	O
-tsev	O
 mas	O
 tseem	O
 nyuam	O
@@ -1621,9 +1609,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 .	O
 
 

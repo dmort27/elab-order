@@ -98,9 +98,6 @@ nam	B
 hlub	I
 nam	I
 yau	I
-hlub	O
-nam	O
-yau	O
 rua	O
 tsoom	O
 Moob	O
@@ -643,9 +640,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 nyob	O
 los	O
 yog	O
@@ -659,9 +653,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 mog	O
 .	O
 
@@ -1047,9 +1038,6 @@ kaus	B
 noj	I
 kaus	I
 haus	I
-noj	O
-kaus	O
-haus	O
 le	O
 yawg	O
 es	O

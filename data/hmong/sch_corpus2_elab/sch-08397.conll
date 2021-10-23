@@ -171,9 +171,6 @@ nqi	B
 tshoob	I
 nqi	I
 kos	I
-tshoob	O
-nqi	O
-kos	O
 .	O
 
 
@@ -187,9 +184,6 @@ teev	B
 dab	I
 teev	I
 qhua	I
-dab	O
-teev	O
-qhua	O
 ntau	O
 yam	O
 xws	O
@@ -644,9 +638,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 li	O
 neb	O
 na	O
@@ -1248,9 +1239,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 hais	O
 tsi	O
 nrog	O

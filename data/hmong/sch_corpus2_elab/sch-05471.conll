@@ -159,9 +159,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 khawb	O
 kuv	O
 tsev	O
@@ -257,9 +254,6 @@ pluas	B
 noj	I
 pluas	I
 haus	I
-noj	O
-pluas	O
-haus	O
 los	O
 xwb	O
 las	O
@@ -310,9 +304,6 @@ tom	B
 mab	I
 tom	I
 suav	I
-mab	O
-tom	O
-suav	O
 ?	O
 
 
@@ -426,9 +417,6 @@ luag	B
 kwv	I
 luag	I
 tij	I
-kwv	O
-luag	O
-tij	O
 nyob	O
 MesKas	O
 no	O
@@ -650,9 +638,6 @@ lus	B
 nkhib	I
 lus	I
 nkhaus	I
-nkhib	O
-lus	O
-nkhaus	O
 yav	O
 tas	O
 los	O

@@ -624,9 +624,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ,	O
 yog	O
 tias	O
@@ -832,9 +829,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 xwb	O
 rau	O
 qhov	O
@@ -1551,9 +1545,6 @@ muaj	B
 koob	I
 muaj	I
 meej	I
-koob	O
-muaj	O
-meej	O
 tsi	O
 muaj	O
 teb	O

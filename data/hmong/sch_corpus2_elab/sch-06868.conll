@@ -663,9 +663,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 ,	O
 tsis	O
 tim	O
@@ -720,9 +717,6 @@ muaj	B
 ntsej	I
 muaj	I
 muag	I
-ntsej	O
-muaj	O
-muag	O
 ces	O
 yog	O
 plhu	O
@@ -735,9 +729,6 @@ poob	B
 ntsej	I
 poob	I
 muag	I
-ntsej	O
-poob	O
-muag	O
 ces	O
 yuav	O
 txaj	O
@@ -776,9 +767,6 @@ muaj	B
 ntsej	I
 muaj	I
 muag	I
-ntsej	O
-muaj	O
-muag	O
 ces	O
 yog	O
 ntsej	O
@@ -902,9 +890,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 ,	O
 lus	O
 qhuab	O
@@ -1180,17 +1165,11 @@ poob	B
 koob	I
 poob	I
 npe	I
-koob	O
-poob	O
-npe	O
 ,	O
 poob	B
 nom	I
 poob	I
 tswv	I
-nom	O
-poob	O
-tswv	O
 lug	O
 txug	O
 naj	O
@@ -1296,9 +1275,6 @@ miv	B
 tub	I
 miv	I
 nyuas	I
-tub	O
-miv	O
-nyuas	O
 tom	O
 ntej	O
 nuav	O

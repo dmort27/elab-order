@@ -506,9 +506,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 tso	O
 .	O
 
@@ -703,9 +700,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 .	O
 
 
@@ -767,9 +761,6 @@ raug	B
 cuab	I
 raug	I
 khi	I
-cuab	O
-raug	O
-khi	O
 rau	O
 tim	O
 Thaibteb	O
@@ -1250,9 +1241,6 @@ xab	B
 nom	I
 xab	I
 tswv	I
-nom	O
-xab	O
-tswv	O
 li	O
 lawv	O
 siab	O
@@ -1305,9 +1293,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 ,	O
 thov	O
 txoj	O
@@ -2019,9 +2004,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ces	O
 yeej	O
 yuav	O
@@ -2072,9 +2054,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 tim	O
 no	O
 los	O

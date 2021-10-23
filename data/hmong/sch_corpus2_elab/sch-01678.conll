@@ -64,9 +64,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 txhaj	O
 zoo	O
 sib	O
@@ -213,9 +210,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 lawm	O
 xwb	O
 .	O
@@ -231,9 +225,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 tiag	O
 tiag	O
 mas	O
@@ -468,9 +459,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 thiab	O
 kev	O
 ntseeg	O
@@ -680,9 +668,6 @@ kev	B
 tshoob	I
 kev	I
 kos	I
-tshoob	O
-kev	O
-kos	O
 li	O
 ntag	O
 nawb	O
@@ -736,9 +721,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 los	O
 tsi	O
 txhaum	O
@@ -1387,9 +1369,6 @@ puv	B
 vaj	I
 puv	I
 tsev	I
-vaj	O
-puv	O
-tsev	O
 tag	O
 .	O
 
@@ -1557,9 +1536,6 @@ yuav	B
 noj	I
 yuav	I
 haus	I
-noj	O
-yuav	O
-haus	O
 li	O
 cas	O
 los	O

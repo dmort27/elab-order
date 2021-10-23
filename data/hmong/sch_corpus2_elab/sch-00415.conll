@@ -2063,9 +2063,6 @@ tsis	B
 ntsib	I
 tsis	I
 pom	I
-ntsib	O
-tsis	O
-pom	O
 kuv	O
 ib	O
 zaugli	O
@@ -2108,9 +2105,6 @@ tsis	B
 ntsib	I
 tsis	I
 pom	I
-ntsib	O
-tsis	O
-pom	O
 kuv	O
 ib	O
 zaugli	O
@@ -4531,9 +4525,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xu	O
 deb	O
 li	O
@@ -5916,9 +5907,6 @@ rua	B
 ub	I
 rua	I
 nua	I
-ub	O
-rua	O
-nua	O
 ne	O
 ?	O
 

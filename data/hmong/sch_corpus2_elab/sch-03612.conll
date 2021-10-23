@@ -202,9 +202,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 tseem	O
 nrov	O
 qujqees	O
@@ -213,9 +210,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 ...	O
 puas	O
 yuav	O
@@ -1196,9 +1190,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 yooj	O
 yim	O
 .	O
@@ -1464,9 +1455,6 @@ tej	B
 txheeb	I
 tej	I
 ze	I
-txheeb	O
-tej	O
-ze	O
 pab	O
 saib	O
 pab	O
@@ -1522,9 +1510,6 @@ xws	B
 teb	I
 xws	I
 chaw	I
-teb	O
-xws	O
-chaw	O
 .	O
 
 
@@ -1556,9 +1541,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 tsis	O
 muaj	O
 chaw	O

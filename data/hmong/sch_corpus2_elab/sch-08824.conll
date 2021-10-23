@@ -268,9 +268,6 @@ dag	B
 ub	I
 dag	I
 no	I
-ub	O
-dag	O
-no	O
 kom	O
 peb	O
 sib	O
@@ -305,9 +302,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 rov	O
 rau	O
 nws	O

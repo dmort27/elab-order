@@ -502,9 +502,6 @@ dib	B
 noj	I
 dib	I
 haus	I
-noj	O
-dib	O
-haus	O
 ces	O
 yog	O
 lawv	O
@@ -1061,9 +1058,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 nyob	O
 rau	O
 lub	O
@@ -1087,9 +1081,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 cov	O
 minority	O
 including	O
@@ -1351,9 +1342,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 lawm	O
 tiag	O
 tiag	O
@@ -1512,9 +1500,6 @@ me	B
 roj	I
 me	I
 ntshav	I
-roj	O
-me	O
-ntshav	O
 ...	O
 xav	O
 kiag	O
@@ -1548,9 +1533,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 .	O
 
@@ -2793,9 +2775,6 @@ nyob	B
 noj	I
 nyob	I
 haus	I
-noj	O
-nyob	O
-haus	O
 tsi	O
 khwv	O
 ,	O

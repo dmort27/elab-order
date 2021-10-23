@@ -61,9 +61,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 los	O
 tsis	O
 txhaum	O
@@ -105,9 +102,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 yeej	O
 tuaj	O
 quaj	O
@@ -713,9 +707,6 @@ sib	B
 txheeb	I
 sib	I
 ze	I
-txheeb	O
-sib	O
-ze	O
 thiab	O
 .	O
 
@@ -767,9 +758,6 @@ tej	B
 txheeb	I
 tej	I
 ze	I
-txheeb	O
-tej	O
-ze	O
 ntag	O
 ''	O
 .	O
@@ -1230,9 +1218,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 ,	O
 cov	O
 thawjcoj	O

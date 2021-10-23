@@ -275,9 +275,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 .	O
 
 
@@ -806,9 +803,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 ntawm	O
 niam	O
 txiv	O
@@ -1273,9 +1267,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 xws	O
 li	O
 hlug	O
@@ -1626,9 +1617,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 tias	O
 lawv	O
 twb	O

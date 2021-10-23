@@ -619,9 +619,6 @@ nti	B
 mus	I
 nti	I
 los	I
-mus	O
-nti	O
-los	O
 thiaj	O
 ua	O
 rau	O
@@ -635,9 +632,6 @@ lem	B
 mus	I
 lem	I
 los	I
-mus	O
-lem	O
-los	O
 ,	O
 ces	O
 cia	O

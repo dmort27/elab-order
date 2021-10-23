@@ -977,9 +977,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ais	O
 ib	O
 pab	O
@@ -1119,9 +1116,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 heev	O
 ,	O
 tej	O

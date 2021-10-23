@@ -434,9 +434,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 ,	O
 lawv	O
 ua	O
@@ -451,9 +448,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 ntau	O
 xauj	O
 rau	O
@@ -567,9 +561,6 @@ puas	B
 tsav	I
 puas	I
 yam	I
-tsav	O
-puas	O
-yam	O
 los	O
 kaus	O
 Hmoob	O

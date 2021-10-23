@@ -620,9 +620,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 dawb	O
 dawb	O
 ,	O
@@ -1273,9 +1270,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 tso	O
 ,	O
 tsam	O
@@ -1531,9 +1525,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 nig	O
 nuav	O
@@ -2032,9 +2023,6 @@ npau	B
 dub	I
 npau	I
 suav	I
-dub	O
-npau	O
-suav	O
 cais	O
 ntshe	O
 peb	O

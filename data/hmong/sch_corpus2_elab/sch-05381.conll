@@ -195,9 +195,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 cas	O
 yuav	O
 tu	O
@@ -298,9 +295,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 term	O
 mus	O
 ua	O
@@ -845,9 +839,6 @@ niaj	B
 hnub	I
 niaj	I
 hmo	I
-hnub	O
-niaj	O
-hmo	O
 rau	O
 siab	O
 ntso	O
@@ -856,9 +847,6 @@ khwv	B
 ciaj	I
 khwv	I
 tuag	I
-ciaj	O
-khwv	O
-tuag	O
 .	O
 
 
@@ -868,9 +856,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 muaj	O
 luv	O
 muaj	O

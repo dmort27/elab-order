@@ -1433,9 +1433,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 paub	O
 ,	O
 txij	O
@@ -1487,17 +1484,11 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 kom	O
 kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 tau	O
 kev	O
 tu	O
@@ -1856,9 +1847,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 tsev	O
 ntawd	O
 --	O
@@ -1949,9 +1937,6 @@ zoo	B
 noj	I
 zoo	I
 haus	I
-noj	O
-zoo	O
-haus	O
 no	O
 nad	O
 ...	O
@@ -2246,9 +2231,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 paub	O
 ,	O
 txij	O
@@ -2300,17 +2282,11 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 kom	O
 kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 tau	O
 kev	O
 tu	O
@@ -3955,9 +3931,6 @@ lub	B
 siab	I
 lub	I
 plawv	I
-siab	O
-lub	O
-plawv	O
 .	O
 
 

@@ -309,9 +309,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 tau	O
 20-30	O
 lub	O
@@ -335,16 +332,10 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 xwb	O
 .	O
 
@@ -413,9 +404,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 xwb	O
 .	O
 

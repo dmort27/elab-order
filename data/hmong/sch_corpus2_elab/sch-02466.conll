@@ -541,9 +541,6 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 lawm	O
 thiab	O
 ces	O
@@ -568,9 +565,6 @@ kev	B
 zej	I
 kev	I
 zos	I
-zej	O
-kev	O
-zos	O
 ,	O
 kev	O
 noj	O
@@ -584,9 +578,6 @@ kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 ...	O
 thiab	O
 li	O
@@ -693,9 +684,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ,	O
 kev	O
 los	O
@@ -946,9 +934,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 heev	O
 laiv	O
 .	O

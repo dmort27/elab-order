@@ -232,9 +232,6 @@ nai	B
 phoo	I
 nai	I
 pha	I
-phoo	O
-nai	O
-pha	O
 es	O
 puab	O
 txhaj	O
@@ -916,9 +913,6 @@ muaj	B
 pluj	I
 muaj	I
 tuag	I
-pluj	O
-muaj	O
-tuag	O
 los	O
 yuav	O
 tsum	O
@@ -1006,9 +1000,6 @@ muaj	B
 caij	I
 muaj	I
 nyoog	I
-caij	O
-muaj	O
-nyoog	O
 es	O
 xaav	O
 moog	O

@@ -4,9 +4,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 ziag	O
 no	O
 peb	O
@@ -202,9 +199,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 ne	O
 ,	O
 puas	O
@@ -421,9 +415,6 @@ cam	B
 dlej	I
 cam	I
 aav	I
-dlej	O
-cam	O
-aav	O
 es	O
 tsi	O
 ua	O
@@ -828,9 +819,6 @@ luag	B
 noj	I
 luag	I
 haus	I
-noj	O
-luag	O
-haus	O
 xwb	O
 hos	O
 yus	O

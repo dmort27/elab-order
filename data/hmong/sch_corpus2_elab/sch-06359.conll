@@ -170,9 +170,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 los	O
 ua	O
 rau	O
@@ -263,9 +260,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 tsis	O
 yog	O
 kev	O

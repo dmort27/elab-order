@@ -102,9 +102,6 @@ lug	B
 dlev	I
 lug	I
 npua	I
-dlev	O
-lug	O
-npua	O
 ces	O
 koj	O
 nrug	O
@@ -125,9 +122,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 kws	O
 caav	O
 pem	O
@@ -457,9 +451,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 twb	O
 los	O
 ,	O
@@ -1034,9 +1025,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 .	O
 
 
@@ -1357,9 +1345,6 @@ kuv	B
 kwv	I
 kuv	I
 tij	I
-kwv	O
-kuv	O
-tij	O
 yeej	O
 muaj	O
 hmoob	O

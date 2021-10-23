@@ -74,9 +74,6 @@ has	B
 moog	I
 has	I
 lug	I
-moog	O
-has	O
-lug	O
 ces	O
 kuv	O
 txawm	O
@@ -1591,9 +1588,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 tabsi	O
 kuv	O
 tsi	O

@@ -35,9 +35,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 lam	O
 qiv	O
 plab	O
@@ -215,9 +212,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ces	O
 lawv	O
 cov	O

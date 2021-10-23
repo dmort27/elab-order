@@ -1103,9 +1103,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 sib	O
 ceg	O
 lus	O
@@ -1286,9 +1283,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 npaum	O
 cas	O
 los	O

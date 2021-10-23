@@ -245,9 +245,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 los	O
 puab	O
 pum	O
@@ -591,9 +588,6 @@ taag	B
 zaaj	I
 taag	I
 zug	I
-zaaj	O
-taag	O
-zug	O
 le	O
 ....	O
 tseem	O
@@ -1176,9 +1170,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 saib	O
 puas	O
 yuav	O
@@ -1844,9 +1835,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 thiab	O
 sub	O
 sas	O

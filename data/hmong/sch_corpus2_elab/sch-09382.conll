@@ -834,18 +834,12 @@ rooj	B
 noj	I
 rooj	I
 haus	I
-noj	O
-rooj	O
-haus	O
 ntxeev	O
 ua	O
 nteeg	B
 pluj	I
 nteeg	I
 tuag	I
-pluj	O
-nteeg	O
-tuag	O
 hab	O
 yuav	O
 muab	O
@@ -866,9 +860,6 @@ suab	B
 quaj	I
 suab	I
 nyav	I
-quaj	O
-suab	O
-nyav	O
 .	O
 
 
@@ -889,9 +880,6 @@ rua	B
 ub	I
 rua	I
 nuav	I
-ub	O
-rua	O
-nuav	O
 hab	O
 cov	O
 kws	O
@@ -905,9 +893,6 @@ rua	B
 ub	I
 rua	I
 nua	I
-ub	O
-rua	O
-nua	O
 npaum	O
 tug	O
 dlej	O
@@ -1429,9 +1414,6 @@ kev	B
 pluj	I
 kev	I
 tuag	I
-pluj	O
-kev	O
-tuag	O
 xwb	O
 .	O
 
@@ -1496,9 +1478,6 @@ hloov	B
 sab	I
 hloov	I
 ntsws	I
-sab	O
-hloov	O
-ntsws	O
 hab	O
 txawj	O
 sib	O
@@ -1787,9 +1766,6 @@ ua	B
 kub	I
 ua	I
 ceev	I
-kub	O
-ua	O
-ceev	O
 ,	O
 nwg	O
 nuav	O
@@ -1850,9 +1826,6 @@ txeeb	B
 nom	I
 txeeb	I
 tswv	I
-nom	O
-txeeb	O
-tswv	O
 le	O
 hab	O
 .	O
@@ -1886,9 +1859,6 @@ sib	B
 hlub	I
 sib	I
 fwm	I
-hlub	O
-sib	O
-fwm	O
 es	O
 puab	O
 txhaj	O

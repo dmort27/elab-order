@@ -24,9 +24,6 @@ coob	B
 leej	I
 coob	I
 tug	I
-leej	O
-coob	O
-tug	O
 ,	O
 yog	O
 vim	O
@@ -1087,9 +1084,6 @@ yeej	B
 koob	I
 yeej	I
 huam	I
-koob	O
-yeej	O
-huam	O
 muaj	O
 zog	O
 tshaj	O
@@ -1168,9 +1162,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 thiab	O
 huv	O
 plig	O
@@ -1205,16 +1196,10 @@ yeej	B
 koob	I
 yeej	I
 huam	I
-koob	O
-yeej	O
-huam	O
 tag	B
 siab	I
 tag	I
 ntsws	I
-siab	O
-tag	O
-ntsws	O
 .	O
 
 
@@ -1572,9 +1557,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 tsis	O
 txhais	O
 tas	O

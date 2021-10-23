@@ -396,9 +396,6 @@ luag	B
 teb	I
 luag	I
 chaw	I
-teb	O
-luag	O
-chaw	O
 ces	O
 siv	O
 luag	O
@@ -413,9 +410,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ces	O
 hais	O
 tsis	O
@@ -1332,9 +1326,6 @@ yuav	B
 noj	I
 yuav	I
 haus	I
-noj	O
-yuav	O
-haus	O
 .	O
 
 

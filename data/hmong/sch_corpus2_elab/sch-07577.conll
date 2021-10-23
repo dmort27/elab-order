@@ -596,9 +596,6 @@ ntxias	B
 noj	I
 ntxias	I
 haus	I
-noj	O
-ntxias	O
-haus	O
 mas	O
 neeg	O
 yeej	O
@@ -636,9 +633,6 @@ txhua	B
 tsav	I
 txhua	I
 yam	I
-tsav	O
-txhua	O
-yam	O
 corruptions	O
 ,	O
 zoo	O
@@ -915,9 +909,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 in	O
 politic	O
 mas	O
@@ -1055,9 +1046,6 @@ nriav	B
 noj	I
 nriav	I
 haus	I
-noj	O
-nriav	O
-haus	O
 kaus	O
 paj	O
 hlwb	O

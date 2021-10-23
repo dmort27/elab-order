@@ -239,9 +239,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -494,9 +491,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 tsis	O
 tu	O
 pluas	O
@@ -970,9 +964,6 @@ mus	B
 ncaj	I
 mus	I
 ncees	I
-ncaj	O
-mus	O
-ncees	O
 xwb	O
 ov	O
 .	O

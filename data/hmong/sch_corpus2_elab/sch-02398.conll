@@ -235,9 +235,6 @@ khiav	B
 tsov	I
 khiav	I
 rog	I
-tsov	O
-khiav	O
-rog	O
 tiag	O
 tiag	O
 We	O
@@ -1726,9 +1723,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 tiag	O
 x	O
 no	O
@@ -1960,9 +1954,6 @@ cuag	B
 hnub	I
 cuag	I
 hli	I
-hnub	O
-cuag	O
-hli	O
 lawm	O
 nev	O
 yom	O

@@ -777,9 +777,6 @@ hai	B
 ub	I
 hai	I
 no	I
-ub	O
-hai	O
-no	O
 nej	O
 yuav	O
 tsum	O
@@ -2403,9 +2400,6 @@ kuv	B
 ntsib	I
 kuv	I
 pom	I
-ntsib	O
-kuv	O
-pom	O
 mas	O
 cov	O
 tim	O
@@ -2622,9 +2616,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ua	O
 thawj	O
 coj	O
@@ -3078,9 +3069,6 @@ nws	B
 nyiam	I
 nws	I
 hlub	I
-nyiam	O
-nws	O
-hlub	O
 ua	O
 li	O
 siab	O
@@ -3867,9 +3855,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 vau	O
 thiab	O
 ntsoog	O
@@ -4480,9 +4465,6 @@ koom	B
 niam	I
 koom	I
 txiv	I
-niam	O
-koom	O
-txiv	O
 los	O
 tsam	O
 no	O
@@ -4767,9 +4749,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 ces	O
 tas	O
 dawb2	O

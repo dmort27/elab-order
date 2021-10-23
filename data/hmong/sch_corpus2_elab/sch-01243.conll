@@ -399,9 +399,6 @@ lub	B
 paus	I
 lub	I
 ntsis	I
-paus	O
-lub	O
-ntsis	O
 .	O
 
 
@@ -437,9 +434,6 @@ lub	B
 keeb	I
 lub	I
 tiv	I
-keeb	O
-lub	O
-tiv	O
 no	O
 ho	O
 piav	O

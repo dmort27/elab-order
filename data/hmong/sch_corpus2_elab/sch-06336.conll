@@ -163,9 +163,6 @@ paub	B
 siab	I
 paub	I
 nqi	I
-siab	O
-paub	O
-nqi	O
 li	O
 ,	O
 tsi	O
@@ -187,9 +184,6 @@ kom	B
 yeej	I
 kom	I
 swb	I
-yeej	O
-kom	O
-swb	O
 li	O
 tej	O
 me	O
@@ -746,9 +740,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 lawm	O
 xwb	O
 .	O
@@ -931,9 +922,6 @@ muaj	B
 qab	I
 muaj	I
 hauv	I
-qab	O
-muaj	O
-hauv	O
 li	O
 ,	O
 ib	O
@@ -1013,9 +1001,6 @@ kom	B
 yeej	I
 kom	I
 swb	I
-yeej	O
-kom	O
-swb	O
 li	O
 no	O
 thaum	O

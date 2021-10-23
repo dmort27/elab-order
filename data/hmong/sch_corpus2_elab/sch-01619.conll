@@ -407,9 +407,6 @@ tuag	B
 tes	I
 tuag	I
 taw	I
-tes	O
-tuag	O
-taw	O
 .	O
 
 
@@ -453,9 +450,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 xwb	O
 .	O
 

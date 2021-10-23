@@ -606,9 +606,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 uas	O
 yog	O
 MHOOB	O
@@ -764,9 +761,6 @@ kev	B
 lis	I
 kev	I
 cai	I
-lis	O
-kev	O
-cai	O
 ,	O
 sis	O
 tawg	O
@@ -774,9 +768,6 @@ ua	B
 paab	I
 ua	I
 pawg	I
-paab	O
-ua	O
-pawg	O
 hab	O
 .	O
 
@@ -1315,9 +1306,6 @@ ntsuag	B
 xyoob	I
 ntsuag	I
 ntoo	I
-xyoob	O
-ntsuag	O
-ntoo	O
 ,	O
 txawm	O
 tas	O
@@ -1332,9 +1320,6 @@ ntsuag	B
 xyoob	I
 ntsuag	I
 ntoo	I
-xyoob	O
-ntsuag	O
-ntoo	O
 yeej	O
 yauv	O
 txawj	O

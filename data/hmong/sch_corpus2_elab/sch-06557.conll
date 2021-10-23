@@ -1338,9 +1338,6 @@ raws	B
 kab	I
 raws	I
 kev	I
-kab	O
-raws	O
-kev	O
 kom	O
 raug	O
 qauv	O
@@ -1539,9 +1536,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 no	O
 ntxiv	O
 li	O
@@ -1747,9 +1741,6 @@ raws	B
 kab	I
 raws	I
 kev	I
-kab	O
-raws	O
-kev	O
 kom	O
 raug	O
 qauv	O
@@ -1948,9 +1939,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 no	O
 ntxiv	O
 li	O
@@ -2570,9 +2558,6 @@ kev	B
 chawj	I
 kev	I
 chim	I
-chawj	O
-kev	O
-chim	O
 lawm	O
 xwb	O
 .	O
@@ -2592,9 +2577,6 @@ kev	B
 chawj	I
 kev	I
 chim	I
-chawj	O
-kev	O
-chim	O
 ces	O
 peb	O
 yeej	O
@@ -2791,9 +2773,6 @@ ib	B
 teb	I
 ib	I
 chaw	I
-teb	O
-ib	O
-chaw	O
 li	O
 .	O
 
@@ -3056,9 +3035,6 @@ poob	B
 teb	I
 poob	I
 chaw	I
-teb	O
-poob	O
-chaw	O
 ces	O
 pob	O
 meejmom	O

@@ -710,9 +710,6 @@ tso	B
 dlaag	I
 tso	I
 luag	I
-dlaag	O
-tso	O
-luag	O
 tub	O
 hab	O
 mob	O
@@ -748,9 +745,6 @@ muaj	B
 phooj	I
 muaj	I
 ywg	I
-phooj	O
-muaj	O
-ywg	O
 coob	O
 ,	O
 nyam	O
@@ -758,9 +752,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 ,	O
 lub	O
 ncauj	O

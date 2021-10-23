@@ -27,9 +27,6 @@ lus	B
 nom	I
 lus	I
 tswv	I
-nom	O
-lus	O
-tswv	O
 hais	O
 lus	O
 vaj	O
@@ -346,9 +343,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 (	O
 24/7	O
 )	O
@@ -995,9 +989,6 @@ lus	B
 xaiv	I
 lus	I
 ncua	I
-xaiv	O
-lus	O
-ncua	O
 uas	O
 cov	O
 Hmoob	O
@@ -1027,9 +1018,6 @@ lus	B
 xaiv	I
 lus	I
 ncua	I
-xaiv	O
-lus	O
-ncua	O
 xwb	O
 ,	O
 yuav	O
@@ -1054,9 +1042,6 @@ lus	B
 tseeb	I
 lus	I
 tsum	I
-tseeb	O
-lus	O
-tsum	O
 mas	O
 koj	O
 yim	O
@@ -1143,9 +1128,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hais	O
 tias	O
 yog	O
@@ -1189,9 +1171,6 @@ lus	B
 plaub	I
 lus	I
 ntug	I
-plaub	O
-lus	O
-ntug	O
 loj	O
 kawg	O
 nkaus	O
@@ -1317,9 +1296,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 thiab	O
 nawb	O
 ,	O
@@ -1682,9 +1658,6 @@ lus	B
 plaub	I
 lus	I
 ntug	I
-plaub	O
-lus	O
-ntug	O
 .	O
 
 
@@ -2557,9 +2530,6 @@ muaj	B
 tseeb	I
 muaj	I
 tsum	I
-tseeb	O
-muaj	O
-tsum	O
 ces	O
 peb	O
 tos	O
@@ -2691,9 +2661,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 lawm	O
 yav	O
 tom	O

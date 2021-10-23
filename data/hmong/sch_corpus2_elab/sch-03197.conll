@@ -625,9 +625,6 @@ tug	B
 ub	I
 tug	I
 nuav	I
-ub	O
-tug	O
-nuav	O
 lawm	O
 ,	O
 kuv	O
@@ -744,9 +741,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 mas	O
 kuv	O
 have	O
@@ -838,9 +832,6 @@ tug	B
 ub	I
 tug	I
 nuav	I
-ub	O
-tug	O
-nuav	O
 tsaam	O
 tes	O
 hua	O

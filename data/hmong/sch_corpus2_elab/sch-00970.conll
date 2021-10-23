@@ -73,9 +73,6 @@ muab	B
 teb	I
 muab	I
 chaw	I
-teb	O
-muab	O
-chaw	O
 tsi	O
 yog	O
 vim	O
@@ -182,9 +179,6 @@ lus	B
 mog	I
 lus	I
 muag	I
-mog	O
-lus	O
-muag	O
 ces	O
 koj	O
 ho	O
@@ -484,9 +478,6 @@ paim	B
 qaab	I
 paim	I
 quav	I
-qaab	O
-paim	O
-quav	O
 le	O
 nuav	O
 luas	O

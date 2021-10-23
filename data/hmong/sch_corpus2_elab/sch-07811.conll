@@ -51,9 +51,6 @@ hais	B
 ciaj	I
 hais	I
 tuag	I
-ciaj	O
-hais	O
-tuag	O
 los	O
 yeej	O
 tsi	O
@@ -90,9 +87,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 mus	O
 nyob	O
 sideline	O
@@ -276,9 +270,6 @@ chaws	B
 txawb	I
 chaws	I
 rau	I
-txawb	O
-chaws	O
-rau	O
 .	O
 
 
@@ -957,9 +948,6 @@ chaws	B
 txawb	I
 chaws	I
 rau	I
-txawb	O
-chaws	O
-rau	O
 li	O
 nev	O
 .	O

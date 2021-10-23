@@ -349,9 +349,6 @@ cov	B
 txheeb	I
 cov	I
 ze	I
-txheeb	O
-cov	O
-ze	O
 cov	O
 deb	O
 cov	O
@@ -1845,9 +1842,6 @@ yus	B
 caj	I
 yus	I
 ceg	I
-caj	O
-yus	O
-ceg	O
 ,	O
 yus	O
 yuav	O
@@ -2003,9 +1997,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 nplog	O
 ,	O
 phab	O

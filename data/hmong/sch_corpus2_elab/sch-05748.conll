@@ -807,9 +807,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -942,9 +939,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ntag	O
 .	O
 
@@ -1023,9 +1017,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 kom	O
 nrov	O
 npe	O

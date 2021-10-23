@@ -193,9 +193,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 ,	O
 thiab	O
 yauv	O
@@ -847,9 +844,6 @@ hauv	B
 dej	I
 hauv	I
 cawv	I
-dej	O
-hauv	O
-cawv	O
 li	O
 kuv	O
 hais	O
@@ -1395,9 +1389,6 @@ kuv	B
 vaj	I
 kuv	I
 tsev	I
-vaj	O
-kuv	O
-tsev	O
 lawm	O
 ,	O
 ib	O
@@ -2094,9 +2085,6 @@ hmoob	B
 pom	I
 hmoob	I
 paub	I
-pom	O
-hmoob	O
-paub	O
 xwb	O
 .	O
 
@@ -2734,9 +2722,6 @@ tso	B
 quav	I
 tso	I
 zis	I
-quav	O
-tso	O
-zis	O
 lawm	O
 saum	O
 ISS	O
@@ -2863,9 +2848,6 @@ neeg	B
 siab	I
 neeg	I
 qis	I
-siab	O
-neeg	O
-qis	O
 tau	O
 ua	O
 ntau	O
@@ -3062,9 +3044,6 @@ neeg	B
 siab	I
 neeg	I
 qis	I
-siab	O
-neeg	O
-qis	O
 tau	O
 ua	O
 ntau	O
@@ -3428,9 +3407,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 ces	O
 tsi	O
 qualify	O
@@ -3770,9 +3746,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 lawm	O
 xwb	O
 .	O

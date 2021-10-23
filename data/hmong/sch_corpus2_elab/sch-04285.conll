@@ -5,9 +5,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 nyob	O
 rau	O
 lub	O
@@ -45,9 +42,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 yeej	O
 tsuas	O
 muaj	O
@@ -188,9 +182,6 @@ yuav	B
 yeej	I
 yuav	I
 swb	I
-yeej	O
-yuav	O
-swb	O
 ntawd	O
 ,	O
 kuv	O
@@ -305,9 +296,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 pab	O
 seb	O
 Hmoob	O

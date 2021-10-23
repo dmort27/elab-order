@@ -28,9 +28,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 xwb	O
 ua	O
 cas	O
@@ -294,9 +291,6 @@ kev	B
 tshoob	I
 kev	I
 kos	I
-tshoob	O
-kev	O
-kos	O
 mas	O
 kuj	O
 ok	O
@@ -495,9 +489,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ntag	O
 los	O
 mas	O
@@ -1129,9 +1120,6 @@ raws	B
 kev	I
 raws	I
 cai	I
-kev	O
-raws	O
-cai	O
 xwb	O
 mas	O
 txhaj	O
@@ -1433,9 +1421,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 los	O
 sis	O
 yog	O
@@ -2092,9 +2077,6 @@ nriav	B
 noj	I
 nriav	I
 haus	I
-noj	O
-nriav	O
-haus	O
 rau	O
 nws	O
 txoj	O
@@ -2280,9 +2262,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 yuav	O
 tau	O
 xyaum	O

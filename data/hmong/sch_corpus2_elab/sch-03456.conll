@@ -122,9 +122,6 @@ laug	B
 caij	I
 laug	I
 nyoog	I
-caij	O
-laug	O
-nyoog	O
 ...	O
 -Txiabneeb	O
 Tzianeng	O
@@ -358,9 +355,6 @@ ua	B
 ntsej	I
 ua	I
 muag	I
-ntsej	O
-ua	O
-muag	O
 xwb	O
 ...	O
 tom	O
@@ -537,9 +531,6 @@ teeb	B
 liab	I
 teeb	I
 ntsuab	I
-liab	O
-teeb	O
-ntsuab	O
 ,	O
 teeb	O
 xiav	O

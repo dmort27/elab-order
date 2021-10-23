@@ -24,9 +24,6 @@ sib	B
 tua	I
 sib	I
 txeeb	I
-tua	O
-sib	O
-txeeb	O
 txiv	O
 neej	O
 no	O
@@ -325,9 +322,6 @@ tas	B
 hnub	I
 tas	I
 hmo	I
-hnub	O
-tas	O
-hmo	O
 xwb	O
 ...	O
 yog	O
@@ -1259,9 +1253,6 @@ muaj	B
 txhij	I
 muaj	I
 txhua	I
-txhij	O
-muaj	O
-txhua	O
 lawm	O
 ,	O
 tab	O
@@ -1301,9 +1292,6 @@ qhov	B
 loj	I
 qhov	I
 me	I
-loj	O
-qhov	O
-me	O
 los	O
 yuav	O
 tau	O
@@ -1733,9 +1721,6 @@ tus	B
 zoo	I
 tus	I
 phem	I
-zoo	O
-tus	O
-phem	O
 ib	O
 yam	O
 nkaus	O

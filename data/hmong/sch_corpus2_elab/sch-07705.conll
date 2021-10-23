@@ -1049,9 +1049,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -1603,9 +1600,6 @@ kev	B
 kwv	I
 kev	I
 tij	I
-kwv	O
-kev	O
-tij	O
 ua	O
 rau	O
 ib	O
@@ -1670,9 +1664,6 @@ dab	B
 niam	I
 dab	I
 txiv	I
-niam	O
-dab	O
-txiv	O
 poj	O
 yawm	O
 txwv	O

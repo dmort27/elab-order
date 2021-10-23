@@ -564,9 +564,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 mas	O
 cov	O
 liam	O
@@ -619,9 +616,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 cais	O
 thiaj	O
 muaj	O
@@ -1287,9 +1281,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 txiv	O
 ,	O
 kam	O
@@ -1332,9 +1323,6 @@ xav	B
 txhij	I
 xav	I
 txhua	I
-txhij	O
-xav	O
-txhua	O
 ,	O
 nws	O
 ho	O
@@ -1366,9 +1354,6 @@ qhov	B
 zoo	I
 qhov	I
 phem	I
-zoo	O
-qhov	O
-phem	O
 rau	O
 nkawv	O
 tag	O

@@ -295,9 +295,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 xwb	O
 .	O
 
@@ -308,9 +305,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ,	O
 muaj	O
 kasmoos	O
@@ -1037,9 +1031,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 li	O
 cas	O
 ,	O
@@ -1192,9 +1183,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 rau	O
 tej	O
 public	O

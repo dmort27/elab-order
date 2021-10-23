@@ -1629,9 +1629,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 ,	O
 tab	O
 sis	O
@@ -1662,9 +1659,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 li	O
 ov	O
 .	O

@@ -338,9 +338,6 @@ tus	B
 loj	I
 tus	I
 me	I
-loj	O
-tus	O
-me	O
 los	O
 yeej	O
 tsis	O
@@ -509,9 +506,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 thiab	O
 .	O
 
@@ -1086,9 +1080,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 los	O
 ,	O
 kuv	O
@@ -3159,9 +3150,6 @@ tsis	B
 deb	I
 tsis	I
 ze	I
-deb	O
-tsis	O
-ze	O
 kom	O
 hnov	O
 xov	O

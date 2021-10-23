@@ -225,9 +225,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 sawv	O
 ua	O
 traitors	O
@@ -590,9 +587,6 @@ hmoob	B
 roj	I
 hmoob	I
 ntshav	I
-roj	O
-hmoob	O
-ntshav	O
 ,	O
 no	O
 ces	O
@@ -1432,9 +1426,6 @@ nqa	B
 riam	I
 nqa	I
 phom	I
-riam	O
-nqa	O
-phom	O
 los	O
 zais	O
 rau	O
@@ -1553,9 +1544,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 mag	O
 kaw	O
 zom	O
@@ -1610,9 +1598,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 li	O
 .	O
 

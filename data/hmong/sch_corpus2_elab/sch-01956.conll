@@ -362,9 +362,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 xaav	O
 nrhav	O
@@ -389,9 +386,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 nyob	O
 thoob	O
 nplajteb	O

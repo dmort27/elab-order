@@ -259,9 +259,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 thiab	O
 lub	O
 caij	O
@@ -574,9 +571,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 thiab	O
 lub	O
 caij	O
@@ -789,9 +783,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 lawm	O
 ,	O
 ntshe	O

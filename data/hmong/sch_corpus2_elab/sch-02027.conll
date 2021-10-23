@@ -33,9 +33,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 nyob	O
 tsis	O
 muaj	O
@@ -409,9 +406,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 thiab	O
 .	O
 
@@ -448,9 +442,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 ,	O
 tabsis	O
 Hmoob	O
@@ -464,9 +455,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 kawg	O
 li	O
 .	O
@@ -577,9 +565,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 tiag	O
 tiag	O
 ?	O
@@ -1055,9 +1040,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 lawm	O
 ces	O
 yeej	O

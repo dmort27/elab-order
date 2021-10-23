@@ -76,9 +76,6 @@ tswv	B
 teb	I
 tswv	I
 chaw	I
-teb	O
-tswv	O
-chaw	O
 lawm	O
 thiab	O
 tabsis	O
@@ -316,9 +313,6 @@ hauv	B
 zej	I
 hauv	I
 zos	I
-zej	O
-hauv	O
-zos	O
 xwb	O
 ned	O
 ...	O
@@ -433,9 +427,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 lawm	O
 ces	O
 zoo	O
@@ -500,9 +491,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 ua	O
 tsi	O
 paub	O
@@ -551,9 +539,6 @@ yus	B
 pab	I
 yus	I
 pawg	I
-pab	O
-yus	O
-pawg	O
 nyuag	O
 ntawd	O
 xwb	O
@@ -629,9 +614,6 @@ tau	B
 pab	I
 tau	I
 pawg	I
-pab	O
-tau	O
-pawg	O
 aws	O
 ...	O
 koj	O

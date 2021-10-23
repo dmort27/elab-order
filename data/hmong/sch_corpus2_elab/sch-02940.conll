@@ -421,9 +421,6 @@ sis	B
 ntaus	I
 sis	I
 tua	I
-ntaus	O
-sis	O
-tua	O
 ,	O
 koj	O
 txeeb	O
@@ -1016,9 +1013,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 haib	O
 haib	O
 los	O

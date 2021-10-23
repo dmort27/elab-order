@@ -202,9 +202,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 .	O
 
 
@@ -216,9 +213,6 @@ nce	B
 roob	I
 nce	I
 hav	I
-roob	O
-nce	O
-hav	O
 ces	O
 cas	O
 lub	O

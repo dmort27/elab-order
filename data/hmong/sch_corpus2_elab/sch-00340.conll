@@ -33,9 +33,6 @@ hloov	B
 mus	I
 hloov	I
 los	I
-mus	O
-hloov	O
-los	O
 .	O
 
 
@@ -834,9 +831,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 yug	O
 xwb	O
 ntxim	O

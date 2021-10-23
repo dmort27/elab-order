@@ -319,9 +319,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 npaum	O
 twg	O
 los	O
@@ -393,9 +390,6 @@ mob	B
 ub	I
 mob	I
 no	I
-ub	O
-mob	O
-no	O
 tuaj	O
 .	O
 
@@ -440,9 +434,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 tsi	O
 muaj	O
 qab	O

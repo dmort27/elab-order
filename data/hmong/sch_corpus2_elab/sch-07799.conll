@@ -443,9 +443,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 ,	O
 yog	O
 thaum	O
@@ -713,9 +710,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 ,	O
 yog	O
 thaum	O
@@ -1284,9 +1278,6 @@ sib	B
 ntxub	I
 sib	I
 cais	I
-ntxub	O
-sib	O
-cais	O
 kuas	O
 tso	O
 tseg	O

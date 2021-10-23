@@ -25,9 +25,6 @@ puas	B
 tsuaj	I
 puas	I
 ntsoog	I
-tsuaj	O
-puas	O
-ntsoog	O
 los	O
 rau	O
 30	O
@@ -396,9 +393,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 ,	O
 tus	O
 yuav	O
@@ -411,9 +405,6 @@ raug	B
 cuab	I
 raug	I
 khi	I
-cuab	O
-raug	O
-khi	O
 los	O
 muaj	O
 .	O
@@ -452,9 +443,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 nybo	O
 ,	O
 yog	O
@@ -852,9 +840,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 mam	O
 taug	O
 qab	O
@@ -1267,9 +1252,6 @@ dag	B
 mab	I
 dag	I
 suav	I
-mab	O
-dag	O
-suav	O
 tsi	O
 txhob	O
 los	O

@@ -145,9 +145,6 @@ kev	B
 lis	I
 kev	I
 cai	I
-lis	O
-kev	O
-cai	O
 hais	O
 tias	O
 :	O
@@ -891,9 +888,6 @@ tus	B
 phem	I
 tus	I
 zoo	I
-phem	O
-tus	O
-zoo	O
 .	O
 
 
@@ -913,17 +907,11 @@ xeeb	B
 teb	I
 xeeb	I
 chaw	I
-teb	O
-xeeb	O
-chaw	O
 ..	O
 tswv	B
 ntuj	I
 tswv	I
 teb	I
-ntuj	O
-tswv	O
-teb	O
 ...	O
 tswv	O
 luaj	O
@@ -1013,9 +1001,6 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 los	O
 yog	O
 dab	O
@@ -1263,9 +1248,6 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 xws	O
 li	O
 dab	O
@@ -3245,9 +3227,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 .	O
 
 

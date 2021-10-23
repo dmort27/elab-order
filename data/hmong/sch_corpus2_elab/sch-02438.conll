@@ -598,9 +598,6 @@ tej	B
 zaub	I
 tej	I
 mov	I
-zaub	O
-tej	O
-mov	O
 uas	O
 rau	O
 txumlom	O
@@ -1305,9 +1302,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 .	O
 
 
@@ -1442,9 +1436,6 @@ muaj	B
 tub	I
 muaj	I
 kiv	I
-tub	O
-muaj	O
-kiv	O
 muaj	O
 other	O
 priority	O
@@ -1530,9 +1521,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 hauv	O
 wb	O
 lub	O
@@ -1733,9 +1721,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 los	O
 yog	O
 tias	O
@@ -3208,9 +3193,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 lus	O
 sexy	O
 txawj	O
@@ -4168,9 +4150,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -4182,9 +4161,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -4199,9 +4175,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 rau	O
 nws	O
 .	O
@@ -4755,9 +4728,6 @@ mob	B
 siab	I
 mob	I
 ntsws	I
-siab	O
-mob	O
-ntsws	O
 thiab	O
 sib	O
 zam	O

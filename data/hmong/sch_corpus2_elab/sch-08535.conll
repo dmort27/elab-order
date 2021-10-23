@@ -549,9 +549,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 yuav	O
 tua	O
 nws	O
@@ -559,9 +556,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 yam	O
 tsis	O
 muaj	O
@@ -929,9 +923,6 @@ ua	B
 nuj	I
 ua	I
 nqi	I
-nuj	O
-ua	O
-nqi	O
 dab	O
 tsi	O
 .	O
@@ -1182,9 +1173,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 yuav	O
 tua	O
 nws	O
@@ -1192,9 +1180,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 yam	O
 tsis	O
 muaj	O
@@ -1562,9 +1547,6 @@ ua	B
 nuj	I
 ua	I
 nqi	I
-nuj	O
-ua	O
-nqi	O
 dab	O
 tsi	O
 .	O
@@ -1728,9 +1710,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 thiab	O
 ne	O
 .	O
@@ -2651,9 +2630,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 nrhiav	O
 kev	O
 dag	O
@@ -3056,9 +3032,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 los	O
 prove	O
 tau	O
@@ -3300,9 +3273,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 .	O
 
 

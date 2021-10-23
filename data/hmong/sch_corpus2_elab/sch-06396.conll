@@ -375,9 +375,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -569,9 +566,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 thiab	O
 los	O
 yog	O
@@ -691,9 +685,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 ,	O
 tus	O
 tov	O
@@ -740,9 +731,6 @@ nyias	B
 pab	I
 nyias	I
 pawg	I
-pab	O
-nyias	O
-pawg	O
 ,	O
 lawv	O
 ua	O
@@ -1088,9 +1076,6 @@ nyias	B
 pab	I
 nyias	I
 pawg	I
-pab	O
-nyias	O
-pawg	O
 li	O
 lawm	O
 los	O
@@ -1553,9 +1538,6 @@ tej	B
 pab	I
 tej	I
 pawg	I
-pab	O
-tej	O
-pawg	O
 ,	O
 kev	O
 khiav	O
@@ -1565,9 +1547,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 los	O
 kuv	O
 yeej	O
@@ -1591,9 +1570,6 @@ tsis	B
 meej	I
 tsis	I
 pem	I
-meej	O
-tsis	O
-pem	O
 .	O
 
 

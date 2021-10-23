@@ -405,9 +405,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 ,	O
 yog	O
 koj	O
@@ -446,9 +443,6 @@ tej	B
 nyiaj	I
 tej	I
 txiaj	I
-nyiaj	O
-tej	O
-txiaj	O
 coj	O
 los	O
 sis	O
@@ -460,17 +454,11 @@ muaj	B
 nyiaj	I
 muaj	I
 txiaj	I
-nyiaj	O
-muaj	O
-txiaj	O
 ,	O
 muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 .	O
 
 
@@ -518,9 +506,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 xwb	O
 ces	O
 neeg	O

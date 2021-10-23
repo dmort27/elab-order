@@ -136,9 +136,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 .	O
 
 
@@ -599,9 +596,6 @@ peb	B
 kwv	I
 peb	I
 tij	I
-kwv	O
-peb	O
-tij	O
 lawd	O
 ,	O
 peb	O

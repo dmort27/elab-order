@@ -55,9 +55,6 @@ khuj	B
 noj	I
 khuj	I
 haus	I
-noj	O
-khuj	O
-haus	O
 los	O
 ntau	O
 ntsheej	O
@@ -332,9 +329,6 @@ yeej	B
 teb	I
 yeej	I
 chaw	I
-teb	O
-yeej	O
-chaw	O
 thiaj	O
 tsis	O
 muaj	O
@@ -482,9 +476,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 tias	O
 nyiaj	O
 welfare	O

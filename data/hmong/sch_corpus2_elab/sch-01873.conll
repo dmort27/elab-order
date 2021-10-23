@@ -51,9 +51,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 ....	O
 Ua	O
 cas	O
@@ -212,9 +209,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 .	O
 
 
@@ -326,9 +320,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 ntawd	O
 yuav	O
 tsis	O
@@ -678,9 +669,6 @@ xav	B
 ntev	I
 xav	I
 luv	I
-ntev	O
-xav	O
-luv	O
 rau	O
 yus	O
 niag	O

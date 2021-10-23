@@ -549,9 +549,6 @@ hnov	B
 ub	I
 hnov	I
 no	I
-ub	O
-hnov	O
-no	O
 ua	O
 luaj	O
 naj	O
@@ -628,9 +625,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 tib	O
 ob	O
 ntawm	O
@@ -668,9 +662,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 poob	O
 tag	O
 nrho	O

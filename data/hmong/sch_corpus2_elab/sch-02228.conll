@@ -169,9 +169,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 lawm	O
 xwb	O
 tus	O
@@ -585,9 +582,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 no	O
 ntxiv	O
@@ -731,9 +725,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 no	O
 --	O

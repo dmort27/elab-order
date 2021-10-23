@@ -11,9 +11,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 yog	O
 pib	O
 losntawm	O
@@ -165,9 +162,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 ,	O
 ua	O
 pab	O
@@ -319,9 +313,6 @@ raws	B
 noj	I
 raws	I
 haus	I
-noj	O
-raws	O
-haus	O
 ,	O
 raws	O
 laj	O
@@ -332,17 +323,11 @@ raws	B
 kwv	I
 raws	I
 tij	I
-kwv	O
-raws	O
-tij	O
 ,	O
 raws	B
 neej	I
 raws	I
 tsav	I
-neej	O
-raws	O
-tsav	O
 thiab	O
 raws	O
 nom	O
@@ -369,9 +354,6 @@ raws	B
 noj	I
 raws	I
 haus	I
-noj	O
-raws	O
-haus	O
 (	O
 laj	O
 kam	O
@@ -392,9 +374,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 coob	O
 coob	O
 vim	O
@@ -404,9 +383,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 mus	O
 los	O
 tsis	O
@@ -489,9 +465,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 lawm	O
 .	O
 
@@ -569,9 +542,6 @@ muaj	B
 plaub	I
 muaj	I
 ntug	I
-plaub	O
-muaj	O
-ntug	O
 ntau	O
 ntau	O
 sawv	O
@@ -829,9 +799,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 sib	O
 plua	O
 ...	O
@@ -895,9 +862,6 @@ yawm	B
 yij	I
 yawm	I
 dab	I
-yij	O
-yawm	O
-dab	O
 thiaj	O
 nyob	O
 ua	O

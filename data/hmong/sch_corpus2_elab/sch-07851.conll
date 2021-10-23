@@ -61,9 +61,6 @@ muaj	B
 tseeb	I
 muaj	I
 tsum	I
-tseeb	O
-muaj	O
-tsum	O
 tiag	O
 mas	O
 kuj	O
@@ -129,9 +126,6 @@ qhov	B
 ncauj	I
 qhov	I
 muag	I
-ncauj	O
-qhov	O
-muag	O
 ,	O
 txawm	O
 li	O

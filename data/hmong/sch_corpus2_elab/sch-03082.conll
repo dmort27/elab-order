@@ -976,9 +976,6 @@ kev	B
 chim	I
 kev	I
 tu	I
-chim	O
-kev	O
-tu	O
 siab	O
 ...	O
 Peb	O
@@ -1041,9 +1038,6 @@ lub	B
 roob	I
 lub	I
 hav	I
-roob	O
-lub	O
-hav	O
 uas	O
 peb	O
 tseem	O
@@ -1164,9 +1158,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 yeej	O
 tsi	O
 tau	O
@@ -1197,9 +1188,6 @@ kev	B
 lag	I
 kev	I
 luam	I
-lag	O
-kev	O
-luam	O
 loj	O
 li	O
 loj	O
@@ -1337,9 +1325,6 @@ cag	B
 hmab	I
 cag	I
 ntoo	I
-hmab	O
-cag	O
-ntoo	O
 noj	O
 li	O
 qub	O
@@ -1389,9 +1374,6 @@ lub	B
 roob	I
 lub	I
 hav	I
-roob	O
-lub	O
-hav	O
 twg	O
 luag	O
 paub	O
@@ -1759,9 +1741,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 os	O
 .	O
 
@@ -2514,9 +2493,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 mas	O
 yog	O
 phaum	O

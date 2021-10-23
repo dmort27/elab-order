@@ -299,9 +299,6 @@ muaj	B
 koob	I
 muaj	I
 meej	I
-koob	O
-muaj	O
-meej	O
 nrov	O
 ncha	O
 tuaj	O
@@ -1224,9 +1221,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 es	O
 muaj	O
 ib	O

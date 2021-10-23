@@ -42,9 +42,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 xwb	O
 .	O
 
@@ -588,9 +585,6 @@ cis	B
 fij	I
 cis	I
 tom	I
-fij	O
-cis	O
-tom	O
 lawm	O
 los	O
 .	O
@@ -1064,9 +1058,6 @@ muaj	B
 caub	I
 muaj	I
 chim	I
-caub	O
-muaj	O
-chim	O
 rau	O
 tej	O
 yam	O
@@ -1842,9 +1833,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 thiab	O
 muaj	O
 Huabtais	O

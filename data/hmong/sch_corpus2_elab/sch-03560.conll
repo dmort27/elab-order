@@ -103,9 +103,6 @@ khoom	B
 ub	I
 khoom	I
 no	I
-ub	O
-khoom	O
-no	O
 tsoo	O
 tawg	O
 tag	O
@@ -2863,9 +2860,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 pib	O
 laus	O
 zuj	O
@@ -3017,9 +3011,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 muaj	O
 kev	O
 nyuaj	O
@@ -3173,9 +3164,6 @@ lawv	B
 caij	I
 lawv	I
 xyoo	I
-caij	O
-lawv	O
-xyoo	O
 kws	O
 tsi	O
 muaj	O
@@ -3348,9 +3336,6 @@ nruab	B
 zej	I
 nruab	I
 zog	I
-zej	O
-nruab	O
-zog	O
 .	O
 
 

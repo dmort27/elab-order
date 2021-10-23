@@ -161,9 +161,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 ,	O
 puav	O
 leej	O
@@ -1008,9 +1005,6 @@ kaug	B
 ub	I
 kaug	I
 nua	I
-ub	O
-kaug	O
-nua	O
 nawb	O
 .	O
 
@@ -2261,9 +2255,6 @@ nej	B
 niam	I
 nej	I
 txiv	I
-niam	O
-nej	O
-txiv	O
 yug	O
 nej	O
 cov	O
@@ -2766,9 +2757,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 hais	O
 ,	O
 tab	O

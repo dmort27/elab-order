@@ -220,9 +220,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 ,	O
 kev	O
 muaj	O
@@ -501,9 +498,6 @@ luag	B
 noj	I
 luag	I
 haus	I
-noj	O
-luag	O
-haus	O
 ;	O
 nws	O
 tsis	O
@@ -668,9 +662,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 thiaj	O
 yeej	O
 luag.Tab	O
@@ -943,9 +934,6 @@ sau	B
 ntaub	I
 sau	I
 ntawv	I
-ntaub	O
-sau	O
-ntawv	O
 .	O
 
 
@@ -986,9 +974,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 tiam	O
 sis	O
@@ -1002,17 +987,11 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 -	O
 ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 .	O
 
 
@@ -1026,9 +1005,6 @@ hais	B
 plaub	I
 hais	I
 ntug	I
-plaub	O
-hais	O
-ntug	O
 ,	O
 tiam	O
 sis	O
@@ -1499,9 +1475,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 .	O
 
 

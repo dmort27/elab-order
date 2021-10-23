@@ -1308,9 +1308,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 hnyav	O
 hnyav	O
 nyob	O
@@ -1362,9 +1359,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 thiaj	O
 tuag	O
 coob	O
@@ -1516,9 +1510,6 @@ muab	B
 nom	I
 muab	I
 tswv	I
-nom	O
-muab	O
-tswv	O
 rau	O
 cov	O
 pej	O
@@ -1538,9 +1529,6 @@ muag	B
 nom	I
 muag	I
 tswv	I
-nom	O
-muag	O
-tswv	O
 rau	O
 cov	O
 pej	O
@@ -1557,16 +1545,10 @@ muab	B
 nyiaj	I
 muab	I
 txiaj	I
-nyiaj	O
-muab	O
-txiaj	O
 muas	B
 nom	I
 muas	I
 tswv	I
-nom	O
-muas	O
-tswv	O
 mas	O
 yog	O
 corruption	O
@@ -1666,9 +1648,6 @@ pab	B
 nyiaj	I
 pab	I
 txiaj	I
-nyiaj	O
-pab	O
-txiaj	O
 mus	O
 rau	O
 ib	O
@@ -2682,9 +2661,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 muaj	O
 meej	O
 mom	O
@@ -2879,9 +2855,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 ua	O
 dej	O
 ua	O
@@ -2892,9 +2865,6 @@ lawv	B
 noj	I
 lawv	I
 haus	I
-noj	O
-lawv	O
-haus	O
 tas	O
 lo	O
 nws	O

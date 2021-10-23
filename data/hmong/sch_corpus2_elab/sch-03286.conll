@@ -702,9 +702,6 @@ yuav	B
 ciaj	I
 yuav	I
 tuag	I
-ciaj	O
-yuav	O
-tuag	O
 ces	O
 qhov	O
 twg	O
@@ -1434,9 +1431,6 @@ qhua	B
 num	I
 qhua	I
 tswv	I
-num	O
-qhua	O
-tswv	O
 pab	O
 tus	O
 txiv	O
@@ -1564,9 +1558,6 @@ tiv	B
 nag	I
 tiv	I
 tshav	I
-nag	O
-tiv	O
-tshav	O
 ntau	O
 xwb	O
 ...	O
@@ -1668,9 +1659,6 @@ ti	B
 tes	I
 ti	I
 taw	I
-tes	O
-ti	O
-taw	O
 ..	O
 ces	O
 ``	O

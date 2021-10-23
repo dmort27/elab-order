@@ -455,9 +455,6 @@ tus	B
 loj	I
 tus	I
 me	I
-loj	O
-tus	O
-me	O
 nyob	O
 tsim	O
 kho	O
@@ -675,9 +672,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 muaj	O
 lub	O
 peev	O
@@ -709,9 +703,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 sib	O
 cav	O

@@ -17,9 +17,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 kuv	O
 mloog-g	O
 mas	O
@@ -370,9 +367,6 @@ tug	B
 ub	I
 tug	I
 nuav	I
-ub	O
-tug	O
-nuav	O
 le	O
 lauj	O
 .	O
@@ -487,9 +481,6 @@ ua	B
 dlog	I
 ua	I
 dlig	I
-dlog	O
-ua	O
-dlig	O
 le	O
 ko	O
 ib	O

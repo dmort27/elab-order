@@ -115,9 +115,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 ntxiv	O
 .	O
 
@@ -537,9 +534,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 ,	O
 ntshai	O
 tsis	O
@@ -619,9 +613,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ,	O
 ces	O
 yeej	O
@@ -2083,9 +2074,6 @@ raug	B
 txim	I
 raug	I
 kaw	I
-txim	O
-raug	O
-kaw	O
 .	O
 
 
@@ -2192,9 +2180,6 @@ suav	B
 hnub	I
 suav	I
 hmo	I
-hnub	O
-suav	O
-hmo	O
 yuav	O
 raug	O
 nce	O
@@ -3251,9 +3236,6 @@ raug	B
 txim	I
 raug	I
 kaw	I
-txim	O
-raug	O
-kaw	O
 .	O
 
 
@@ -3373,9 +3355,6 @@ suav	B
 hnub	I
 suav	I
 hmo	I
-hnub	O
-suav	O
-hmo	O
 yuav	O
 raug	O
 nce	O
@@ -3766,9 +3745,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 .	O
 
 

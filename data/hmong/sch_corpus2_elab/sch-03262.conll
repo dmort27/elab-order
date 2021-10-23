@@ -155,9 +155,6 @@ kev	B
 lis	I
 kev	I
 cai	I
-lis	O
-kev	O
-cai	O
 cuam	O
 tshuam	O
 thiab	O
@@ -186,9 +183,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 ,	O
 nej	O
 xav	O
@@ -541,9 +535,6 @@ kev	B
 lis	I
 kev	I
 cai	I
-lis	O
-kev	O
-cai	O
 cuam	O
 tshuam	O
 thiab	O
@@ -664,9 +655,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 ,	O
 nej	O
 xav	O
@@ -1269,9 +1257,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 mas	O
 haj	O
 yam	O
@@ -1734,9 +1719,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 ,	O
 muaj	O
 chaw	O

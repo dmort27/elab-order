@@ -76,9 +76,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 saib	O
 peb	O
 moob	O
@@ -249,9 +246,6 @@ tsis	B
 txawj	I
 tsis	I
 ntse	I
-txawj	O
-tsis	O
-ntse	O
 .	O
 
 
@@ -445,9 +439,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 tej	O
 tswvyim	O
 ,	O
@@ -469,9 +460,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 mas	O
 lwm	O
 tug	O

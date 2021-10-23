@@ -27,9 +27,6 @@ muaj	B
 txij	I
 muaj	I
 nkawm	I
-txij	O
-muaj	O
-nkawm	O
 tseem	O
 sib	O
 xa	O
@@ -42,9 +39,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 .	O
 
 
@@ -646,9 +640,6 @@ ua	B
 phem	I
 ua	I
 zoo	I
-phem	O
-ua	O
-zoo	O
 los	O
 yus	O
 yeej	O

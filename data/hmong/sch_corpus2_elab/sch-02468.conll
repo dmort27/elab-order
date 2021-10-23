@@ -265,9 +265,6 @@ has	B
 moog	I
 has	I
 lug	I
-moog	O
-has	O
-lug	O
 tsi	O
 meej	O
 pem	O
@@ -600,9 +597,6 @@ puab	B
 puj	I
 puab	I
 yawm	I
-puj	O
-puab	O
-yawm	O
 kws	O
 yog	O
 puab	O
@@ -1039,9 +1033,6 @@ noj	B
 lwj	I
 noj	I
 liam	I
-lwj	O
-noj	O
-liam	O
 thiab	O
 sib	O
 txeeb	O
@@ -1851,9 +1842,6 @@ ua	B
 zej	I
 ua	I
 zos	I
-zej	O
-ua	O
-zos	O
 lawm	O
 nawb	O
 .	O
@@ -2432,9 +2420,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 los	O
 sib	O
 qhia	O

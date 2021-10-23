@@ -187,9 +187,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 thiab	O
 xav	O
 txog	O
@@ -827,9 +824,6 @@ qav	B
 nom	I
 qav	I
 tswv	I
-nom	O
-qav	O
-tswv	O
 los	O
 mas	O
 .	O
@@ -923,9 +917,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 ces	O
 yog	O
 tej	O
@@ -1179,9 +1170,6 @@ qav	B
 nom	I
 qav	I
 tswv	I
-nom	O
-qav	O
-tswv	O
 los	O
 mas	O
 .	O
@@ -1275,9 +1263,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 ces	O
 yog	O
 tej	O

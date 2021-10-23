@@ -113,9 +113,6 @@ txhua	B
 tsav	I
 txhua	I
 yam	I
-tsav	O
-txhua	O
-yam	O
 yeej	O
 tsis	O
 muaj	O
@@ -254,18 +251,12 @@ saib	B
 kwv	I
 saib	I
 tij	I
-kwv	O
-saib	O
-tij	O
 los	O
 yog	O
 ua	B
 laj	I
 ua	I
 kam	I
-laj	O
-ua	O
-kam	O
 rau	O
 ib	O
 rooj	O
@@ -377,9 +368,6 @@ muaj	B
 pab	I
 muaj	I
 pawg	I
-pab	O
-muaj	O
-pawg	O
 lawm	O
 ,	O
 yus	O
@@ -950,9 +938,6 @@ kev	B
 phem	I
 kev	I
 qias	I
-phem	O
-kev	O
-qias	O
 xwb	O
 .	O
 

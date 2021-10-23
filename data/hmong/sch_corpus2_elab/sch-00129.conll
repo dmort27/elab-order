@@ -1301,9 +1301,6 @@ tsi	B
 paus	I
 tsi	I
 ntsis	I
-paus	O
-tsi	O
-ntsis	O
 tsi	O
 paub	O
 lub	O
@@ -1854,9 +1851,6 @@ nram	B
 ntej	I
 nram	I
 qab	I
-ntej	O
-nram	O
-qab	O
 30	O
 hnub	O
 nram	O

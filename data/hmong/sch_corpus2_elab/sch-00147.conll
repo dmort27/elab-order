@@ -386,16 +386,10 @@ cov	B
 txheeb	I
 cov	I
 ze	I
-txheeb	O
-cov	O
-ze	O
 ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 ib	O
 yig	O
 no	O
@@ -463,9 +457,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 ib	O
 lub	O
 hlis	O
@@ -579,9 +570,6 @@ tau	B
 nom	I
 tau	I
 tswv	I
-nom	O
-tau	O
-tswv	O
 .	O
 
 
@@ -619,9 +607,6 @@ tau	B
 tub	I
 tau	I
 kiv	I
-tub	O
-tau	O
-kiv	O
 thiab	O
 ua	O
 lub	O

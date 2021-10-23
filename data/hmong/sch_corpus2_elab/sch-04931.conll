@@ -91,9 +91,6 @@ tug	B
 ub	I
 tug	I
 nuav	I
-ub	O
-tug	O
-nuav	O
 xwb	O
 ,	O
 yog	O
@@ -290,9 +287,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 zoo	O
 le	O
 kws	O
@@ -657,9 +651,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 le	O
 .	O
 

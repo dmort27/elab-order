@@ -669,17 +669,11 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 ces	O
 lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 yeej	O
 kaj	O
 siab	O
@@ -1107,9 +1101,6 @@ ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 lawm	O
 .	O
 
@@ -1553,17 +1544,11 @@ nwg	B
 nam	I
 nwg	I
 txiv	I
-nam	O
-nwg	O
-txiv	O
 ,	O
 nwg	B
 neej	I
 nwg	I
 tsaav	I
-neej	O
-nwg	O
-tsaav	O
 ib	O
 puas	O
 tsaavyaam	O
@@ -1876,9 +1861,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 ntawd	O
 xwb	O
 .	O
@@ -2182,9 +2164,6 @@ ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 li	O
 as	O
 .	O

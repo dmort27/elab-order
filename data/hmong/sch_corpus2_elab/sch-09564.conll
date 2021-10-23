@@ -352,9 +352,6 @@ paub	B
 siab	I
 paub	I
 qes	I
-siab	O
-paub	O
-qes	O
 ,	O
 thiab	O
 paub	O
@@ -483,9 +480,6 @@ dag	B
 mab	I
 dag	I
 suav	I
-mab	O
-dag	O
-suav	O
 saib	O
 pos	O
 tau	O
@@ -551,9 +545,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 rau	O
 lwm	O
 tus	O
@@ -1216,9 +1207,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 to	O
 taub	O
 yuam	O
@@ -1236,9 +1224,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 pub	O
 puab	O
 paub	O

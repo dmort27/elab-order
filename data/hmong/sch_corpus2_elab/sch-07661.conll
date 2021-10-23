@@ -1227,9 +1227,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 ua	O
 li	O
@@ -2104,9 +2101,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 txog	O
 hmoob	O
 tej	O

@@ -327,9 +327,6 @@ khub	B
 laj	I
 khub	I
 kam	I
-laj	O
-khub	O
-kam	O
 Thaum	O
 tsam	O
 tsovrog	O
@@ -520,16 +517,10 @@ ua	B
 kwv	I
 ua	I
 tij	I
-kwv	O
-ua	O
-tij	O
 ua	B
 phooj	I
 ua	I
 ywg	I
-phooj	O
-ua	O
-ywg	O
 nawb	O
 mog	O
 uncle	O
@@ -1187,9 +1178,6 @@ niam	B
 laus	I
 niam	I
 hluas	I
-laus	O
-niam	O
-hluas	O
 ,	O
 Capt	O
 .	O

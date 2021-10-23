@@ -6,9 +6,6 @@ nyeem	B
 ntaub	I
 nyeem	I
 ntawv	I
-ntaub	O
-nyeem	O
-ntawv	O
 los	O
 mas	O
 zoo	O
@@ -51,9 +48,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ces	O
 muab	O
 ib	O
@@ -106,9 +100,6 @@ kev	B
 chawj	I
 kev	I
 chim	I
-chawj	O
-kev	O
-chim	O
 .	O
 
 
@@ -171,9 +162,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 tus	O
 cwjpwm	O
 ?	O
@@ -481,9 +469,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 

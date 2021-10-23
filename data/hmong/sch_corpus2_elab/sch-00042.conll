@@ -74,9 +74,6 @@ yuav	B
 txawj	I
 yuav	I
 ntse	I
-txawj	O
-yuav	O
-ntse	O
 li	O
 cas	O
 los	O
@@ -1187,9 +1184,6 @@ lub	B
 mob	I
 lub	I
 aws	I
-mob	O
-lub	O
-aws	O
 twb	O
 yog	O
 vajtswv	O
@@ -1322,9 +1316,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ...	O
 tej	O
 no	O
@@ -1493,9 +1484,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 no	O
 ces	O
 ntseeg	O
@@ -2174,9 +2162,6 @@ ntees	B
 mob	I
 ntees	I
 tuag	I
-mob	O
-ntees	O
-tuag	O
 yog	O
 tib	O
 co	O
@@ -2519,9 +2504,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 tas	O
 .	O
 
@@ -2627,9 +2609,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 ntau	O
 nruas	O
 nphis	O

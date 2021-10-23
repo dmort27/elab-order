@@ -290,9 +290,6 @@ muaj	B
 vaaj	I
 muaj	I
 tsev	I
-vaaj	O
-muaj	O
-tsev	O
 ntau	O
 hab	O
 laj-aav	O
@@ -687,9 +684,6 @@ tag	B
 tub	I
 tag	I
 kiv	I
-tub	O
-tag	O
-kiv	O
 ,	O
 tag	O
 txiv	O

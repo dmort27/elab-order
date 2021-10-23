@@ -665,16 +665,10 @@ muaj	B
 kwv	I
 muaj	I
 tij	I
-kwv	O
-muaj	O
-tij	O
 muaj	B
 vaaj	I
 muaj	I
 tsev	I
-vaaj	O
-muaj	O
-tsev	O
 los	O
 puab	O
 xum	O
@@ -1279,9 +1273,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 xwb	O
 .	O
 
@@ -3137,9 +3128,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 xwb	O
 .	O
 

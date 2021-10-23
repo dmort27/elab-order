@@ -56,9 +56,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 kom	O
 luag	O
 lwm	O
@@ -173,9 +170,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 lawm	O
 ces	O
 txog	O
@@ -205,9 +199,6 @@ sib	B
 pab	I
 sib	I
 hlub	I
-pab	O
-sib	O
-hlub	O
 os	O
 .	O
 

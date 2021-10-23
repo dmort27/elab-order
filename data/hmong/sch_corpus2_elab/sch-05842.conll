@@ -51,9 +51,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 ....	O
 Tso	O
 txoj	O
@@ -106,9 +103,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 muab	O
 cov	O
 Hmoob	O
@@ -199,9 +193,6 @@ tsis	B
 meej	I
 tsis	I
 pem	I
-meej	O
-tsis	O
-pem	O
 li	O
 tej	O
 niag	O

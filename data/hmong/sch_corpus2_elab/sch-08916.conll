@@ -1235,9 +1235,6 @@ kuag	B
 kaab	I
 kuag	I
 hlau	I
-kaab	O
-kuag	O
-hlau	O
 ,	O
 lub	O
 zeem	O
@@ -1546,9 +1543,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 lho	O
 li	O
 no	O
@@ -2102,9 +2096,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 mas	O
 nws	O
 muaj	O
@@ -2223,9 +2214,6 @@ kuag	B
 kaab	I
 kuag	I
 hlau	I
-kaab	O
-kuag	O
-hlau	O
 )	O
 nuav	O
 ces	O
@@ -3201,9 +3189,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 mas	O
 Dr	O
 .	O

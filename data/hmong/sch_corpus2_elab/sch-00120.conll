@@ -835,9 +835,6 @@ mus	B
 ncaj	I
 mus	I
 ncees	I
-ncaj	O
-mus	O
-ncees	O
 nws	O
 mus	O
 nws	O
@@ -1242,9 +1239,6 @@ txog	B
 nplog	I
 txog	I
 thaib	I
-nplog	O
-txog	O
-thaib	O
 los	O
 tsuas	O
 hnov	O
@@ -1260,9 +1254,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 tas	O
 li	O
 xwb	O
@@ -1969,9 +1960,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ,	O
 muag	O
 cuag	O

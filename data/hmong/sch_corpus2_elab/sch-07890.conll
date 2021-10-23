@@ -998,9 +998,6 @@ ib	B
 txhiab	I
 ib	I
 txhis	I
-txhiab	O
-ib	O
-txhis	O
 yog	O
 li	O
 ntawd	O
@@ -1149,9 +1146,6 @@ raug	B
 kev	I
 raug	I
 cai	I
-kev	O
-raug	O
-cai	O
 lawm	O
 ntag	O
 .	O
@@ -1308,9 +1302,6 @@ ua	B
 kwv	I
 ua	I
 tij	I
-kwv	O
-ua	O
-tij	O
 paub	O
 lawm	O
 ntag	O
@@ -1687,9 +1678,6 @@ tso	B
 dlaag	I
 tso	I
 luag	I
-dlaag	O
-tso	O
-luag	O
 xwb	O
 .	O
 
@@ -1874,9 +1862,6 @@ ua	B
 num	I
 ua	I
 tswv	I
-num	O
-ua	O
-tswv	O
 yog	O
 ``	O
 hmoov	O
@@ -2039,9 +2024,6 @@ ua	B
 num	I
 ua	I
 tswv	I
-num	O
-ua	O
-tswv	O
 depends	O
 rua	O
 luck	O
@@ -2246,9 +2228,6 @@ ua	B
 nub	I
 ua	I
 mo	I
-nub	O
-ua	O
-mo	O
 tuaj	O
 cuag	O
 koj	O
@@ -3496,18 +3475,12 @@ kev	B
 kwv	I
 kev	I
 tij	I
-kwv	O
-kev	O
-tij	O
 ,	O
 kev	O
 sis	B
 txib	I
 sis	I
 khaiv	I
-txib	O
-sis	O
-khaiv	O
 ,	O
 qhov	O
 no	O

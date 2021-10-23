@@ -239,9 +239,6 @@ leej	B
 nam	I
 leej	I
 txiv	I
-nam	O
-leej	O
-txiv	O
 tsi	O
 has	O
 le	O
@@ -255,9 +252,6 @@ leej	B
 nam	I
 leej	I
 txiv	I
-nam	O
-leej	O
-txiv	O
 nyob	O
 lawm	O
 ces	O
@@ -481,9 +475,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 12	O
 ,	O
 24	O
@@ -1355,9 +1346,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 tso	O
 kuv	O
 mam	O
@@ -1471,9 +1459,6 @@ muaj	B
 kwv	I
 muaj	I
 tij	I
-kwv	O
-muaj	O
-tij	O
 nyob	O
 Nplog	O
 teb	O
@@ -1501,9 +1486,6 @@ nrhiav	B
 kwv	I
 nrhiav	I
 tij	I
-kwv	O
-nrhiav	O
-tij	O
 nrhiav	O
 neej	O
 nrhiav	O
@@ -1909,9 +1891,6 @@ dlhau	B
 caij	I
 dlhau	I
 nyoog	I
-caij	O
-dlhau	O
-nyoog	O
 ces	O
 kawg	O
 maag	O

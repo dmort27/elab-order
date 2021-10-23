@@ -749,9 +749,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 .	O
 
 
@@ -945,9 +942,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 ,	O
 yuav	O
 tsis	O
@@ -1357,9 +1351,6 @@ tu	B
 qab	I
 tu	I
 twv	I
-qab	O
-tu	O
-twv	O
 tsis	O
 muaj	O
 ib	O
@@ -1555,9 +1546,6 @@ peb	B
 nam	I
 peb	I
 txiv	I
-nam	O
-peb	O
-txiv	O
 muab	O
 peb	O
 leem	O

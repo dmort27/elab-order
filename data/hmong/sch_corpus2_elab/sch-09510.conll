@@ -116,9 +116,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 rau	O
 li	O
 .	O
@@ -141,9 +138,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 rau	O
 .	O
 
@@ -217,9 +211,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 ,	O
 yus	O
 twb	O
@@ -281,17 +272,11 @@ xav	B
 kwv	I
 xav	I
 tij	I
-kwv	O
-xav	O
-tij	O
 ,	O
 xav	B
 neej	I
 xav	I
 tsav	I
-neej	O
-xav	O
-tsav	O
 es	O
 leej	O
 twg	O

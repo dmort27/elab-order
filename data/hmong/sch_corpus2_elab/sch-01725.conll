@@ -63,9 +63,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 li	O
 tiag	O
 .....	O
@@ -77,9 +74,6 @@ qhov	B
 nyiaj	I
 qhov	I
 kub	I
-nyiaj	O
-qhov	O
-kub	O
 ,	O
 qhov	O
 tooj	O
@@ -93,9 +87,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 rau	O
 cov	O
 thawj	O
@@ -207,9 +198,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ces	O
 peb	O
 leej	O
@@ -568,9 +556,6 @@ ib	B
 zej	I
 ib	I
 zos	I
-zej	O
-ib	O
-zos	O
 yus	O
 yog	O
 tus	O

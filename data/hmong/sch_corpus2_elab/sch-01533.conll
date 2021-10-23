@@ -52,9 +52,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 lawm	O
 .	O
 
@@ -456,9 +453,6 @@ me	B
 kab	I
 me	I
 ntsaum	I
-kab	O
-me	O
-ntsaum	O
 ,	O
 nas	O
 noog	O
@@ -624,9 +618,6 @@ sib	B
 saib	I
 sib	I
 xyuas	I
-saib	O
-sib	O
-xyuas	O
 xwb	O
 .	O
 
@@ -686,9 +677,6 @@ thoob	B
 teb	I
 thoob	I
 chaw	I
-teb	O
-thoob	O
-chaw	O
 ,	O
 neeg	O
 tuaj	O
@@ -719,9 +707,6 @@ tuaj	B
 saib	I
 tuaj	I
 xyuas	I
-saib	O
-tuaj	O
-xyuas	O
 lawm	O
 xwb	O
 .	O
@@ -807,9 +792,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 coj	O
 Hmoob	O
 los	O

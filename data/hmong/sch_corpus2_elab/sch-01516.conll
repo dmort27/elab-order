@@ -1035,9 +1035,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 thiab	O
 .	O
 
@@ -1058,9 +1055,6 @@ dab	B
 txeej	I
 dab	I
 qus	I
-txeej	O
-dab	O
-qus	O
 li	O
 no	O
 :	O
@@ -1133,9 +1127,6 @@ lus	B
 nom	I
 lus	I
 tswv	I
-nom	O
-lus	O
-tswv	O
 ,	O
 lus	O
 neeb	O

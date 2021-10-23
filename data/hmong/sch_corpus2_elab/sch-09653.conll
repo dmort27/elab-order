@@ -115,9 +115,6 @@ txaus	B
 tsaav	I
 txaus	I
 yaam	I
-tsaav	O
-txaus	O
-yaam	O
 .	O
 
 
@@ -158,9 +155,6 @@ muaj	B
 txuj	I
 muaj	I
 ci	I
-txuj	O
-muaj	O
-ci	O
 .	O
 
 
@@ -206,18 +200,12 @@ muaj	B
 caag	I
 muaj	I
 ceg	I
-caag	O
-muaj	O
-ceg	O
 ,	O
 tsis	O
 muaj	B
 txuj	I
 muaj	I
 ci	I
-txuj	O
-muaj	O
-ci	O
 .	O
 
 
@@ -832,9 +820,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 thiab	O
 feem	O
 coob	O
@@ -912,9 +897,6 @@ nws	B
 kwv	I
 nws	I
 tij	I
-kwv	O
-nws	O
-tij	O
 .	O
 
 
@@ -1022,9 +1004,6 @@ muaj	B
 nam	I
 muaj	I
 txiv	I
-nam	O
-muaj	O
-txiv	O
 ,	O
 tam	O
 si	O
@@ -1081,16 +1060,10 @@ muaj	B
 nam	I
 muaj	I
 txiv	I
-nam	O
-muaj	O
-txiv	O
 muaj	B
 kwv	I
 muaj	I
 tij	I
-kwv	O
-muaj	O
-tij	O
 ,	O
 tam	O
 si	O

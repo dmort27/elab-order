@@ -37,9 +37,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 tsis	O
 muaj	O
@@ -164,9 +161,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 puag	O
 ntuj	O
 ceebtsheej	O
@@ -191,9 +185,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 tsis	O
 coj	O
 li	O
@@ -209,9 +200,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 xwb	O
 ntsai	O
 yuav	O
@@ -332,9 +320,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 lawm	O
 ces	O
 ,	O

@@ -659,9 +659,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 across	O
 the	O
 globe	O
@@ -1246,9 +1243,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 thiab	O
 vim	O
 peb	O
@@ -1274,9 +1268,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 yog	O
 hais	O
 txog	O
@@ -1442,9 +1433,6 @@ muab	B
 roj	I
 muab	I
 ntshav	I
-roj	O
-muab	O
-ntshav	O
 pua	O
 ,	O
 yog	O
@@ -3753,9 +3741,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 rua	O
 Hmoob	O
 ua	O
@@ -3880,9 +3865,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 lawv	O
 cov	O
 hlwb	O
@@ -3945,9 +3927,6 @@ qhov	B
 zoo	I
 qhov	I
 phem	I
-zoo	O
-qhov	O
-phem	O
 tib	O
 si	O
 .	O
@@ -4029,9 +4008,6 @@ muaj	B
 qab	I
 muaj	I
 quag	I
-qab	O
-muaj	O
-quag	O
 ,	O
 muaj	O
 tseem	O
@@ -4143,9 +4119,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 ,	O
 tej	O
 tub	O
@@ -4228,9 +4201,6 @@ tsawg	B
 leej	I
 tsawg	I
 tus	I
-leej	O
-tsawg	O
-tus	O
 yog	O
 cov	O
 es	O
@@ -4240,9 +4210,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 xwb	O
 .	O
 
@@ -4839,9 +4806,6 @@ nrog	B
 huab	I
 nrog	I
 cua	I
-huab	O
-nrog	O
-cua	O
 tshuab	O
 mus	O
 nawb	O

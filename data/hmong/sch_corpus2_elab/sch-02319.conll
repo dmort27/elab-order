@@ -213,9 +213,6 @@ dav	B
 tooj	I
 dav	I
 hlau	I
-tooj	O
-dav	O
-hlau	O
 sib	O
 tw	O
 yuj	O
@@ -224,9 +221,6 @@ lug	B
 toj	I
 lug	I
 pes	I
-toj	O
-lug	O
-pes	O
 seev	O
 li	O
 niag	O
@@ -244,9 +238,6 @@ dav	B
 tooj	I
 dav	I
 hlau	I
-tooj	O
-dav	O
-hlau	O
 sib	O
 tw	O
 ya	O
@@ -507,9 +498,6 @@ nyob	B
 ub	I
 nyob	I
 no	I
-ub	O
-nyob	O
-no	O
 txog	O
 rau	O
 hnub	O
@@ -2521,9 +2509,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 zoo	O
 vim	O
 suav	O
@@ -2895,9 +2880,6 @@ saum	B
 neej	I
 saum	I
 tsav	I
-neej	O
-saum	O
-tsav	O
 thiab	O
 los	O
 mas	O

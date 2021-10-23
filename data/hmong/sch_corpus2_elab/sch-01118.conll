@@ -213,9 +213,6 @@ yog	B
 kwv	I
 yog	I
 tij	I
-kwv	O
-yog	O
-tij	O
 ua	O
 cas	O
 koj	O
@@ -482,9 +479,6 @@ yog	B
 nom	I
 yog	I
 tswv	I
-nom	O
-yog	O
-tswv	O
 thiab	O
 cov	O
 muaj	O
@@ -692,9 +686,6 @@ pes	B
 dog	I
 pes	I
 dig	I
-dog	O
-pes	O
-dig	O
 li	O
 .	O
 
@@ -1548,9 +1539,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 nyob	O
 lis	O
@@ -2299,9 +2287,6 @@ tsi	B
 meej	I
 tsi	I
 pem	I
-meej	O
-tsi	O
-pem	O
 no	O
 li	O
 os	O
@@ -2599,9 +2584,6 @@ los	B
 coj	I
 los	I
 ua	I
-coj	O
-los	O
-ua	O
 ntawv	O
 tab	O
 los	O

@@ -528,9 +528,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 .	O
 
 
@@ -697,9 +694,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 nkaus	O
 xwb	O
 nawb	O
@@ -739,9 +733,6 @@ ua	B
 rwj	I
 ua	I
 aws	I
-rwj	O
-ua	O
-aws	O
 ncu	O
 kiag	O
 li	O
@@ -1182,9 +1173,6 @@ rov	B
 qab	I
 rov	I
 quav	I
-qab	O
-rov	O
-quav	O
 nqee	O
 lawm	O
 .	O
@@ -1346,9 +1334,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 sob	O
 .	O
 
@@ -2039,9 +2024,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 no	O
 mas	O
 .	O
@@ -2192,9 +2174,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 li	O
 .	O
 
@@ -2484,9 +2463,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 los	O
 lus	O
 ntxib	O
@@ -2549,9 +2525,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 tsis	O
 agree	O
 rau	O

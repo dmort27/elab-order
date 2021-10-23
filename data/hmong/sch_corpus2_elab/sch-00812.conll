@@ -367,9 +367,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 ces	O
 yus	O
 txawm	O
@@ -1610,9 +1607,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 ces	O
 yus	O
 txawm	O
@@ -2826,9 +2820,6 @@ pom	B
 ntsej	I
 pom	I
 muag	I
-ntsej	O
-pom	O
-muag	O
 ib	O
 zaug	O
 xwb	O
@@ -3644,9 +3635,6 @@ ua	B
 phooj	I
 ua	I
 ywg	I
-phooj	O
-ua	O
-ywg	O
 xwb	O
 ,	O
 yog	O
@@ -4146,9 +4134,6 @@ kuv	B
 vaaj	I
 kuv	I
 tsev	I
-vaaj	O
-kuv	O
-tsev	O
 tes	O
 kuv	O
 ua	O
@@ -4218,9 +4203,6 @@ kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 xwb	O
 tes	O
 kuv	O
@@ -4612,9 +4594,6 @@ kuv	B
 vaaj	I
 kuv	I
 tsev	I
-vaaj	O
-kuv	O
-tsev	O
 tes	O
 kuv	O
 ua	O
@@ -4684,9 +4663,6 @@ kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 xwb	O
 tes	O
 kuv	O

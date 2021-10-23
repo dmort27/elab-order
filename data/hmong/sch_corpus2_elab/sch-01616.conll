@@ -390,9 +390,6 @@ hmoob	B
 niam	I
 hmoob	I
 txiv	I
-niam	O
-hmoob	O
-txiv	O
 tua	O
 pov	O
 tseg	O
@@ -539,9 +536,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 .	O
 
 
@@ -863,9 +857,6 @@ dab	B
 ntuj	I
 dab	I
 teb	I
-ntuj	O
-dab	O
-teb	O
 hauv	O
 thaj	O
 chaw	O

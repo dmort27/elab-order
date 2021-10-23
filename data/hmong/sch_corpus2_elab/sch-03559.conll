@@ -152,9 +152,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 tuaj	O
 paab	O
 ntau	O
@@ -459,9 +456,6 @@ nyiaj	B
 laj	I
 nyiaj	I
 kam	I
-laj	O
-nyiaj	O
-kam	O
 ua	O
 .	O
 
@@ -1021,17 +1015,11 @@ tej	B
 txheeb	I
 tej	I
 ze	I
-txheeb	O
-tej	O
-ze	O
 ,	O
 rau	B
 kwv	I
 rau	I
 tij	I
-kwv	O
-rau	O
-tij	O
 tias	O
 kom	O
 tsis	O
@@ -1048,9 +1036,6 @@ kis	B
 toj	I
 kis	I
 pes	I
-toj	O
-kis	O
-pes	O
 thiab	O
 lauj	O
 ces	O
@@ -1061,9 +1046,6 @@ tas	B
 phab	I
 tas	I
 pheev	I
-phab	O
-tas	O
-pheev	O
 ,	O
 tsis	O
 ntws	O
@@ -1102,17 +1084,11 @@ hais	B
 kwv	I
 hais	I
 tij	I
-kwv	O
-hais	O
-tij	O
 ,	O
 ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 ,	O
 tag	O
 mus	O
@@ -1346,9 +1322,6 @@ ua	B
 dlawb	I
 ua	I
 huv	I
-dlawb	O
-ua	O
-huv	O
 kuas	O
 tau	O
 lub	O
@@ -1620,9 +1593,6 @@ mloog	B
 mus	I
 mloog	I
 los	I
-mus	O
-mloog	O
-los	O
 ces	O
 koj	O
 txawm	O
@@ -1875,9 +1845,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 ces	O
 mam	O
 li	O
@@ -2108,9 +2075,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 ntau	O
 xwb	O
 .	O
@@ -2129,9 +2093,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 mas	O
 yuavtsum	O
 tos	O
@@ -2168,9 +2129,6 @@ yuav	B
 ntsej	I
 yuav	I
 muag	I
-ntsej	O
-yuav	O
-muag	O
 thiab	O
 ciasiab	O
 tias	O
@@ -2205,9 +2163,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 li	O
 kev	O
 Nojtsiab	O
@@ -2235,9 +2190,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 xwb	O
 ,	O
 no	O
@@ -2610,9 +2562,6 @@ ua	B
 kub	I
 ua	I
 heev	I
-kub	O
-ua	O
-heev	O
 txug	O
 qhov	O
 yuav	O
@@ -2835,9 +2784,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 .	O
 
 
@@ -3072,9 +3018,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 .	O
 
 
@@ -3734,9 +3677,6 @@ siv	B
 dag	I
 siv	I
 zog	I
-dag	O
-siv	O
-zog	O
 sib	O
 pab	O
 li	O
@@ -3777,9 +3717,6 @@ lus	B
 xaiv	I
 lus	I
 ncua	I
-xaiv	O
-lus	O
-ncua	O
 heev	O
 .	O
 
@@ -3790,9 +3727,6 @@ lus	B
 xaiv	I
 lus	I
 ncua	I
-xaiv	O
-lus	O
-ncua	O
 xwb	O
 los	O
 yus	O
@@ -3860,9 +3794,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 heev	O
 .	O
 
@@ -3878,9 +3809,6 @@ tau	B
 koob	I
 tau	I
 npe	I
-koob	O
-tau	O
-npe	O
 ces	O
 tsis	O
 xav	O
@@ -3910,9 +3838,6 @@ tau	B
 koob	I
 tau	I
 npe	I
-koob	O
-tau	O
-npe	O
 xwb	O
 ces	O
 kuv	O

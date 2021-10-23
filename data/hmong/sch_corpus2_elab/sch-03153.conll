@@ -1222,9 +1222,6 @@ muas	B
 noj	I
 muas	I
 haus	I
-noj	O
-muas	O
-haus	O
 raus	O
 cov	O
 mes	O
@@ -1893,9 +1890,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 ...	O
 uas	O
 paub	O
@@ -1945,9 +1939,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 ces	O
 tsi	O
 luaj	O
@@ -1961,9 +1952,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 ces	O
 ua	O
 haujlwm	O
@@ -2098,9 +2086,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 es	O
 lam	O
 kawm	O
@@ -2160,9 +2145,6 @@ yuav	B
 mab	I
 yuav	I
 suav	I
-mab	O
-yuav	O
-suav	O
 lawm	O
 --	O
 luag	O
@@ -2262,9 +2244,6 @@ saib	B
 neej	I
 saib	I
 tsav	I
-neej	O
-saib	O
-tsav	O
 ,	O
 hab	O
 tseem	O
@@ -2375,9 +2354,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 ...	O
 uas	O
 paub	O
@@ -2427,9 +2403,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 ces	O
 tsi	O
 luaj	O
@@ -2443,9 +2416,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 ces	O
 ua	O
 haujlwm	O
@@ -2580,9 +2550,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 es	O
 lam	O
 kawm	O
@@ -2642,9 +2609,6 @@ yuav	B
 mab	I
 yuav	I
 suav	I
-mab	O
-yuav	O
-suav	O
 lawm	O
 --	O
 luag	O
@@ -2744,9 +2708,6 @@ saib	B
 neej	I
 saib	I
 tsav	I
-neej	O
-saib	O
-tsav	O
 ,	O
 hab	O
 tseem	O
@@ -3110,9 +3071,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 ...	O
 uas	O
 paub	O
@@ -3162,9 +3120,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 ces	O
 tsi	O
 luaj	O
@@ -3178,9 +3133,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 ces	O
 ua	O
 haujlwm	O
@@ -3748,9 +3700,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 es	O
 lam	O
 kawm	O
@@ -3830,9 +3779,6 @@ lub	B
 vaaj	I
 lub	I
 tsev	I
-vaaj	O
-lub	O
-tsev	O
 tawm	O
 sis	O
 pheej	O
@@ -3843,9 +3789,6 @@ lwm	B
 leej	I
 lwm	I
 tug	I
-leej	O
-lwm	O
-tug	O
 clean	O
 luag	O
 lub	O

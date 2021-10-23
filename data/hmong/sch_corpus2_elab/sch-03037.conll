@@ -224,9 +224,6 @@ ua	B
 zoo	I
 ua	I
 phem	I
-zoo	O
-ua	O
-phem	O
 ces	O
 tsuas	O
 nce	O
@@ -751,9 +748,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 ...	O
 hmoob	O
 ntxeev	O
@@ -920,9 +914,6 @@ tswv	B
 teb	I
 tswv	I
 chaw	I
-teb	O
-tswv	O
-chaw	O
 .	O
 
 
@@ -1544,9 +1535,6 @@ ua	B
 zoo	I
 ua	I
 phem	I
-zoo	O
-ua	O
-phem	O
 ces	O
 tsuas	O
 nce	O
@@ -1656,9 +1644,6 @@ tswv	B
 teb	I
 tswv	I
 chaw	I
-teb	O
-tswv	O
-chaw	O
 .	O
 
 

@@ -639,9 +639,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 hov	O
 lu	O
 rua	O
@@ -850,9 +847,6 @@ quas	B
 puj	I
 quas	I
 yawm	I
-puj	O
-quas	O
-yawm	O
 ua	O
 le	O
 caag	O
@@ -1970,9 +1964,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 os	O
 ,	O
 kuv	O

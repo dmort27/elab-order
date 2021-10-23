@@ -6,9 +6,6 @@ ua	B
 tub	I
 ua	I
 kiv	I
-tub	O
-ua	O
-kiv	O
 mooj	O
 ntsug	O
 kuv	O
@@ -246,9 +243,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 muaj	O
 power	O
 los	O
@@ -318,9 +312,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 tej	O
 me	O
 nyuam	O
@@ -352,9 +343,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 los	O
 lam	O
 tau	O
@@ -386,9 +374,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 mas	O
 tseem	O
 haj	O
@@ -484,9 +469,6 @@ ua	B
 tub	I
 ua	I
 kiv	I
-tub	O
-ua	O
-kiv	O
 mooj	O
 ntsug	O
 kuv	O
@@ -724,9 +706,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 muaj	O
 power	O
 los	O
@@ -796,9 +775,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 tej	O
 me	O
 nyuam	O
@@ -830,9 +806,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 los	O
 lam	O
 tau	O
@@ -864,9 +837,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 mas	O
 tseem	O
 haj	O
@@ -1130,9 +1100,6 @@ ua	B
 tub	I
 ua	I
 kiv	I
-tub	O
-ua	O
-kiv	O
 mooj	O
 ntsug	O
 kuv	O
@@ -1383,9 +1350,6 @@ ua	B
 tub	I
 ua	I
 kiv	I
-tub	O
-ua	O
-kiv	O
 mooj	O
 ntsug	O
 kuv	O
@@ -1623,9 +1587,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 muaj	O
 power	O
 los	O
@@ -1695,9 +1656,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 tej	O
 me	O
 nyuam	O
@@ -1729,9 +1687,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 los	O
 lam	O
 tau	O
@@ -1763,9 +1718,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 mas	O
 tseem	O
 haj	O

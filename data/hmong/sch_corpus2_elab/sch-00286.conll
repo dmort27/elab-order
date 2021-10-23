@@ -154,9 +154,6 @@ hais	B
 dog	I
 hais	I
 dig	I
-dog	O
-hais	O
-dig	O
 li	O
 koj	O
 .	O
@@ -191,9 +188,6 @@ luag	B
 vaj	I
 luag	I
 tsev	I
-vaj	O
-luag	O
-tsev	O
 yog	O
 ib	O
 qhov	O
@@ -686,9 +680,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 tau	O
 10	O
 tawm	O

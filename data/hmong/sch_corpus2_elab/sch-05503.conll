@@ -1676,9 +1676,6 @@ mus	B
 noj	I
 mus	I
 haus	I
-noj	O
-mus	O
-haus	O
 thiab	O
 .	O
 
@@ -1746,9 +1743,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 ces	O
 mus	O
 kawm	O
@@ -2133,9 +2127,6 @@ hais	B
 phem	I
 hais	I
 zoo	I
-phem	O
-hais	O
-zoo	O
 los	O
 ,	O
 yeej	O
@@ -2278,9 +2269,6 @@ los	B
 cob	I
 los	I
 qhia	I
-cob	O
-los	O
-qhia	O
 kom	O
 hais	O
 lus	O
@@ -2424,9 +2412,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 ,	O
 lawv	O
 yuav	O
@@ -2467,9 +2452,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 .	O
 
 
@@ -3148,9 +3130,6 @@ sem	B
 nqaij	I
 sem	I
 tawv	I
-nqaij	O
-sem	O
-tawv	O
 ces	O
 lawv	O
 thiaj	O
@@ -3301,9 +3280,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 luag	O
 ua	O
 tau	O

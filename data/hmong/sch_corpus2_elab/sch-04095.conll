@@ -39,9 +39,6 @@ muag	B
 yeeb	I
 muag	I
 tshuaj	I
-yeeb	O
-muag	O
-tshuaj	O
 xwb	O
 es	O
 thiaj	O
@@ -67,9 +64,6 @@ qhua	B
 qab	I
 qhua	I
 tsau	I
-qab	O
-qhua	O
-tsau	O
 tias	O
 lawv	O
 mas	O
@@ -713,9 +707,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 heev	O
 .	O
 
@@ -725,9 +716,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 txhua	O
 yam	O
 nrog	O
@@ -763,9 +751,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 muag	O
 mas	O
 lawv	O

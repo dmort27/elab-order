@@ -649,9 +649,6 @@ tau	B
 vaj	I
 tau	I
 tsev	I
-vaj	O
-tau	O
-tsev	O
 tas	O
 lawm	O
 no	O
@@ -2768,9 +2765,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 ...	O
 ces	O
 ntev	O
@@ -2781,9 +2775,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 lawm	O
 ...	O
 Phwv	O
@@ -3003,9 +2994,6 @@ caij	B
 mus	I
 caij	I
 los	I
-mus	O
-caij	O
-los	O
 ncig	O
 ua	O
 si	O

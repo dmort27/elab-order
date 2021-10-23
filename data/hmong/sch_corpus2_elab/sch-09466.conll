@@ -1809,9 +1809,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 puav	O
 leej	O
 need	O
@@ -2468,9 +2465,6 @@ dag	B
 nom	I
 dag	I
 tswv	I
-nom	O
-dag	O
-tswv	O
 ,	O
 yuav	O
 nrog	O
@@ -2842,9 +2836,6 @@ dag	B
 nom	I
 dag	I
 tswv	I
-nom	O
-dag	O
-tswv	O
 ,	O
 dag	O
 pejxeem	O
@@ -3226,9 +3217,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hais	O
 tias	O
 luag	O
@@ -3664,9 +3652,6 @@ tug	B
 dab	I
 tug	I
 qhua	I
-dab	O
-tug	O
-qhua	O
 xwb.Yog	O
 Laura	O
 tseem	O
@@ -3761,9 +3746,6 @@ tau	B
 koob	I
 tau	I
 meej	I
-koob	O
-tau	O
-meej	O
 xwb	O
 ,	O
 puasyog	O
@@ -3939,9 +3921,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 no	O
 ne	O
 .	O
@@ -7239,9 +7218,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -7671,9 +7647,6 @@ dhia	B
 ciaj	I
 dhia	I
 tuag	I
-ciaj	O
-dhia	O
-tuag	O
 ces	O
 yog	O
 pab	O

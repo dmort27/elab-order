@@ -335,9 +335,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 thiab	O
 ho	O
 dag	O
@@ -495,9 +492,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 li	O
 yav	O
 65	O
@@ -897,9 +891,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 thiab	O
 ho	O
 dag	O
@@ -1057,9 +1048,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 li	O
 yav	O
 65	O

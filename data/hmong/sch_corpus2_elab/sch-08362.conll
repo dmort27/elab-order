@@ -230,9 +230,6 @@ kev	B
 tshoob	I
 kev	I
 kos	I
-tshoob	O
-kev	O
-kos	O
 ,	O
 lawv	O
 twb	O
@@ -570,9 +567,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 li	O
 laud	O
 .....	O
@@ -1322,9 +1316,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 .	O
 
 
@@ -1551,9 +1542,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 los	O
 wb	O
 yeej	O
@@ -1640,9 +1628,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 yom	O
 os	O
 ....	O
@@ -1802,9 +1787,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 los	O
 yeej	O
 zoo	O
@@ -1879,17 +1861,11 @@ yog	B
 phooj	I
 yog	I
 ywg	I
-phooj	O
-yog	O
-ywg	O
 thiab	O
 yog	B
 kwv	I
 yog	I
 tij	I
-kwv	O
-yog	O
-tij	O
 li	O
 qub	O
 nawb	O
@@ -2536,9 +2512,6 @@ tej	B
 kev	I
 tej	I
 cai	I
-kev	O
-tej	O
-cai	O
 luas	O
 muas	O
 .	O

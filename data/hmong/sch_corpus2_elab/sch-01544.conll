@@ -425,9 +425,6 @@ lub	B
 ntsej	I
 lub	I
 muag	I
-ntsej	O
-lub	O
-muag	O
 los	O
 tiag	O
 sib	O
@@ -444,9 +441,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 mus	O
 rau	O
 txoj	O
@@ -789,9 +783,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 )	O
 and	O
 the	O
@@ -2337,9 +2328,6 @@ hmoob	B
 neej	I
 hmoob	I
 tsav	I
-neej	O
-hmoob	O
-tsav	O
 no	O
 ces	O
 yus	O
@@ -2608,9 +2596,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 ,	O
 kuv	O
 yuav	O

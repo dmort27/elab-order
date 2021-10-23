@@ -87,9 +87,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 yuav	O
 thiab	O
 quag	O
@@ -106,9 +103,6 @@ tub	B
 mab	I
 tub	I
 qhe	I
-mab	O
-tub	O
-qhe	O
 hos	O
 tej	O
 niag	O
@@ -136,9 +130,6 @@ qub	B
 zaub	I
 qub	I
 mov	I
-zaub	O
-qub	O
-mov	O
 .	O
 
 

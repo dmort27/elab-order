@@ -158,9 +158,6 @@ dej	B
 iab	I
 dej	I
 daw	I
-iab	O
-dej	O
-daw	O
 6	O
 .	O
 
@@ -221,9 +218,6 @@ koj	B
 pog	I
 koj	I
 yawg	I
-pog	O
-koj	O
-yawg	O
 9	O
 .	O
 
@@ -557,9 +551,6 @@ ntawv	B
 noj	I
 ntawv	I
 haus	I
-noj	O
-ntawv	O
-haus	O
 .	O
 
 
@@ -919,9 +910,6 @@ dej	B
 iab	I
 dej	I
 daw	I
-iab	O
-dej	O
-daw	O
 ..	O
 this	O
 is	O
@@ -991,9 +979,6 @@ daus	B
 xib	I
 daus	I
 npu	I
-xib	O
-daus	O
-npu	O
 los	O
 ...	O
 tsi	O
@@ -1033,9 +1018,6 @@ dej	B
 iab	I
 dej	I
 daw	I
-iab	O
-dej	O
-daw	O
 is	O
 the	O
 sea	O

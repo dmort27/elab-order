@@ -28,9 +28,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 pem	O
 toj	O
 nram	O
@@ -327,9 +324,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 lau	O
 nej	O

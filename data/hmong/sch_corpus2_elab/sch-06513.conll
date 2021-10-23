@@ -43,9 +43,6 @@ sib	B
 pab	I
 sib	I
 txhawb	I
-pab	O
-sib	O
-txhawb	O
 mus	O
 yav	O
 tom	O
@@ -136,9 +133,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 coj	O
 tej	O
@@ -174,9 +168,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 ,	O
 Zoo	O
 li	O
@@ -192,9 +183,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 ,	O
 ua	O
 haiv	O
@@ -211,9 +199,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 los	O
 ntev	O
 ,	O
@@ -252,9 +237,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 .	O
 
 

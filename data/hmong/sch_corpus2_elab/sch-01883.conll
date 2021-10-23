@@ -432,9 +432,6 @@ ua	B
 num	I
 ua	I
 tswv	I
-num	O
-ua	O
-tswv	O
 nav	O
 ,	O
 qhov	O
@@ -483,9 +480,6 @@ ua	B
 num	I
 ua	I
 tswv	I
-num	O
-ua	O
-tswv	O
 tsis	O
 txhob	O
 tog	O
@@ -817,9 +811,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 yuav	O
 ua	O

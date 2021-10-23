@@ -152,9 +152,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 nrog	O
 nws	O
 las	O
@@ -852,9 +849,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 li	O
 ntag	O
 .	O
@@ -912,9 +906,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -981,9 +972,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 ,	O
 nkawd	O
 yeej	O
@@ -1205,9 +1193,6 @@ paub	B
 siab	I
 paub	I
 qis	I
-siab	O
-paub	O
-qis	O
 ces	O
 ....	O
 luag	O
@@ -1222,9 +1207,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 thiab	O
 ....	O
 Yus	O
@@ -1257,9 +1239,6 @@ raws	B
 kev	I
 raws	I
 cai	I
-kev	O
-raws	O
-cai	O
 .	O
 
 
@@ -1269,17 +1248,11 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 muaj	B
 tshoob	I
 muaj	I
 kos	I
-tshoob	O
-muaj	O
-kos	O
 ,	O
 luag	O
 caw	O
@@ -1479,9 +1452,6 @@ tej	B
 tub	I
 tej	I
 ki	I
-tub	O
-tej	O
-ki	O
 nev	O
 ?	O
 ?	O
@@ -1517,9 +1487,6 @@ tej	B
 tub	I
 tej	I
 ki	I
-tub	O
-tej	O
-ki	O
 yuav	O
 mus	O
 nkaum	O

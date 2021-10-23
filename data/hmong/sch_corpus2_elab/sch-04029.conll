@@ -50,9 +50,6 @@ xav	B
 txhij	I
 xav	I
 txhua	I
-txhij	O
-xav	O
-txhua	O
 thiab	O
 luj	O
 txhua	O
@@ -274,9 +271,6 @@ siab	B
 loj	I
 siab	I
 dav	I
-loj	O
-siab	O
-dav	O
 li	O
 peb	O
 cov	O
@@ -394,9 +388,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 twb	O
 phem	O
 txaus	O
@@ -421,9 +412,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 os	O
 .	O
 
@@ -441,9 +429,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 es	O
 tsua	O
 yog	O
@@ -1710,9 +1695,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 li	O
 tus	O
 yus	O
@@ -1764,9 +1746,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 ,	O
 thiab	O
 peb	O
@@ -1860,9 +1839,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 xwb	O
 .	O
 

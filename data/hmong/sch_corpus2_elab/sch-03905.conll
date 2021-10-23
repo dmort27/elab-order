@@ -113,9 +113,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 kom	O
 dab	O
 txhob	O
@@ -448,9 +445,6 @@ dab	B
 niam	I
 dab	I
 txiv	I
-niam	O
-dab	O
-txiv	O
 ,	O
 dab	O
 pojkoob	O
@@ -495,9 +489,6 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 ,	O
 dab	O
 tso	O
@@ -562,9 +553,6 @@ qhua	B
 neej	I
 qhua	I
 tsav	I
-neej	O
-qhua	O
-tsav	O
 ,	O
 thiab	O
 qhua	O
@@ -828,9 +816,6 @@ xav	B
 txhij	I
 xav	I
 txhua	I
-txhij	O
-xav	O
-txhua	O
 lawm	O
 tej	O
 niag	O

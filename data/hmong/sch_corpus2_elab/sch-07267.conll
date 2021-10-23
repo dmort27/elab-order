@@ -617,9 +617,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 rau	O
 lawv	O
 tus	O
@@ -945,9 +942,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 xwb	O
 ,	O
 yuav	O
@@ -1035,9 +1029,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 (	O
 daily	O
 conversation	O

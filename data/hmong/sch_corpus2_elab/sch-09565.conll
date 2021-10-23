@@ -402,9 +402,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 rau	O
 Paj	O
 Kaub	O
@@ -831,9 +828,6 @@ tswv	B
 ntuj	I
 tswv	I
 teb	I
-ntuj	O
-tswv	O
-teb	O
 xwb	O
 os	O
 .	O
@@ -979,9 +973,6 @@ sib	B
 pab	I
 sib	I
 txhawb	I
-pab	O
-sib	O
-txhawb	O
 xwb	O
 .	O
 
@@ -1069,9 +1060,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 li	O
 uas	O
 yog	O

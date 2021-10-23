@@ -254,9 +254,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 no	O
 twb	O
 tsis	O
@@ -625,9 +622,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 no	O
 twb	O
 tsis	O
@@ -777,9 +771,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 peb	O
 yuav	O
 tau	O

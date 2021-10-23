@@ -235,9 +235,6 @@ tau	B
 koob	I
 tau	I
 npe	I
-koob	O
-tau	O
-npe	O
 tias	O
 yog	O
 ib	O
@@ -329,9 +326,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 tsis	O
 puas	O
 .	O
@@ -382,9 +376,6 @@ tau	B
 vaj	I
 tau	I
 tsev	I
-vaj	O
-tau	O
-tsev	O
 nyob	O
 ua	O
 lub	O

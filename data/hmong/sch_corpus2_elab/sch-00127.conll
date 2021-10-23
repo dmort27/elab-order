@@ -1834,9 +1834,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 twb	O
 ua	O
 rog	O
@@ -2345,9 +2342,6 @@ tshum	B
 mus	I
 tshum	I
 los	I
-mus	O
-tshum	O
-los	O
 na	O
 has	O
 ,	O
@@ -2815,9 +2809,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 twb	O
 nrog	O
 nws	O
@@ -4417,9 +4408,6 @@ peb	B
 noj	I
 peb	I
 haus	I
-noj	O
-peb	O
-haus	O
 nawb	O
 .	O
 
@@ -4670,9 +4658,6 @@ tim	B
 roj	I
 tim	I
 ntshav	I
-roj	O
-tim	O
-ntshav	O
 los	O
 yog	O
 tim	O
@@ -4993,9 +4978,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 nws	O
 twb	O

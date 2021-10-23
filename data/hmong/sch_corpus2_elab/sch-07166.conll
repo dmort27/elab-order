@@ -197,9 +197,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 terrorist	O
 nyob	O
 qhov	O
@@ -343,9 +340,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 thiab	O
 luag	O
 ntxhuj	O
@@ -698,9 +692,6 @@ tsev	B
 zeb	I
 tsev	I
 tsua	I
-zeb	O
-tsev	O
-tsua	O
 thiab	O
 txhua	O
 txoj	O
@@ -789,9 +780,6 @@ tuam	B
 meej	I
 tuam	I
 pem	I
-meej	O
-tuam	O
-pem	O
 dag	O
 niam	O
 txiv	O
@@ -1471,9 +1459,6 @@ txug	B
 caij	I
 txug	I
 nyoog	I
-caij	O
-txug	O
-nyoog	O
 muaj	O
 tub	O
 qheb	O
@@ -1496,9 +1481,6 @@ moog	B
 ncaaj	I
 moog	I
 nceeg	I
-ncaaj	O
-moog	O
-nceeg	O
 ,	O
 tseem	O
 moog	O

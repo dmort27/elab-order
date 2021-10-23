@@ -715,9 +715,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 tuaj	O
 tag	O
 nrho	O
@@ -738,9 +735,6 @@ kev	B
 tshoob	I
 kev	I
 kos	I
-tshoob	O
-kev	O
-kos	O
 rau	O
 hmoob	O
 no	O

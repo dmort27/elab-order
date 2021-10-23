@@ -135,9 +135,6 @@ niam	B
 laus	I
 niam	I
 hluas	I
-laus	O
-niam	O
-hluas	O
 (	O
 tij	O
 yug	O
@@ -1452,9 +1449,6 @@ ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 kiag	O
 li	O
 .	O
@@ -2807,9 +2801,6 @@ pob	B
 zeb	I
 pob	I
 ca	I
-zeb	O
-pob	O
-ca	O
 chob	O
 ko	O
 taw	O

@@ -960,9 +960,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 thiaj	O
 li	O
 yuav	O
@@ -1599,9 +1596,6 @@ xav	B
 pom	I
 xav	I
 paub	I
-pom	O
-xav	O
-paub	O
 txog	O
 koj	O
 lub	O
@@ -2129,9 +2123,6 @@ ntuj	B
 kub	I
 ntuj	I
 nag	I
-kub	O
-ntuj	O
-nag	O
 ntshai	O
 yuav	O
 tsis	O
@@ -2278,9 +2269,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 kuv	O
 ho	O
 lam	O
@@ -2357,9 +2345,6 @@ sab	B
 hauv	I
 sab	I
 sau	I
-hauv	O
-sab	O
-sau	O
 los	O
 tau	O
 no	O

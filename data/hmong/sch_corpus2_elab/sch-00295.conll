@@ -1049,9 +1049,6 @@ tuam	B
 meej	I
 tuam	I
 pem	I
-meej	O
-tuam	O
-pem	O
 yuav	O
 los	O
 ntos	O
@@ -1151,9 +1148,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 li	O
 ko	O
 ho	O
@@ -1821,9 +1815,6 @@ tiv	B
 tshav	I
 tiv	I
 nag	I
-tshav	O
-tiv	O
-nag	O
 li	O
 laud	O
 .	O
@@ -2780,9 +2771,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 los	O
 yog	O
 vim	O
@@ -2825,9 +2813,6 @@ nrog	B
 fuab	I
 nrog	I
 cua	I
-fuab	O
-nrog	O
-cua	O
 rau	O
 cov	O
 me	O

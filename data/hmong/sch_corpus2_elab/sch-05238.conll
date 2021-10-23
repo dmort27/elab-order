@@ -39,9 +39,6 @@ tsw	B
 lwj	I
 tsw	I
 kas	I
-lwj	O
-tsw	O
-kas	O
 liab	O
 tsuj	O
 tsuas	O
@@ -85,9 +82,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 yim	O
 cuaj	O
 kaum	O
@@ -1518,9 +1512,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 ua	O
 Caub	O
 Fab	O
@@ -1780,9 +1771,6 @@ nyias	B
 vaj	I
 nyias	I
 tsev	I
-vaj	O
-nyias	O
-tsev	O
 xwb	O
 vim	O
 rau	O
@@ -1883,18 +1871,12 @@ nyias	B
 vaj	I
 nyias	I
 tsev	I
-vaj	O
-nyias	O
-tsev	O
 xwb	O
 ..	O
 ua	B
 mus	I
 ua	I
 los	I
-mus	O
-ua	O
-los	O
 ces	O
 hmong	O
 thiaj	O
@@ -2004,9 +1986,6 @@ tuaj	B
 haub	I
 tuaj	I
 ntxias	I
-haub	O
-tuaj	O
-ntxias	O
 nej	O
 cov	O
 uas	O
@@ -2136,9 +2115,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 nyob	O
 ua	O
 cob	O
@@ -2247,9 +2223,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 yuav	O
 muaj	O
 txoj	O
@@ -2349,17 +2322,11 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 ,	O
 muaj	B
 liaj	I
 muaj	I
 teb	I
-liaj	O
-muaj	O
-teb	O
 .	O
 
 
@@ -2813,9 +2780,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 nawb	O
 ,	O
 lwm	O
@@ -2887,9 +2851,6 @@ khiav	B
 noj	I
 khiav	I
 haus	I
-noj	O
-khiav	O
-haus	O
 xwb	O
 koj	O
 puas	O
@@ -4190,9 +4151,6 @@ tsis	B
 txawj	I
 tsis	I
 ntse	I
-txawj	O
-tsis	O
-ntse	O
 li	O
 nej	O
 ,	O
@@ -4450,9 +4408,6 @@ nyias	B
 vaj	I
 nyias	I
 tsev	I
-vaj	O
-nyias	O
-tsev	O
 xwb	O
 vim	O
 rau	O
@@ -4553,18 +4508,12 @@ nyias	B
 vaj	I
 nyias	I
 tsev	I
-vaj	O
-nyias	O
-tsev	O
 xwb	O
 ..	O
 ua	B
 mus	I
 ua	I
 los	I
-mus	O
-ua	O
-los	O
 ces	O
 hmong	O
 thiaj	O
@@ -4674,9 +4623,6 @@ tuaj	B
 haub	I
 tuaj	I
 ntxias	I
-haub	O
-tuaj	O
-ntxias	O
 nej	O
 cov	O
 uas	O

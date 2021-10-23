@@ -1115,9 +1115,6 @@ ua	B
 yeej	I
 ua	I
 swb	I
-yeej	O
-ua	O
-swb	O
 li	O
 twb	O
 ua	O
@@ -2284,9 +2281,6 @@ rau	B
 ped	I
 rau	I
 nrad	I
-ped	O
-rau	O
-nrad	O
 xwb	O
 .	O
 
@@ -2583,9 +2577,6 @@ sib	B
 ntsib	I
 sib	I
 thaam	I
-ntsib	O
-sib	O
-thaam	O
 saib	O
 luas	O
 has	O
@@ -2599,9 +2590,6 @@ lub	B
 sab	I
 lub	I
 plawv	I
-sab	O
-lub	O
-plawv	O
 los	O
 yog	O
 ntawd	O
@@ -2735,9 +2723,6 @@ txheeb	B
 neej	I
 txheeb	I
 tsaav	I
-neej	O
-txheeb	O
-tsaav	O
 tabsi	O
 yog	O
 tog	O
@@ -2935,9 +2920,6 @@ tu	B
 qab	I
 tu	I
 twv	I
-qab	O
-tu	O
-twv	O
 nrog	O
 luag	O
 nyob	O

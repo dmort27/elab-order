@@ -276,9 +276,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 ,	O
 luag	O
 nthuav	O
@@ -292,9 +289,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 ces	O
 kom	O
 Hmoob	O
@@ -325,9 +319,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 loj	O
 .	O
 
@@ -345,9 +336,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 mus	O
 rau	O
 haub	O
@@ -444,9 +432,6 @@ ntawv	B
 txwj	I
 ntawv	I
 nkawm	I
-txwj	O
-ntawv	O
-nkawm	O
 pem	O
 nyuj	O
 vag	O
@@ -456,9 +441,6 @@ ua	B
 txwj	I
 ua	I
 nkawm	I
-txwj	O
-ua	O
-nkawm	O
 .	O
 
 
@@ -581,9 +563,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 thiaj	O
 li	O
@@ -645,9 +624,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 .	O
 
 

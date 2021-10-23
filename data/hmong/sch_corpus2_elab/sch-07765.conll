@@ -84,9 +84,6 @@ koom	B
 roj	I
 koom	I
 ntshav	I
-roj	O
-koom	O
-ntshav	O
 lawm	O
 .	O
 
@@ -208,9 +205,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 yam	O
 tsis	O
 muaj	O
@@ -235,9 +229,6 @@ tag	B
 siab	I
 tag	I
 ntsws	I
-siab	O
-tag	O
-ntsws	O
 ntag	O
 .	O
 
@@ -364,9 +355,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ?	O
 
 

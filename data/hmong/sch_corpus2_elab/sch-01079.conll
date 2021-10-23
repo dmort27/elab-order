@@ -290,9 +290,6 @@ sib	B
 daj	I
 sib	I
 dee	I
-daj	O
-sib	O
-dee	O
 lossis	O
 tsis	O
 muaj	O
@@ -390,9 +387,6 @@ ua	B
 plees	I
 ua	I
 yi	I
-plees	O
-ua	O
-yi	O
 .	O
 
 
@@ -411,9 +405,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 es	O
 khwv	O
 khwv	O
@@ -551,9 +542,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ,	O
 hais	O
 dab	O
@@ -858,9 +846,6 @@ nrog	B
 huab	I
 nrog	I
 cua	I
-huab	O
-nrog	O
-cua	O
 xwb	O
 twb	O
 zoo	O
@@ -1279,9 +1264,6 @@ tus	B
 laus	I
 tus	I
 hluas	I
-laus	O
-tus	O
-hluas	O
 los	O
 yeej	O
 tuaj	O
@@ -1290,9 +1272,6 @@ tas	B
 hnub	I
 tas	I
 hmo	I
-hnub	O
-tas	O
-hmo	O
 li	O
 Hmoob	O
 ua	O
@@ -1753,9 +1732,6 @@ qub	B
 zej	I
 qub	I
 zos	I
-zej	O
-qub	O
-zos	O
 ua	O
 los	O
 ntawm	O

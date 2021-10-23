@@ -59,9 +59,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 uas	O
 npaj	O
 kev	O
@@ -1504,9 +1501,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 rau	O
 Amelikas	O
 ,	O
@@ -1836,9 +1830,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 rau	O
 luag	O
 ,	O
@@ -2061,9 +2052,6 @@ rau	B
 nom	I
 rau	I
 tswv	I
-nom	O
-rau	O
-tswv	O
 mas	O
 yuav	O
 tau	O
@@ -2074,9 +2062,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 thiab	O
 siv	O
 cov	O

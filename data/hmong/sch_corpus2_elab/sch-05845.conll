@@ -17,9 +17,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 na	O
 ua	O
 cas	O
@@ -35,9 +32,6 @@ muaj	B
 kab	I
 muaj	I
 kev	I
-kab	O
-muaj	O
-kev	O
 kawg	O
 .	O
 
@@ -155,9 +149,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 ua	O
 tij	O
 ua	O
@@ -180,9 +171,6 @@ li	B
 kab	I
 li	I
 kev	I
-kab	O
-li	O
-kev	O
 cai	O
 rau	O
 peb	O
@@ -344,9 +332,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 .	O
 
 
@@ -765,9 +750,6 @@ muaj	B
 kab	I
 muaj	I
 kev	I
-kab	O
-muaj	O
-kev	O
 .	O
 
 
@@ -1227,9 +1209,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 ,	O
 ua	O
 neej	O
@@ -1255,9 +1234,6 @@ ua	B
 kwv	I
 ua	I
 tij	I
-kwv	O
-ua	O
-tij	O
 ,	O
 yuav	O
 tsi	O
@@ -1510,9 +1486,6 @@ plig	B
 nyiaj	I
 plig	I
 kub	I
-nyiaj	O
-plig	O
-kub	O
 ,	O
 pliag	O
 tub	O
@@ -1531,9 +1504,6 @@ kev	B
 phem	I
 kev	I
 qas	I
-phem	O
-kev	O
-qas	O
 etc	O
 tawm	O
 rau	O

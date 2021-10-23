@@ -116,9 +116,6 @@ luag	B
 teb	I
 luag	I
 chaw	I
-teb	O
-luag	O
-chaw	O
 in	O
 yam	O
 li	O
@@ -140,9 +137,6 @@ luag	B
 teb	I
 luag	I
 chaw	I
-teb	O
-luag	O
-chaw	O
 .	O
 
 
@@ -169,9 +163,6 @@ luag	B
 teb	I
 luag	I
 chaw	I
-teb	O
-luag	O
-chaw	O
 mad	O
 ?	O
 

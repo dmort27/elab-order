@@ -160,9 +160,6 @@ mus	B
 ntoj	I
 mus	I
 thuv	I
-ntoj	O
-mus	O
-thuv	O
 txiv	O
 Huab	O
 Tais	O
@@ -523,9 +520,6 @@ paub	B
 txhij	I
 paub	I
 txhua	I
-txhij	O
-paub	O
-txhua	O
 ua	O
 luaj	O
 .	O

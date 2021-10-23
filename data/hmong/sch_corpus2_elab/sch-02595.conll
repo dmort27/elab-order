@@ -66,9 +66,6 @@ muaj	B
 txhij	I
 muaj	I
 txhua	I
-txhij	O
-muaj	O
-txhua	O
 li	O
 .	O
 
@@ -154,9 +151,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 thiab	O
 hais	O
 lus	O
@@ -417,9 +411,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 hab	O
 tso	O
 dlaag	O

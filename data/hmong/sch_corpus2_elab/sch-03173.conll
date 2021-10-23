@@ -45,9 +45,6 @@ hauv	B
 paug	I
 hauv	I
 ntsis	I
-paug	O
-hauv	O
-ntsis	O
 ..	O
 nws	O
 muaj	O
@@ -432,9 +429,6 @@ muaj	B
 caub	I
 muaj	I
 chim	I
-caub	O
-muaj	O
-chim	O
 dab	O
 tsi	O
 yav	O
@@ -653,9 +647,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 xwb	O
 .	O
 
@@ -1805,9 +1796,6 @@ khwv	B
 ciaj	I
 khwv	I
 tuag	I
-ciaj	O
-khwv	O
-tuag	O
 twb	O
 tsis	O
 khoom	O
@@ -1872,9 +1860,6 @@ muag	B
 yeeb	I
 muag	I
 tshuaj	I
-yeeb	O
-muag	O
-tshuaj	O
 xwb	O
 los	O
 ua	O

@@ -25,9 +25,6 @@ uas	B
 nyiaj	I
 uas	I
 kub	I
-nyiaj	O
-uas	O
-kub	O
 tas	O
 .	O
 
@@ -88,9 +85,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 saib	O
 hais	O
 tias	O
@@ -1062,9 +1056,6 @@ lug	B
 nyaj	I
 lug	I
 kub	I
-nyaj	O
-lug	O
-kub	O
 ''	O
 nyaj	O
 yuav	O
@@ -1084,9 +1075,6 @@ tseem	B
 nyaj	I
 tseem	I
 kub	I
-nyaj	O
-tseem	O
-kub	O
 saib	O
 luag	O
 khawb	O

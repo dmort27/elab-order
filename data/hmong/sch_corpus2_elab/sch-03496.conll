@@ -248,9 +248,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 )	O
 .	O
 
@@ -339,9 +336,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 .	O
 
 
@@ -361,9 +355,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -378,9 +369,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 hauv	O
 nws	O
 tsev	O
@@ -989,9 +977,6 @@ ua	B
 laj	I
 ua	I
 kam	I
-laj	O
-ua	O
-kam	O
 qhov	O
 twg	O
 los	O
@@ -1006,9 +991,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 zoo	O
 ,	O
 muaj	O
@@ -1119,9 +1101,6 @@ nyias	B
 pab	I
 nyias	I
 pawg	I
-pab	O
-nyias	O
-pawg	O
 we	O
 are	O
 growing	O
@@ -1954,9 +1933,6 @@ khuj	B
 noj	I
 khuj	I
 haus	I
-noj	O
-khuj	O
-haus	O
 thiab	O
 kev	O
 coj	O
@@ -2021,9 +1997,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 kiag	O
 li	O
 Dr	O
@@ -2048,9 +2021,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 lawm	O
 --	O
 peb	O
@@ -2101,9 +2071,6 @@ tsi	B
 mus	I
 tsi	I
 los	I
-mus	O
-tsi	O
-los	O
 qhov	O
 twg	O
 li	O
@@ -2203,9 +2170,6 @@ siab	B
 loj	I
 siab	I
 dav	I
-loj	O
-siab	O
-dav	O
 ,	O
 pom	O
 kev	O

@@ -103,9 +103,6 @@ kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 nrog	O
 tus	O
 neeg	O
@@ -1696,9 +1693,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 no	O
 tsis	O
 yog	O
@@ -2027,9 +2021,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 ,	O
 peb	O
 kuj	O
@@ -2274,9 +2265,6 @@ ncig	B
 ub	I
 ncig	I
 no	I
-ub	O
-ncig	O
-no	O
 xwb	O
 ,	O
 thiab	O
@@ -2815,9 +2803,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 .	O
 
 
@@ -3861,9 +3846,6 @@ txiv	B
 neeb	I
 txiv	I
 yaig	I
-neeb	O
-txiv	O
-yaig	O
 ,	O
 yuav	O
 tau	O

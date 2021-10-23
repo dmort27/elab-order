@@ -110,9 +110,6 @@ tsis	B
 txheeb	I
 tsis	I
 ze	I
-txheeb	O
-tsis	O
-ze	O
 rau	O
 yus	O
 ,	O
@@ -482,9 +479,6 @@ koom	B
 niam	I
 koom	I
 txiv	I
-niam	O
-koom	O
-txiv	O
 yug	O
 2.	O
 cov	O
@@ -1376,9 +1370,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 nyob	O
 .	O
 

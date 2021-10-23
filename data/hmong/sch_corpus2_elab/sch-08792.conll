@@ -44,9 +44,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 .	O
 
 
@@ -198,9 +195,6 @@ rau	B
 noj	I
 rau	I
 haus	I
-noj	O
-rau	O
-haus	O
 .	O
 
 
@@ -289,9 +283,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 .	O
 
 
@@ -417,9 +408,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 lawd	O
 yuav	O
 tsum	O
@@ -469,9 +457,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 hab	O
 muaj	O
 txujci	O

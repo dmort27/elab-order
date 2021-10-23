@@ -12,9 +12,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 nawb	O
 .	O
 
@@ -371,9 +368,6 @@ ntxhais	B
 nom	I
 ntxhais	I
 tswv	I
-nom	O
-ntxhais	O
-tswv	O
 diam	O
 txawm	O
 yus	O
@@ -1448,9 +1442,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 ,	O
 tej	O
 tus	O

@@ -259,9 +259,6 @@ xaus	B
 tshoob	I
 xaus	I
 kos	I
-tshoob	O
-xaus	O
-kos	O
 tiav	O
 log	O
 lawm	O
@@ -313,9 +310,6 @@ muaj	B
 tshoob	I
 muaj	I
 kos	I
-tshoob	O
-muaj	O
-kos	O
 nej	O
 sim	O
 txhob	O

@@ -371,9 +371,6 @@ luag	B
 niam	I
 luag	I
 txiv	I
-niam	O
-luag	O
-txiv	O
 qhia	O
 tom	O
 tsev	O
@@ -618,9 +615,6 @@ paub	B
 qab	I
 paub	I
 hauv	I
-qab	O
-paub	O
-hauv	O
 li	O
 los	O
 yog	O
@@ -827,9 +821,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 ,	O
 nyias	O
 yeej	O
@@ -1001,9 +992,6 @@ kev	B
 txheeb	I
 kev	I
 ze	I
-txheeb	O
-kev	O
-ze	O
 tseem	O
 sib	O
 tis	O
@@ -2073,9 +2061,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 txawv	O
 teb	O
 chaws	O
@@ -2215,9 +2200,6 @@ kev	B
 phem	I
 kev	I
 qias	I
-phem	O
-kev	O
-qias	O
 ,	O
 ua	O
 dev	O
@@ -2833,9 +2815,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 xwb	O
 .	O
 
@@ -3159,18 +3138,12 @@ mus	B
 xauj	I
 mus	I
 xyuas	I
-xauj	O
-mus	O
-xyuas	O
 ,	O
 nyob	O
 tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 xav	O
 ,	O
 twv	O
@@ -3182,9 +3155,6 @@ tsis	B
 ncaj	I
 tsis	I
 zoo	I
-ncaj	O
-tsis	O
-zoo	O
 ,	O
 tsis	O
 yog	O
@@ -3219,9 +3189,6 @@ mus	B
 pab	I
 mus	I
 xyuas	I
-pab	O
-mus	O
-xyuas	O
 ghov	O
 twg	O
 ua	O
@@ -3272,9 +3239,6 @@ mus	B
 xauj	I
 mus	I
 pab	I
-xauj	O
-mus	O
-pab	O
 lawm	O
 mas	O
 hais	O
@@ -3315,9 +3279,6 @@ tsis	B
 taij	I
 tsis	I
 thov	I
-taij	O
-tsis	O
-thov	O
 leej	O
 twg	O
 nyiaj	O
@@ -3376,9 +3337,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 tuaj	O
 ,	O
 tsis	O
@@ -3392,9 +3350,6 @@ liam	B
 ub	I
 liam	I
 no	I
-ub	O
-liam	O
-no	O
 tuaj	O
 kom	O
 npom	O
@@ -4105,9 +4060,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 .	O
 
 
@@ -4335,9 +4287,6 @@ ib	B
 txhiab	I
 ib	I
 txhis	I
-txhiab	O
-ib	O
-txhis	O
 .	O
 
 
@@ -4455,9 +4404,6 @@ ib	B
 txhiab	I
 ib	I
 txhis	I
-txhiab	O
-ib	O
-txhis	O
 nawb	O
 mog	O
 .	O
@@ -4593,9 +4539,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 tiav	O
 Doctor	O
 coob	O
@@ -4727,9 +4670,6 @@ ua	B
 yeeb	I
 ua	I
 tshuaj	I
-yeeb	O
-ua	O
-tshuaj	O
 pub	O
 koj	O
 vim	O
@@ -5092,9 +5032,6 @@ siab	B
 phem	I
 siab	I
 zoo	I
-phem	O
-siab	O
-zoo	O
 ,	O
 hmoob/moob	O
 los	O
@@ -5253,9 +5190,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 tiag	O
 tiag	O
 yuav	O
@@ -5390,9 +5324,6 @@ sib	B
 pab	I
 sib	I
 txhawb	I
-pab	O
-sib	O
-txhawb	O
 mus	O
 e	O
 peb	O

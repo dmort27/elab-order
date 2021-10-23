@@ -338,9 +338,6 @@ sib	B
 pab	I
 sib	I
 hlub	I
-pab	O
-sib	O
-hlub	O
 thiaj	O
 zoo	O
 li	O
@@ -396,9 +393,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 tag	O
 lawm	O
 ces	O
@@ -678,9 +672,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 lawm	O
 .	O
 
@@ -798,9 +789,6 @@ sib	B
 pab	I
 sib	I
 hlub	I
-pab	O
-sib	O
-hlub	O
 thiaj	O
 zoo	O
 li	O

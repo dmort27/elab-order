@@ -237,9 +237,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 accept	O
 tau	O
 li	O
@@ -349,9 +346,6 @@ hais	B
 phem	I
 hais	I
 zoo	I
-phem	O
-hais	O
-zoo	O
 thiab	O
 ua	O
 li	O
@@ -549,9 +543,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 ces	O
 cias	O
 li	O
@@ -1030,9 +1021,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 --	O
 -tsi	O
 muaj	O
@@ -1067,9 +1055,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 ,	O
 yuav	O
 tsi	O
@@ -1090,9 +1075,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 ,	O
 thiab	O
 muab	O
@@ -1100,9 +1082,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 los	O
 noj	O
 yuav	O
@@ -1157,9 +1136,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 yog	O
 tus	O
 mobsiab	O
@@ -1733,9 +1709,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 ...	O
 naive	O
 in	O

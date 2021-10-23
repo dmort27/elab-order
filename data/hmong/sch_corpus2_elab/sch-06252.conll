@@ -515,9 +515,6 @@ muaj	B
 liaj	I
 muaj	I
 teb	I
-liaj	O
-muaj	O
-teb	O
 ua	O
 .	O
 
@@ -529,9 +526,6 @@ muaj	B
 dej	I
 muaj	I
 num	I
-dej	O
-muaj	O
-num	O
 ua	O
 thiab	O
 ua	O
@@ -541,16 +535,10 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 xws	B
 teb	I
 xws	I
 chaw	I
-teb	O
-xws	O
-chaw	O
 .	O
 
 
@@ -570,9 +558,6 @@ muaj	B
 kwv	I
 muaj	I
 tij	I
-kwv	O
-muaj	O
-tij	O
 nyob	O
 tim	O
 US	O
@@ -741,9 +726,6 @@ siv	B
 riam	I
 siv	I
 phom	I
-riam	O
-siv	O
-phom	O
 los	O
 kho	O
 .	O

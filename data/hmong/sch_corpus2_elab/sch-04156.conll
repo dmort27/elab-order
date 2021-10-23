@@ -669,9 +669,6 @@ mos	B
 ntuj	I
 mos	I
 teb	I
-ntuj	O
-mos	O
-teb	O
 es	O
 luag	O
 nim	O
@@ -944,17 +941,11 @@ muaj	B
 kwv	I
 muaj	I
 tij	I
-kwv	O
-muaj	O
-tij	O
 ,	O
 muaj	B
 neej	I
 muaj	I
 tsav	I
-neej	O
-muaj	O
-tsav	O
 thiab	O
 phoojywg	O
 coob~	O
@@ -1012,9 +1003,6 @@ yos	B
 noj	I
 yos	I
 haus	I
-noj	O
-yos	O
-haus	O
 kom	O
 puv	O
 plab	O

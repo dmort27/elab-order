@@ -1259,9 +1259,6 @@ hnov	B
 ub	I
 hnov	I
 no	I
-ub	O
-hnov	O
-no	O
 los	O
 .	O
 
@@ -1766,9 +1763,6 @@ hmoob	B
 noj	I
 hmoob	I
 haus	I
-noj	O
-hmoob	O
-haus	O
 li	O
 tam	O
 sim	O

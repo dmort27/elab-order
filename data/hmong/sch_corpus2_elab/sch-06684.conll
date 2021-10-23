@@ -68,9 +68,6 @@ suav	B
 hnub	I
 suav	I
 hmo	I
-hnub	O
-suav	O
-hmo	O
 raug	O
 Nplog	O
 Liab	O
@@ -405,9 +402,6 @@ raug	B
 ploj	I
 raug	I
 tuag	I
-ploj	O
-raug	O
-tuag	O
 ,	O
 tab	O
 sis	O
@@ -822,9 +816,6 @@ noj	B
 teb	I
 noj	I
 chaw	I
-teb	O
-noj	O
-chaw	O
 .	O
 
 

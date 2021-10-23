@@ -458,9 +458,6 @@ vaaj	B
 luj	I
 vaaj	I
 miv	I
-luj	O
-vaaj	O
-miv	O
 moog	O
 poob	O
 rua	O
@@ -596,9 +593,6 @@ vaaj	B
 luj	I
 vaaj	I
 miv	I
-luj	O
-vaaj	O
-miv	O
 duangxabpho	O
 kuv	O
 tug	O
@@ -1114,9 +1108,6 @@ noj	B
 teb	I
 noj	I
 chaw	I
-teb	O
-noj	O
-chaw	O
 ,	O
 yog	O
 hom	O
@@ -1166,9 +1157,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 uas	O
 yog	O
 xeem	O
@@ -1382,9 +1370,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 moog	O
 rau	O
 vangvieng	O

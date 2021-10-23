@@ -298,9 +298,6 @@ nrhav	B
 noj	I
 nrhav	I
 haus	I
-noj	O
-nrhav	O
-haus	O
 lawm	O
 xwb	O
 pob	O
@@ -904,9 +901,6 @@ ntees	B
 ploj	I
 ntees	I
 tuag	I
-ploj	O
-ntees	O
-tuag	O
 los	O
 lawv	O
 yeej	O
@@ -1213,9 +1207,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 los	O
 mus	O
 organize	O
@@ -1372,9 +1363,6 @@ nyias	B
 vaj	I
 nyias	I
 tsev	I
-vaj	O
-nyias	O
-tsev	O
 mas	O
 ,	O
 koj	O

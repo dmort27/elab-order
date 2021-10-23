@@ -217,9 +217,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 ces	O
 yeej	O
 muaj	O
@@ -277,9 +274,6 @@ qub	B
 zej	I
 qub	I
 zos	I
-zej	O
-qub	O
-zos	O
 ....	O
 qub	O
 kab	O
@@ -394,9 +388,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ...	O
 yus	O
 thiaj	O
@@ -466,9 +457,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 rau	O
 cov	O
 laus	O

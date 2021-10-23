@@ -755,9 +755,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 mas	O
 lawv	O
 thiaj	O
@@ -1816,9 +1813,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 thiab	O
 !	O
 

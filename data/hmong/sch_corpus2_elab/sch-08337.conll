@@ -1206,9 +1206,6 @@ me	B
 kab	I
 me	I
 ntsaum	I
-kab	O
-me	O
-ntsaum	O
 tawg	O
 qheej	O
 lees	O
@@ -1221,9 +1218,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 thiaj	O
 li	O
 yuav	O
@@ -1281,9 +1275,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 lawmxwb	O
 .	O
 
@@ -1305,9 +1296,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 lawm	O
 xwb	O
 .	O

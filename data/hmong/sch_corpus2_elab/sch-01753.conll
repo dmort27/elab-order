@@ -17,9 +17,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 thiab	O
 tsis	O
 muaj	O
@@ -49,9 +46,6 @@ yaug	B
 ncauj	I
 yaug	I
 lo	I
-ncauj	O
-yaug	O
-lo	O
 xwb	O
 .	O
 
@@ -86,9 +80,6 @@ txaus	B
 noj	I
 txaus	I
 haus	I
-noj	O
-txaus	O
-haus	O
 lawm	O
 ,	O
 tus	O
@@ -299,9 +290,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 peb	O
 tseem	O
@@ -693,9 +681,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 los	O
 tim	O
 thiab	O

@@ -30,9 +30,6 @@ ntau	B
 tsav	I
 ntau	I
 yam	I
-tsav	O
-ntau	O
-yam	O
 .	O
 
 
@@ -54,9 +51,6 @@ lwm	B
 leej	I
 lwm	I
 tug	I
-leej	O
-lwm	O
-tug	O
 ,	O
 dag	O
 txog	O
@@ -119,9 +113,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 thiab	O
 paub	O
 tab	O
@@ -146,9 +137,6 @@ lug	B
 nyaj	I
 lug	I
 kub	I
-nyaj	O
-lug	O
-kub	O
 tawm	O
 sis	O
 quas	O

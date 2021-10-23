@@ -128,9 +128,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 xwb	O
 .	O
 
@@ -181,9 +178,6 @@ luag	B
 noj	I
 luag	I
 haus	I
-noj	O
-luag	O
-haus	O
 lawm	O
 .	O
 
@@ -264,9 +258,6 @@ kam	B
 teb	I
 kam	I
 chaw	I
-teb	O
-kam	O
-chaw	O
 .	O
 
 
@@ -311,9 +302,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 rau	O
 yawg	O
 dab	O
@@ -569,9 +557,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 tsis	O
 khiav	O
 tawm	O
@@ -616,9 +601,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 tag	O
 ,	O
 mam	O

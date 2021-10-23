@@ -31,16 +31,10 @@ yus	B
 vaj	I
 yus	I
 tsev	I
-vaj	O
-yus	O
-tsev	O
 ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 kom	O
 mus	O
 saib	O
@@ -56,9 +50,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 rau	O
 yus	O
 nawb	O
@@ -339,9 +330,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 es	O
 tuaj	O
 nrog	O
@@ -605,9 +593,6 @@ yog	B
 phooj	I
 yog	I
 ywg	I
-phooj	O
-yog	O
-ywg	O
 ,	O
 yong	O
 neej	O

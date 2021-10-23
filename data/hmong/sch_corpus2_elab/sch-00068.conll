@@ -310,9 +310,6 @@ du	B
 mus	I
 du	I
 los	I
-mus	O
-du	O
-los	O
 kom	O
 tawg	O
 tas	O
@@ -1072,16 +1069,10 @@ cav	B
 mus	I
 cav	I
 los	I
-mus	O
-cav	O
-los	O
 hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 hais	O
 tias	O
 ,	O
@@ -1103,9 +1094,6 @@ muaj	B
 keeb	I
 muaj	I
 kwm	I
-keeb	O
-muaj	O
-kwm	O
 ces	O
 hmoob	O
 kav	O
@@ -1185,9 +1173,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 kawg	O
 kiag	O
 li	O
@@ -1324,9 +1309,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 .	O
 
 

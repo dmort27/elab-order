@@ -980,9 +980,6 @@ me	B
 tub	I
 me	I
 ntxhais	I
-tub	O
-me	O
-ntxhais	O
 ua	O
 yuav	O
 los	O
@@ -1728,9 +1725,6 @@ ncig	B
 vaj	I
 ncig	I
 tsev	I
-vaj	O
-ncig	O
-tsev	O
 mas	O
 tus	O
 no	O
@@ -3207,9 +3201,6 @@ tshum	B
 ub	I
 tshum	I
 nua	I
-ub	O
-tshum	O
-nua	O
 ua	O
 luaj	O
 le	O
@@ -3297,17 +3288,11 @@ tus	B
 ruam	I
 tus	I
 ntse	I
-ruam	O
-tus	O
-ntse	O
 ,	O
 tus	B
 laus	I
 tus	I
 hluas	I
-laus	O
-tus	O
-hluas	O
 los	O
 yeej	O
 ntshaw	O

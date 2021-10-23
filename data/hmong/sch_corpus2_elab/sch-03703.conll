@@ -601,9 +601,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 tag	O
 .	O
 
@@ -860,9 +857,6 @@ uas	B
 neej	I
 uas	I
 tsav	I
-neej	O
-uas	O
-tsav	O
 tas	O
 lis	O
 lawm	O
@@ -1246,9 +1240,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 ho	O
 mus	O
 ua	O
@@ -1292,9 +1283,6 @@ yuav	B
 noj	I
 yuav	I
 haus	I
-noj	O
-yuav	O
-haus	O
 los	O
 yim	O
 meem	O
@@ -1313,9 +1301,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 .	O
 
 
@@ -1436,9 +1421,6 @@ ua	B
 dlog	I
 ua	I
 dlig	I
-dlog	O
-ua	O
-dlig	O
 le	O
 yaav	O
 dlhau	O

@@ -1998,9 +1998,6 @@ ua	B
 txuj	I
 ua	I
 ci	I
-txuj	O
-ua	O
-ci	O
 dag	O
 es	O
 pej	O
@@ -2591,9 +2588,6 @@ tsis	B
 ncaj	I
 tsis	I
 ncees	I
-ncaj	O
-tsis	O
-ncees	O
 rau	O
 yus	O
 cov	O
@@ -2849,9 +2843,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 thiab	O
 muaj	O
 hlwb	O
@@ -3610,9 +3601,6 @@ noj	B
 siav	I
 noj	I
 zog	I
-siav	O
-noj	O
-zog	O
 nawb	O
 mog	O
 ,	O
@@ -4445,9 +4433,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 xwb	O
 .	O
 
@@ -4621,9 +4606,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 and	O
 muaj	O
 agreement	O
@@ -5223,9 +5205,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 

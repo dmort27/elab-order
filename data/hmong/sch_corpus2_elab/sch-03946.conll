@@ -186,9 +186,6 @@ tiam	B
 dab	I
 tiam	I
 qhua	I
-dab	O
-tiam	O
-qhua	O
 raws	O
 li	O
 peb	O
@@ -338,9 +335,6 @@ tham	B
 mab	I
 tham	I
 suav	I
-mab	O
-tham	O
-suav	O
 ces	O
 kuj	O
 kav	O
@@ -454,9 +448,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 sib	O
 haum	O
 xeeb	O
@@ -478,9 +469,6 @@ yam	B
 ub	I
 yam	I
 no	I
-ub	O
-yam	O
-no	O
 rau	O
 peb	O
 tsev	O

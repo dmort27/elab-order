@@ -1268,9 +1268,6 @@ hneev	B
 tes	I
 hneev	I
 taw	I
-tes	O
-hneev	O
-taw	O
 rau	O
 koj	O
 taug	O
@@ -4266,9 +4263,6 @@ siv	B
 nyiaj	I
 siv	I
 txiaj	I
-nyiaj	O
-siv	O
-txiaj	O
 mus	O
 ua	O
 si	O
@@ -4709,9 +4703,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 ...	O
 yog	O
 tseem	O

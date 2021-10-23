@@ -118,9 +118,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 muaj	O
 ntxhais	O
 yog	O
@@ -517,9 +514,6 @@ yam	B
 ub	I
 yam	I
 no	I
-ub	O
-yam	O
-no	O
 los	O
 keb	O
 li	O

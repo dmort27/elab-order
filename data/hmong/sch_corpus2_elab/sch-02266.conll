@@ -117,9 +117,6 @@ fim	B
 ntsej	I
 fim	I
 muag	I
-ntsej	O
-fim	O
-muag	O
 ,	O
 yuav	O
 zoo	O
@@ -388,9 +385,6 @@ fim	B
 ntsej	I
 fim	I
 muag	I
-ntsej	O
-fim	O
-muag	O
 ,	O
 yuav	O
 zoo	O
@@ -592,17 +586,11 @@ quav	B
 dej	I
 quav	I
 cawv	I
-dej	O
-quav	O
-cawv	O
 ,	O
 quav	B
 yeeb	I
 quav	I
 tshuaj	I
-yeeb	O
-quav	O
-tshuaj	O
 ces	O
 yog	O
 cov	O

@@ -152,16 +152,10 @@ nrog	B
 niam	I
 nrog	I
 txiv	I
-niam	O
-nrog	O
-txiv	O
 nrog	B
 kwv	I
 nrog	I
 tij	I
-kwv	O
-nrog	O
-tij	O
 nyob	O
 quj	O
 qab	O
@@ -208,9 +202,6 @@ lus	B
 xaiv	I
 lus	I
 cua	I
-xaiv	O
-lus	O
-cua	O
 heev	O
 ,	O
 qhov	O
@@ -424,9 +415,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 loj	O
 .	O
 
@@ -672,9 +660,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 tsis	O
 mloog	O
 lus	O
@@ -794,9 +779,6 @@ ua	B
 rwj	I
 ua	I
 aws	I
-rwj	O
-ua	O
-aws	O
 ncus	O
 tuag	O
 kus	O
@@ -958,16 +940,10 @@ nrog	B
 niam	I
 nrog	I
 txiv	I
-niam	O
-nrog	O
-txiv	O
 nrog	B
 kwv	I
 nrog	I
 tij	I
-kwv	O
-nrog	O
-tij	O
 nyob	O
 quj	O
 qab	O
@@ -1014,9 +990,6 @@ lus	B
 xaiv	I
 lus	I
 cua	I
-xaiv	O
-lus	O
-cua	O
 heev	O
 ,	O
 qhov	O
@@ -1228,9 +1201,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 loj	O
 .	O
 
@@ -1476,9 +1446,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 tsis	O
 mloog	O
 lus	O
@@ -1598,9 +1565,6 @@ ua	B
 rwj	I
 ua	I
 aws	I
-rwj	O
-ua	O
-aws	O
 ncus	O
 tuag	O
 kus	O

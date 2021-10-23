@@ -619,9 +619,6 @@ tso	B
 zis	I
 tso	I
 quav	I
-zis	O
-tso	O
-quav	O
 thaum	O
 kaj	O
 ntug	O
@@ -645,9 +642,6 @@ tso	B
 zis	I
 tso	I
 quav	I
-zis	O
-tso	O
-quav	O
 hauv	O
 tsev	O
 li	O
@@ -1232,9 +1226,6 @@ tua	B
 qaib	I
 tua	I
 npua	I
-qaib	O
-tua	O
-npua	O
 ev	O
 rov	O
 tom	O
@@ -1487,9 +1478,6 @@ hav	B
 nroj	I
 hav	I
 ntoo	I
-nroj	O
-hav	O
-ntoo	O
 ntxhov	O
 li	O
 cas	O
@@ -1592,9 +1580,6 @@ qw	B
 ntuj	I
 qw	I
 teb	I
-ntuj	O
-qw	O
-teb	O
 .	O
 
 
@@ -1867,9 +1852,6 @@ roob	B
 tauj	I
 roob	I
 nqeeb	I
-tauj	O
-roob	O
-nqeeb	O
 .	O
 
 
@@ -1889,9 +1871,6 @@ hav	B
 tauj	I
 hav	I
 nqeeb	I
-tauj	O
-hav	O
-nqeeb	O
 xwb	O
 ces	O
 ntshe	O
@@ -2049,9 +2028,6 @@ hav	B
 tauj	I
 hav	I
 nqeeb	I
-tauj	O
-hav	O
-nqeeb	O
 dhau	O
 li	O
 ntawd	O
@@ -2734,9 +2710,6 @@ mloog	B
 mus	I
 mloog	I
 los	I
-mus	O
-mloog	O
-los	O
 tau	O
 3-4	O
 hnub	O

@@ -91,9 +91,6 @@ tsis	B
 loj	I
 tsis	I
 siab	I
-loj	O
-tsis	O
-siab	O
 ,	O
 tab	O
 tom	O
@@ -326,9 +323,6 @@ tsis	B
 loj	I
 tsis	I
 me	I
-loj	O
-tsis	O
-me	O
 tabsis	O
 tab	O
 tom	O
@@ -1837,9 +1831,6 @@ zoo	B
 ntsej	I
 zoo	I
 muag	I
-ntsej	O
-zoo	O
-muag	O
 ,	O
 zoo	O
 cev	O

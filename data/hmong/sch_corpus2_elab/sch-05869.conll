@@ -358,9 +358,6 @@ nqa	B
 riam	I
 nqa	I
 phom	I
-riam	O
-nqa	O
-phom	O
 sawv	O
 tawm	O
 tsam	O
@@ -1149,9 +1146,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 yeej	O
 paub	O
 tias	O
@@ -1769,9 +1763,6 @@ ntsuag	B
 xyoob	I
 ntsuag	I
 ntoo	I
-xyoob	O
-ntsuag	O
-ntoo	O
 kws	O
 tseem	O
 nyav	O

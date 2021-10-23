@@ -242,9 +242,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 lawm	O
 ntag	O
 .	O
@@ -591,9 +588,6 @@ qhov	B
 quav	I
 qhov	I
 zis	I
-quav	O
-qhov	O
-zis	O
 xa	O
 mus	O
 rau	O
@@ -970,9 +964,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 tseem	O
 muab	O
 lawm	O

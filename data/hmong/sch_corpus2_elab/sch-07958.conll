@@ -152,9 +152,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 nyob	O
 LP	O
 thiab	O
@@ -527,9 +524,6 @@ lwm	B
 leej	I
 lwm	I
 tug	I
-leej	O
-lwm	O
-tug	O
 criticize	O
 qhov	O
 yus	O
@@ -710,9 +704,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 es	O
 yog	O
 li	O

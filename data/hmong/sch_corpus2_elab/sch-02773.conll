@@ -534,9 +534,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 heev	O
 lauv	O
 !	O
@@ -673,9 +670,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 taag	O
 lawm	O
 es	O
@@ -830,9 +824,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 lug	O
 xib	O
 ,	O
@@ -877,9 +868,6 @@ kev	B
 neej	I
 kev	I
 tsaav	I
-neej	O
-kev	O
-tsaav	O
 xib	O
 ,	O
 nwg	O
@@ -1080,9 +1068,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 tiag	O
 tiag	O
 mas	O
@@ -1359,9 +1344,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 li	O
 ,	O
 txawm	O
@@ -1501,9 +1483,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 txog	O
 6	O
 tus	O
@@ -2024,9 +2003,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 kom	O
 wb	O
 muaj	O
@@ -2038,9 +2014,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 xwb	O
 tiag	O
 mas	O
@@ -2767,9 +2740,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 li	O
 nawb	O
 .	O

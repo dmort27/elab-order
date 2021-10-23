@@ -139,9 +139,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 neeg	O
 li	O
 ntawd	O
@@ -154,9 +151,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 kom	O
 thiaj	O
 li	O
@@ -173,9 +167,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 tom	O
 tej	O
 ntug	O
@@ -215,9 +206,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 nev	O
 ?	O
 
@@ -803,9 +791,6 @@ ntsia	B
 mus	I
 ntsia	I
 los	I
-mus	O
-ntsia	O
-los	O
 ,	O
 peb	O
 cov	O
@@ -879,9 +864,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 hluav	O
 taws	O
@@ -1511,9 +1493,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ....	O
 gosh	O
 ,	O

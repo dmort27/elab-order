@@ -702,9 +702,6 @@ ua	B
 mab	I
 ua	I
 suav	I
-mab	O
-ua	O
-suav	O
 ,	O
 ua	O
 yiv	O
@@ -1032,16 +1029,10 @@ kev	B
 dab	I
 kev	I
 qhua	I
-dab	O
-kev	O
-qhua	O
 ntau	B
 yam	I
 ntau	I
 tsav	I
-yam	O
-ntau	O
-tsav	O
 POB	O
 TXHA	O
 khaws	O

@@ -168,9 +168,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 xwb	O
 tiam	O
 sis	O
@@ -188,9 +185,6 @@ tau	B
 teb	I
 tau	I
 chaw	I
-teb	O
-tau	O
-chaw	O
 yog	O
 tshwm	O
 sim	O
@@ -467,9 +461,6 @@ qhov	B
 riam	I
 qhov	I
 phom	I
-riam	O
-qhov	O
-phom	O
 ,	O
 yog	O
 nej	O

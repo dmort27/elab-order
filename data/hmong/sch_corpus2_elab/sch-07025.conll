@@ -93,9 +93,6 @@ hais	B
 plaub	I
 hais	I
 ntug	I
-plaub	O
-hais	O
-ntug	O
 .	O
 
 
@@ -172,9 +169,6 @@ tshwm	B
 ntsej	I
 tshwm	I
 muag	I
-ntsej	O
-tshwm	O
-muag	O
 kawg	O
 lawm	O
 tsuas	O

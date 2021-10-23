@@ -832,9 +832,6 @@ ib	B
 txhiab	I
 ib	I
 txhis	I
-txhiab	O
-ib	O
-txhis	O
 txawm	O
 thim	O
 los	O
@@ -1021,9 +1018,6 @@ tas	B
 hnub	I
 tas	I
 hmo	I
-hnub	O
-tas	O
-hmo	O
 mag	O
 tsis	O
 vij	O
@@ -1071,9 +1065,6 @@ paub	B
 ub	I
 paub	I
 no	I
-ub	O
-paub	O
-no	O
 meej	O
 lawm	O
 ...	O
@@ -1097,9 +1088,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 coj	O
 los	O
 sib	O

@@ -702,9 +702,6 @@ ib	B
 teb	I
 ib	I
 chaw	I
-teb	O
-ib	O
-chaw	O
 es	O
 zoo	O
 li	O
@@ -895,9 +892,6 @@ txhua	B
 hnub	I
 txhua	I
 hmo	I
-hnub	O
-txhua	O
-hmo	O
 li	O
 tiag	O
 thiab	O
@@ -1743,9 +1737,6 @@ txhua	B
 hnub	I
 txhua	I
 hmo	I
-hnub	O
-txhua	O
-hmo	O
 li	O
 tiag	O
 thiab	O

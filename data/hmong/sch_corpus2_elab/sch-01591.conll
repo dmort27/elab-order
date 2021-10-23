@@ -246,9 +246,6 @@ muaj	B
 ub	I
 muaj	I
 no	I
-ub	O
-muaj	O
-no	O
 tuaj	O
 lawm	O
 mad	O
@@ -1089,9 +1086,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 tseem	O
 ntshai	O
 nyob	O
@@ -2124,9 +2118,6 @@ txhua	B
 pab	I
 txhua	I
 pawg	I
-pab	O
-txhua	O
-pawg	O
 ua	O
 ke	O
 .	O

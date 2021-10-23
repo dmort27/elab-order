@@ -181,9 +181,6 @@ tuam	B
 meej	I
 tuam	I
 pem	I
-meej	O
-tuam	O
-pem	O
 li	O
 either	O
 nruab	O
@@ -805,9 +802,6 @@ ua	B
 nub	I
 ua	I
 mo	I
-nub	O
-ua	O
-mo	O
 txug	O
 .	O
 
@@ -954,9 +948,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 uas	O
 tau	O
 raug	O
@@ -1204,9 +1195,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 txog	O
 cov	O
 tseem	O

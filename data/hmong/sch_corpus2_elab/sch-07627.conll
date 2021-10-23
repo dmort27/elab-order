@@ -33,9 +33,6 @@ muaj	B
 vaaj	I
 muaj	I
 tsev	I
-vaaj	O
-muaj	O
-tsev	O
 ,	O
 muaj	O
 laj	O
@@ -559,9 +556,6 @@ kev	B
 txheeb	I
 kev	I
 ze	I
-txheeb	O
-kev	O
-ze	O
 .	O
 
 
@@ -1148,9 +1142,6 @@ npaum	B
 ub	I
 npaum	I
 nua	I
-ub	O
-npaum	O
-nua	O
 moog	O
 paab	O
 lawm	O
@@ -1957,9 +1948,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 xwb	O
 .	O
 
@@ -2188,9 +2176,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 lino	O
 mas	O
 tsi	O
@@ -2539,9 +2524,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ua	O
 communist	O
 nas	O
@@ -3349,9 +3331,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ua	O
 communist	O
 nas	O
@@ -4383,9 +4362,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 ,	O
 saib	O
 nws	O
@@ -4428,9 +4404,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 lawm	O
 ne	O
 .	O
@@ -4464,9 +4437,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 no	O
 nev	O
 .	O

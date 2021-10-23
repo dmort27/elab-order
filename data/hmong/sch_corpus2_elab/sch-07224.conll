@@ -1427,9 +1427,6 @@ hais	B
 plaub	I
 hais	I
 ntug	I
-plaub	O
-hais	O
-ntug	O
 rau	O
 tej	O
 neeg	O
@@ -1658,9 +1655,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 mus	O
 nrog	O
 daws	O
@@ -1696,9 +1690,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 zog	O
 los	O
 qhwv	O
@@ -1833,9 +1824,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 nad	O
 .	O
 
@@ -1943,9 +1931,6 @@ txog	B
 caij	I
 txog	I
 nyoog	I
-caij	O
-txog	O
-nyoog	O
 rau	O
 koj	O
 los	O
@@ -1959,9 +1944,6 @@ raws	B
 kab	I
 raws	I
 kev	I
-kab	O
-raws	O
-kev	O
 lawm	O
 ntag	O
 laid	O
@@ -3047,9 +3029,6 @@ yoo	B
 tshaib	I
 yoo	I
 nqhis	I
-tshaib	O
-yoo	O
-nqhis	O
 rau	O
 Thaib	O
 teb	O
@@ -3584,9 +3563,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 lawm	O
 ,	O
 txawm	O

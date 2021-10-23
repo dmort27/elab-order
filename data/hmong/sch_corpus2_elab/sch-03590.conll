@@ -781,9 +781,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 los	O
 vim	O
 yog	O
@@ -852,9 +849,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 pab	O
 cov	O
 Hmoob	O
@@ -1110,9 +1104,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ?	O
 
 
@@ -1131,9 +1122,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 ces	O
 Hmoob	O
@@ -1331,9 +1319,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -2232,9 +2217,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ,	O
 nyob	O
 rau	O
@@ -2342,9 +2324,6 @@ kwv	B
 riam	I
 kwv	I
 phom	I
-riam	O
-kwv	O
-phom	O
 nkaum	O
 hav	O
 zoo	O
@@ -3007,9 +2986,6 @@ raug	B
 ploj	I
 raug	I
 tuag	I
-ploj	O
-raug	O
-tuag	O
 ces	O
 peb	O
 yuav	O
@@ -3303,9 +3279,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 .	O
 
 
@@ -3799,9 +3772,6 @@ luag	B
 teb	I
 luag	I
 chaw	I
-teb	O
-luag	O
-chaw	O
 ,	O
 yus	O
 tsis	O
@@ -4636,9 +4606,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 lawm	O
 .	O
 

@@ -159,9 +159,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 hauv	O
 zej	O
 zog	O
@@ -593,9 +590,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 ntau	O
 zuj	O
 zus	O
@@ -1079,9 +1073,6 @@ ua	B
 plees	I
 ua	I
 yi	I
-plees	O
-ua	O
-yi	O
 yog	O
 thaum	O
 hnub	O
@@ -1389,9 +1380,6 @@ qub	B
 zaub	I
 qub	I
 mov	I
-zaub	O
-qub	O
-mov	O
 .	O
 
 
@@ -1456,17 +1444,11 @@ kev	B
 plees	I
 kev	I
 yi	I
-plees	O
-kev	O
-yi	O
 thiab	O
 ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 xav	O
 tias	O
 yuav	O

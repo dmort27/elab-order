@@ -89,9 +89,6 @@ tsis	B
 loj	I
 tsis	I
 siab	I
-loj	O
-tsis	O
-siab	O
 kav	O
 taw	O
 dub	O
@@ -101,9 +98,6 @@ tsis	B
 siab	I
 tsis	I
 qis	I
-siab	O
-tsis	O
-qis	O
 kav	O
 ceg	O
 txaij	O
@@ -746,9 +740,6 @@ cua	B
 daj	I
 cua	I
 dub	I
-daj	O
-cua	O
-dub	O
 loj	O
 npaum	O
 li	O

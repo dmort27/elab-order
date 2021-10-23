@@ -144,9 +144,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 ntxiv	O
 lawm	O
 .	O
@@ -370,9 +367,6 @@ kaug	B
 ub	I
 kaug	I
 no	I
-ub	O
-kaug	O
-no	O
 ua	O
 tug	O
 funny	O
@@ -1310,9 +1304,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 no	O
 ...	O
 txawm	O

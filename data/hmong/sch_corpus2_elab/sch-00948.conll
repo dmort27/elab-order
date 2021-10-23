@@ -183,9 +183,6 @@ sib	B
 ntxub	I
 sib	I
 cais	I
-ntxub	O
-sib	O
-cais	O
 tiag	O
 tiag	O
 li	O
@@ -512,9 +509,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 ua	O
 tug	O
 quas	O

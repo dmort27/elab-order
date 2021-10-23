@@ -25,9 +25,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 cas	O
 yuav	O
 nraum	O
@@ -270,9 +267,6 @@ yaam	B
 ub	I
 yaam	I
 nuav	I
-ub	O
-yaam	O
-nuav	O
 .....	O
 tsaam	O
 nuav	O
@@ -2063,9 +2057,6 @@ ua	B
 nruj	I
 ua	I
 tsiv	I
-nruj	O
-ua	O
-tsiv	O
 li	O
 ne	O
 ?	O
@@ -2690,9 +2681,6 @@ kuv	B
 roj	I
 kuv	I
 ntshaav	I
-roj	O
-kuv	O
-ntshaav	O
 .	O
 
 
@@ -3314,9 +3302,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 lawm	O
 .	O
 
@@ -3991,9 +3976,6 @@ hais	B
 ruaj	I
 hais	I
 khov	I
-ruaj	O
-hais	O
-khov	O
 hais	O
 tias	O
 yuav	O
@@ -4168,9 +4150,6 @@ muaj	B
 suab	I
 muaj	I
 npe	I
-suab	O
-muaj	O
-npe	O
 ,	O
 tabsis	O
 kuv	O
@@ -4181,9 +4160,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 uas	O
 tsis	O
 nrov	O
@@ -4588,9 +4564,6 @@ hais	B
 ruaj	I
 hais	I
 khov	I
-ruaj	O
-hais	O
-khov	O
 hais	O
 tias	O
 yuav	O
@@ -4765,9 +4738,6 @@ muaj	B
 suab	I
 muaj	I
 npe	I
-suab	O
-muaj	O
-npe	O
 ,	O
 tabsis	O
 kuv	O
@@ -4778,9 +4748,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 uas	O
 tsis	O
 nrov	O

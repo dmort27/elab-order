@@ -1148,9 +1148,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 li	O
 no	O
 mas	O
@@ -1236,9 +1233,6 @@ ua	B
 ciaj	I
 ua	I
 tuag	I
-ciaj	O
-ua	O
-tuag	O
 li	O
 no	O
 .	O
@@ -1319,9 +1313,6 @@ ua	B
 ciaj	I
 ua	I
 tuag	I
-ciaj	O
-ua	O
-tuag	O
 zoo	O
 li	O
 no	O
@@ -1360,9 +1351,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 los	O
 sib	O
 twb	O
@@ -1974,9 +1962,6 @@ pub	B
 mov	I
 pub	I
 mi	I
-mov	O
-pub	O
-mi	O
 rau	O
 pab	O
 niag	O

@@ -318,9 +318,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 mus	O
 pab	O
 rau	O
@@ -504,9 +501,6 @@ tso	B
 riam	I
 tso	I
 phom	I
-riam	O
-tso	O
-phom	O
 tseg	O
 ov	O
 .	O
@@ -579,9 +573,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 mus	O
 pab	O
 rau	O
@@ -765,9 +756,6 @@ tso	B
 riam	I
 tso	I
 phom	I
-riam	O
-tso	O
-phom	O
 tseg	O
 ov	O
 .	O
@@ -880,9 +868,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 thiab	O
 kev	O
 tswj	O
@@ -1607,9 +1592,6 @@ hauv	B
 paus	I
 hauv	I
 ntsis	I
-paus	O
-hauv	O
-ntsis	O
 ,	O
 es	O
 yuav	O
@@ -1712,9 +1694,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 tsaj	O
 Dr	O
 .	O

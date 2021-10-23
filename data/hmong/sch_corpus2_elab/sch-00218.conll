@@ -685,9 +685,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 es	O
 txhob	O
 zov	O
@@ -820,9 +817,6 @@ tes	B
 qav	I
 tes	I
 num	I
-qav	O
-tes	O
-num	O
 rau	O
 nws	O
 tsev	O
@@ -1209,9 +1203,6 @@ kev	B
 lag	I
 kev	I
 luam	I
-lag	O
-kev	O
-luam	O
 tawg	O
 paj	O
 tawg	O
@@ -1282,9 +1273,6 @@ kev	B
 zej	I
 kev	I
 zos	I
-zej	O
-kev	O
-zos	O
 Hmoob	O
 mas	O
 ib	O
@@ -1481,9 +1469,6 @@ mus	B
 liaj	I
 mus	I
 teb	I
-liaj	O
-mus	O
-teb	O
 ,	O
 tsis	O
 hais	O
@@ -1711,9 +1696,6 @@ mus	B
 liaj	I
 mus	I
 teb	I
-liaj	O
-mus	O
-teb	O
 mas	O
 av	O
 nyam	O
@@ -1879,9 +1861,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 ,	O
 es	O
 thiaj	O
@@ -1944,9 +1923,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 .	O
 
 
@@ -1966,9 +1942,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 thaum	O
 kawg	O
 ib	O
@@ -2021,9 +1994,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 yeej	O
 ib	O
 txwm	O
@@ -2557,9 +2527,6 @@ txog	B
 dej	I
 txog	I
 cawv	I
-dej	O
-txog	O
-cawv	O
 thiaj	O
 lom	O
 zem	O

@@ -57,9 +57,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 tsam	O
 muaj	O
 mob	O
@@ -508,9 +505,6 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 ,	O
 dab	O
 npuas	O
@@ -1538,9 +1532,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 tsam	O
 muaj	O
 mob	O
@@ -1945,9 +1936,6 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 ,	O
 dab	O
 npuas	O
@@ -3516,9 +3504,6 @@ yus	B
 zej	I
 yus	I
 zos	I
-zej	O
-yus	O
-zos	O
 lawm	O
 tiag	O
 nad	O
@@ -3741,9 +3726,6 @@ lawv	B
 vaj	I
 lawv	I
 tsev	I
-vaj	O
-lawv	O
-tsev	O
 .	O
 
 
@@ -3767,9 +3749,6 @@ ua	B
 txhij	I
 ua	I
 txhua	I
-txhij	O
-ua	O
-txhua	O
 li	O
 lawm	O
 ,	O

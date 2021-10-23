@@ -571,9 +571,6 @@ ua	B
 vaj	I
 ua	I
 tsev	I
-vaj	O
-ua	O
-tsev	O
 pub	O
 rau	O
 cov	O
@@ -1417,9 +1414,6 @@ ua	B
 phooj	I
 ua	I
 ywg	I
-phooj	O
-ua	O
-ywg	O
 dua	O
 .	O
 
@@ -1460,9 +1454,6 @@ tsi	B
 tag	I
 tsi	I
 kawg	I
-tag	O
-tsi	O
-kawg	O
 .	O
 
 
@@ -2586,9 +2577,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 kom	O
 khaws	O
 tseg	O
@@ -2817,9 +2805,6 @@ muaj	B
 tseeb	I
 muaj	I
 tsum	I
-tseeb	O
-muaj	O
-tsum	O
 li	O
 koj	O
 tus	O
@@ -2895,9 +2880,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 nawb	O
 .	O
 
@@ -3032,9 +3014,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 zoo	O
 ,	O
 lub	O
@@ -3129,9 +3108,6 @@ nai	B
 phoo	I
 nai	I
 pha	I
-phoo	O
-nai	O
-pha	O
 tag	O
 li	O
 lawm	O

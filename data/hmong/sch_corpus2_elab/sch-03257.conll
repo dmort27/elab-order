@@ -222,9 +222,6 @@ vwm	B
 loj	I
 vwm	I
 leg	I
-loj	O
-vwm	O
-leg	O
 ...	O
 kuv	O
 los	O
@@ -728,9 +725,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 ned	O
 .......	O
 yus	O
@@ -1289,9 +1283,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 lawd	O
 ..	O
 peb	O
@@ -1457,9 +1448,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 (	O
 in	O
 this	O
@@ -1573,9 +1561,6 @@ vwm	B
 loj	I
 vwm	I
 leg	I
-loj	O
-vwm	O
-leg	O
 ''	O
 as	O
 an	O
@@ -1591,9 +1576,6 @@ vwm	B
 loj	I
 vwm	I
 leg	I
-loj	O
-vwm	O
-leg	O
 ...	O
 temsis	O
 peb	O

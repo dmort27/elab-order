@@ -164,9 +164,6 @@ dim	B
 dawb	I
 dim	I
 do	I
-dawb	O
-dim	O
-do	O
 lawm	O
 ,	O
 es	O

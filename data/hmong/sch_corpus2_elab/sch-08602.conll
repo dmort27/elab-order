@@ -205,9 +205,6 @@ nyias	B
 pab	I
 nyias	I
 pawg	I
-pab	O
-nyias	O
-pawg	O
 .	O
 
 
@@ -371,9 +368,6 @@ phem	B
 ub	I
 phem	I
 no	I
-ub	O
-phem	O
-no	O
 .	O
 
 
@@ -924,9 +918,6 @@ me	B
 rwj	I
 me	I
 aws	I
-rwj	O
-me	O
-aws	O
 no	O
 kom	O
 paim	O
@@ -1043,9 +1034,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 thiab	O
 paub	O
@@ -1106,9 +1094,6 @@ lub	B
 rwj	I
 lub	I
 aws	I
-rwj	O
-lub	O
-aws	O
 ncus	O
 li	O
 no	O
@@ -2154,9 +2139,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 sib	O
 ceg	O
 sib	O
@@ -2183,9 +2165,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 lawm	O
 xwb	O
 .	O
@@ -2344,9 +2323,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 nawb	O
 .....	O
 LOL	O
@@ -2438,9 +2414,6 @@ tau	B
 tshoob	I
 tau	I
 kos	I
-tshoob	O
-tau	O
-kos	O
 rau	O
 kuv	O
 tub	O

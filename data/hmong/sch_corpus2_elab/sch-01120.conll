@@ -747,9 +747,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 ,	O
 yeej	O
 tsis	O
@@ -792,9 +789,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 li	O
 .	O
 
@@ -849,9 +843,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 ces	O
 lawv	O
 los	O
@@ -862,9 +853,6 @@ yog	B
 nom	I
 yog	I
 tswv	I
-nom	O
-yog	O
-tswv	O
 muaj	O
 neeg	O
 fwm	O
@@ -883,9 +871,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 lawv	O
 ua	O
 mas	O
@@ -1416,9 +1401,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 vim	O
 hais	O
 tias	O
@@ -1444,9 +1426,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 ,	O
 yug	O
 tau	O
@@ -1608,9 +1587,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 thiab	O
 ib	O
 HAIV	O
@@ -1645,9 +1621,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 yav	O
 dhau	O
 los	O
@@ -2848,9 +2821,6 @@ sib	B
 txhawb	I
 sib	I
 pab	I
-txhawb	O
-sib	O
-pab	O
 ,	O
 thaum	O
 ho	O
@@ -3568,9 +3538,6 @@ sib	B
 txhawb	I
 sib	I
 pab	I
-txhawb	O
-sib	O
-pab	O
 ,	O
 thaum	O
 ho	O
@@ -4394,9 +4361,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ,	O
 tsis	O
 zoo	O
@@ -4542,9 +4506,6 @@ raug	B
 kev	I
 raug	I
 cai	I
-kev	O
-raug	O
-cai	O
 ...	O
 tej	O
 menyam	O

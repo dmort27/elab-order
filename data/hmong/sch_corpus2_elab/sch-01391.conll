@@ -747,9 +747,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 ua	O
 zaj	O
@@ -1157,9 +1154,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 vim	O
 peb	O
 Hmoob	O
@@ -1196,9 +1190,6 @@ txhua	B
 pab	I
 txhua	I
 pawg	I
-pab	O
-txhua	O
-pawg	O
 ,	O
 peb	O
 tsis	O
@@ -1881,9 +1872,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hais	O
 tias	O
 yog	O
@@ -2127,9 +2115,6 @@ keb	B
 ub	I
 keb	I
 no	I
-ub	O
-keb	O
-no	O
 li	O
 .	O
 

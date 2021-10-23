@@ -35,9 +35,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 nyob	O
 hau	O
 SCH	O
@@ -1719,9 +1716,6 @@ lug	B
 toj	I
 lug	I
 pes	I
-toj	O
-lug	O
-pes	O
 lawm	O
 ,	O
 twb	O

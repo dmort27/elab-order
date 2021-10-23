@@ -223,9 +223,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 ''	O
 no	O
 es	O
@@ -250,9 +247,6 @@ tsis	B
 txawj	I
 tsis	I
 ntse	I
-txawj	O
-tsis	O
-ntse	O
 los	O
 kom	O
 ib	O
@@ -272,9 +266,6 @@ cuab	B
 dab	I
 cuab	I
 tsov	I
-dab	O
-cuab	O
-tsov	O
 ''	O
 ,	O
 muab	O
@@ -676,9 +667,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 ''	O
 no	O
 es	O
@@ -710,9 +698,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 li	O
 nej	O
 cov	O

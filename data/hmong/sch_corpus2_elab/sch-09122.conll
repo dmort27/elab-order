@@ -265,9 +265,6 @@ fwm	B
 niam	I
 fwm	I
 txiv	I
-niam	O
-fwm	O
-txiv	O
 thiab	O
 fwm	O
 nom	O
@@ -586,9 +583,6 @@ tas	B
 zaj	I
 tas	I
 zog	I
-zaj	O
-tas	O
-zog	O
 kom	O
 cov	O
 Hmoob	O
@@ -597,17 +591,11 @@ raug	B
 cuab	I
 raug	I
 khi	I
-cuab	O
-raug	O
-khi	O
 ,	O
 raug	B
 ploj	I
 raug	I
 tuag	I
-ploj	O
-raug	O
-tuag	O
 ,	O
 ziag	O
 no	O
@@ -1364,9 +1352,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 mas	O
 leej	O
 twg	O

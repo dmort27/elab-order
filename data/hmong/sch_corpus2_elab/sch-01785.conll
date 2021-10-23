@@ -26,9 +26,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 xwb	O
 na	O
 .	O
@@ -567,9 +564,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 .	O
 
 
@@ -580,9 +574,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 ,	O
 lawv	O
 lubsiab	O
@@ -750,9 +741,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 tsis	O
 has	O
 kev	O

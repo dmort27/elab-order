@@ -513,9 +513,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 ,	O
 yus	O
 yog	O
@@ -700,9 +697,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 ,	O
 mus	O
 laj	O
@@ -716,9 +710,6 @@ muaj	B
 poj	I
 muaj	I
 sev	I
-poj	O
-muaj	O
-sev	O
 .	O
 
 
@@ -752,9 +743,6 @@ tim	B
 vaj	I
 tim	I
 tsev	I
-vaj	O
-tim	O
-tsev	O
 .	O
 
 

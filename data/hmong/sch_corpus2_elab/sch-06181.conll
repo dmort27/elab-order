@@ -50,9 +50,6 @@ ua	B
 mus	I
 ua	I
 los	I
-mus	O
-ua	O
-los	O
 qho	O
 tus	O
 cia	O
@@ -289,9 +286,6 @@ kev	B
 lis	I
 kev	I
 cai	I
-lis	O
-kev	O
-cai	O
 .	O
 
 
@@ -707,9 +701,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 ntev	O
 loo	O
 hais	O
@@ -938,9 +929,6 @@ zuag	B
 ub	I
 zuag	I
 no	I
-ub	O
-zuag	O
-no	O
 xwb	O
 .	O
 

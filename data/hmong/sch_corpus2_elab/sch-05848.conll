@@ -531,9 +531,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 tsam	O
 luag	O
 xuas	O
@@ -773,9 +770,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 ua	O
 rau	O
 kuv	O
@@ -817,9 +811,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 ua	O
 rau	O
 kuv	O
@@ -1413,9 +1404,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 hais	O
 los	O
 ntshe	O

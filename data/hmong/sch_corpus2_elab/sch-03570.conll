@@ -236,9 +236,6 @@ yuav	B
 nyiaj	I
 yuav	I
 txiaj	I
-nyiaj	O
-yuav	O
-txiaj	O
 yeej	O
 yuav	O
 thiab	O
@@ -293,9 +290,6 @@ thov	B
 noj	I
 thov	I
 haus	I
-noj	O
-thov	O
-haus	O
 xwb	O
 hos	O
 hais	O
@@ -690,9 +684,6 @@ qhov	B
 cub	I
 qhov	I
 txus	I
-cub	O
-qhov	O
-txus	O
 ..	O
 xim	O
 kaab	O
@@ -734,9 +725,6 @@ nyag	B
 nam	I
 nyag	I
 txiv	I
-nam	O
-nyag	O
-txiv	O
 ...	O
 even	O
 if	O
@@ -1305,18 +1293,12 @@ sib	B
 khib	I
 sib	I
 tsum	I
-khib	O
-sib	O
-tsum	O
 ,	O
 vim	O
 peb	B
 nam	I
 peb	I
 txiv	I
-nam	O
-peb	O
-txiv	O
 peb	O
 pujkoob	O
 yawmkoob	O
@@ -1863,9 +1845,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 xwb	O
 .	O
 
@@ -2310,9 +2289,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 ,	O
 twb	O
 tsi	O

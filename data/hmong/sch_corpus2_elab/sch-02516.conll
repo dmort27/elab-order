@@ -266,9 +266,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 ,	O
 thiab	O
 mus	O
@@ -276,9 +273,6 @@ ua	B
 vaj	I
 ua	I
 tsev	I
-vaj	O
-ua	O
-tsev	O
 pub	O
 neeg	O
 nyob	O
@@ -632,9 +626,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 .	O
 
 
@@ -916,9 +907,6 @@ hmoob	B
 teej	I
 hmoob	I
 tug	I
-teej	O
-hmoob	O
-tug	O
 nawb	O
 .	O
 
@@ -968,9 +956,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 mas	O
 foom	O
 li	O

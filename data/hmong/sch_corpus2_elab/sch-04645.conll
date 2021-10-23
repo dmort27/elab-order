@@ -393,9 +393,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 lawm	O
 peb	O
 yeej	O
@@ -565,9 +562,6 @@ yas	B
 kev	I
 yas	I
 ncua	I
-kev	O
-yas	O
-ncua	O
 es	O
 tsis	O
 tau	O
@@ -928,9 +922,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 hnub	O
 tim	O
 li	O
@@ -949,9 +940,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 mus	O
 nrog	O
 neb	O
@@ -992,9 +980,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 lawm	O
 thiab	O
 ......	O
@@ -1190,9 +1175,6 @@ luag	B
 teb	I
 luag	I
 chaw	I
-teb	O
-luag	O
-chaw	O
 xwb	O
 ......	O
 ua	O

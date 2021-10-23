@@ -386,9 +386,6 @@ nws	B
 noj	I
 nws	I
 haus	I
-noj	O
-nws	O
-haus	O
 xwb	O
 nawb	O
 .	O
@@ -2241,9 +2238,6 @@ ua	B
 nam	I
 ua	I
 txiv	I
-nam	O
-ua	O
-txiv	O
 los	O
 has	O
 kuas	O
@@ -2394,9 +2388,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 ,	O
 yeej	O
 yog	O
@@ -2553,17 +2544,11 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 ,	O
 muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 (	O
 properties	O
 )	O
@@ -3224,9 +3209,6 @@ muaj	B
 plaub	I
 muaj	I
 ntug	I
-plaub	O
-muaj	O
-ntug	O
 .	O
 
 

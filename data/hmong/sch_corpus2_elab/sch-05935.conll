@@ -285,9 +285,6 @@ muaj	B
 cog	I
 muaj	I
 ceg	I
-cog	O
-muaj	O
-ceg	O
 tus	O
 tsis	O
 txawj	O
@@ -758,9 +755,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 peb	O
 pog	O
 peb	O
@@ -839,9 +833,6 @@ txiv	B
 neeb	I
 txiv	I
 yaig	I
-neeb	O
-txiv	O
-yaig	O
 pheej	O
 nqee	O
 tus	O
@@ -894,9 +885,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 2	O
 3	O
 hnub	O
@@ -957,9 +945,6 @@ nqee	B
 ntsuj	I
 nqee	I
 hlauv	I
-ntsuj	O
-nqee	O
-hlauv	O
 ntxiv	O
 lawm	O
 siv	O
@@ -969,9 +954,6 @@ plig	B
 ntsuj	I
 plig	I
 hlauv	I
-ntsuj	O
-plig	O
-hlauv	O
 xwb	O
 thiaj	O
 yog	O
@@ -1507,9 +1489,6 @@ ntsuj	B
 duab	I
 ntsuj	I
 hlaus	I
-duab	O
-ntsuj	O
-hlaus	O
 los	O
 txij	O
 los	O

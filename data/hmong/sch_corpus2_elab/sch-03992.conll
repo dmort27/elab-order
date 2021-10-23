@@ -975,9 +975,6 @@ npaum	B
 ub	I
 npaum	I
 nua	I
-ub	O
-npaum	O
-nua	O
 hastas	O
 mej	O
 nim	O
@@ -1080,9 +1077,6 @@ huv	B
 vaaj	I
 huv	I
 tsev	I
-vaaj	O
-huv	O
-tsev	O
 los	O
 yog	O
 saab	O
@@ -2178,9 +2172,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 xwb	O
 .	O
 

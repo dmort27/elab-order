@@ -1361,9 +1361,6 @@ ntawv	B
 noj	I
 ntawv	I
 haus	I
-noj	O
-ntawv	O
-haus	O
 tag	O
 es	O
 nws	O
@@ -1862,9 +1859,6 @@ tua	B
 nyuj	I
 tua	I
 npua	I
-nyuj	O
-tua	O
-npua	O
 paub	O
 .	O
 
@@ -2367,9 +2361,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 pheej	O
 ua	O
 li	O
@@ -2387,9 +2378,6 @@ raug	B
 ntsej	I
 raug	I
 muag	I
-ntsej	O
-raug	O
-muag	O
 ,	O
 thaum	O
 ua	O

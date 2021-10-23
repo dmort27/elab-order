@@ -122,9 +122,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 thiab	O
 xwb	O
 ov	O
@@ -370,9 +367,6 @@ ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 los	O
 yeej	O
 tau	O

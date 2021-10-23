@@ -215,9 +215,6 @@ sis	B
 hlub	I
 sis	I
 pab	I
-hlub	O
-sis	O
-pab	O
 ces	O
 tsua	O
 zoo	O
@@ -659,9 +656,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ces	O
 cov	O
 yuav	O
@@ -1283,9 +1277,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 los	O
 thiab	O
 noj	O
@@ -1328,9 +1319,6 @@ nws	B
 pab	I
 nws	I
 pawg	I
-pab	O
-nws	O
-pawg	O
 lawm	O
 ces	O
 tuag	O
@@ -1407,9 +1395,6 @@ muaj	B
 pab	I
 muaj	I
 pawg	I
-pab	O
-muaj	O
-pawg	O
 nawb	O
 mog	O
 .	O
@@ -1660,9 +1645,6 @@ muag	B
 yeeb	I
 muag	I
 tshuaj	I
-yeeb	O
-muag	O
-tshuaj	O
 tau	O
 nyiaj	O
 thiab	O
@@ -1670,9 +1652,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 los	O
 lawm	O
 .	O

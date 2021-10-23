@@ -236,9 +236,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 Hmoob	O
 nyob	O
 tas	O
@@ -421,9 +418,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 mad	O
 tam	O
 sim	O

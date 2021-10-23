@@ -132,9 +132,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 nyob	O
 rau	O
 Nplog	O
@@ -206,9 +203,6 @@ ua	B
 laj	I
 ua	I
 kam	I
-laj	O
-ua	O
-kam	O
 nrog	O
 tseem	O
 fwv	O
@@ -231,9 +225,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 kom	O
 txaus	O
 txaus	O
@@ -243,9 +234,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 lawm	O
 .	O
 
@@ -277,9 +265,6 @@ muaj	B
 liaj	I
 muaj	I
 teb	I
-liaj	O
-muaj	O
-teb	O
 ntau	O
 ces	O
 yus	O
@@ -294,9 +279,6 @@ yus	B
 pog	I
 yus	I
 yawg	I
-pog	O
-yus	O
-yawg	O
 ,	O
 muaj	O
 tsawg	O
@@ -314,9 +296,6 @@ yus	B
 poj	I
 yus	I
 yawm	I
-poj	O
-yus	O
-yawm	O
 tsis	O
 muaj	O
 txaus	O
@@ -325,9 +304,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ces	O
 tseem	O
 fwv	O
@@ -344,9 +320,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ntag	O
 .	O
 
@@ -412,9 +385,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 rau	O
 los	O
 luag	O
@@ -469,9 +439,6 @@ ua	B
 qoob	I
 ua	I
 loo	I
-qoob	O
-ua	O
-loo	O
 rau	O
 ntawd	O
 ntxiv	O
@@ -533,9 +500,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 no	O
 luag	O
 puas	O
@@ -888,9 +852,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 xwb	O
 ,	O
 ntev	O

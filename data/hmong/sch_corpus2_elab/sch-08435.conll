@@ -313,9 +313,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 (	O
 look	O
 physically	O
@@ -343,9 +340,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 dua	O
 peb	O
 Hmoob	O
@@ -633,9 +627,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 los	O
 peb	O
 tsis	O
@@ -895,9 +886,6 @@ uas	B
 noj	I
 uas	I
 haus	I
-noj	O
-uas	O
-haus	O
 every	O
 weekend	O
 .	O
@@ -1982,9 +1970,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 zov	O
 koj	O
 cov	O
@@ -1997,9 +1982,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 es	O
 koj	O
 tau	O
@@ -2008,9 +1990,6 @@ mus	B
 ub	I
 mus	I
 no	I
-ub	O
-mus	O
-no	O
 xwb	O
 .	O
 
@@ -2070,9 +2049,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 tag	O
 li	O
 xwb	O
@@ -2197,9 +2173,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 zov	O
 koj	O
 cov	O
@@ -2236,9 +2209,6 @@ mus	B
 noj	I
 mus	I
 haus	I
-noj	O
-mus	O
-haus	O
 lawm	O
 thiab	O
 ....	O
@@ -2273,9 +2243,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 kom	O
 txau	O
 txaus	O
@@ -2302,9 +2269,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 kom	O
 ntev	O
 tshaj	O
@@ -2324,16 +2288,10 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 ua	O
 lawv	O
 pab	O
@@ -2356,9 +2314,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 thiab	O
 os	O
 mog	O
@@ -2726,9 +2681,6 @@ noj	B
 zaub	I
 noj	I
 mov	I
-zaub	O
-noj	O
-mov	O
 .	O
 
 

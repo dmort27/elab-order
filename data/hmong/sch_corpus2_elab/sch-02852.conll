@@ -110,9 +110,6 @@ kev	B
 lis	I
 kev	I
 cai	I
-lis	O
-kev	O
-cai	O
 ho	O
 zoo	O
 li	O
@@ -895,9 +892,6 @@ kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 &	O
 kev	O
 lom	O
@@ -936,9 +930,6 @@ ntshaw	B
 teb	I
 ntshaw	I
 chaw	I
-teb	O
-ntshaw	O
-chaw	O
 thiaj	O
 ntsw	O
 siab	O

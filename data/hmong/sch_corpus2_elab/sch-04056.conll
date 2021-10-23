@@ -1232,9 +1232,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 xav	O
 li	O
 tib	O
@@ -1918,9 +1915,6 @@ tseem	B
 kev	I
 tseem	I
 cai	I
-kev	O
-tseem	O
-cai	O
 lawm	O
 mav	O
 .	O

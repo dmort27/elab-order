@@ -555,9 +555,6 @@ tsis	B
 tag	I
 tsis	I
 kawg	I
-tag	O
-tsis	O
-kawg	O
 .	O
 
 
@@ -679,9 +676,6 @@ lus	B
 phem	I
 lus	I
 qias	I
-phem	O
-lus	O
-qias	O
 .	O
 
 
@@ -690,9 +684,6 @@ quav	B
 yeeb	I
 quav	I
 tshuaj	I
-yeeb	O
-quav	O
-tshuaj	O
 ,	O
 twv	O
 txiaj	O
@@ -1476,17 +1467,11 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 ,	O
 yus	B
 poj	I
 yus	I
 yawm	I
-poj	O
-yus	O
-yawm	O
 thiab	O
 tswvntuj	O
 .	O
@@ -2109,9 +2094,6 @@ ua	B
 phab	I
 ua	I
 pheev	I
-phab	O
-ua	O
-pheev	O
 los	O
 yus	O
 tsuas	O

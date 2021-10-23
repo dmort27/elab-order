@@ -69,9 +69,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 lwm	O
 yam	O
 sawv	O
@@ -403,9 +400,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 lwm	O
 yam	O
 sawv	O
@@ -783,17 +777,11 @@ vim	B
 ub	I
 vim	I
 no	I
-ub	O
-vim	O
-no	O
 ,	O
 vim	B
 neej	I
 vim	I
 tsav	I
-neej	O
-vim	O
-tsav	O
 ,	O
 vim	O
 kab	O
@@ -806,18 +794,12 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 ,	O
 vim	O
 kev	B
 tshoob	I
 kev	I
 kos	I
-tshoob	O
-kev	O
-kos	O
 ,	O
 vim	O
 dab	O
@@ -840,9 +822,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 .	O
 
 
@@ -855,9 +834,6 @@ txhua	B
 tsav	I
 txhua	I
 yam	I
-tsav	O
-txhua	O
-yam	O
 vim	O
 los	O
 sib	O
@@ -995,9 +971,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 lwm	O
 yam	O
 sawv	O
@@ -1290,9 +1263,6 @@ yog	B
 niam	I
 yog	I
 txiv	I
-niam	O
-yog	O
-txiv	O
 no	O
 yus	O
 ho	O
@@ -1575,9 +1545,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 to	O
 taub	O
 hais	O
@@ -1644,9 +1611,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 es	O
 muab	O
 yus	O
@@ -1697,9 +1661,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 mus	O
 tag	O
 nws	O
@@ -2075,9 +2036,6 @@ txog	B
 dej	I
 txog	I
 cawv	I
-dej	O
-txog	O
-cawv	O
 nawb	O
 ,	O
 tiam	O
@@ -2209,9 +2167,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 lwm	O
 yam	O
 sawv	O
@@ -2504,9 +2459,6 @@ yog	B
 niam	I
 yog	I
 txiv	I
-niam	O
-yog	O
-txiv	O
 no	O
 yus	O
 ho	O
@@ -2789,9 +2741,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 to	O
 taub	O
 hais	O
@@ -2858,9 +2807,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 es	O
 muab	O
 yus	O
@@ -2911,9 +2857,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 mus	O
 tag	O
 nws	O
@@ -2977,9 +2920,6 @@ txog	B
 dej	I
 txog	I
 cawv	I
-dej	O
-txog	O
-cawv	O
 nawb	O
 ,	O
 tiam	O

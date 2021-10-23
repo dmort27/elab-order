@@ -139,9 +139,6 @@ yuav	B
 ciaj	I
 yuav	I
 tuag	I
-ciaj	O
-yuav	O
-tuag	O
 vim	O
 hlub	O
 lawm	O
@@ -371,9 +368,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 yeej	O
 tsim	O
 poj	O
@@ -432,9 +426,6 @@ ntxim	B
 nyiam	I
 ntxim	I
 hlub	I
-nyiam	O
-ntxim	O
-hlub	O
 txiv	O
 neej	O
 yam	O
@@ -531,9 +522,6 @@ tus	B
 nom	I
 tus	I
 tswv	I
-nom	O
-tus	O
-tswv	O
 loj	O
 loj	O
 los	O

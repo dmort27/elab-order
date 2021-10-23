@@ -868,9 +868,6 @@ raug	B
 ntsej	I
 raug	I
 muag	I
-ntsej	O
-raug	O
-muag	O
 .	O
 
 
@@ -1004,9 +1001,6 @@ hmoob	B
 roj	I
 hmoob	I
 ntshav	I
-roj	O
-hmoob	O
-ntshav	O
 ces	O
 ....	O
 ntshe	O
@@ -1611,9 +1605,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 thiab	O
 hmoob	O
 yeej	O
@@ -1731,9 +1722,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 thiab	O
 hmoob	O
 yeej	O
@@ -1866,9 +1854,6 @@ lawv	B
 vaj	I
 lawv	I
 tsev	I
-vaj	O
-lawv	O
-tsev	O
 li	O
 thaum	O
 THANKSGIVING	O
@@ -1918,9 +1903,6 @@ lawv	B
 vaj	I
 lawv	I
 tsev	I
-vaj	O
-lawv	O
-tsev	O
 li	O
 thaum	O
 THANKSGIVING	O
@@ -2074,9 +2056,6 @@ seem	B
 kev	I
 seem	I
 cai	I
-kev	O
-seem	O
-cai	O
 kawg	O
 lawm	O
 thiab	O

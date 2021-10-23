@@ -593,9 +593,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ,	O
 even	O
 you	O
@@ -661,9 +658,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 tabsis	O
 sawv	O
 daws	O
@@ -864,9 +858,6 @@ koom	B
 zej	I
 koom	I
 zog	I
-zej	O
-koom	O
-zog	O
 es	O
 naj	O
 nub	O
@@ -897,9 +888,6 @@ muaj	B
 dlej	I
 muaj	I
 cawv	I
-dlej	O
-muaj	O
-cawv	O
 sis	O
 txug	O
 .	O
@@ -927,9 +915,6 @@ sib	B
 caav	I
 sib	I
 tshe	I
-caav	O
-sib	O
-tshe	O
 huv	O
 nuav	O
 le	O
@@ -1169,9 +1154,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 mas	O
 ntshai	O
 yuav	O
@@ -1237,9 +1219,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 ,	O
 ib	O
 xyoo	O
@@ -1394,9 +1373,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 --	O
 cov	O
 nom	O
@@ -1933,9 +1909,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 tim	O
 Salakham	O
 mad	O

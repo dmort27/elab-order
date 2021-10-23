@@ -153,9 +153,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 thiab	O
 qhov	O
 tseem	O
@@ -1104,9 +1101,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 muaj	O
 educated	O
@@ -1142,9 +1136,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 ,	O
 thaum	O
 no	O
@@ -1273,9 +1264,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 luag	O
 ntej	O

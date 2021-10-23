@@ -275,9 +275,6 @@ hauv	B
 paug	I
 hauv	I
 ntsis	I
-paug	O
-hauv	O
-ntsis	O
 .	O
 
 
@@ -317,9 +314,6 @@ teg	B
 dlej	I
 teg	I
 num	I
-dlej	O
-teg	O
-num	O
 ces	O
 tsuas	O
 yog	O
@@ -389,9 +383,6 @@ me	B
 xyoob	I
 me	I
 ntoo	I
-xyoob	O
-me	O
-ntoo	O
 nroj	O
 tsuag	O
 ntsuab	O
@@ -2481,9 +2472,6 @@ lwm	B
 leej	I
 lwm	I
 tug	I
-leej	O
-lwm	O
-tug	O
 thuam	O
 .	O
 
@@ -2741,9 +2729,6 @@ paub	B
 qaab	I
 paub	I
 hau	I
-qaab	O
-paub	O
-hau	O
 tes	O
 luag	O
 yuav	O

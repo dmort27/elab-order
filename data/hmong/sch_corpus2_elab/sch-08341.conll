@@ -97,9 +97,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 .	O
 
 
@@ -967,9 +964,6 @@ laug	B
 caij	I
 laug	I
 nyoog	I
-caij	O
-laug	O
-nyoog	O
 xwb	O
 .	O
 
@@ -1713,9 +1707,6 @@ tsi	B
 deb	I
 tsi	I
 ze	I
-deb	O
-tsi	O
-ze	O
 ntawm	O
 Lak	O
 20	O
@@ -2089,9 +2080,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 thiab	O
 tau	O
 zoo	O
@@ -2124,9 +2112,6 @@ yus	B
 zej	I
 yus	I
 zos	I
-zej	O
-yus	O
-zos	O
 xwb	O
 ces	O
 txhob	O

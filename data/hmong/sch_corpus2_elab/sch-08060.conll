@@ -87,9 +87,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 nhyav	O
 .	O
 
@@ -276,9 +273,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 mas	O
 Mua	O
 Tuam	O
@@ -371,9 +365,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 los	O
 tau	O
 30	O
@@ -1019,9 +1010,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 tiv	O
 tau	O
 npaum	O
@@ -1764,9 +1752,6 @@ puas	B
 tsuaj	I
 puas	I
 ntsoog	I
-tsuaj	O
-puas	O
-ntsoog	O
 tag	O
 lawm	O
 ,	O
@@ -2070,9 +2055,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 hais	O
 tias	O
 yuav	O

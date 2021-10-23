@@ -274,9 +274,6 @@ pluag	B
 noj	I
 pluag	I
 haus	I
-noj	O
-pluag	O
-haus	O
 laim	O
 ncua	O
 tseg	O
@@ -402,9 +399,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 heev	O
 ua	O
 luaj	O
@@ -718,9 +712,6 @@ pluag	B
 noj	I
 pluag	I
 haus	I
-noj	O
-pluag	O
-haus	O
 laim	O
 ncua	O
 tseg	O
@@ -922,9 +913,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 ces	O
 nyias	O
 khav	O
@@ -933,9 +921,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 ,	O
 pheej	O
 xav	O
@@ -1087,9 +1072,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 .	O
 
 
@@ -1115,9 +1097,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 ntawd	O
 .	O
 

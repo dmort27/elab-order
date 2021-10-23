@@ -1440,9 +1440,6 @@ koj	B
 pog	I
 koj	I
 yawg	I
-pog	O
-koj	O
-yawg	O
 lawd	O
 yuav	O
 los	O
@@ -1495,9 +1492,6 @@ muas	B
 noj	I
 muas	I
 haus	I
-noj	O
-muas	O
-haus	O
 ?	O
 
 
@@ -1518,9 +1512,6 @@ los	B
 noj	I
 los	I
 haus	I
-noj	O
-los	O
-haus	O
 ?	O
 
 
@@ -1547,9 +1538,6 @@ xa	B
 zaub	I
 xa	I
 mov	I
-zaub	O
-xa	O
-mov	O
 mus	O
 rau	O
 lawd	O
@@ -1596,9 +1584,6 @@ tej	B
 pog	I
 tej	I
 yawg	I
-pog	O
-tej	O
-yawg	O
 hod	O
 tsis	O
 mus	O

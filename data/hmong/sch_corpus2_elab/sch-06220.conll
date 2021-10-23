@@ -522,9 +522,6 @@ xu	B
 doj	I
 xu	I
 das	I
-doj	O
-xu	O
-das	O
 xwb	O
 .	O
 
@@ -594,9 +591,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 yog	O
 ib	O
 qho	O
@@ -604,9 +598,6 @@ kev	B
 phem	I
 kev	I
 qias	I
-phem	O
-kev	O
-qias	O
 tsis	O
 zoo	O
 los	O
@@ -639,9 +630,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 ces	O
 tus	O
 yuav	O
@@ -798,9 +786,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 thiab	O
 pub	O
@@ -845,9 +830,6 @@ txhua	B
 hnub	I
 txhua	I
 hmo	I
-hnub	O
-txhua	O
-hmo	O
 los	O
 tseem	O
 tsis	O
@@ -904,9 +886,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 li	O
 cov	O
 tim	O
@@ -992,9 +971,6 @@ nriav	B
 noj	I
 nriav	I
 haus	I
-noj	O
-nriav	O
-haus	O
 ntawm	O
 individual	O
 ntawd	O
@@ -1077,9 +1053,6 @@ nriav	B
 noj	I
 nriav	I
 haus	I
-noj	O
-nriav	O
-haus	O
 mus	O
 rau	O
 seem	O
@@ -1119,9 +1092,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 lawm	O
 lawv	O
 thiaj	O
@@ -1133,9 +1103,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 li	O
 lub	O
 ntuj	O
@@ -1260,9 +1227,6 @@ kev	B
 plees	I
 kev	I
 yi	I
-plees	O
-kev	O
-yi	O
 (	O
 as	O
 well	O
@@ -1426,9 +1390,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 los	O
 hos	O
 nrhiav	O
@@ -1461,9 +1422,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 tias	O
 lawv	O
 tsis	O
@@ -1602,9 +1560,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 thiaj	O
 li	O
 yuav	O
@@ -1620,9 +1575,6 @@ pauv	B
 noj	I
 pauv	I
 haus	I
-noj	O
-pauv	O
-haus	O
 .	O
 
 
@@ -1671,9 +1623,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 tsis	O
 tshaib	O
 tsis	O

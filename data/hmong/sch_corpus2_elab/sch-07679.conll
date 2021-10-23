@@ -40,9 +40,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 mas	O
 yeej	O
 nphoo	O
@@ -166,9 +163,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 nyob	O
 hauv	O
 SCH	O
@@ -269,9 +263,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 vim	O
 sawv	O
 daws	O

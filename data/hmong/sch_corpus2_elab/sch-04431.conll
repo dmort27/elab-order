@@ -179,9 +179,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 tsam	O
 muaj	O
 ib	O
@@ -610,9 +607,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 muaj	O
 nyiaj	O
 tas	O

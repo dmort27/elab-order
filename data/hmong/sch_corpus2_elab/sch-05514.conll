@@ -107,9 +107,6 @@ ua	B
 mus	I
 ua	I
 los	I
-mus	O
-ua	O
-los	O
 LX	O
 tsis	O
 muaj	O
@@ -1402,9 +1399,6 @@ raug	B
 kev	I
 raug	I
 cai	I
-kev	O
-raug	O
-cai	O
 no	O
 thiab	O
 .	O

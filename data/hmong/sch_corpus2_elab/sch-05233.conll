@@ -592,16 +592,10 @@ li	B
 dag	I
 li	I
 tiag	I
-dag	O
-li	O
-tiag	O
 li	B
 mus	I
 li	I
 los	I
-mus	O
-li	O
-los	O
 li	O
 coj	O
 li	O
@@ -610,9 +604,6 @@ li	B
 ciaj	I
 li	I
 tuag	I
-ciaj	O
-li	O
-tuag	O
 xwb	O
 ned	O
 ....	O
@@ -1460,9 +1451,6 @@ tua	B
 hneev	I
 tua	I
 phom	I
-hneev	O
-tua	O
-phom	O
 rau	O
 saum	O
 ntuj	O
@@ -1688,9 +1676,6 @@ tua	B
 tsiaj	I
 tua	I
 txhuv	I
-tsiaj	O
-tua	O
-txhuv	O
 rau	O
 peeb	O
 zeej	O
@@ -2167,9 +2152,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 tej	O
 txiaj	O
 ntsim	O
@@ -2188,9 +2170,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 ,	O
 suav	O
 yuam	O
@@ -2202,9 +2181,6 @@ suav	B
 niam	I
 suav	I
 txiv	I
-niam	O
-suav	O
-txiv	O
 xwb	O
 vim	O
 peb	O
@@ -2313,9 +2289,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 heev	O
 ,	O
 peb	O
@@ -2393,9 +2366,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 no	O
 ces	O
 suav	O
@@ -2613,9 +2583,6 @@ tau	B
 qaib	I
 tau	I
 npua	I
-qaib	O
-tau	O
-npua	O
 li	O
 ntag	O
 lov	O
@@ -2634,9 +2601,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 lawm	O
 tiag	O
 tab	O
@@ -2734,9 +2698,6 @@ nram	B
 mab	I
 nram	I
 suav	I
-mab	O
-nram	O
-suav	O
 los	O
 ua	O
 rau	O
@@ -2744,9 +2705,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 noj	O
 lawm	O
 ,	O
@@ -2889,9 +2847,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 tej	O
 txiaj	O
 ntsim	O
@@ -2910,9 +2865,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 ,	O
 suav	O
 yuam	O
@@ -2924,9 +2876,6 @@ suav	B
 niam	I
 suav	I
 txiv	I
-niam	O
-suav	O
-txiv	O
 xwb	O
 vim	O
 peb	O
@@ -3035,9 +2984,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 heev	O
 ,	O
 peb	O
@@ -3115,9 +3061,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 no	O
 ces	O
 suav	O
@@ -3335,9 +3278,6 @@ tau	B
 qaib	I
 tau	I
 npua	I
-qaib	O
-tau	O
-npua	O
 li	O
 ntag	O
 lov	O
@@ -3356,9 +3296,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 lawm	O
 tiag	O
 tab	O
@@ -3456,9 +3393,6 @@ nram	B
 mab	I
 nram	I
 suav	I
-mab	O
-nram	O
-suav	O
 los	O
 ua	O
 rau	O
@@ -3466,9 +3400,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 noj	O
 lawm	O
 ,	O

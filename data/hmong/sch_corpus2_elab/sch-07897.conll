@@ -28,9 +28,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 ibpliag	O
 xwb	O
@@ -597,9 +594,6 @@ tau	B
 ub	I
 tau	I
 no	I
-ub	O
-tau	O
-no	O
 pab	O
 .	O
 
@@ -1382,9 +1376,6 @@ txog	B
 caij	I
 txog	I
 nyoog	I
-caij	O
-txog	O
-nyoog	O
 lawm	O
 uas	O
 peb	O
@@ -1398,9 +1389,6 @@ koom	B
 siab	I
 koom	I
 ntsws	I
-siab	O
-koom	O
-ntsws	O
 lawm	O
 .	O
 
@@ -1464,9 +1452,6 @@ koom	B
 siab	I
 koom	I
 ntsws	I
-siab	O
-koom	O
-ntsws	O
 .	O
 
 
@@ -1481,9 +1466,6 @@ koom	B
 siab	I
 koom	I
 ntsws	I
-siab	O
-koom	O
-ntsws	O
 in	O
 Hmong	O
 culture	O
@@ -1497,9 +1479,6 @@ koom	B
 siab	I
 koom	I
 ntsws	I
-siab	O
-koom	O
-ntsws	O
 in	O
 a	O
 Hmong	O
@@ -1829,17 +1808,11 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 uas	O
 tso	B
 niam	I
 tso	I
 txiv	I
-niam	O
-tso	O
-txiv	O
 tseg	O
 ,	O
 cov	O
@@ -1851,9 +1824,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 tseg	O
 ,	O
 cov	O
@@ -2502,9 +2472,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 kom	O
 luag	O
 cov	O

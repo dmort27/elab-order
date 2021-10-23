@@ -120,9 +120,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 li	O
 nej	O
 cov	O
@@ -1148,9 +1145,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 (	O
 fight	O
 )	O
@@ -1611,9 +1605,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 tuav	O
 tub	O
 rog	O
@@ -1764,9 +1755,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 nhyav	O
 ,	O
 ua	O
@@ -1985,9 +1973,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 ua	O
 qoob	O
 loo	O
@@ -2170,9 +2155,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ntxiv	O
 lawm	O
 .	O
@@ -2877,9 +2859,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 (	O
 fight	O
 )	O
@@ -3340,9 +3319,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 tuav	O
 tub	O
 rog	O
@@ -3493,9 +3469,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 nhyav	O
 ,	O
 ua	O
@@ -3714,9 +3687,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 ua	O
 qoob	O
 loo	O
@@ -3888,9 +3858,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ntxiv	O
 lawm	O
 .	O

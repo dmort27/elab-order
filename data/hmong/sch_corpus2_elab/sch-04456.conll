@@ -71,9 +71,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 thaum	O
 kawg	O
 raug	O
@@ -143,9 +140,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 yog	O
 hnub	O
 twg	O
@@ -181,9 +175,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 txog	O
 niaj	O
 hnub	O
@@ -202,9 +193,6 @@ luag	B
 teb	I
 luag	I
 chaw	I
-teb	O
-luag	O
-chaw	O
 lawm	O
 es	O
 tos	O
@@ -493,9 +481,6 @@ ntau	B
 leej	I
 ntau	I
 tug	I
-leej	O
-ntau	O
-tug	O
 yeej	O
 xaiv	O
 txuj	O
@@ -575,9 +560,6 @@ lwm	B
 leej	I
 lwm	I
 tug	I
-leej	O
-lwm	O
-tug	O
 ,	O
 lwm	O
 yaam	O
@@ -1092,9 +1074,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 kiag	O
 xwb	O
 ,	O

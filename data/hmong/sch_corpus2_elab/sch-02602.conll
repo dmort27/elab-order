@@ -141,9 +141,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 no	O
 nawb	O
 .	O
@@ -224,9 +221,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 yaws	O
 pov	O
 tseg	O
@@ -439,9 +433,6 @@ muaj	B
 siv	I
 muaj	I
 npog	I
-siv	O
-muaj	O
-npog	O
 los	O
 yuav	O
 yog	O

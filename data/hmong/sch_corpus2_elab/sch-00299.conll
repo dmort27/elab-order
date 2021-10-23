@@ -436,9 +436,6 @@ ua	B
 dej	I
 ua	I
 num	I
-dej	O
-ua	O
-num	O
 xwb	O
 vim	O
 lawv	O
@@ -845,9 +842,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 thiab	O
 ua	O
 hauj	O
@@ -896,9 +890,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 ua	O
 hauj	O
 lawm	O
@@ -925,9 +916,6 @@ nws	B
 pog	I
 nws	I
 yawg	I
-pog	O
-nws	O
-yawg	O
 txeeb	O
 ze	O
 vp	O
@@ -1222,9 +1210,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 li	O
 tab	O
 sis	O

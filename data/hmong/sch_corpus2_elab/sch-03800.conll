@@ -47,9 +47,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 los	O
 tau	O
 .	O
@@ -413,9 +410,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 thiab	O
 sib	O
 liam	O
@@ -857,9 +851,6 @@ sis	B
 txeeb	I
 sis	I
 tua	I
-txeeb	O
-sis	O
-tua	O
 xwb	O
 ,	O
 mej	O
@@ -1345,9 +1336,6 @@ lub	B
 sab	I
 lub	I
 ntsws	I
-sab	O
-lub	O
-ntsws	O
 ua	O
 tsis	O
 tau	O
@@ -1532,9 +1520,6 @@ muab	B
 nyiaj	I
 muab	I
 txiaj	I
-nyiaj	O
-muab	O
-txiaj	O
 rau	O
 es	O
 thiaj	O
@@ -1666,9 +1651,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 los	O
 tau	O
 ntau	O

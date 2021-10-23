@@ -117,9 +117,6 @@ ua	B
 ntaub	I
 ua	I
 ntawv	I
-ntaub	O
-ua	O
-ntawv	O
 tuaj	O
 rau	O
 Thailand	O
@@ -904,9 +901,6 @@ ua	B
 ntaub	I
 ua	I
 ntawv	I
-ntaub	O
-ua	O
-ntawv	O
 tuaj	O
 rau	O
 Thailand	O
@@ -1355,9 +1349,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 nplua	O
 nuj	O
 no	O
@@ -1464,9 +1455,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 ,	O
 los	O
 yog	O
@@ -2474,9 +2462,6 @@ ob	B
 hnub	I
 ob	I
 hmo	I
-hnub	O
-ob	O
-hmo	O
 .	O
 
 
@@ -2587,9 +2572,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 los	O
 kom	O
 luag	O
@@ -2925,9 +2907,6 @@ tus	B
 txheeb	I
 tus	I
 ze	I
-txheeb	O
-tus	O
-ze	O
 nyob	O
 rau	O
 Wat	O
@@ -3127,9 +3106,6 @@ tus	B
 txheeb	I
 tus	I
 ze	I
-txheeb	O
-tus	O
-ze	O
 ua	O
 ntej	O
 los	O
@@ -3148,9 +3124,6 @@ yus	B
 kwv	I
 yus	I
 tij	I
-kwv	O
-yus	O
-tij	O
 npe	O
 coj	O
 los	O
@@ -3739,9 +3712,6 @@ qhov	B
 zoo	I
 qhov	I
 phem	I
-zoo	O
-qhov	O
-phem	O
 .	O
 
 
@@ -4131,9 +4101,6 @@ tas	B
 phab	I
 tas	I
 pheev	I
-phab	O
-tas	O
-pheev	O
 .	O
 
 
@@ -4361,9 +4328,6 @@ nwg	B
 nam	I
 nwg	I
 txiv	I
-nam	O
-nwg	O
-txiv	O
 los	O
 xij	O
 peem	O

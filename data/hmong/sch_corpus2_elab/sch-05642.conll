@@ -582,9 +582,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 xwb	O
 tsis	O
 txhob	O
@@ -780,9 +777,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 rau	O
 teb	O
 chaws	O
@@ -1584,9 +1578,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 hwv	O
 los	O
 paub	O

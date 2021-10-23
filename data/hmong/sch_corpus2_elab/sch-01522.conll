@@ -860,9 +860,6 @@ txhiam	B
 laj	I
 txhiam	I
 xwm	I
-laj	O
-txhiam	O
-xwm	O
 ,	O
 cog	O
 qoob	O
@@ -920,9 +917,6 @@ luag	B
 poj	I
 luag	I
 txiv	I
-poj	O
-luag	O
-txiv	O
 los	O
 yog	O
 chaw	O
@@ -1101,9 +1095,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 nyam	O
 meej	O
 mom	O
@@ -1160,9 +1151,6 @@ quav	B
 dej	I
 quav	I
 cawv	I
-dej	O
-quav	O
-cawv	O
 ,	O
 los	O
 yog	O
@@ -1438,9 +1426,6 @@ txhiam	B
 laj	I
 txhiam	I
 xwm	I
-laj	O
-txhiam	O
-xwm	O
 ,	O
 cog	O
 qoob	O
@@ -1498,9 +1483,6 @@ luag	B
 poj	I
 luag	I
 txiv	I
-poj	O
-luag	O
-txiv	O
 los	O
 yog	O
 chaw	O
@@ -1679,9 +1661,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 nyam	O
 meej	O
 mom	O
@@ -1738,9 +1717,6 @@ quav	B
 dej	I
 quav	I
 cawv	I
-dej	O
-quav	O
-cawv	O
 ,	O
 los	O
 yog	O
@@ -1980,9 +1956,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 xwb	O
 ,	O
 qhov	O
@@ -2103,9 +2076,6 @@ poob	B
 ntsej	I
 poob	I
 muag	I
-ntsej	O
-poob	O
-muag	O
 .	O
 
 
@@ -2204,9 +2174,6 @@ has	B
 moog	I
 has	I
 lug	I
-moog	O
-has	O
-lug	O
 ,	O
 ua	O
 rua	O

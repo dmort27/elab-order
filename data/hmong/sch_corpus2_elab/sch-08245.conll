@@ -906,9 +906,6 @@ plis	B
 mus	I
 plis	I
 los	I
-mus	O
-plis	O
-los	O
 tsi	O
 ua	O
 cas	O
@@ -1271,9 +1268,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 na	O
 ,	O
 koj	O
@@ -1410,9 +1404,6 @@ muaj	B
 tseeb	I
 muaj	I
 tsum	I
-tseeb	O
-muaj	O
-tsum	O
 tias	O
 lawv	O
 tiv	O
@@ -1460,9 +1451,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 naj	O
 ?	O
 
@@ -1980,9 +1968,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ces	O
 mag	O
 thais	O

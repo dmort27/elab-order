@@ -1314,9 +1314,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 xwb	O
 .	O
 
@@ -1400,9 +1397,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 no	O
 raug	O
 muab	O
@@ -1443,9 +1437,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 es	O
 yog	O
 thaum	O
@@ -1780,9 +1771,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 ntxov	O
 hnyo	O
 li	O
@@ -2013,9 +2001,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 xwb	O
 ,	O
 hos	O
@@ -2212,9 +2197,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 thiab	O
 .	O
 
@@ -2533,9 +2515,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 .	O
 
 
@@ -2568,9 +2547,6 @@ niaj	B
 hnub	I
 niaj	I
 hmo	I
-hnub	O
-niaj	O
-hmo	O
 declare	O
 war	O
 txeeb	O
@@ -2811,9 +2787,6 @@ tawm	B
 roj	I
 tawm	I
 ntshav	I
-roj	O
-tawm	O
-ntshav	O
 tau	O
 nrog	O
 Cobfab	O
@@ -2822,9 +2795,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 yav	O
 ntuj	O
 qub	O
@@ -3903,9 +3873,6 @@ lis	B
 ub	I
 lis	I
 no	I
-ub	O
-lis	O
-no	O
 .	O
 
 
@@ -4008,9 +3975,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 .	O
 
 
@@ -4602,9 +4566,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 ,	O
 muaj	O
 peev	O
@@ -4656,9 +4617,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 ,	O
 raab	O
 peev	O
@@ -4807,9 +4765,6 @@ yuav	B
 teb	I
 yuav	I
 chaw	I
-teb	O
-yuav	O
-chaw	O
 naj	O
 ,	O
 peb	O
@@ -4823,9 +4778,6 @@ tau	B
 nyaj	I
 tau	I
 txaj	I
-nyaj	O
-tau	O
-txaj	O
 lug	O
 siv	O
 xwb	O

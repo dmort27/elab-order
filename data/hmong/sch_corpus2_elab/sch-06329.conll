@@ -830,9 +830,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 .	O
 
@@ -897,9 +894,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ''	O
 npaum	O
 li	O
@@ -968,9 +962,6 @@ ua	B
 phem	I
 ua	I
 qias	I
-phem	O
-ua	O
-qias	O
 rau	O
 yus	O
 haiv	O
@@ -1156,9 +1147,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 ,	O
 lwm	O
 xyoo	O
@@ -1277,16 +1265,10 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 vij	B
 dab	I
 vij	I
 npog	I
-dab	O
-vij	O
-npog	O
 no	O
 xwb	O
 las	O
@@ -1386,9 +1368,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 piav	O
 tias	O
 yog	O

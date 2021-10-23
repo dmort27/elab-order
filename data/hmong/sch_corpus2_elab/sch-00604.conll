@@ -173,9 +173,6 @@ huab	B
 noj	I
 huab	I
 haus	I
-noj	O
-huab	O
-haus	O
 ,	O
 thiab	O
 tua	O
@@ -251,9 +248,6 @@ huab	B
 noj	I
 huab	I
 haus	I
-noj	O
-huab	O
-haus	O
 xwb	O
 ,	O
 Nej	O
@@ -1421,9 +1415,6 @@ muaj	B
 riam	I
 muaj	I
 phom	I
-riam	O
-muaj	O
-phom	O
 luag	O
 twb	O
 tsis	O
@@ -1442,9 +1433,6 @@ muaj	B
 riam	I
 muaj	I
 phom	I
-riam	O
-muaj	O
-phom	O
 ,	O
 txawm	O
 yog	O
@@ -1459,9 +1447,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 los	O
 tsis	O
 tsim	O
@@ -2190,9 +2175,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 leej	O
 twg	O
 kiagli	O
@@ -2289,9 +2271,6 @@ tsis	B
 pom	I
 tsis	I
 paub	I
-pom	O
-tsis	O
-paub	O
 no	O
 xwb	O
 seb	O
@@ -2944,9 +2923,6 @@ txiv	B
 laus	I
 txiv	I
 hluas	I
-laus	O
-txiv	O
-hluas	O
 vim	O
 kuv	O
 muaj	O
@@ -2976,9 +2952,6 @@ txiv	B
 laus	I
 txiv	I
 hluas	I
-laus	O
-txiv	O
-hluas	O
 ....	O
 koj	O
 tsuas	O
@@ -3347,9 +3320,6 @@ txiv	B
 laus	I
 txiv	I
 hluas	I
-laus	O
-txiv	O
-hluas	O
 vim	O
 kuv	O
 muaj	O
@@ -3379,9 +3349,6 @@ txiv	B
 laus	I
 txiv	I
 hluas	I
-laus	O
-txiv	O
-hluas	O
 ....	O
 koj	O
 tsuas	O

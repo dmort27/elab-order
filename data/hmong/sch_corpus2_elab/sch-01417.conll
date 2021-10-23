@@ -278,17 +278,11 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 ces	O
 ua	B
 laj	I
 ua	I
 kam	I
-laj	O
-ua	O
-kam	O
 zoo	O
 los	O
 lis	O
@@ -443,9 +437,6 @@ txiv	B
 neeb	I
 txiv	I
 yaig	I
-neeb	O
-txiv	O
-yaig	O
 ,	O
 maum	O
 phauj	O

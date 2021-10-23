@@ -167,9 +167,6 @@ tag	B
 phab	I
 tag	I
 pheev	I
-phab	O
-tag	O
-pheev	O
 li	O
 -	O
 muaj	O
@@ -215,9 +212,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 :	O
 Ruam	O
 ,	O
@@ -466,9 +460,6 @@ tag	B
 phab	I
 tag	I
 pheev	I
-phab	O
-tag	O
-pheev	O
 li	O
 -	O
 muaj	O
@@ -546,9 +537,6 @@ ua	B
 rwj	I
 ua	I
 aws	I
-rwj	O
-ua	O
-aws	O
 ncuv	O
 rau	O
 koj	O
@@ -605,9 +593,6 @@ hais	B
 siab	I
 hais	I
 qis	I
-siab	O
-hais	O
-qis	O
 ntawd	O
 yog	O
 kuv	O

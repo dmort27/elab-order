@@ -1223,9 +1223,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 saib	O
 yog	O
 li	O
@@ -1262,9 +1259,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 es	O
 kuv	O
 niag	O

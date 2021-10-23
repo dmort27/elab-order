@@ -310,9 +310,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 thiab	O
 dhau	O
 ntawd	O
@@ -332,9 +329,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -489,9 +483,6 @@ tuav	B
 teb	I
 tuav	I
 chaw	I
-teb	O
-tuav	O
-chaw	O
 ruaj	O
 nrees	O
 lub	O
@@ -807,9 +798,6 @@ khiav	B
 dog	I
 khiav	I
 dig	I
-dog	O
-khiav	O
-dig	O
 tuaj	O
 nkaum	O
 rau	O
@@ -1219,9 +1207,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 coj	O
 teb	O
 tsaws	O
@@ -1815,9 +1800,6 @@ niaj	B
 hnub	I
 niaj	I
 hmo	I
-hnub	O
-niaj	O
-hmo	O
 phlw	O
 thiab	O
 puag	O
@@ -2121,9 +2103,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 tab	O
 sis	O
@@ -2413,9 +2392,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 coj	O
 lub	O
 teb	O
@@ -2619,9 +2595,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ''	O
 no	O
 mas	O

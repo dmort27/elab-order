@@ -658,9 +658,6 @@ xaiv	B
 txij	I
 xaiv	I
 nkawm	I
-txij	O
-xaiv	O
-nkawm	O
 ,	O
 xaiv	O
 poj	O
@@ -677,18 +674,12 @@ noob	B
 qoob	I
 noob	I
 loo	I
-qoob	O
-noob	O
-loo	O
 ,	O
 xaiv	O
 noob	B
 tsiaj	I
 noob	I
 txhu	I
-tsiaj	O
-noob	O
-txhu	O
 ,	O
 xaiv	O
 looj	O
@@ -1715,9 +1706,6 @@ tso	B
 tes	I
 tso	I
 taw	I
-tes	O
-tso	O
-taw	O
 dhia2	O
 ceg	O
 LEM	O
@@ -2612,9 +2600,6 @@ tsis	B
 paub	I
 tsis	I
 hnov	I
-paub	O
-tsis	O
-hnov	O
 li	O
 lawm	O
 hos	O
@@ -4273,9 +4258,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 li	O
 lawm	O
 kuv	O
@@ -4317,9 +4299,6 @@ tsis	B
 pom	I
 tsis	I
 paub	I
-pom	O
-tsis	O
-paub	O
 .	O
 
 
@@ -6815,9 +6794,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 ua	O
 npua	O
@@ -7299,9 +7275,6 @@ koom	B
 niam	I
 koom	I
 txiv	I
-niam	O
-koom	O
-txiv	O
 .	O
 
 
@@ -7593,9 +7566,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 nyob	O
 daim	O
 AV	O
@@ -9458,9 +9428,6 @@ tsi	B
 deb	I
 tsi	I
 ze	I
-deb	O
-tsi	O
-ze	O
 los	O
 ,	O
 ntawm	O

@@ -582,9 +582,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 nplog	O
 liab	O
 thiab	O
@@ -803,9 +800,6 @@ muaj	B
 qab	I
 muaj	I
 hau	I
-qab	O
-muaj	O
-hau	O
 zoo	O
 nkauj	O
 thiab	O
@@ -924,9 +918,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 tamsis	O
 yoog	O

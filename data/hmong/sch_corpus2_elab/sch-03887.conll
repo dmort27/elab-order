@@ -516,9 +516,6 @@ tawm	B
 ntsej	I
 tawm	I
 muag	I
-ntsej	O
-tawm	O
-muag	O
 ua	O
 ke	O
 li	O
@@ -555,9 +552,6 @@ tshwm	B
 ntsej	I
 tshwm	I
 muag	I
-ntsej	O
-tshwm	O
-muag	O
 thiaj	O
 li	O
 yuav	O
@@ -1169,9 +1163,6 @@ uas	B
 ub	I
 uas	I
 no	I
-ub	O
-uas	O
-no	O
 rov	O
 qab	O
 ,	O
@@ -1813,9 +1804,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 phem	O
 no	O
 ne	O
@@ -1992,9 +1980,6 @@ kho	B
 vaj	I
 kho	I
 tsev	I
-vaj	O
-kho	O
-tsev	O
 lawm	O
 xwb	O
 nav	O
@@ -2148,9 +2133,6 @@ ua	B
 phem	I
 ua	I
 zoo	I
-phem	O
-ua	O
-zoo	O
 los	O
 tsi	O
 pub	O
@@ -2232,9 +2214,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 tuaj	O
 hauv	O
 no	O

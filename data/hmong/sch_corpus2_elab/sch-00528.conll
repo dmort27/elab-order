@@ -227,9 +227,6 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 ,	O
 Sib	O
 hlub	O
@@ -686,9 +683,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 coj	O
 lug	O
 pev	O
@@ -696,9 +690,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 quas	O
 qua	O
 dlaab	O
@@ -1059,9 +1050,6 @@ sib	B
 pab	I
 sib	I
 txhawb	I
-pab	O
-sib	O
-txhawb	O
 xwb	O
 ,	O
 yog	O
@@ -1926,9 +1914,6 @@ sib	B
 pab	I
 sib	I
 hlub	I
-pab	O
-sib	O
-hlub	O
 tiag	O
 .	O
 
@@ -2007,9 +1992,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 lawm	O
 tag	O
 ov	O
@@ -2446,9 +2428,6 @@ ua	B
 dlog	I
 ua	I
 dlig	I
-dlog	O
-ua	O
-dlig	O
 le	O
 koj	O
 ua	O

@@ -230,9 +230,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 yog	O
 mej	O
 le	O
@@ -309,9 +306,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 yuav	O
 tsi	O
 yog	O
@@ -1287,9 +1281,6 @@ tog	B
 khaub	I
 tog	I
 tsuag	I
-khaub	O
-tog	O
-tsuag	O
 nrov	O
 nqaj	O
 to	O

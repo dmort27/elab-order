@@ -108,9 +108,6 @@ tsi	B
 txawj	I
 tsi	I
 ntse	I
-txawj	O
-tsi	O
-ntse	O
 thiaj	O
 li	O
 coj	O
@@ -131,9 +128,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 nim	O
 no	O
 tseem	O
@@ -1908,9 +1902,6 @@ yuav	B
 ciaj	I
 yuav	I
 tuag	I
-ciaj	O
-yuav	O
-tuag	O
 nqos	O
 dej	O
 nqos	O
@@ -1935,9 +1926,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 pom	O
 tseeb2	O
 lawm	O
@@ -2002,9 +1990,6 @@ pauv	B
 siab	I
 pauv	I
 ntsws	I
-siab	O
-pauv	O
-ntsws	O
 laiv	O
 .	O
 
@@ -2020,9 +2005,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 neeg	O
 saib	O
 zoo	O

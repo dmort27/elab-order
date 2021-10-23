@@ -321,9 +321,6 @@ ua	B
 mus	I
 ua	I
 los	I
-mus	O
-ua	O
-los	O
 ces	O
 sawv	O
 daws	O
@@ -489,9 +486,6 @@ ua	B
 mab	I
 ua	I
 suav	I
-mab	O
-ua	O
-suav	O
 ,	O
 ua	O
 tsiaj	O
@@ -1020,9 +1014,6 @@ muaj	B
 qab	I
 muaj	I
 hau	I
-qab	O
-muaj	O
-hau	O
 ,	O
 zoo	O
 li	O
@@ -1443,9 +1434,6 @@ ua	B
 mus	I
 ua	I
 los	I
-mus	O
-ua	O
-los	O
 ces	O
 sawv	O
 daws	O
@@ -1611,9 +1599,6 @@ ua	B
 mab	I
 ua	I
 suav	I
-mab	O
-ua	O
-suav	O
 ,	O
 ua	O
 tsiaj	O
@@ -2189,9 +2174,6 @@ ntau	B
 niaj	I
 ntau	I
 xyoo	I
-niaj	O
-ntau	O
-xyoo	O
 rau	O
 yav	O
 tom	O
@@ -2685,16 +2667,10 @@ qhov	B
 dev	I
 qhov	I
 npua	I
-dev	O
-qhov	O
-npua	O
 ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 lawm	O
 xwb	O
@@ -2745,9 +2721,6 @@ hais	B
 phem	I
 hais	I
 zoo	I
-phem	O
-hais	O
-zoo	O
 los	O
 muaj	O
 ,	O
@@ -2760,9 +2733,6 @@ sib	B
 daj	I
 sib	I
 dee	I
-daj	O
-sib	O
-dee	O
 rau	O
 ,	O
 ces	O
@@ -2837,9 +2807,6 @@ tus	B
 laus	I
 tus	I
 hluas	I
-laus	O
-tus	O
-hluas	O
 ,	O
 tus	O
 ncaj	O
@@ -2905,9 +2872,6 @@ muaj	B
 qab	I
 muaj	I
 hau	I
-qab	O
-muaj	O
-hau	O
 los	O
 peb	O
 yuav	O

@@ -1237,9 +1237,6 @@ peb	B
 teej	I
 peb	I
 tug	I
-teej	O
-peb	O
-tug	O
 tag	O
 tag	O
 ...	O
@@ -1402,17 +1399,11 @@ kev	B
 kwv	I
 kev	I
 tij	I
-kwv	O
-kev	O
-tij	O
 ,	O
 kev	B
 neej	I
 kev	I
 tsaav	I
-neej	O
-kev	O
-tsaav	O
 ,	O
 hab	O
 nwg	O
@@ -1768,9 +1759,6 @@ yaag	B
 kev	I
 yaag	I
 ncua	I
-kev	O
-yaag	O
-ncua	O
 es	O
 pum	O
 tej	O

@@ -451,9 +451,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 ,	O
 txhob	O
 maj	O
@@ -468,9 +465,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 ......	O
 zoo	O
 li	O
@@ -644,9 +638,6 @@ sib	B
 pab	I
 sib	I
 koom	I
-pab	O
-sib	O
-koom	O
 tes	O
 li	O
 koj	O

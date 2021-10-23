@@ -344,9 +344,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 tau	O
 nyiaj	O
@@ -1917,9 +1914,6 @@ ntau	B
 tsav	I
 ntau	I
 yam	I
-tsav	O
-ntau	O
-yam	O
 tshwm	O
 sim	O
 os	O
@@ -2103,9 +2097,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -2439,9 +2430,6 @@ sawv	B
 txhij	I
 sawv	I
 txhua	I
-txhij	O
-sawv	O
-txhua	O
 lawm	O
 peb	O
 Moob	O

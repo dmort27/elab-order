@@ -981,9 +981,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ,	O
 yog	O
 neej	O
@@ -1378,9 +1375,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 .	O
 
 
@@ -1415,9 +1409,6 @@ lug	B
 coj	I
 lug	I
 ua	I
-coj	O
-lug	O
-ua	O
 chaw	O
 tag	O
 taw	O
@@ -2255,9 +2246,6 @@ sib	B
 hlub	I
 sib	I
 hwm	I
-hlub	O
-sib	O
-hwm	O
 ,	O
 sib	O
 pab	O
@@ -2272,9 +2260,6 @@ kwv	B
 riam	I
 kwv	I
 phom	I
-riam	O
-kwv	O
-phom	O
 mus	O
 caum	O
 ib	O
@@ -2296,9 +2281,6 @@ ua	B
 phem	I
 ua	I
 qias	I
-phem	O
-ua	O
-qias	O
 npaum	O
 li	O
 cas	O
@@ -2325,9 +2307,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 txoj	O
 kev	O
 sib	O
@@ -2810,9 +2789,6 @@ ntsis	B
 riam	I
 ntsis	I
 phom	I
-riam	O
-ntsis	O
-phom	O
 rau	O
 yus	O
 qhov	O
@@ -3054,9 +3030,6 @@ tuag	B
 dawb	I
 tuag	I
 do	I
-dawb	O
-tuag	O
-do	O
 vim	O
 yog	O
 tog	O
@@ -3161,9 +3134,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 khwv	O
 kaus	O
 lajmej	O
@@ -3408,9 +3378,6 @@ tau	B
 suab	I
 tau	I
 npe	I
-suab	O
-tau	O
-npe	O
 4	O
 .	O
 

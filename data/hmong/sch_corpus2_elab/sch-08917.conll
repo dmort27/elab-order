@@ -278,9 +278,6 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 thov	O
 ntuj	O
 siab	O
@@ -461,9 +458,6 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 foom	O
 kom	O
 yog	O
@@ -1604,9 +1598,6 @@ nrog	B
 kev	I
 nrog	I
 cai	I
-kev	O
-nrog	O
-cai	O
 li	O
 nawb	O
 .	O
@@ -1700,9 +1691,6 @@ has	B
 moog	I
 has	I
 lug	I
-moog	O
-has	O
-lug	O
 cuag	O
 le	O
 nim	O
@@ -1950,9 +1938,6 @@ hauv	B
 paug	I
 hauv	I
 ntsis	I
-paug	O
-hauv	O
-ntsis	O
 ,	O
 es	O
 yaam	O

@@ -61,9 +61,6 @@ sib	B
 caav	I
 sib	I
 tshe	I
-caav	O
-sib	O
-tshe	O
 npaum	O
 kos	O
 es	O
@@ -165,9 +162,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 thiaj	O
 li	O
 yuav	O
@@ -756,17 +750,11 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hais	O
 lus	B
 siab	I
 lus	I
 nqi	I
-siab	O
-lus	O
-nqi	O
 li	O
 koj	O
 mas	O
@@ -1437,9 +1425,6 @@ ib	B
 leej	I
 ib	I
 tug	I
-leej	O
-ib	O
-tug	O
 twg	O
 ,	O
 peb	O
@@ -1644,9 +1629,6 @@ sib	B
 caav	I
 sib	I
 tshe	I
-caav	O
-sib	O
-tshe	O
 npaum	O
 kos	O
 es	O
@@ -1742,9 +1724,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 ,	O
 yog	O
 Mex	O

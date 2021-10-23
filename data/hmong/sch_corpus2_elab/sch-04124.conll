@@ -1354,9 +1354,6 @@ yuav	B
 noj	I
 yuav	I
 haus	I
-noj	O
-yuav	O
-haus	O
 ces	O
 ua	O
 twb	O
@@ -1512,9 +1509,6 @@ ua	B
 dlaab	I
 ua	I
 qhua	I
-dlaab	O
-ua	O
-qhua	O
 hab	O
 luj	O
 hlub	O
@@ -1776,9 +1770,6 @@ sib	B
 hlub	I
 sib	I
 paab	I
-hlub	O
-sib	O
-paab	O
 le	O
 lawm	O
 .......	O
@@ -1860,9 +1851,6 @@ cais	B
 paab	I
 cais	I
 pawg	I
-paab	O
-cais	O
-pawg	O
 le	O
 Johnneng	O
 los	O

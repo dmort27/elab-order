@@ -207,9 +207,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 kom	O
 ntev	O
 zog	O
@@ -286,9 +283,6 @@ ua	B
 qab	I
 ua	I
 tsau	I
-qab	O
-ua	O
-tsau	O
 twb	O
 tsis	O
 paub	O
@@ -520,9 +514,6 @@ rua	B
 ub	I
 rua	I
 nuav	I
-ub	O
-rua	O
-nuav	O
 mas	O
 ntaus	O
 yim	O
@@ -1808,9 +1799,6 @@ tsis	B
 pom	I
 tsis	I
 paub	I
-pom	O
-tsis	O
-paub	O
 li	O
 lawm	O
 .	O
@@ -2456,9 +2444,6 @@ sib	B
 tog	I
 sib	I
 txeeb	I
-tog	O
-sib	O
-txeeb	O
 tej	O
 nyuag	O
 islan	O

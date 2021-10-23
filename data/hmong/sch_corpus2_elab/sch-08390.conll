@@ -79,9 +79,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ;	O
 teb	O
 tag	O
@@ -812,9 +809,6 @@ tom	B
 mab	I
 tom	I
 suav	I
-mab	O
-tom	O
-suav	O
 tab	O
 sis	O
 ho	O
@@ -1090,9 +1084,6 @@ uas	B
 neeb	I
 uas	I
 yaig	I
-neeb	O
-uas	O
-yaig	O
 .	O
 
 
@@ -1806,9 +1797,6 @@ pov	B
 hwm	I
 pov	I
 yoom	I
-hwm	O
-pov	O
-yoom	O
 hmoob	O
 .	O
 
@@ -2855,9 +2843,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 .	O
 
 

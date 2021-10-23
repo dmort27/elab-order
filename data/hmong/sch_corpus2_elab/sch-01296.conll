@@ -72,9 +72,6 @@ fuas	B
 noj	I
 fuas	I
 haus	I
-noj	O
-fuas	O
-haus	O
 ntawm	O
 puab	O
 tsoom	O
@@ -342,9 +339,6 @@ nws	B
 teb	I
 nws	I
 chaw	I
-teb	O
-nws	O
-chaw	O
 li	O
 .	O
 
@@ -799,17 +793,11 @@ yug	B
 nam	I
 yug	I
 txiv	I
-nam	O
-yug	O
-txiv	O
 ,	O
 yug	B
 puj	I
 yug	I
 yawm	I
-puj	O
-yug	O
-yawm	O
 tej	O
 pob	O
 txhaa	O
@@ -1088,9 +1076,6 @@ has	B
 sab	I
 has	I
 qeg	I
-sab	O
-has	O
-qeg	O
 rua	O
 lwm	O
 haiv	O
@@ -1774,9 +1759,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 li	O
 .	O
 
@@ -1882,9 +1864,6 @@ nplog	B
 tes	I
 nplog	I
 taw	I
-tes	O
-nplog	O
-taw	O
 tag	O
 lawm	O
 ``	O
@@ -2719,9 +2698,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 tshaj	O
 plaws	O
 lawm	O
@@ -2780,9 +2756,6 @@ nqos	B
 teb	I
 nqos	I
 chaw	I
-teb	O
-nqos	O
-chaw	O
 mas	O
 nyob	O
 tob	O
@@ -2868,9 +2841,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 uas	O
 yug	O
 hauv	O
@@ -2885,9 +2855,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 yeej	O
 automatic	O
 yog	O
@@ -2961,9 +2928,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 xwb	O
 .	O
 
@@ -2973,9 +2937,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 mam	O
 rov	O
 ua	O
@@ -3026,9 +2987,6 @@ puv	B
 zej	I
 puv	I
 zos	I
-zej	O
-puv	O
-zos	O
 ,	O
 pub	O
 teb	O

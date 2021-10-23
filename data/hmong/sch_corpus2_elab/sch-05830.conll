@@ -12,9 +12,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 zoo	O
 .	O
 
@@ -1470,9 +1467,6 @@ ua	B
 mus	I
 ua	I
 los	I
-mus	O
-ua	O
-los	O
 es	O
 kuv	O
 twb	O
@@ -1711,9 +1705,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 mus	O
 pes	O
@@ -2728,9 +2719,6 @@ saub	B
 ub	I
 saub	I
 no	I
-ub	O
-saub	O
-no	O
 rau	O
 koj	O
 pob	O
@@ -2837,16 +2825,10 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 hais	O
 tias	O

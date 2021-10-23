@@ -62,9 +62,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 thaum	O
 tuag	O
 lawm	O
@@ -1092,9 +1089,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 ,	O
 los	O
 sis	O
@@ -1339,9 +1333,6 @@ txheeb	B
 roj	I
 txheeb	I
 ntshav	I
-roj	O
-txheeb	O
-ntshav	O
 tsis	O
 txheeb	O
 los	O
@@ -1366,9 +1357,6 @@ sib	B
 txheeb	I
 sib	I
 ze	I
-txheeb	O
-sib	O
-ze	O
 los	O
 ntawm	O
 roj	O
@@ -1537,9 +1525,6 @@ qeej	B
 kwv	I
 qeej	I
 tij	I
-kwv	O
-qeej	O
-tij	O
 ,	O
 qeej	O
 tsiv	O

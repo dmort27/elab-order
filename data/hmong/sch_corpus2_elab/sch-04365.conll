@@ -230,9 +230,6 @@ ntsuj	B
 dluab	I
 ntsuj	I
 hlaus	I
-dluab	O
-ntsuj	O
-hlaus	O
 luas	O
 yeej	O
 tsi	O
@@ -431,9 +428,6 @@ pam	B
 neej	I
 pam	I
 dab	I
-neej	O
-pam	O
-dab	O
 no	O
 os	O
 .	O
@@ -476,9 +470,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 kho	O
 thiab	O
 .	O
@@ -626,9 +617,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 ntawd	O
 xa	O
 kom	O
@@ -1141,9 +1129,6 @@ tej	B
 phooj	I
 tej	I
 ywg	I
-phooj	O
-tej	O
-ywg	O
 thiab	O
 lawv	O
 tej	O
@@ -1293,9 +1278,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 pojniam	O
 tham	O

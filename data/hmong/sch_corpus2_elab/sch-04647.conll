@@ -189,9 +189,6 @@ vaaj	B
 luj	I
 vaaj	I
 miv	I
-luj	O
-vaaj	O
-miv	O
 ,	O
 koj	O
 tsi	O
@@ -459,9 +456,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 hmoob	O
 vaj	O
 los	O
@@ -868,9 +862,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 los	O
 qhau	O
 tau	O
@@ -1153,9 +1144,6 @@ dhia	B
 qav	I
 dhia	I
 num	I
-qav	O
-dhia	O
-num	O
 xwb	O
 ces	O
 yeej	O
@@ -1512,9 +1500,6 @@ tsis	B
 txawj	I
 tsis	I
 ntse	I
-txawj	O
-tsis	O
-ntse	O
 xav	O
 mas	O
 tsuas	O

@@ -154,9 +154,6 @@ hmoob	B
 nom	I
 hmoob	I
 tswv	I
-nom	O
-hmoob	O
-tswv	O
 es	O
 hais	O
 lus	O
@@ -985,9 +982,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 ces	O
 lawv	O
 nyaj	O

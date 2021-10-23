@@ -595,9 +595,6 @@ ua	B
 mus	I
 ua	I
 los	I
-mus	O
-ua	O
-los	O
 tsis	O
 muaj	O
 qab	O
@@ -1260,17 +1257,11 @@ tus	B
 hlob	I
 tus	I
 yau	I
-hlob	O
-tus	O
-yau	O
 ,	O
 tus	B
 laus	I
 tus	I
 hluas	I
-laus	O
-tus	O
-hluas	O
 ,	O
 eskoj	O
 thiaj	O

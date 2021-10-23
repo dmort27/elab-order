@@ -634,9 +634,6 @@ tswv	B
 ntuj	I
 tswv	I
 teb	I
-ntuj	O
-tswv	O
-teb	O
 rau	O
 XEEB	O
 kom	O
@@ -714,9 +711,6 @@ tshawb	B
 ub	I
 tshawb	I
 nuav	I
-ub	O
-tshawb	O
-nuav	O
 ,	O
 nkaug	O
 tub	O
@@ -758,9 +752,6 @@ cais	B
 paab	I
 cais	I
 pawg	I
-paab	O
-cais	O
-pawg	O
 ,	O
 kev	O
 coj	O
@@ -813,9 +804,6 @@ yaam	B
 ub	I
 yaam	I
 nuav	I
-ub	O
-yaam	O
-nuav	O
 .	O
 
 
@@ -1087,9 +1075,6 @@ yam	B
 tseeb	I
 yam	I
 cuav	I
-tseeb	O
-yam	O
-cuav	O
 yuav	O
 tshwm	O
 plaws	O
@@ -1795,9 +1780,6 @@ qhov	B
 tseeb	I
 qhov	I
 cuav	I
-tseeb	O
-qhov	O
-cuav	O
 mas	O
 kuv	O
 tsis	O

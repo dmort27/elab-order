@@ -1626,9 +1626,6 @@ tsis	B
 pom	I
 tsis	I
 paub	I
-pom	O
-tsis	O
-paub	O
 mas	O
 yeej	O
 tias	O
@@ -2010,9 +2007,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 kom	O
 tso	O
 mam	O
@@ -2103,9 +2097,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 vim	O
 lawv	O
 tsis	O
@@ -2176,9 +2167,6 @@ nws	B
 poj	I
 nws	I
 yawm	I
-poj	O
-nws	O
-yawm	O
 (	O
 God	O
 )	O
@@ -2277,9 +2265,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 lawv	O
 xav	O
 nws	O
@@ -2289,9 +2274,6 @@ nws	B
 poj	I
 nws	I
 yawm	I
-poj	O
-nws	O
-yawm	O
 .	O
 
 

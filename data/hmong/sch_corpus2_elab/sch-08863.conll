@@ -299,9 +299,6 @@ nwg	B
 nam	I
 nwg	I
 txiv	I
-nam	O
-nwg	O
-txiv	O
 coj	O
 le	O
 caag	O
@@ -352,9 +349,6 @@ puab	B
 nam	I
 puab	I
 txiv	I
-nam	O
-puab	O
-txiv	O
 thaus	O
 puav	O
 xeev	O
@@ -1001,9 +995,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 .	O
 
 
@@ -1490,9 +1481,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 txomnyem	O
 ,	O
 hlub	O

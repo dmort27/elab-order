@@ -104,9 +104,6 @@ luag	B
 teb	I
 luag	I
 chaw	I
-teb	O
-luag	O
-chaw	O
 lawm	O
 cia	O
 rau	O
@@ -903,9 +900,6 @@ nrhav	B
 noj	I
 nrhav	I
 haus	I
-noj	O
-nrhav	O
-haus	O
 taag	O
 .	O
 

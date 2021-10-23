@@ -69,9 +69,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 tag	O
 lawm.Tus	O
 poj	O
@@ -876,9 +873,6 @@ hnov	B
 ub	I
 hnov	I
 no	I
-ub	O
-hnov	O
-no	O
 ''	O
 xwb	O
 ?	O
@@ -917,9 +911,6 @@ quav	B
 ub	I
 quav	I
 no	I
-ub	O
-quav	O
-no	O
 lawm	O
 .	O
 
@@ -942,9 +933,6 @@ to	B
 ntej	I
 to	I
 qab	I
-ntej	O
-to	O
-qab	O
 lawm	O
 xwb	O
 nawb	O
@@ -1031,9 +1019,6 @@ qhov	B
 pim	I
 qhov	I
 qau	I
-pim	O
-qhov	O
-qau	O
 )	O
 ,	O
 ces	O
@@ -1640,9 +1625,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 niam	O
 no	O
 li	O
@@ -1672,9 +1654,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ,	O
 raug	O
 lawv	O
@@ -1690,9 +1669,6 @@ keb	B
 ub	I
 keb	I
 no	I
-ub	O
-keb	O
-no	O
 lawm	O
 xwb	O
 nawb	O
@@ -1717,9 +1693,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 kom	O
 paub	O
 kiag	O

@@ -131,9 +131,6 @@ qhua	B
 qab	I
 qhua	I
 tsau	I
-qab	O
-qhua	O
-tsau	O
 .	O
 
 
@@ -257,9 +254,6 @@ tsi	B
 mus	I
 tsi	I
 los	I
-mus	O
-tsi	O
-los	O
 ces	O
 plau	O
 lawm	O
@@ -712,9 +706,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 thiaj	O
 nyob	O
 hav	O
@@ -1439,9 +1430,6 @@ qhua	B
 qab	I
 qhua	I
 tsau	I
-qab	O
-qhua	O
-tsau	O
 xwb	O
 laud	O
 .	O
@@ -1842,9 +1830,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 ci	O
 pob	O
 zeb	O
@@ -2154,9 +2139,6 @@ raws	B
 caij	I
 raws	I
 nyoog	I
-caij	O
-raws	O
-nyoog	O
 .	O
 
 
@@ -2286,9 +2268,6 @@ lawv	B
 teej	I
 lawv	I
 tug	I
-teej	O
-lawv	O
-tug	O
 cov	O
 zog	O
 loj	O
@@ -2839,9 +2818,6 @@ ntug	B
 zej	I
 ntug	I
 zos	I
-zej	O
-ntug	O
-zos	O
 xwb	O
 ces	O
 txawm	O

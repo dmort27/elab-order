@@ -280,9 +280,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 ntawd	O
 lawm	O
 .	O
@@ -1082,9 +1079,6 @@ tej	B
 puj	I
 tej	I
 yawm	I
-puj	O
-tej	O
-yawm	O
 rua	O
 ntawm	O
 ntawm	O

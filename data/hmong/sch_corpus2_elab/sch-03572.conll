@@ -499,9 +499,6 @@ tug	B
 hlub	I
 tug	I
 yau	I
-hlub	O
-tug	O
-yau	O
 ,	O
 tug	O
 laug	O
@@ -721,9 +718,6 @@ muaj	B
 caag	I
 muaj	I
 ceg	I
-caag	O
-muaj	O
-ceg	O
 ,	O
 tab	O
 sis	O
@@ -908,9 +902,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 heev	O
 es	O
 puab	O

@@ -596,9 +596,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 txog	O
 religious	O
 xwb	O
@@ -678,9 +675,6 @@ chaw	B
 caub	I
 chaw	I
 chim	I
-caub	O
-chaw	O
-chim	O
 cov	O
 neeg	O
 no	O
@@ -1065,9 +1059,6 @@ luag	B
 teej	I
 luag	I
 tug	I
-teej	O
-luag	O
-tug	O
 ''	O
 no	O
 puas	O
@@ -1972,9 +1963,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 kev	O
 sib	O
 txheeb	O

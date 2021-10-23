@@ -271,9 +271,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 los	O
 tus	O
 Nplog	O
@@ -442,9 +439,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 mus	O
 thaiv	O
 kom	O
@@ -583,9 +577,6 @@ qhov	B
 zeb	I
 qhov	I
 tsua	I
-zeb	O
-qhov	O
-tsua	O
 noj	O
 kooj	O
 noj	O
@@ -724,9 +715,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 li	O
 no	O
 yog	O
@@ -912,9 +900,6 @@ qhov	B
 zeb	I
 qhov	I
 tsua	I
-zeb	O
-qhov	O
-tsua	O
 noj	O
 kooj	O
 noj	O
@@ -1053,9 +1038,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 li	O
 no	O
 yog	O

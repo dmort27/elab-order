@@ -456,9 +456,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 ned	O
 .	O
 
@@ -523,9 +520,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 thiab	O
 qhov	O
 qabzib	O
@@ -851,9 +845,6 @@ ua	B
 mab	I
 ua	I
 suav	I
-mab	O
-ua	O
-suav	O
 lossis	O
 ua	O
 kab	O

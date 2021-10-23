@@ -207,9 +207,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 ,	O
 tsis	O
 muaj	O
@@ -228,9 +225,6 @@ tsis	B
 paub	I
 tsis	I
 hnov	I
-paub	O
-tsis	O
-hnov	O
 tias	O
 yus	O
 muaj	O

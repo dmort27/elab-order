@@ -155,9 +155,6 @@ qhov	B
 txhia	I
 qhov	I
 chaw	I
-txhia	O
-qhov	O
-chaw	O
 .	O
 
 
@@ -279,9 +276,6 @@ ntees	B
 ploj	I
 ntees	I
 tuag	I
-ploj	O
-ntees	O
-tuag	O
 lawm	O
 .	O
 
@@ -321,9 +315,6 @@ hlab	B
 liab	I
 hlab	I
 ntsuab	I
-liab	O
-hlab	O
-ntsuab	O
 ,	O
 tsis	O
 txhob	O
@@ -351,25 +342,16 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 ,	O
 yus	B
 pog	I
 yus	I
 yawg	I
-pog	O
-yus	O
-yawg	O
 ,	O
 yus	B
 kwv	I
 yus	I
 tij	I
-kwv	O
-yus	O
-tij	O
 thiab	O
 Hmoob	O
 cov	O
@@ -1003,9 +985,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 li	O
 os	O
 .	O
@@ -1730,9 +1709,6 @@ pob	B
 zeb	I
 pob	I
 ca	I
-zeb	O
-pob	O
-ca	O
 ces	O
 nws	O
 laug	O
@@ -2274,9 +2250,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 luag	O
 lwm	O
 haiv	O
@@ -3082,9 +3055,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 yeej	O
 kawm	O
 lug	O
@@ -3246,9 +3216,6 @@ koj	B
 tub	I
 koj	I
 ntxhais	I
-tub	O
-koj	O
-ntxhais	O
 lawm	O
 ?	O
 

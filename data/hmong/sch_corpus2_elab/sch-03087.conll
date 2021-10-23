@@ -362,9 +362,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 lawm	O
 os	O
 .	O
@@ -797,9 +794,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 (	O
 Morality	O
 )	O
@@ -920,9 +914,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 txug	O
 teg	O
 los	O
@@ -1758,9 +1749,6 @@ sib	B
 hlub	I
 sib	I
 nyiam	I
-hlub	O
-sib	O
-nyiam	O
 ntawm	O
 tej	O
 khub	O

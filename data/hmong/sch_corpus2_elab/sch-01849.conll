@@ -1842,9 +1842,6 @@ me	B
 ntab	I
 me	I
 muv	I
-ntab	O
-me	O
-muv	O
 ho	O
 tsiv	O
 npaum	O
@@ -2105,9 +2102,6 @@ tsi	B
 mus	I
 tsi	I
 los	I
-mus	O
-tsi	O
-los	O
 li	O
 ntag	O
 hov	O

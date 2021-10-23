@@ -600,9 +600,6 @@ pab	B
 ub	I
 pab	I
 no	I
-ub	O
-pab	O
-no	O
 tsis	O
 work	O
 ua	O
@@ -731,9 +728,6 @@ siv	B
 riam	I
 siv	I
 phom	I
-riam	O
-siv	O
-phom	O
 los	O
 yeej	O
 tau	O
@@ -833,9 +827,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 yuav	O
 tsum	O
 tau	O
@@ -905,9 +896,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 kuv	O
 tsuas	O

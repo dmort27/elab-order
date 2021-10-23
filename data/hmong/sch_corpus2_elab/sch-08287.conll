@@ -651,9 +651,6 @@ poj	B
 nrauj	I
 poj	I
 ntsuam	I
-nrauj	O
-poj	O
-ntsuam	O
 li	O
 lauj	O
 !	O
@@ -706,9 +703,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 lawm	O
 ,	O
 txawm	O
@@ -762,9 +756,6 @@ muaj	B
 poj	I
 muaj	I
 sev	I
-poj	O
-muaj	O
-sev	O
 lawm	O
 es	O
 tseem	O
@@ -776,9 +767,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 thiab	O
 ces	O
 kawg	O
@@ -1234,9 +1222,6 @@ luag	B
 poj	I
 luag	I
 sev	I
-poj	O
-luag	O
-sev	O
 nas	O
 .	O
 

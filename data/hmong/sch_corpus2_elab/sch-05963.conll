@@ -454,9 +454,6 @@ paub	B
 siab	I
 paub	I
 nqi	I
-siab	O
-paub	O
-nqi	O
 es	O
 lub	O
 ncauj	O
@@ -514,9 +511,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 es	O
 yus	O
 yuav	O
@@ -525,9 +519,6 @@ dhia	B
 siab	I
 dhia	I
 nqi	I
-siab	O
-dhia	O
-nqi	O
 ua	O
 dabtsi	O
 .	O
@@ -576,9 +567,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 xwb	O
 ,	O
 vim	O
@@ -740,9 +728,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 es	O
 tsi	O
 paub	O
@@ -1834,17 +1819,11 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ,	O
 tso	B
 vaj	I
 tso	I
 tsev	I
-vaj	O
-tso	O
-tsev	O
 tseg	O
 es	O
 los	O
@@ -1953,9 +1932,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 kom	O
 Hmoob	O
 txhob	O

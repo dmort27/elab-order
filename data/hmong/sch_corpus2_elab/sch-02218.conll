@@ -619,9 +619,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 ,	O
 nws	O
 kuj	O

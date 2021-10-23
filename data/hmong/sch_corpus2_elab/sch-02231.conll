@@ -293,9 +293,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 yuav	O
 pab	O
 tsis	O
@@ -329,9 +326,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 lawm	O
 xwb	O
 .	O
@@ -386,9 +380,6 @@ koom	B
 siab	I
 koom	I
 ntsws	I
-siab	O
-koom	O
-ntsws	O
 .	O
 
 
@@ -802,9 +793,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 li	O
 ces	O
 kawg	O

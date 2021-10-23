@@ -254,9 +254,6 @@ tub	B
 sab	I
 tub	I
 nyiag	I
-sab	O
-tub	O
-nyiag	O
 kiag	O
 los	O
 yeej	O
@@ -280,9 +277,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 ua	O
 lawm	O
 ces	O
@@ -399,9 +393,6 @@ ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 hov	O
 .	O
 
@@ -479,9 +470,6 @@ liam	B
 ub	I
 liam	I
 no	I
-ub	O
-liam	O
-no	O
 tias	O
 yog	O
 ib	O

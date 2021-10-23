@@ -749,9 +749,6 @@ tau	B
 niam	I
 tau	I
 txiv	I
-niam	O
-tau	O
-txiv	O
 ,	O
 tiv	O
 tau	O
@@ -2407,9 +2404,6 @@ cuab	B
 ub	I
 cuab	I
 no	I
-ub	O
-cuab	O
-no	O
 tsam	O
 thaum	O
 kawg	O
@@ -2482,9 +2476,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 ,	O
 qhia	O
 qhov	O
@@ -3769,9 +3760,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 thiab	O
 kev	O
 cai	O
@@ -4034,9 +4022,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 twb	O
 ua	O
 tau	O

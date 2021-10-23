@@ -182,9 +182,6 @@ phov	B
 ub	I
 phov	I
 no	I
-ub	O
-phov	O
-no	O
 lawm	O
 .	O
 
@@ -1137,9 +1134,6 @@ yug	B
 nam	I
 yug	I
 txiv	I
-nam	O
-yug	O
-txiv	O
 nteg	O
 ?	O
 
@@ -1580,9 +1574,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 npaum	O
 li	O
 cas	O

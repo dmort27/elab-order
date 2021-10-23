@@ -24,9 +24,6 @@ ua	B
 num	I
 ua	I
 tswv	I
-num	O
-ua	O
-tswv	O
 npaum	O
 caag	O
 ,	O
@@ -468,9 +465,6 @@ ua	B
 mus	I
 ua	I
 los	I
-mus	O
-ua	O
-los	O
 ua	O
 li	O
 cas	O
@@ -698,9 +692,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 tuaj	O
 rau	O
 niag	O
@@ -717,9 +708,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 rau	O
 nws	O
 noj	O

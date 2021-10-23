@@ -783,9 +783,6 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 Hmoob	O
 ,	O
 tsi	O
@@ -994,9 +991,6 @@ hauv	B
 paus	I
 hauv	I
 ntsis	I
-paus	O
-hauv	O
-ntsis	O
 .	O
 
 
@@ -1497,9 +1491,6 @@ nriav	B
 noj	I
 nriav	I
 haus	I
-noj	O
-nriav	O
-haus	O
 li	O
 yawg	O
 vaajmoob	O
@@ -1519,17 +1510,11 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 tiv	O
 kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 ,	O
 kev	O
 txom	O
@@ -1777,9 +1762,6 @@ noj	B
 teb	I
 noj	I
 chaw	I
-teb	O
-noj	O
-chaw	O
 xwb	O
 xyov	O
 yog	O
@@ -2034,9 +2016,6 @@ noj	B
 teb	I
 noj	I
 chaw	I
-teb	O
-noj	O
-chaw	O
 xwb	O
 xyov	O
 yog	O
@@ -2344,9 +2323,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 li	O
 luag	O
 lwm	O
@@ -2433,9 +2409,6 @@ nai	B
 phoo	I
 nai	I
 pha	I
-phoo	O
-nai	O
-pha	O
 .	O
 
 
@@ -2450,9 +2423,6 @@ nriav	B
 noj	I
 nriav	I
 haus	I
-noj	O
-nriav	O
-haus	O
 xwb	O
 .	O
 
@@ -2471,9 +2441,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 ,	O
 xav	O
 nrov	O
@@ -2482,9 +2449,6 @@ yuav	B
 ntsej	I
 yuav	I
 muag	I
-ntsej	O
-yuav	O
-muag	O
 tiam	O
 sis	O
 tsis	O
@@ -2706,9 +2670,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 thiab	O
 ua	O
 dab	O
@@ -2820,9 +2781,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 loj	O
 kav	O
 pej	O
@@ -3246,9 +3204,6 @@ kam	B
 teb	I
 kam	I
 chaw	I
-teb	O
-kam	O
-chaw	O
 xwb	O
 tiam	O
 sis	O
@@ -3362,9 +3317,6 @@ cov	B
 hluas	I
 cov	I
 laus	I
-hluas	O
-cov	O
-laus	O
 sawvdaws	O
 yeej	O
 xav	O
@@ -3800,9 +3752,6 @@ tso	B
 dlaag	I
 tso	I
 luag	I
-dlaag	O
-tso	O
-luag	O
 tom	O
 tej	O
 tsev	O
@@ -3899,9 +3848,6 @@ niaj	B
 hnub	I
 niaj	I
 hmo	I
-hnub	O
-niaj	O
-hmo	O
 tuaj	O
 zov	O
 saib	O
@@ -3912,9 +3858,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ,	O
 tuaj	O
 qhia	O
@@ -3930,18 +3873,12 @@ peb	B
 vaj	I
 peb	I
 tsev	I
-vaj	O
-peb	O
-tsev	O
 ,	O
 tuaj	O
 nug	B
 ub	I
 nug	I
 no	I
-ub	O
-nug	O
-no	O
 ,	O
 tuaj	O
 ua	O
@@ -4095,9 +4032,6 @@ nai	B
 phoo	I
 nai	I
 pha	I
-phoo	O
-nai	O
-pha	O
 li	O
 nawb	O
 .	O
@@ -4336,9 +4270,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 es	O
 thiaj	O
 tsis	O
@@ -4346,9 +4277,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 tis	O
 npe	O
 rau	O

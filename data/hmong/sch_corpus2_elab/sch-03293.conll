@@ -47,9 +47,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 .	O
 
 
@@ -423,9 +420,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 tim	O
 Nplog	O
 ,	O

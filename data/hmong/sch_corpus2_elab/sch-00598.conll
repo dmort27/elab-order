@@ -267,9 +267,6 @@ sib	B
 txheeb	I
 sib	I
 ze	I
-txheeb	O
-sib	O
-ze	O
 li	O
 cas	O
 puas	O
@@ -466,9 +463,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 li	O
 no	O
 os	O

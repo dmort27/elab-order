@@ -1835,9 +1835,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 li	O
 ntawv	O
 xwb	O
@@ -1960,9 +1957,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 nrog	O
 Nplog	O
 Liab	O
@@ -2419,9 +2413,6 @@ npaum	B
 ub	I
 npaum	I
 nua	I
-ub	O
-npaum	O
-nua	O
 .	O
 
 

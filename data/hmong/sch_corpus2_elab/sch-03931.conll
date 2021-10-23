@@ -210,9 +210,6 @@ cuag	B
 pog	I
 cuag	I
 yawg	I
-pog	O
-cuag	O
-yawg	O
 los	O
 kuv	O
 yeej	O
@@ -2602,9 +2599,6 @@ lug	B
 toj	I
 lug	I
 pes	I
-toj	O
-lug	O
-pes	O
 quaj	O
 .	O
 
@@ -2658,9 +2652,6 @@ lug	B
 toj	I
 lug	I
 pes	I
-toj	O
-lug	O
-pes	O
 seev	O
 .	O
 

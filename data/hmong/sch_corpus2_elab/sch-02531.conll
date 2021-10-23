@@ -780,9 +780,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 li	O
 nawb	O
 .	O
@@ -928,9 +925,6 @@ muaj	B
 mob	I
 muaj	I
 nkees	I
-mob	O
-muaj	O
-nkees	O
 li	O
 cas	O
 los	O
@@ -941,9 +935,6 @@ mus	B
 saib	I
 mus	I
 xyuas	I
-saib	O
-mus	O
-xyuas	O
 .	O
 
 

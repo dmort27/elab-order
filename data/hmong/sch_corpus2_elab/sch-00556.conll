@@ -288,9 +288,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 cai	O
 kom	O
 yog	O
@@ -411,9 +408,6 @@ tua	B
 nyuj	I
 tua	I
 npua	I
-nyuj	O
-tua	O
-npua	O
 los	O
 ua	O
 qab	O
@@ -782,9 +776,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 thiaj	O
 zoo	O
 nyob	O
@@ -1194,9 +1185,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 vim	O
 nyias	O
 muaj	O
@@ -2167,9 +2155,6 @@ sib	B
 khawm	I
 sib	I
 puag	I
-khawm	O
-sib	O
-puag	O
 kauv	O
 zwb	O
 zog	O
@@ -2315,9 +2300,6 @@ tsis	B
 pom	I
 tsis	I
 paub	I
-pom	O
-tsis	O
-paub	O
 xwb	O
 ces	O
 tiav	O

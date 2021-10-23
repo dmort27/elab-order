@@ -597,9 +597,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ma	O
 VP	O
 twb	O
@@ -1077,9 +1074,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 vim	O
 peb	O
 Moob	O
@@ -1173,9 +1167,6 @@ cov	B
 tub	I
 cov	I
 kiv	I
-tub	O
-cov	O
-kiv	O
 ,	O
 cov	O
 neej	O

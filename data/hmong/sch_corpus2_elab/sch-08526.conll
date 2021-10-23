@@ -227,9 +227,6 @@ ua	B
 nub	I
 ua	I
 mo	I
-nub	O
-ua	O
-mo	O
 haub	O
 ntxag	O
 cov	O
@@ -664,9 +661,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 tso	O
 no	O
 os	O

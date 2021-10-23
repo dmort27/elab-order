@@ -87,9 +87,6 @@ pauj	B
 dab	I
 pauj	I
 qhua	I
-dab	O
-pauj	O
-qhua	O
 los	O
 ,	O
 koj	O
@@ -471,9 +468,6 @@ yuav	B
 noj	I
 yuav	I
 haus	I
-noj	O
-yuav	O
-haus	O
 .	O
 
 
@@ -680,9 +674,6 @@ yuav	B
 noj	I
 yuav	I
 haus	I
-noj	O
-yuav	O
-haus	O
 ,	O
 koj	O
 puas	O
@@ -875,9 +866,6 @@ yuav	B
 noj	I
 yuav	I
 haus	I
-noj	O
-yuav	O
-haus	O
 ,	O
 koj	O
 puas	O
@@ -950,9 +938,6 @@ suab	B
 qeej	I
 suab	I
 nruas	I
-qeej	O
-suab	O
-nruas	O
 rau	O
 koj	O
 ris	O
@@ -1940,9 +1925,6 @@ yuav	B
 noj	I
 yuav	I
 haus	I
-noj	O
-yuav	O
-haus	O
 ,	O
 koj	O
 puas	O

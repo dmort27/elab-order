@@ -352,9 +352,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 mus	O
 kom	O
 txog	O
@@ -1635,9 +1632,6 @@ muaj	B
 pluj	I
 muaj	I
 tuag	I
-pluj	O
-muaj	O
-tuag	O
 koj	O
 tsi	O
 ca	O
@@ -1649,9 +1643,6 @@ xaav	B
 kwv	I
 xaav	I
 tij	I
-kwv	O
-xaav	O
-tij	O
 ,	O
 xaav	O
 neej	O
@@ -1717,9 +1708,6 @@ lug	B
 nyaj	I
 lug	I
 kub	I
-nyaj	O
-lug	O
-kub	O
 ntsum	O
 zoov	O
 ntsum	O

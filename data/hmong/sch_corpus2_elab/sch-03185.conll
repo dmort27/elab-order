@@ -68,9 +68,6 @@ siv	B
 qeej	I
 siv	I
 nruas	I
-qeej	O
-siv	O
-nruas	O
 rau	O
 sab	O
 txias	O
@@ -177,9 +174,6 @@ ua	B
 pag	I
 ua	I
 xau	I
-pag	O
-ua	O
-xau	O
 no	O
 ,	O
 tabsis	O
@@ -535,9 +529,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 .	O
 
 
@@ -984,9 +975,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 .	O
 
 
@@ -1027,9 +1015,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 .	O
 
 
@@ -1347,9 +1332,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 kawg	O
 li	O
 lawm	O
@@ -1769,9 +1751,6 @@ tsis	B
 txawj	I
 tsis	I
 ntse	I
-txawj	O
-tsis	O
-ntse	O
 npaum	O
 li	O
 luag	O
@@ -1829,9 +1808,6 @@ yug	B
 nyuj	I
 yug	I
 nees	I
-nyuj	O
-yug	O
-nees	O
 lawm	O
 .	O
 
@@ -1853,9 +1829,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 thiab	O
 ua	O
 tub	O
@@ -1885,9 +1858,6 @@ dej	B
 liab	I
 dej	I
 ntsuab	I
-liab	O
-dej	O
-ntsuab	O
 (	O
 www.youtube.com/watch	O
 ?	O
@@ -2104,9 +2074,6 @@ kev	B
 lis	I
 kev	I
 cai	I
-lis	O
-kev	O
-cai	O
 ,	O
 nkauj	O
 ,	O
@@ -2242,9 +2209,6 @@ tseem	B
 kev	I
 tseem	I
 cai	I
-kev	O
-tseem	O
-cai	O
 raws	O
 li	O
 qhov	O
@@ -2431,9 +2395,6 @@ siv	B
 qeej	I
 siv	I
 nruas	I
-qeej	O
-siv	O
-nruas	O
 los	O
 ua	O
 kev	O
@@ -2461,9 +2422,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 tsis	O
 yog	O
@@ -2516,9 +2474,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 tiag	O
 ces	O
 peb	O
@@ -2531,9 +2486,6 @@ ntees	B
 ploj	I
 ntees	I
 tuag	I
-ploj	O
-ntees	O
-tuag	O
 li	O
 lawm	O
 thiab	O
@@ -2771,9 +2723,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 .	O
 
 
@@ -3266,9 +3215,6 @@ piav	B
 txhij	I
 piav	I
 txhua	I
-txhij	O
-piav	O
-txhua	O
 es	O
 hias	O
 tas	O
@@ -3499,9 +3445,6 @@ daus	B
 xib	I
 daus	I
 npu	I
-xib	O
-daus	O
-npu	O
 ,	O
 toj	O
 zeb	O
@@ -3550,18 +3493,12 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 thiab	O
 kom	O
 muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 nyob	O
 ,	O
 tab	O
@@ -3618,9 +3555,6 @@ yug	B
 nyuj	I
 yug	I
 nees	I
-nyuj	O
-yug	O
-nees	O
 is	O
 a	O
 no-no	O
@@ -3915,9 +3849,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 .	O
 
 
@@ -3929,9 +3860,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 ces	O
 yeej	O
 yuav	O
@@ -3963,9 +3891,6 @@ dej	B
 liab	I
 dej	I
 ntsuab	I
-liab	O
-dej	O
-ntsuab	O
 ,	O
 hlav	O
 ntuj	O
@@ -3995,9 +3920,6 @@ tau	B
 poj	I
 tau	I
 yawm	I
-poj	O
-tau	O
-yawm	O
 .	O
 
 
@@ -4119,9 +4041,6 @@ tsho	B
 tswj	I
 tsho	I
 npuag	I
-tswj	O
-tsho	O
-npuag	O
 los	O
 hnav	O
 ces	O
@@ -4300,9 +4219,6 @@ txoj	B
 kab	I
 txoj	I
 kev	I
-kab	O
-txoj	O
-kev	O
 xwb	O
 .	O
 
@@ -4441,9 +4357,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 xwb	O
 nawb	O
 ...	O
@@ -5292,9 +5205,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 og	O
 ....	O

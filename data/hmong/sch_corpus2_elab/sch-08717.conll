@@ -856,9 +856,6 @@ cuag	B
 nom	I
 cuag	I
 tswv	I
-nom	O
-cuag	O
-tswv	O
 mus	O
 hais	O
 kam	O
@@ -869,9 +866,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 

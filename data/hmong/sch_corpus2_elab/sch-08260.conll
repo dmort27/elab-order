@@ -124,9 +124,6 @@ dag	B
 teb	I
 dag	I
 chaw	I
-teb	O
-dag	O
-chaw	O
 los	O
 tau	O
 30	O
@@ -297,9 +294,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 koj	O
 na	O

@@ -350,9 +350,6 @@ muab	B
 nyiaj	I
 muab	I
 txiaj	I
-nyiaj	O
-muab	O
-txiaj	O
 pub	O
 rau	O
 lawv	O
@@ -386,9 +383,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 ,	O
 lub	O
 HWS	O
@@ -470,9 +464,6 @@ muab	B
 nyiaj	I
 muab	I
 txiaj	I
-nyiaj	O
-muab	O
-txiaj	O
 pab	O
 lawv	O
 thiab	O
@@ -540,9 +531,6 @@ dag	B
 nom	I
 dag	I
 tswv	I
-nom	O
-dag	O
-tswv	O
 ce	O
 tsi	O
 txhaum	O
@@ -554,9 +542,6 @@ dag	B
 niam	I
 dag	I
 txiv	I
-niam	O
-dag	O
-txiv	O
 ,	O
 dag	O
 laj	O
@@ -738,9 +723,6 @@ pub	B
 qaib	I
 pub	I
 npua	I
-qaib	O
-pub	O
-npua	O
 tag	O
 ,	O
 txhua	O
@@ -1080,9 +1062,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 ,	O
 thiab	O
 siv	O

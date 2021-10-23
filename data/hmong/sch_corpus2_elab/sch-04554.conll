@@ -358,9 +358,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 no	O
 tiag	O
 .	O
@@ -427,9 +424,6 @@ nai	B
 phoo	I
 nai	I
 pha	I
-phoo	O
-nai	O
-pha	O
 ib	O
 leeg	O
 twb	O
@@ -1588,9 +1582,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ,	O
 cog	O
 dabtsi	O
@@ -1646,17 +1637,11 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ,	O
 ua	B
 vaj	I
 ua	I
 tsev	I
-vaj	O
-ua	O
-tsev	O
 ,	O
 develope	O
 li	O
@@ -1841,9 +1826,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ,	O
 ces	O
 peb	O
@@ -2173,9 +2155,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 qhia	O
 kom	O
 ceev	O

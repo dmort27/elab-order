@@ -20,9 +20,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 sib	O
 coj	O
 sib	O
@@ -141,9 +138,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 sib	O
 coj	O
 sib	O
@@ -405,9 +399,6 @@ sib	B
 pab	I
 sib	I
 txhawb	I
-pab	O
-sib	O
-txhawb	O
 txhua	O
 yam	O
 mus	O
@@ -443,9 +434,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 sib	O
 coj	O
 sib	O
@@ -560,9 +548,6 @@ sib	B
 pab	I
 sib	I
 hlub	I
-pab	O
-sib	O
-hlub	O
 kawg	O
 kiag	O
 ....	O
@@ -738,9 +723,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 sib	O
 coj	O
 sib	O
@@ -1072,9 +1054,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 ces	O
 yog	O
 ua	O
@@ -1125,9 +1104,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 sib	O
 coj	O
 sib	O
@@ -1298,9 +1274,6 @@ puv	B
 ntuj	I
 puv	I
 teb	I
-ntuj	O
-puv	O
-teb	O
 li	O
 no	O
 lawm	O
@@ -1487,9 +1460,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 thiab	O
 change	O
@@ -1718,9 +1688,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 sib	O
 coj	O
 sib	O
@@ -2183,9 +2150,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 saib	O
 puas	O
 tau	O
@@ -2219,9 +2183,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 sib	O
 coj	O
 sib	O

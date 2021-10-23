@@ -370,9 +370,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ntau	O
 xwb	O
 ,	O
@@ -446,9 +443,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 zoo	O
 tshaj	O
 ,	O
@@ -500,9 +494,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 mus	O
 xyaum	O
 luag	O
@@ -511,9 +502,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 (	O
 culture	O
 )	O
@@ -1506,9 +1494,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 kev	O
 teevhawm	O
@@ -2961,9 +2946,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 .	O
 
 
@@ -2990,9 +2972,6 @@ tua	B
 tsiaj	I
 tua	I
 txhuv	I
-tsiaj	O
-tua	O
-txhuv	O
 noj	O
 thiab	O
 ua	O
@@ -3060,9 +3039,6 @@ kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 ,	O
 thiab	O
 ho	O
@@ -3102,9 +3078,6 @@ ua	B
 pag	I
 ua	I
 xau	I
-pag	O
-ua	O
-xau	O
 qhuas	O
 vajtswv	O
 .	O
@@ -3119,9 +3092,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 :	O
 Nej	O
 cov	O
@@ -3185,9 +3155,6 @@ dab	B
 txeej	I
 dab	I
 qus	I
-txeej	O
-dab	O
-qus	O
 tsis	O
 txhob	O
 los	O
@@ -3300,9 +3267,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 tseem	O
 coj	O
 Hmoob	O
@@ -3497,9 +3461,6 @@ tiav	B
 nkauj	I
 tiav	I
 nraug	I
-nkauj	O
-tiav	O
-nraug	O
 ces	O
 lawv	O
 yuav	O

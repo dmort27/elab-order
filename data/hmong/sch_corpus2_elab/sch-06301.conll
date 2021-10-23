@@ -43,9 +43,6 @@ tej	B
 nam	I
 tej	I
 txiv	I
-nam	O
-tej	O
-txiv	O
 los	O
 sis	O
 tej	O
@@ -75,9 +72,6 @@ tej	B
 nam	I
 tej	I
 txiv	I
-nam	O
-tej	O
-txiv	O
 los	O
 sis	O
 tej	O
@@ -451,9 +445,6 @@ tej	B
 nam	I
 tej	I
 txiv	I
-nam	O
-tej	O
-txiv	O
 piv	O
 rua	O
 lub	O
@@ -535,9 +526,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 xwb	O
 las	O
 .	O
@@ -569,9 +557,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 uas	O
 txim	O
 txiaj	O
@@ -640,9 +625,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 tsuj	O
 ntiag	O
 rau	O
@@ -663,9 +645,6 @@ tub	B
 ntsoj	I
 tub	I
 ntsuag	I
-ntsoj	O
-tub	O
-ntsuag	O
 tseem	O
 tu	O
 siab	O
@@ -850,9 +829,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 ua	O
 ces	O
 tsi	O

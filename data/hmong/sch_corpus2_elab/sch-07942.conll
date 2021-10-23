@@ -1590,9 +1590,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 xwb	O
 ces	O
 puam	O
@@ -1710,9 +1707,6 @@ tiav	B
 niam	I
 tiav	I
 txiv	I
-niam	O
-tiav	O
-txiv	O
 (	O
 18	O
 )	O

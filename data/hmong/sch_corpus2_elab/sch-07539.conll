@@ -129,9 +129,6 @@ qub	B
 vaj	I
 qub	I
 tsev	I
-vaj	O
-qub	O
-tsev	O
 seb	O
 puas	O
 muaj	O
@@ -594,9 +591,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 xwb	O
 .	O
 
@@ -630,9 +624,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ces	O
 pej	O
 xeem	O
@@ -676,9 +667,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ntawd	O
 yog	O
 pej	O
@@ -989,9 +977,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 kom	O
 luag	O
 ub	O
@@ -1096,9 +1081,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ntau	O
 tus	O
 ,	O
@@ -1345,9 +1327,6 @@ ua	B
 sab	I
 ua	I
 sua	I
-sab	O
-ua	O
-sua	O
 tuaj	O
 nyob	O
 tsis	O
@@ -3707,9 +3686,6 @@ peb	B
 txawj	I
 peb	I
 ntse	I
-txawj	O
-peb	O
-ntse	O
 mas	O
 ?	O
 
@@ -4524,9 +4500,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 los	O
 li	O
 no	O
@@ -4605,9 +4578,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 li	O
 no	O
 xwb	O

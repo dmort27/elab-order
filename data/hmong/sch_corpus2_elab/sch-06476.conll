@@ -181,9 +181,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 es	O
 nws	O
 txhob	O
@@ -1683,9 +1680,6 @@ muaj	B
 pab	I
 muaj	I
 pawg	I
-pab	O
-muaj	O
-pawg	O
 li	O
 ntawv	O
 es	O
@@ -1876,9 +1870,6 @@ tus	B
 yeej	I
 tus	I
 swb	I
-yeej	O
-tus	O
-swb	O
 .	O
 
 
@@ -2056,9 +2047,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 tseem	O
 yuav	O
 muaj	O
@@ -2087,9 +2075,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 xwb	O
 ,	O
 tseem	O

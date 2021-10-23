@@ -624,9 +624,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 rau	O
 koj	O
 xwb	O
@@ -663,9 +660,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 niam	O
 ,	O
 1	O
@@ -694,9 +688,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ...	O
 take	O
 care	O
@@ -794,9 +785,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ...	O
 Koj	O
 tsis	O

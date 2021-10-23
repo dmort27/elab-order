@@ -105,9 +105,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 ,	O
 lwm	O
 haiv	O
@@ -201,9 +198,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 zoo	O
 ,	O
 ua	O
@@ -2599,9 +2593,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 zoo	O
 siab	O
 hais	O
@@ -3197,9 +3188,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 tuaj	O
 ,	O
 ces	O
@@ -3482,9 +3470,6 @@ tej	B
 nam	I
 tej	I
 txiv	I
-nam	O
-tej	O
-txiv	O
 hab	O
 tej	O
 neeg	O

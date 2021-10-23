@@ -24,9 +24,6 @@ ua	B
 txij	I
 ua	I
 nkawm	I
-txij	O
-ua	O
-nkawm	O
 tas	O
 li	O
 ntawv	O
@@ -87,9 +84,6 @@ ua	B
 txij	I
 ua	I
 nkawm	I
-txij	O
-ua	O
-nkawm	O
 tas	O
 li	O
 ntawv	O
@@ -2563,9 +2557,6 @@ raug	B
 plaub	I
 raug	I
 ntug	I
-plaub	O
-raug	O
-ntug	O
 los	O
 tus	O
 niam	O
@@ -2772,9 +2763,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 .	O
 
@@ -2979,9 +2967,6 @@ txoj	B
 kab	I
 txoj	I
 kev	I
-kab	O
-txoj	O
-kev	O
 teb	O
 ua	O
 poj	O

@@ -39,9 +39,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 cov	O
 me	O
@@ -171,9 +168,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ,	O
 kom	O
 lwm	O
@@ -333,9 +327,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ,	O
 es	O
 muab	O
@@ -685,9 +676,6 @@ yog	B
 neej	I
 yog	I
 tsav	I
-neej	O
-yog	O
-tsav	O
 thiab	O
 yog	O
 cov	O
@@ -711,9 +699,6 @@ hmoob	B
 neej	I
 hmoob	I
 tsav	I
-neej	O
-hmoob	O
-tsav	O
 mas	O
 koj	O
 twb	O

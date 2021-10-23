@@ -969,9 +969,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 muaj	O
 muaj	O
 li	O
@@ -1539,9 +1536,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 .	O
 
 
@@ -1825,9 +1819,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 xwb	O
 los	O
 sis	O
@@ -2910,9 +2901,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 los	O
 yeej	O
 muaj	O

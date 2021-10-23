@@ -741,9 +741,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ces	O
 yog	O
 cov	O
@@ -805,9 +802,6 @@ txhaum	B
 kev	I
 txhaum	I
 cai	I
-kev	O
-txhaum	O
-cai	O
 lawm	O
 los	O
 tseem	O
@@ -1295,9 +1289,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 feeb	O
 tsis	O
 meej	O
@@ -1511,9 +1502,6 @@ mloog	B
 qab	I
 mloog	I
 hauv	I
-qab	O
-mloog	O
-hauv	O
 le	O
 ...	O
 LOL	O

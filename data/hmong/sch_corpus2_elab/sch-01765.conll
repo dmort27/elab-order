@@ -4018,9 +4018,6 @@ me	B
 teb	I
 me	I
 chaw	I
-teb	O
-me	O
-chaw	O
 es	O
 niam	O
 no	O
@@ -4135,9 +4132,6 @@ thoob	B
 zej	I
 thoob	I
 zos	I
-zej	O
-thoob	O
-zos	O
 Tej	O
 me	O
 tsiaj	O
@@ -4370,9 +4364,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 .	O
 
 
@@ -4842,9 +4833,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 .	O
 
 
@@ -4862,9 +4850,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 nyab	O
 tag	O
 lawm	O

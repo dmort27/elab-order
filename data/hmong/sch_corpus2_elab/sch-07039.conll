@@ -501,9 +501,6 @@ noog	B
 ub	I
 noog	I
 no	I
-ub	O
-noog	O
-no	O
 ,	O
 koj	O
 hais	O
@@ -529,9 +526,6 @@ ntim	B
 ntsej	I
 ntim	I
 muag	I
-ntsej	O
-ntim	O
-muag	O
 nro	O
 nws	O
 hais	O
@@ -746,9 +740,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 niaj	O
 hnub	O
@@ -768,9 +759,6 @@ thawj	B
 ub	I
 thawj	I
 no	I
-ub	O
-thawj	O
-no	O
 xwb	O
 los	O
 mas	O
@@ -825,9 +813,6 @@ zov	B
 vaj	I
 zov	I
 tsev	I
-vaj	O
-zov	O
-tsev	O
 no	O
 ces	O
 niam	O
@@ -932,9 +917,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -962,9 +944,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 ib	O
 tsab	O
 ntawv	O

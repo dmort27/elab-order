@@ -159,9 +159,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 tau	O
 tso	O
 peb	O
@@ -393,9 +390,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 zoo	O
 ib	O
 yam	O
@@ -962,9 +956,6 @@ tuam	B
 meej	I
 tuam	I
 pem	I
-meej	O
-tuam	O
-pem	O
 .	O
 
 
@@ -2325,9 +2316,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hais	O
 li	O
 ntawd	O
@@ -2433,9 +2421,6 @@ siab	B
 loj	I
 siab	I
 dav	I
-loj	O
-siab	O
-dav	O
 es	O
 ho	O
 faib	O
@@ -2803,9 +2788,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 thiab	O
 ruam	O
 ruam	O

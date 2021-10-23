@@ -1331,9 +1331,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 los	O
 tau	O
 30	O
@@ -1392,9 +1389,6 @@ ntaim	B
 noj	I
 ntaim	I
 haus	I
-noj	O
-ntaim	O
-haus	O
 ntawm	O
 yus	O
 cov	O
@@ -1439,9 +1433,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 .	O
 
 
@@ -1775,9 +1766,6 @@ zuag	B
 khaub	I
 zuag	I
 tsuag	I
-khaub	O
-zuag	O
-tsuag	O
 nrawm	O
 nroos	O
 ua	O
@@ -1862,9 +1850,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 xwb	O
 .	O
 
@@ -2089,9 +2074,6 @@ tej	B
 phooj	I
 tej	I
 ywg	I
-phooj	O
-tej	O
-ywg	O
 uas	O
 sib	O
 paub	O
@@ -2349,9 +2331,6 @@ pab	B
 ub	I
 pab	I
 no	I
-ub	O
-pab	O
-no	O
 ,	O
 (	O
 Teachers	O
@@ -2401,9 +2380,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 hos	O
 tseem	O
 link	O

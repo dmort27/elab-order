@@ -175,16 +175,10 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 zeem	B
 neej	I
 zeem	I
 tsav	I
-neej	O
-zeem	O
-tsav	O
 ces	O
 peb	O
 tso	O
@@ -689,9 +683,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 tseem	O
 nyob	O
 li	O
@@ -943,9 +934,6 @@ xeeb	B
 zeej	I
 xeeb	I
 ntxwv	I
-zeej	O
-xeeb	O
-ntxwv	O
 maam	O
 kom	O
 ntaub	O
@@ -1088,9 +1076,6 @@ yam	B
 ub	I
 yam	I
 no	I
-ub	O
-yam	O
-no	O
 zoox	O
 mas	O
 lawv	O

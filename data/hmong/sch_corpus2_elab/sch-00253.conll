@@ -102,9 +102,6 @@ puas	B
 koob	I
 puas	I
 npe	I
-koob	O
-puas	O
-npe	O
 los	O
 lubteb	O
 lubchaw	O
@@ -817,9 +814,6 @@ yus	B
 noj	I
 yus	I
 haus	I
-noj	O
-yus	O
-haus	O
 li	O
 ntawd	O
 .	O
@@ -1019,9 +1013,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 uas	O
 koj	O
 ntshaw	O

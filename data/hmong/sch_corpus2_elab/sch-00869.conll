@@ -150,9 +150,6 @@ ko	B
 riam	I
 ko	I
 txuas	I
-riam	O
-ko	O
-txuas	O
 mas	O
 twb	O
 yog	O
@@ -483,9 +480,6 @@ noj	B
 teb	I
 noj	I
 chaw	I
-teb	O
-noj	O
-chaw	O
 los	O
 yuav	O
 tsum	O
@@ -847,9 +841,6 @@ tswv	B
 teb	I
 tswv	I
 chaw	I
-teb	O
-tswv	O
-chaw	O
 thiab	O
 pej	O
 xeem	O
@@ -1092,9 +1083,6 @@ yeej	B
 teb	I
 yeej	I
 chaw	I
-teb	O
-yeej	O
-chaw	O
 no	O
 nawb	O
 .	O
@@ -1484,9 +1472,6 @@ hav	B
 tauj	I
 hav	I
 nqeeb	I
-tauj	O
-hav	O
-nqeeb	O
 mas	O
 kuv	O
 ho	O
@@ -1824,9 +1809,6 @@ paub	B
 ub	I
 paub	I
 no	I
-ub	O
-paub	O
-no	O
 tuaj	O
 .	O
 
@@ -2098,9 +2080,6 @@ ywj	B
 faab	I
 ywj	I
 fwj	I
-faab	O
-ywj	O
-fwj	O
 xwb	O
 ,	O
 coob	O
@@ -2515,9 +2494,6 @@ ywj	B
 faab	I
 ywj	I
 fwj	I
-faab	O
-ywj	O
-fwj	O
 xwb	O
 ,	O
 coob	O
@@ -2929,9 +2905,6 @@ lus	B
 ub	I
 lus	I
 no	I
-ub	O
-lus	O
-no	O
 .	O
 
 

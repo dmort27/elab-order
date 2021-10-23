@@ -246,18 +246,12 @@ sau	B
 ntaub	I
 sau	I
 ntawv	I
-ntaub	O
-sau	O
-ntawv	O
 hais	O
 ncha	O
 thoob	B
 teb	I
 thoob	I
 chaw	I
-teb	O
-thoob	O
-chaw	O
 kom	O
 peb	O
 cov	O
@@ -276,9 +270,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 pab	O
 rau	O
 Hmoob	O
@@ -688,9 +679,6 @@ muaj	B
 suab	I
 muaj	I
 npe	I
-suab	O
-muaj	O
-npe	O
 no	O
 tshaj	O
 tawm	O
@@ -1952,9 +1940,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 nas	O
 .	O
 
@@ -2197,9 +2182,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 .	O
 
 
@@ -2443,9 +2425,6 @@ tsoo	B
 lwj	I
 tsoo	I
 liam	I
-lwj	O
-tsoo	O
-liam	O
 ua	O
 heev	O
 heev	O
@@ -2654,9 +2633,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 vim	O
 lawv	O
 tsis	O
@@ -2672,9 +2648,6 @@ yog	B
 niam	I
 yog	I
 txiv	I
-niam	O
-yog	O
-txiv	O
 xwb	O
 .	O
 
@@ -2700,18 +2673,12 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 yuav	O
 nrhiav	O
 pluas	B
 noj	I
 pluas	I
 haus	I
-noj	O
-pluas	O
-haus	O
 rau	O
 lawv	O
 xwb	O
@@ -2836,9 +2803,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 .	O
 
 
@@ -3965,9 +3929,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 xwb	O
 ces	O
 yus	O
@@ -4069,9 +4030,6 @@ yog	B
 phooj	I
 yog	I
 ywg	I
-phooj	O
-yog	O
-ywg	O
 los	O
 kuv	O
 yeej	O
@@ -4130,9 +4088,6 @@ kuv	B
 pom	I
 kuv	I
 paub	I
-pom	O
-kuv	O
-paub	O
 tus	O
 xwm	O
 txheej	O
@@ -5018,9 +4973,6 @@ peb	B
 hnub	I
 peb	I
 hmo	I
-hnub	O
-peb	O
-hmo	O
 kom	O
 tas	O
 zaj	O
@@ -6084,9 +6036,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 cia	O
 li	O
 muaj	O
@@ -6277,9 +6226,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 mas	O
 .	O
 
@@ -6472,9 +6418,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 xwb	O
 hais	O
 tsis	O
@@ -6544,9 +6487,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 thaum	O
 luag	O
 ua	O
@@ -6612,9 +6552,6 @@ tej	B
 neej	I
 tej	I
 tsa	I
-neej	O
-tej	O
-tsa	O
 tej	O
 kw	O
 tej	O
@@ -6623,9 +6560,6 @@ tej	B
 txheeb	I
 tej	I
 ze	I
-txheeb	O
-tej	O
-ze	O
 .	O
 
 
@@ -6917,9 +6851,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 na	O
 .	O
 
@@ -7333,9 +7264,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 no	O
 los	O
 vim	O
@@ -7621,9 +7549,6 @@ hauv	B
 paus	I
 hauv	I
 ntsis	I
-paus	O
-hauv	O
-ntsis	O
 no	O
 .	O
 

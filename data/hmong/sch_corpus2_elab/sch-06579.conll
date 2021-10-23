@@ -464,9 +464,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 es	O
 lawv	O
 thiaj	O
@@ -1216,9 +1213,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 txhais	O
 ua	O
 lub	O
@@ -1535,9 +1529,6 @@ kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 uas	O
 wb	O
 niag	O
@@ -1556,9 +1547,6 @@ dhia	B
 zeb	I
 dhia	I
 tsua	I
-zeb	O
-dhia	O
-tsua	O
 saib	O
 puas	O
 nrog	O

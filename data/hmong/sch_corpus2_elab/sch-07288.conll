@@ -266,9 +266,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 mas	O
 yuav	O
 mob	O
@@ -311,9 +308,6 @@ kuag	B
 kaab	I
 kuag	I
 hlau	I
-kaab	O
-kuag	O
-hlau	O
 nuav	O
 ces	O
 tsi	O
@@ -1616,9 +1610,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 dua	O
 yom	O
 .	O
@@ -1854,9 +1845,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 ,	O
 koj	O
 pheej	O

@@ -680,9 +680,6 @@ mus	B
 ub	I
 mus	I
 no	I
-ub	O
-mus	O
-no	O
 pojniam	O
 thiaj	O
 tsis	O
@@ -732,9 +729,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 xwb	O
 zoo	O
 dua	O
@@ -1522,9 +1516,6 @@ tshwm	B
 ntsej	I
 tshwm	I
 muag	I
-ntsej	O
-tshwm	O
-muag	O
 rau	O
 nws	O
 lub	O

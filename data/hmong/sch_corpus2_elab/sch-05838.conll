@@ -254,25 +254,16 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 ,	O
 kev	B
 kwv	I
 kev	I
 tij	I
-kwv	O
-kev	O
-tij	O
 ,	O
 kev	B
 neej	I
 kev	I
 tsaav	I
-neej	O
-kev	O
-tsaav	O
 ,	O
 hab	O
 kev	O
@@ -518,9 +509,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 niaj	O
 hnub	O
 ua	O
@@ -922,9 +910,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 lam	O
 tau	O
 lam	O
@@ -1102,9 +1087,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ,	O
 tab	O
 sis	O
@@ -1159,9 +1141,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 .	O
 
 

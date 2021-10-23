@@ -394,9 +394,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 li	O
 hos	O
 ,	O
@@ -804,9 +801,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 xwb	O
 .	O
 
@@ -869,9 +863,6 @@ thov	B
 ub	I
 thov	I
 no	I
-ub	O
-thov	O
-no	O
 pab	O
 xwb	O
 .	O
@@ -1017,9 +1008,6 @@ hais	B
 nom	I
 hais	I
 tswv	I
-nom	O
-hais	O
-tswv	O
 ,	O
 mus	O
 khoom	O
@@ -1037,9 +1025,6 @@ sau	B
 ntaub	I
 sau	I
 ntawv	I
-ntaub	O
-sau	O
-ntawv	O
 thiab	O
 txhua	O
 yam	O
@@ -1280,9 +1265,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 rau	O
 hauv	O
 no	O

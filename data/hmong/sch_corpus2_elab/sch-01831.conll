@@ -977,9 +977,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 siab	O
 thiab	O
 yeej	O
@@ -1064,9 +1061,6 @@ noj	B
 txhij	I
 noj	I
 txhua	I
-txhij	O
-noj	O
-txhua	O
 thiab	O
 uatxhij	O
 ua	O
@@ -1210,9 +1204,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 ,	O
 lawv	O
 thiaj	O
@@ -1424,9 +1415,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 noogdlej	O
 PY	O
 Noogdlej	O
@@ -1621,9 +1609,6 @@ kev	B
 plees	I
 kev	I
 yi	I
-plees	O
-kev	O
-yi	O
 nrog	O
 tus	O
 sab	O

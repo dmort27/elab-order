@@ -556,9 +556,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 yam	O
 tsi	O
 paub	O
@@ -601,9 +598,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 maj	O
 .	O
 
@@ -2049,9 +2043,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 ,	O
 thiab	O
 lawv	O
@@ -2148,9 +2139,6 @@ nai	B
 phoo	I
 nai	I
 pha	I
-phoo	O
-nai	O
-pha	O
 dab	O
 tsi	O
 li	O

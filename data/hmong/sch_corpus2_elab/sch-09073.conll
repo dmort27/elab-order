@@ -200,9 +200,6 @@ muag	B
 vaj	I
 muag	I
 tsev	I
-vaj	O
-muag	O
-tsev	O
 thiab	O
 notify	O
 kuv	O
@@ -349,9 +346,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 tsis	O
 tau	O
 txaus	O
@@ -482,18 +476,12 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 tias	O
 neej	O
 muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 lawm	O
 kom	O
 cov	O
@@ -901,9 +889,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 pab	O
 kom	O
 tau	O
@@ -1181,9 +1166,6 @@ ua	B
 num	I
 ua	I
 tswv	I
-num	O
-ua	O
-tswv	O
 .	O
 
 
@@ -1430,9 +1412,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 kuv	O
 twb	O
 pab	O
@@ -1505,9 +1484,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 rau	O
 luag	O
 nas	O

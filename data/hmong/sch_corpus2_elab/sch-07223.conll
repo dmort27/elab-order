@@ -1027,9 +1027,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 los	O
 tsis	O
 muaj	O
@@ -2313,9 +2310,6 @@ mus	B
 thov	I
 mus	I
 pe	I
-thov	O
-mus	O
-pe	O
 kom	O
 tsoom	O
 fwv	O
@@ -2663,9 +2657,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 vim	O
 tias	O
 lawv	O
@@ -2823,9 +2814,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 tuaj	O
 kom	O
 muaj	O

@@ -36,9 +36,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 ,	O
 kev	O
 ua	O
@@ -1904,9 +1901,6 @@ qhov	B
 zoo	I
 qhov	I
 phem	I
-zoo	O
-qhov	O
-phem	O
 huv	O
 tib	O
 si	O
@@ -1948,9 +1942,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 ua	O
 li	O
@@ -2420,9 +2411,6 @@ nkauj	B
 mab	I
 nkauj	I
 suav	I
-mab	O
-nkauj	O
-suav	O
 ,	O
 nkauj	O
 ncuav	O
@@ -2438,9 +2426,6 @@ nkauj	B
 dub	I
 nkauj	I
 dawb	I
-dub	O
-nkauj	O
-dawb	O
 li	O
 as	O
 ...	O

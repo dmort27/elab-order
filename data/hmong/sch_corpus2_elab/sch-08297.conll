@@ -737,9 +737,6 @@ sib	B
 ceg	I
 sib	I
 ntaus	I
-ceg	O
-sib	O
-ntaus	O
 tag	O
 los	O
 yuav	O
@@ -954,9 +951,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 kom	O
 rov	O
 ruaj	O

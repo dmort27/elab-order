@@ -812,9 +812,6 @@ muaj	B
 qab	I
 muaj	I
 hau	I
-qab	O
-muaj	O
-hau	O
 kawg	O
 lawm	O
 .	O
@@ -1016,9 +1013,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 mus	O
 txhim	O
 thiab	O
@@ -1270,9 +1264,6 @@ poob	B
 teb	I
 poob	I
 chaw	I
-teb	O
-poob	O
-chaw	O
 ....	O
 tsi	O
 taag	O
@@ -1362,9 +1353,6 @@ tej	B
 puj	I
 tej	I
 yawm	I
-puj	O
-tej	O
-yawm	O
 teg	O
 tub	O
 tej	O
@@ -1689,9 +1677,6 @@ muaj	B
 tub	I
 muaj	I
 ntxhais	I
-tub	O
-muaj	O
-ntxhais	O
 ua	O
 nom	O
 ua	O
@@ -1760,9 +1745,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 tej	O
 pujkoob	O
 yawmkoob	O

@@ -514,9 +514,6 @@ tej	B
 liaj	I
 tej	I
 teb	I
-liaj	O
-tej	O
-teb	O
 nyob	O
 rau	O
 Xiengkhouang	O
@@ -904,9 +901,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 es	O
 muaj	O
 kev	O
@@ -972,9 +966,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 thoob	O
 plaws	O
 li	O
@@ -1129,9 +1120,6 @@ kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 xwb	O
 .	O
 
@@ -1383,9 +1371,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ,	O
 tus	O
 neeg	O
@@ -1395,9 +1380,6 @@ noj	B
 seem	I
 noj	I
 so	I
-seem	O
-noj	O
-so	O
 ,	O
 tus	O
 neeg	O
@@ -1417,9 +1399,6 @@ tub	B
 sab	I
 tub	I
 nyiag	I
-sab	O
-tub	O
-nyiag	O
 coob	O
 tuaj	O
 .	O
@@ -1442,9 +1421,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 ces	O
 lub	O
 teb	O

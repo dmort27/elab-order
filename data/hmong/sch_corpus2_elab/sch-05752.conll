@@ -361,9 +361,6 @@ muaj	B
 caij	I
 muaj	I
 nyoog	I
-caij	O
-muaj	O
-nyoog	O
 .	O
 
 
@@ -446,9 +443,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 ,	O
 lub	O
 caij	O

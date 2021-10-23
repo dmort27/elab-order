@@ -329,9 +329,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 kom	O
 tau	O
 qoj	O
@@ -386,9 +383,6 @@ tu	B
 tub	I
 tu	I
 kiv	I
-tub	O
-tu	O
-kiv	O
 los	O
 npaj	O
 laus	O
@@ -410,9 +404,6 @@ muaj	B
 tub	I
 muaj	I
 ntxhais	I
-tub	O
-muaj	O
-ntxhais	O
 ntau	O
 mas	O
 tus	O
@@ -1558,9 +1549,6 @@ muaj	B
 sab	I
 muaj	I
 ntsws	I
-sab	O
-muaj	O
-ntsws	O
 naj	O
 !	O
 

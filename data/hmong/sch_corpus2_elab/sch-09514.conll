@@ -619,9 +619,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 yuav	O
 vammeej	O
 txog	O
@@ -629,9 +626,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 ua	O
 luaj	O
 li	O
@@ -647,9 +641,6 @@ sib	B
 daj	I
 sib	I
 deev	I
-daj	O
-sib	O
-deev	O
 li	O
 es	O
 ,	O
@@ -704,9 +695,6 @@ niaj	B
 hnub	I
 niaj	I
 hmo	I
-hnub	O
-niaj	O
-hmo	O
 thiab	O
 niaj	O
 second	O

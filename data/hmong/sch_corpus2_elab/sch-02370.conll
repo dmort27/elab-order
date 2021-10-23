@@ -295,9 +295,6 @@ qub	B
 zaub	I
 qub	I
 mov	I
-zaub	O
-qub	O
-mov	O
 tag	O
 ces	O
 tej	O
@@ -691,9 +688,6 @@ muab	B
 nom	I
 muab	I
 tswv	I
-nom	O
-muab	O
-tswv	O
 uas	O
 xee	O
 vp	O

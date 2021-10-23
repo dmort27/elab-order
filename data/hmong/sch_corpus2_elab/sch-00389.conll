@@ -62,9 +62,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 ntau	O
 heev	O
 ,	O
@@ -161,9 +158,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 tuaj	O
 ua	O
 si	O
@@ -207,9 +201,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 Suggestion	O
 :	O
 1	O
@@ -346,9 +337,6 @@ puab	B
 dib	I
 puab	I
 daub	I
-dib	O
-puab	O
-daub	O
 mus	O
 mus	O
 los	O

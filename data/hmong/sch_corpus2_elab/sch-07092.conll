@@ -544,9 +544,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 ,	O
 tabsis	O
 my	O
@@ -620,16 +617,10 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 yoo	B
 tshaib	I
 yoo	I
 nqhis	I
-tshaib	O
-yoo	O
-nqhis	O
 ne	O
 -	O
 kav	O
@@ -904,9 +895,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 .	O
 
 
@@ -926,9 +914,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 los	O
 tau	O
 kawg	O
@@ -1328,9 +1313,6 @@ kev	B
 phem	I
 kev	I
 qias	I
-phem	O
-kev	O
-qias	O
 li	O
 Teev	O
 thiab	O
@@ -1568,9 +1550,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 os	O
 yawg	O
 .	O
@@ -1814,9 +1793,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 ,	O
 khawv	O
 yeej	O
@@ -1889,9 +1865,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 ,	O
 kwv	O
 tij	O
@@ -1944,9 +1917,6 @@ sib	B
 hais	I
 sib	I
 cav	I
-hais	O
-sib	O
-cav	O
 lawm	O
 ,	O
 peb	O

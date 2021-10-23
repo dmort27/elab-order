@@ -245,9 +245,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 mus	O
 khwv	O
 tau	O
@@ -607,9 +604,6 @@ nriav	B
 noj	I
 nriav	I
 haus	I
-noj	O
-nriav	O
-haus	O
 thiab	O
 ?	O
 
@@ -1027,9 +1021,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 xwb	O
 ,	O
 wb	O

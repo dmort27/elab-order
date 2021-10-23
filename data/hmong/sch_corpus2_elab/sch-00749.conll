@@ -300,9 +300,6 @@ paub	B
 txhij	I
 paub	I
 txhua	I
-txhij	O
-paub	O
-txhua	O
 .	O
 
 
@@ -896,9 +893,6 @@ saib	B
 ntsej	I
 saib	I
 muag	I
-ntsej	O
-saib	O
-muag	O
 li	O
 nawb	O
 .	O
@@ -1099,9 +1093,6 @@ tuaj	B
 koom	I
 tuaj	I
 pab	I
-koom	O
-tuaj	O
-pab	O
 no	O
 .	O
 

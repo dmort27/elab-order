@@ -382,9 +382,6 @@ sib	B
 ntsib	I
 sib	I
 pum	I
-ntsib	O
-sib	O
-pum	O
 ces	O
 peb	O
 suav	O
@@ -892,9 +889,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 yog	O
 ua	O
 ntau	O
@@ -1087,9 +1081,6 @@ txog	B
 caij	I
 txog	I
 nyoog	I
-caij	O
-txog	O
-nyoog	O
 npaj	O
 khaub	O
 hnab	O

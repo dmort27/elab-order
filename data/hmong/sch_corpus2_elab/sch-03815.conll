@@ -37,9 +37,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 thov	O
 koj	O
 muab	O
@@ -103,9 +100,6 @@ ciaj	B
 nom	I
 ciaj	I
 tswv	I
-nom	O
-ciaj	O
-tswv	O
 lis	O
 neeg	O
 gab	O
@@ -251,9 +245,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 thov	O
 koj	O
 muab	O
@@ -317,9 +308,6 @@ ciaj	B
 nom	I
 ciaj	I
 tswv	I
-nom	O
-ciaj	O
-tswv	O
 lis	O
 neeg	O
 gab	O
@@ -602,9 +590,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 thov	O
 koj	O
 muab	O
@@ -668,9 +653,6 @@ ciaj	B
 nom	I
 ciaj	I
 tswv	I
-nom	O
-ciaj	O
-tswv	O
 lis	O
 neeg	O
 gab	O
@@ -1001,8 +983,5 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 
 

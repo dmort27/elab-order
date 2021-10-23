@@ -52,9 +52,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 ces	O
 Thaib	O
 xav	O
@@ -1284,9 +1281,6 @@ khoom	B
 noj	I
 khoom	I
 haus	I
-noj	O
-khoom	O
-haus	O
 los	O
 yuav	O
 tsum	O
@@ -1621,9 +1615,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 tuag	O
 tsis	O
 muaj	O

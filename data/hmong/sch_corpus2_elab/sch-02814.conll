@@ -1370,9 +1370,6 @@ sib	B
 txheeb	I
 sib	I
 ze	I
-txheeb	O
-sib	O
-ze	O
 .	O
 
 
@@ -1386,9 +1383,6 @@ muaj	B
 tseeb	I
 muaj	I
 tsum	I
-tseeb	O
-muaj	O
-tsum	O
 lawm	O
 ,	O
 yuav	O
@@ -1428,9 +1422,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 xwb	O
 no	O
 ces	O
@@ -1666,9 +1657,6 @@ muaj	B
 tsov	I
 muaj	I
 rog	I
-tsov	O
-muaj	O
-rog	O
 loj	O
 ,	O
 yuav	O
@@ -1705,9 +1693,6 @@ muaj	B
 tsov	I
 muaj	I
 rog	I
-tsov	O
-muaj	O
-rog	O
 loj	O
 yuav	O
 tau	O

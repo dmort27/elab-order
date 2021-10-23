@@ -1631,9 +1631,6 @@ tsis	B
 deb	I
 tsis	I
 ze	I
-deb	O
-tsis	O
-ze	O
 qhov	O
 no	O
 thiab	O
@@ -2950,9 +2947,6 @@ tsis	B
 deb	I
 tsis	I
 ze	I
-deb	O
-tsis	O
-ze	O
 qhov	O
 no	O
 thiab	O
@@ -3291,9 +3285,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 xws	O
 li	O
 mob	O
@@ -3393,9 +3384,6 @@ tag	B
 siab	I
 tag	I
 ntsws	I
-siab	O
-tag	O
-ntsws	O
 -	O
 muaj	O
 tej	O
@@ -3431,9 +3419,6 @@ txaus	B
 siab	I
 txaus	I
 ntsws	I
-siab	O
-txaus	O
-ntsws	O
 seb	O
 ho	O
 yuav	O
@@ -4707,9 +4692,6 @@ tsis	B
 deb	I
 tsis	I
 ze	I
-deb	O
-tsis	O
-ze	O
 qhov	O
 no	O
 thiab	O
@@ -5054,9 +5036,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 xws	O
 li	O
 mob	O
@@ -5156,9 +5135,6 @@ tag	B
 siab	I
 tag	I
 ntsws	I
-siab	O
-tag	O
-ntsws	O
 -	O
 muaj	O
 tej	O
@@ -5194,9 +5170,6 @@ txaus	B
 siab	I
 txaus	I
 ntsws	I
-siab	O
-txaus	O
-ntsws	O
 seb	O
 ho	O
 yuav	O
@@ -5481,9 +5454,6 @@ vij	B
 sub	I
 vij	I
 npog	I
-sub	O
-vij	O
-npog	O
 Hmoob	O
 lub	O
 neej	O
@@ -5492,9 +5462,6 @@ ua	B
 sab	I
 ua	I
 sua	I
-sab	O
-ua	O
-sua	O
 los	O
 ntawm	O
 txoj	O
@@ -6699,9 +6666,6 @@ tsis	B
 deb	I
 tsis	I
 ze	I
-deb	O
-tsis	O
-ze	O
 qhov	O
 no	O
 thiab	O
@@ -7046,9 +7010,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 xws	O
 li	O
 mob	O
@@ -7148,9 +7109,6 @@ tag	B
 siab	I
 tag	I
 ntsws	I
-siab	O
-tag	O
-ntsws	O
 -	O
 muaj	O
 tej	O
@@ -7186,9 +7144,6 @@ txaus	B
 siab	I
 txaus	I
 ntsws	I
-siab	O
-txaus	O
-ntsws	O
 seb	O
 ho	O
 yuav	O
@@ -7465,9 +7420,6 @@ vij	B
 sub	I
 vij	I
 npog	I
-sub	O
-vij	O
-npog	O
 Hmoob	O
 lub	O
 neej	O
@@ -7476,9 +7428,6 @@ ua	B
 sab	I
 ua	I
 sua	I
-sab	O
-ua	O
-sua	O
 los	O
 ntawm	O
 txoj	O
@@ -7994,9 +7943,6 @@ li	B
 teb	I
 li	I
 chaw	I
-teb	O
-li	O
-chaw	O
 ntawm	O
 koj	O
 nyob	O

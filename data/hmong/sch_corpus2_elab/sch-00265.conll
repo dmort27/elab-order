@@ -21,9 +21,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -48,9 +45,6 @@ kis	B
 toj	I
 kis	I
 pes	I
-toj	O
-kis	O
-pes	O
 rau	O
 qhov	O
 tsi	O
@@ -217,9 +211,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ua	O
 luaj	O
 li	O
@@ -879,9 +870,6 @@ dim	B
 dawb	I
 dim	I
 do	I
-dawb	O
-dim	O
-do	O
 kiag	O
 li	O
 .	O
@@ -1072,17 +1060,11 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 ,	O
 koom	B
 teb	I
 koom	I
 chaw	I
-teb	O
-koom	O
-chaw	O
 ,	O
 koom	O
 ib	O
@@ -1429,9 +1411,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 tab	O
 sis	O

@@ -1610,9 +1610,6 @@ sib	B
 qhuab	I
 sib	I
 qhia	I
-qhuab	O
-sib	O
-qhia	O
 .	O
 
 
@@ -3288,9 +3285,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 kom	O
 yus	O
 kawm	O
@@ -3699,9 +3693,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 ces	O
 txog	O
 thaum	O
@@ -4146,9 +4137,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 thiab	O
 Hmoob	O
 lub	O
@@ -4473,17 +4461,11 @@ zoo	B
 kwv	I
 zoo	I
 tij	I
-kwv	O
-zoo	O
-tij	O
 .....	O
 zoo	B
 niam	I
 zoo	I
 txiv	I
-niam	O
-zoo	O
-txiv	O
 tom	O
 qab	O
 xwb	O
@@ -4648,9 +4630,6 @@ kis	B
 toj	I
 kis	I
 pes	I
-toj	O
-kis	O
-pes	O
 ...	O
 Pix	O
 txwv	O
@@ -4787,9 +4766,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 kom	O
 yus	O
 kawm	O
@@ -5198,9 +5174,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 ces	O
 txog	O
 thaum	O
@@ -5645,9 +5618,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 thiab	O
 Hmoob	O
 lub	O

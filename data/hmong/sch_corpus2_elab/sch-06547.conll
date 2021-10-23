@@ -379,9 +379,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 thiab	O
 DAG	O
 Hmoob	O
@@ -418,9 +415,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 li	O
 nej	O
 cov	O
@@ -470,9 +464,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 .	O
 
@@ -572,9 +563,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 tos	O
 ,	O
 loj	O
@@ -1719,9 +1707,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 nyob	O
 tiav	O
 log	O
@@ -1757,9 +1742,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 tim	O
 nplog	O
 kawg	O

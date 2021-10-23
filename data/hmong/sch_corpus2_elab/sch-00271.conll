@@ -1260,9 +1260,6 @@ nrog	B
 huab	I
 nrog	I
 cua	I
-huab	O
-nrog	O
-cua	O
 xwb	O
 .	O
 
@@ -1319,9 +1316,6 @@ vwm	B
 loj	I
 vwm	I
 leg	I
-loj	O
-vwm	O
-leg	O
 li	O
 ntawd	O
 ...	O
@@ -2300,9 +2294,6 @@ ib	B
 sij	I
 ib	I
 lwm	I
-sij	O
-ib	O
-lwm	O
 ces	O
 ua	O
 neeg	O
@@ -2639,9 +2630,6 @@ nej	B
 niam	I
 nej	I
 txiv	I
-niam	O
-nej	O
-txiv	O
 muaj	O
 nyiaj	O
 hli	O
@@ -3698,9 +3686,6 @@ nws	B
 noj	I
 nws	I
 haus	I
-noj	O
-nws	O
-haus	O
 xwb	O
 es	O
 xuam	O
@@ -5161,9 +5146,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 yeej	O
 muaj	O
 txiag	O

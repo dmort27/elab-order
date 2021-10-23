@@ -127,9 +127,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 tas	O
 lawm	O
 es	O
@@ -2816,9 +2813,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 tej	O
 ris	O
 tsho	O
@@ -2827,9 +2821,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 cov	O
 thaub	O
 laus	O
@@ -3081,9 +3072,6 @@ yuav	B
 ntsej	I
 yuav	I
 muag	I
-ntsej	O
-yuav	O
-muag	O
 mas	O
 yeej	O
 muab	O
@@ -3145,9 +3133,6 @@ ua	B
 dawb	I
 ua	I
 do	I
-dawb	O
-ua	O
-do	O
 ces	O
 kawg	O
 yuav	O

@@ -34,9 +34,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 niaj	O
 xyoo	O
 tuaj	O
@@ -44,9 +41,6 @@ sib	B
 ntsib	I
 sib	I
 tham	I
-ntsib	O
-sib	O
-tham	O
 ,	O
 no	O
 puas	O
@@ -419,9 +413,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 tuaj	O
 sib	O
 ntsib	O
@@ -741,9 +732,6 @@ qub	B
 phooj	I
 qub	I
 ywg	I
-phooj	O
-qub	O
-ywg	O
 los	O
 yog	O
 qub	O
@@ -1165,9 +1153,6 @@ vij	B
 sub	I
 vij	I
 npog	I
-sub	O
-vij	O
-npog	O
 mus	O
 rau	O
 peb	O
@@ -1240,9 +1225,6 @@ niaj	B
 hnub	I
 niaj	I
 hmo	I
-hnub	O
-niaj	O
-hmo	O
 li	O
 ,	O
 tabsi	O
@@ -1771,9 +1753,6 @@ tej	B
 nam	I
 tej	I
 txiv	I
-nam	O
-tej	O
-txiv	O
 yeej	O
 nyob	O
 tsi	O
@@ -1870,9 +1849,6 @@ nwg	B
 nam	I
 nwg	I
 txiv	I
-nam	O
-nwg	O
-txiv	O
 ,	O
 huas	O
 tug	O
@@ -1883,9 +1859,6 @@ nwg	B
 nam	I
 nwg	I
 txiv	I
-nam	O
-nwg	O
-txiv	O
 saab	O
 es	O
 ob	O
@@ -2287,9 +2260,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 los	O
 feem	O
 coob	O

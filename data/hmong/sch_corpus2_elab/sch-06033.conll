@@ -238,9 +238,6 @@ mloog	B
 qab	I
 mloog	I
 hauv	I
-qab	O
-mloog	O
-hauv	O
 li	O
 ntag	O
 ,	O
@@ -264,9 +261,6 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 li	O
 Bee	O
 piav	O

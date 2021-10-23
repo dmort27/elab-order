@@ -36,9 +36,6 @@ haav	B
 zoov	I
 haav	I
 tsuag	I
-zoov	O
-haav	O
-tsuag	O
 hab	O
 tseem	O
 muaj	O
@@ -231,9 +228,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 nrog	O
 koj	O
 mus	O
@@ -255,9 +249,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 ,	O
 los	O
 kuv	O
@@ -358,9 +349,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 tiag	O
 tiag	O
 li	O

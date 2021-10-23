@@ -546,9 +546,6 @@ khub	B
 laj	I
 khub	I
 kam	I
-laj	O
-khub	O
-kam	O
 tuaj	O
 koom	O
 coob	O
@@ -1751,9 +1748,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 li	O
 cov	O
 nom	O
@@ -1891,9 +1885,6 @@ tsis	B
 tag	I
 tsis	I
 kawg	I
-tag	O
-tsis	O
-kawg	O
 .	O
 
 

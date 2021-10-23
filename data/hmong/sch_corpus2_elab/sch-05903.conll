@@ -286,9 +286,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 nyob	O
 rau	O
 hauv	O
@@ -360,9 +357,6 @@ kev	B
 kwv	I
 kev	I
 tij	I
-kwv	O
-kev	O
-tij	O
 nws	O
 ho	O
 nws	O

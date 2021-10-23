@@ -1703,9 +1703,6 @@ hais	B
 siab	I
 hais	I
 qis	I
-siab	O
-hais	O
-qis	O
 los	O
 koj	O
 zam	O
@@ -2073,9 +2070,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 ua	O
 sis	O
 no	O
@@ -2505,9 +2499,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 los	O
 siav	O
 .	O
@@ -3224,9 +3215,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 li	O
 nej	O
 es	O
@@ -3874,9 +3862,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 tuaj	O
 kom	O
 tag	O

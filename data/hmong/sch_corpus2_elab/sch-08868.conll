@@ -350,9 +350,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 thiab	O
 pheej	O
 ua	O
@@ -848,9 +845,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 ,	O
 ib	O
 pab	O
@@ -978,9 +972,6 @@ ntuj	B
 niam	I
 ntuj	I
 txiv	I
-niam	O
-ntuj	O
-txiv	O
 txawm	O
 hais	O
 li	O
@@ -1363,9 +1354,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 xwb	O
 .	O
 

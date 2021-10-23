@@ -298,9 +298,6 @@ fim	B
 ntsej	I
 fim	I
 muag	I
-ntsej	O
-fim	O
-muag	O
 yog	O
 lawv	O
 muaj	O
@@ -384,17 +381,11 @@ yaug	B
 ncauj	I
 yaug	I
 lo	I
-ncauj	O
-yaug	O
-lo	O
 laug	O
 lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 xwb	O
 .	O
 
@@ -1008,9 +999,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 .	O
 
 
@@ -1518,9 +1506,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 mas	O
 ,	O
 Charlie	O
@@ -1680,9 +1665,6 @@ txog	B
 caij	I
 txog	I
 nyoog	I
-caij	O
-txog	O
-nyoog	O
 yog	O
 yus	O
 muaj	O
@@ -1744,9 +1726,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 paub	O
 mus	O
 niaj	O
@@ -2173,9 +2152,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ces	O
 peb	O
 twb	O
@@ -2593,9 +2569,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 li	O
 no	O
 .	O
@@ -2706,9 +2679,6 @@ cov	B
 txawj	I
 cov	I
 ntse	I
-txawj	O
-cov	O
-ntse	O
 cov	O
 lus	O
 sib	O

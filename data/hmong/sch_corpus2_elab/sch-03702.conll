@@ -19,9 +19,6 @@ tub	B
 txib	I
 tub	I
 khaiv	I
-txib	O
-tub	O
-khaiv	O
 ,	O
 tsi	O
 has	O
@@ -88,9 +85,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 kev	O
 moog	O
@@ -129,9 +123,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 los	O
 feemcoob	O
 yeej	O
@@ -225,9 +216,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 Yog	O
 has	O
 txug	O
@@ -244,9 +232,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 pub	O
 yug	O
 haiv	O
@@ -693,9 +678,6 @@ qee	B
 leej	I
 qee	I
 tug	I
-leej	O
-qee	O
-tug	O
 xwb	O
 .	O
 

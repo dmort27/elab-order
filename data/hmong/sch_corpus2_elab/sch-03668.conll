@@ -25,9 +25,6 @@ qhov	B
 txhia	I
 qhov	I
 chaw	I
-txhia	O
-qhov	O
-chaw	O
 li	O
 nas	O
 cov	O
@@ -243,9 +240,6 @@ kis	B
 toj	I
 kis	I
 pes	I
-toj	O
-kis	O
-pes	O
 li	O
 ned	O
 yom	O
@@ -849,9 +843,6 @@ kis	B
 toj	I
 kis	I
 pes	I
-toj	O
-kis	O
-pes	O
 li	O
 ned	O
 yom	O
@@ -1084,9 +1075,6 @@ kis	B
 toj	I
 kis	I
 pes	I
-toj	O
-kis	O
-pes	O
 li	O
 ned	O
 yom	O

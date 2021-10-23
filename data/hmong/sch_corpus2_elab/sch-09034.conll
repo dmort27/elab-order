@@ -146,9 +146,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ,	O
 cov	O
 loan	O
@@ -568,9 +565,6 @@ lus	B
 siab	I
 lus	I
 qis	I
-siab	O
-lus	O
-qis	O
 li	O
 cas	O
 los	O
@@ -705,9 +699,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 xwb	O
 ces	O
 kuv	O
@@ -746,9 +737,6 @@ tiv	B
 tshav	I
 tiv	I
 nag	I
-tshav	O
-tiv	O
-nag	O
 mus	O
 pab	O
 hmoob	O
@@ -895,9 +883,6 @@ tiv	B
 tshav	I
 tiv	I
 nag	I
-tshav	O
-tiv	O
-nag	O
 thaib	O
 lauj	O
 num	O
@@ -1018,9 +1003,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 ,	O
 yeej	O
 tsis	O
@@ -1053,9 +1035,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 (	O
 tsis	O
 ua	O
@@ -1069,9 +1048,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 )	O
 vob	O
 .	O

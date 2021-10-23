@@ -47,9 +47,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ntawm	O
 tej	O
 tug	O
@@ -82,9 +79,6 @@ rooj	B
 noj	I
 rooj	I
 haus	I
-noj	O
-rooj	O
-haus	O
 yog	O
 party	O
 dlog	O
@@ -139,9 +133,6 @@ paub	B
 sab	I
 paub	I
 qeg	I
-sab	O
-paub	O
-qeg	O
 xwb	O
 .	O
 
@@ -407,9 +398,6 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 tsi	O
 paub	O
 has	O
@@ -611,9 +599,6 @@ tiam	B
 dab	I
 tiam	I
 qhua	I
-dab	O
-tiam	O
-qhua	O
 (	O
 and	O
 no	O
@@ -723,9 +708,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 ,	O
 tiam	O
 noob	O
@@ -767,9 +749,6 @@ ua	B
 kev	I
 ua	I
 cai	I
-kev	O
-ua	O
-cai	O
 ,	O
 ces	O
 lawd	O

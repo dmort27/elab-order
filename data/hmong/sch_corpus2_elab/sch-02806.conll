@@ -8,9 +8,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 yeej	O
 yuav	O
@@ -455,9 +452,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ,	O
 kev	O
 cawm	O
@@ -542,9 +536,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 yog	O
 cov	O
@@ -825,9 +816,6 @@ neeg	B
 ncaj	I
 neeg	I
 ncees	I
-ncaj	O
-neeg	O
-ncees	O
 thiab	O
 hais	O
 lus	O
@@ -896,9 +884,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 li	O
 no	O
 mas	O
@@ -1492,9 +1477,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ....	O
 smiles	O
 !	O
@@ -1647,9 +1629,6 @@ lob	B
 ub	I
 lob	I
 nua	I
-ub	O
-lob	O
-nua	O
 tuaj	O
 .	O
 

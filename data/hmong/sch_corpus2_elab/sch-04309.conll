@@ -64,9 +64,6 @@ tub	B
 maab	I
 tub	I
 qhe	I
-maab	O
-tub	O
-qhe	O
 zuv	O
 tuabsi	O
 yeej	O
@@ -274,9 +271,6 @@ yus	B
 kwv	I
 yus	I
 tij	I
-kwv	O
-yus	O
-tij	O
 tsa	O
 ua	O
 huabtais	O
@@ -468,9 +462,6 @@ coj	B
 noj	I
 coj	I
 haus	I
-noj	O
-coj	O
-haus	O
 ces	O
 peb	O
 tseem	O
@@ -501,9 +492,6 @@ coj	B
 noj	I
 coj	I
 haus	I
-noj	O
-coj	O
-haus	O
 .	O
 
 
@@ -994,9 +982,6 @@ sib	B
 daj	I
 sib	I
 deev	I
-daj	O
-sib	O
-deev	O
 thiab	O
 hais	O
 phem	O

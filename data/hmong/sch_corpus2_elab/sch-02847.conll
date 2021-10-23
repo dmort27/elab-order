@@ -231,9 +231,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 -	O
 vaj	O
 tsev	O
@@ -260,9 +257,6 @@ tsis	B
 txwv	I
 tsis	I
 txiav	I
-txwv	O
-tsis	O
-txiav	O
 li	O
 nyob	O
 ntawm	O
@@ -563,9 +557,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 tau	O
 noj	O
 yam	O
@@ -630,25 +621,16 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 ,	O
 ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ,	O
 ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 .	O
 
 
@@ -797,9 +779,6 @@ peb	B
 vaj	I
 peb	I
 tsev	I
-vaj	O
-peb	O
-tsev	O
 .	O
 
 
@@ -1102,9 +1081,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 yus	O
 yuav	O
 tsum	O
@@ -1302,9 +1278,6 @@ ncig	B
 ntuj	I
 ncig	I
 teb	I
-ntuj	O
-ncig	O
-teb	O
 txiag	O
 pim	O
 mas	O

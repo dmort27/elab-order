@@ -52,9 +52,6 @@ noj	B
 yeeb	I
 noj	I
 tshuaj	I
-yeeb	O
-noj	O
-tshuaj	O
 pw	O
 tsaug	O
 zog	O
@@ -1166,9 +1163,6 @@ rau	B
 pem	I
 rau	I
 nram	I
-pem	O
-rau	O
-nram	O
 mus	O
 los	O
 los	O
@@ -2046,9 +2040,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 nyob	O
 tsi	O
 muaj	O
@@ -4050,9 +4041,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 tsis	O
 hnov	O
 li	O

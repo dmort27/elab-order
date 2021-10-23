@@ -32,9 +32,6 @@ tawg	B
 teb	I
 tawg	I
 chaw	I
-teb	O
-tawg	O
-chaw	O
 los	O
 yog	O
 raug	O
@@ -1022,9 +1019,6 @@ has	B
 moog	I
 has	I
 lug	I
-moog	O
-has	O
-lug	O
 peb	O
 cov	O
 nam	O
@@ -1275,9 +1269,6 @@ nwg	B
 noj	I
 nwg	I
 naav	I
-noj	O
-nwg	O
-naav	O
 koj	O
 zoo+	O
 nkauj	O

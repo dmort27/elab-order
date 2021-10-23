@@ -821,9 +821,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 xwb	O
 .	O
 
@@ -1283,9 +1280,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 li	O
 thaib	O
 ntov	O
@@ -1348,9 +1342,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 kom	O
 tau	O
 ntsej	O
@@ -2474,9 +2465,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 xwb	O
 .	O
 
@@ -2795,9 +2783,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 .	O
 
 
@@ -3594,9 +3579,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 li	O
 thaib	O
 ntov	O
@@ -3659,9 +3641,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 kom	O
 tau	O
 ntsej	O
@@ -4996,9 +4975,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 xwb	O
 .	O
 
@@ -5321,9 +5297,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 .	O
 
 

@@ -504,9 +504,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 rau	O
 vaajmoob	O
 kom	O
@@ -1001,9 +998,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 thiab	O
 lau	O
 .	O
@@ -1307,9 +1301,6 @@ puab	B
 rooj	I
 puab	I
 ntsa	I
-rooj	O
-puab	O
-ntsa	O
 ,	O
 tuaj	O
 luag	O

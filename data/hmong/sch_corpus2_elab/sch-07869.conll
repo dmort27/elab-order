@@ -18,9 +18,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 li	O
 luag	O
 tej	O
@@ -155,9 +152,6 @@ ua	B
 kwv	I
 ua	I
 tij	I
-kwv	O
-ua	O
-tij	O
 xwb	O
 .	O
 
@@ -237,9 +231,6 @@ hauv	B
 paus	I
 hauv	I
 ntsis	I
-paus	O
-hauv	O
-ntsis	O
 los	O
 vim	O
 nws	O

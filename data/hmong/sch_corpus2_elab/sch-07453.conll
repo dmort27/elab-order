@@ -615,9 +615,6 @@ muaj	B
 yeej	I
 muaj	I
 swb	I
-yeej	O
-muaj	O
-swb	O
 thiab	O
 kom	O
 tau	O
@@ -790,9 +787,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 twb	O
 mus	O
 tsis	O
@@ -2580,9 +2574,6 @@ li	B
 teb	I
 li	I
 chaw	I
-teb	O
-li	O
-chaw	O
 tiag	O
 .	O
 
@@ -2755,9 +2746,6 @@ ua	B
 zoo	I
 ua	I
 phem	I
-zoo	O
-ua	O
-phem	O
 los	O
 Hmoob	O
 yeej	O

@@ -383,9 +383,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 nyob	O
 lawm	O
 thiab	O
@@ -779,9 +776,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 xwb	O
 los	O
 yog	O
@@ -948,9 +942,6 @@ xws	B
 teb	I
 xws	I
 chaw	I
-teb	O
-xws	O
-chaw	O
 thiab	O
 .	O
 
@@ -1157,9 +1148,6 @@ dhau	B
 caij	I
 dhau	I
 nyoog	I
-caij	O
-dhau	O
-nyoog	O
 uas	O
 peb	O
 niaj	O
@@ -1320,9 +1308,6 @@ nrov	B
 teb	I
 nrov	I
 chaw	I
-teb	O
-nrov	O
-chaw	O
 li	O
 no	O
 lawm	O
@@ -2003,9 +1988,6 @@ xws	B
 teb	I
 xws	I
 chaw	I
-teb	O
-xws	O
-chaw	O
 thiab	O
 .	O
 

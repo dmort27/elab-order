@@ -93,9 +93,6 @@ tsis	B
 txheeb	I
 tsis	I
 ze	I
-txheeb	O
-tsis	O
-ze	O
 Hmoob	O
 li	O
 nawb	O
@@ -113,9 +110,6 @@ zov	B
 vaj	I
 zov	I
 tsev	I
-vaj	O
-zov	O
-tsev	O
 xwb	O
 .	O
 
@@ -133,9 +127,6 @@ dab	B
 txeej	I
 dab	I
 qus	I
-txeej	O
-dab	O
-qus	O
 )	O
 ces	O
 Hmoob	O
@@ -144,9 +135,6 @@ lawv	B
 noj	I
 lawv	I
 haus	I
-noj	O
-lawv	O
-haus	O
 xwb	O
 (	O
 npwg	O
@@ -200,9 +188,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 yog	O
 dab	O
 lawm	O
@@ -217,9 +202,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 xa	O
 coj	O
 mus	O
@@ -227,9 +209,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 kom	O
 nws	O
 tau	O
@@ -349,18 +328,12 @@ ua	B
 phem	I
 ua	I
 qias	I
-phem	O
-ua	O
-qias	O
 ,	O
 ua	O
 tub	B
 sab	I
 tub	I
 nyiag	I
-sab	O
-tub	O
-nyiag	O
 tej	O
 mas	O
 nws	O
@@ -532,9 +505,6 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 muaj	O
 xwsli	O
 :	O

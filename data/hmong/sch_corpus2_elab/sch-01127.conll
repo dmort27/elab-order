@@ -2341,9 +2341,6 @@ kev	B
 phem	I
 kev	I
 qas	I
-phem	O
-kev	O
-qas	O
 nuav	O
 es	O
 Moob	O
@@ -3859,9 +3856,6 @@ kev	B
 phem	I
 kev	I
 zoo	I
-phem	O
-kev	O
-zoo	O
 tabsi	O
 it	O
 is	O
@@ -4149,9 +4143,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 nyob	O
 Loojceeb	O
 kuv	O
@@ -4227,9 +4218,6 @@ rooj	B
 noj	I
 rooj	I
 haus	I
-noj	O
-rooj	O
-haus	O
 loj	O
 ces	O
 yus	O

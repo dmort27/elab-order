@@ -96,9 +96,6 @@ txhua	B
 yam	I
 txhua	I
 tsav	I
-yam	O
-txhua	O
-tsav	O
 saib	O
 puas	O
 muaj	O
@@ -131,9 +128,6 @@ vuag	B
 ub	I
 vuag	I
 no	I
-ub	O
-vuag	O
-no	O
 li	O
 ntawm	O
 .	O
@@ -248,9 +242,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 .	O
 
 

@@ -283,9 +283,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 .	O
 
 
@@ -418,9 +415,6 @@ ntawv	B
 noj	I
 ntawv	I
 haus	I
-noj	O
-ntawv	O
-haus	O
 lawm	O
 tim	O
 u	O
@@ -1930,9 +1924,6 @@ ua	B
 kub	I
 ua	I
 ceev	I
-kub	O
-ua	O
-ceev	O
 yuav	O
 -v	O
 nws	O

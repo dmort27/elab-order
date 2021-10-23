@@ -356,9 +356,6 @@ muaj	B
 kwv	I
 muaj	I
 tij	I
-kwv	O
-muaj	O
-tij	O
 ,	O
 tsis	O
 muaj	O
@@ -368,9 +365,6 @@ muaj	B
 txheeb	I
 muaj	I
 ze	I
-txheeb	O
-muaj	O
-ze	O
 .....	O
 No	O
 ces	O
@@ -404,9 +398,6 @@ muaj	B
 phooj	I
 muaj	I
 ywg	I
-phooj	O
-muaj	O
-ywg	O
 ,	O
 nyiam	O
 neej	O
@@ -451,9 +442,6 @@ ntuj	B
 dub	I
 ntuj	I
 txig	I
-dub	O
-ntuj	O
-txig	O
 ,	O
 xyov	O
 hnub	O
@@ -1011,9 +999,6 @@ muaj	B
 kwv	I
 muaj	I
 tij	I
-kwv	O
-muaj	O
-tij	O
 ,	O
 tsis	O
 muaj	O
@@ -1023,9 +1008,6 @@ muaj	B
 txheeb	I
 muaj	I
 ze	I
-txheeb	O
-muaj	O
-ze	O
 .....	O
 No	O
 ces	O
@@ -1059,9 +1041,6 @@ muaj	B
 phooj	I
 muaj	I
 ywg	I
-phooj	O
-muaj	O
-ywg	O
 ,	O
 nyiam	O
 neej	O
@@ -1106,9 +1085,6 @@ ntuj	B
 dub	I
 ntuj	I
 txig	I
-dub	O
-ntuj	O
-txig	O
 ,	O
 xyov	O
 hnub	O

@@ -154,9 +154,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 thiaj	O
 saib	O
 tau	O
@@ -406,9 +403,6 @@ txiv	B
 neeb	I
 txiv	I
 yaig	I
-neeb	O
-txiv	O
-yaig	O
 nos	O
 yos	O
 noj	O
@@ -1660,17 +1654,11 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 ,	O
 dab	B
 teb	I
 dab	I
 chaw	I
-teb	O
-dab	O
-chaw	O
 ,	O
 kawm	O
 zaj	O
@@ -1729,9 +1717,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 nawb	O
 .	O
 
@@ -2126,9 +2111,6 @@ muaj	B
 neej	I
 muaj	I
 tsav	I
-neej	O
-muaj	O
-tsav	O
 (	O
 hu	O
 txog	O
@@ -2314,9 +2296,6 @@ ntau	B
 niaj	I
 ntau	I
 xyoo	I
-niaj	O
-ntau	O
-xyoo	O
 ces	O
 rov	O
 los	O

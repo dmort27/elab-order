@@ -170,17 +170,11 @@ nqaij	B
 qaib	I
 nqaij	I
 npua	I
-qaib	O
-nqaij	O
-npua	O
 thiab	O
 nqaij	B
 nyuj	I
 nqaij	I
 twm	I
-nyuj	O
-nqaij	O
-twm	O
 ,	O
 ua	O
 ua	O
@@ -289,9 +283,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 ntau	O
 heev	O
 li	O
@@ -355,9 +346,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 yeej	O
 muaj	O
 mob	O
@@ -397,9 +385,6 @@ ntiv	B
 tes	I
 ntiv	I
 taw	I
-tes	O
-ntiv	O
-taw	O
 heev	O
 li	O
 .	O
@@ -1095,9 +1080,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 ?	O
 
 

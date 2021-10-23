@@ -564,9 +564,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 .	O
 
 
@@ -660,9 +657,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 xwb	O
 no	O
 ces	O

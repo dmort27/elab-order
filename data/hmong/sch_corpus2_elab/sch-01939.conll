@@ -549,9 +549,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 ces	O
 yeej	O
 coj	O
@@ -605,9 +602,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 rau	O
 tej	O
 me	O
@@ -651,9 +645,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 ntsiag	O
 tag	O
 lawm	O
@@ -1571,9 +1562,6 @@ koj	B
 puj	I
 koj	I
 yawm	I
-puj	O
-koj	O
-yawm	O
 suab	O
 puab	O
 le	O
@@ -1892,9 +1880,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 xwb	O
 nos	O
 ,	O
@@ -2579,9 +2564,6 @@ kev	B
 coj	I
 kev	I
 ua	I
-coj	O
-kev	O
-ua	O
 mus	O
 raws	O
 lub	O

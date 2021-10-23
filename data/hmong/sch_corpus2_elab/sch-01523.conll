@@ -188,17 +188,11 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 zoo	O
 .	O
 
@@ -464,17 +458,11 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 zoo	O
 .	O
 
@@ -614,9 +602,6 @@ zoo	B
 nraug	I
 zoo	I
 nkauj	I
-nraug	O
-zoo	O
-nkauj	O
 txhua	O
 tus	O
 lawm	O
@@ -742,9 +727,6 @@ ua	B
 ciaj	I
 ua	I
 tuag	I
-ciaj	O
-ua	O
-tuag	O
 ......	O
 Txoj	O
 kev	O

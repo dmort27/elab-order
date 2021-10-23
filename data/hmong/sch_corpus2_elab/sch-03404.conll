@@ -146,9 +146,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 tib	O
 si	O
 ,	O
@@ -837,9 +834,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 nrog	O
 ntshav	O
 .	O

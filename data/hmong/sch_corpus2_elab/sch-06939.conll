@@ -128,9 +128,6 @@ tus	B
 ntaub	I
 tus	I
 ntawv	I
-ntaub	O
-tus	O
-ntawv	O
 .	O
 
 
@@ -1000,9 +997,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 li	O
 yad	O
 tag	O
@@ -1186,9 +1180,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 tus	O
 kws	O
@@ -1302,9 +1293,6 @@ tus	B
 ntaub	I
 tus	I
 ntawv	I
-ntaub	O
-tus	O
-ntawv	O
 .	O
 
 
@@ -2260,17 +2248,11 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ,	O
 ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 los	O
 sis	O
 hais	O
@@ -3926,9 +3908,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 li	O
 yad	O
 tag	O
@@ -4112,9 +4091,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 tus	O
 kws	O
@@ -4228,9 +4204,6 @@ tus	B
 ntaub	I
 tus	I
 ntawv	I
-ntaub	O
-tus	O
-ntawv	O
 .	O
 
 

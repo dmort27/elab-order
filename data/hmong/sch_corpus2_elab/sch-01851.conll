@@ -540,9 +540,6 @@ ua	B
 num	I
 ua	I
 tswv	I
-num	O
-ua	O
-tswv	O
 qib	O
 miv	O
 ,	O
@@ -611,9 +608,6 @@ muaj	B
 qab	I
 muaj	I
 hau	I
-qab	O
-muaj	O
-hau	O
 los	O
 muab	O
 Hmoob	O
@@ -1671,9 +1665,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ces	O
 luag	O
 ua	O
@@ -2144,9 +2135,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 loj	O
 txog	O
 200	O
@@ -2191,9 +2179,6 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 yam	O
 uas	O
 yus	O

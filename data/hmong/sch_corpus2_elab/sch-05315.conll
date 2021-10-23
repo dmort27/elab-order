@@ -385,9 +385,6 @@ ciaj	B
 nom	I
 ciaj	I
 tswv	I
-nom	O
-ciaj	O
-tswv	O
 lawm	O
 ces	O
 luag	O
@@ -667,9 +664,6 @@ raug	B
 cuab	I
 raug	I
 khi	I
-cuab	O
-raug	O
-khi	O
 los	O
 tseem	O
 yog	O
@@ -726,17 +720,11 @@ raug	B
 cuab	I
 raug	I
 khi	I
-cuab	O
-raug	O
-khi	O
 ,	O
 raug	B
 ploj	I
 raug	I
 tuag	I
-ploj	O
-raug	O
-tuag	O
 thiaj	O
 muaj	O
 cov	O
@@ -762,9 +750,6 @@ txhab	B
 nyiaj	I
 txhab	I
 kub	I
-nyiaj	O
-txhab	O
-kub	O
 .	O
 
 
@@ -1145,9 +1130,6 @@ pom	B
 ntsej	I
 pom	I
 muag	I
-ntsej	O
-pom	O
-muag	O
 los	O
 wb	O
 mam	O
@@ -1913,9 +1895,6 @@ tag	B
 pab	I
 tag	I
 pawg	I
-pab	O
-tag	O
-pawg	O
 ua	O
 rau	O
 cov	O

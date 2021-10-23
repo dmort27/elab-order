@@ -41,9 +41,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 tag	O
 li	O
 hais	O
@@ -261,9 +258,6 @@ yog	B
 kev	I
 yog	I
 cai	I
-kev	O
-yog	O
-cai	O
 kawg	O
 kiag	O
 li	O
@@ -288,9 +282,6 @@ tseem	B
 kev	I
 tseem	I
 cai	I
-kev	O
-tseem	O
-cai	O
 vim	O
 ntau	O
 zaus	O

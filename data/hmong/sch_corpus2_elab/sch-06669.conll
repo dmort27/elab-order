@@ -3,9 +3,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 nyob	O
 pem	O
 ciamteb	O
@@ -404,9 +401,6 @@ ncig	B
 mus	I
 ncig	I
 los	I
-mus	O
-ncig	O
-los	O
 tom	O
 ciamteb	O
 xwb	O

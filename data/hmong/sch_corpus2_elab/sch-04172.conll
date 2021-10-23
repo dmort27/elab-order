@@ -2243,9 +2243,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 twb	O
 muaj	O
 tshaj	O
@@ -2716,9 +2713,6 @@ ciam	B
 liaj	I
 ciam	I
 av	I
-liaj	O
-ciam	O
-av	O
 tag	O
 lawm	O
 .	O
@@ -3923,9 +3917,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 tsuas	O
 paub	O
 tias	O

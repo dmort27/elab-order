@@ -910,17 +910,11 @@ zeem	B
 kwv	I
 zeem	I
 tij	I
-kwv	O
-zeem	O
-tij	O
 ,	O
 zeem	B
 neej	I
 zeem	I
 tsav	I
-neej	O
-zeem	O
-tsav	O
 thiaj	O
 tau	O
 chaw	O
@@ -1633,9 +1627,6 @@ tsis	B
 ruaj	I
 tsis	I
 khov	I
-ruaj	O
-tsis	O
-khov	O
 .	O
 
 
@@ -1674,9 +1665,6 @@ ntxi	B
 ncauj	I
 ntxi	I
 muag	I
-ncauj	O
-ntxi	O
-muag	O
 rua	O
 ,	O
 yog	O
@@ -2580,9 +2568,6 @@ kawg	B
 siab	I
 kawg	I
 ntsws	I
-siab	O
-kawg	O
-ntsws	O
 ,	O
 ua	O
 lub	O
@@ -2598,9 +2583,6 @@ puas	B
 siab	I
 puas	I
 ntsws	I
-siab	O
-puas	O
-ntsws	O
 .	O
 
 
@@ -2613,9 +2595,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 ,	O
 txhawb	O
 kom	O
@@ -2648,9 +2627,6 @@ ntsuag	B
 txij	I
 ntsuag	I
 nkawm	I
-txij	O
-ntsuag	O
-nkawm	O
 ces	O
 tsis	O
 zoo	O
@@ -3861,9 +3837,6 @@ tav	B
 ntuj	I
 tav	I
 teb	I
-ntuj	O
-tav	O
-teb	O
 no	O
 lawm	O
 es	O

@@ -198,9 +198,6 @@ muaj	B
 tseeb	I
 muaj	I
 tsum	I
-tseeb	O
-muaj	O
-tsum	O
 li	O
 hais	O
 lawm	O
@@ -370,9 +367,6 @@ liam	B
 ub	I
 liam	I
 no	I
-ub	O
-liam	O
-no	O
 tias	O
 yog	O
 hais	O
@@ -587,9 +581,6 @@ dhia	B
 ciaj	I
 dhia	I
 tuag	I
-ciaj	O
-dhia	O
-tuag	O
 li	O
 no	O
 rau	O
@@ -708,9 +699,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ,	O
 txhob	O
 muab	O
@@ -733,9 +721,6 @@ chaw	B
 caub	I
 chaw	I
 chim	I
-caub	O
-chaw	O
-chim	O
 rau	O
 tagnrho	O
 yus	O
@@ -755,9 +740,6 @@ ua	B
 phooj	I
 ua	I
 ywg	I
-phooj	O
-ua	O
-ywg	O
 .	O
 
 
@@ -919,9 +901,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 lawm	O
 --	O
 ceev	O

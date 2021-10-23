@@ -24,9 +24,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 yuav	O
 tsis	O
 tawm	O
@@ -138,9 +135,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 xwb	O
 peb	O
 tsis	O
@@ -358,9 +352,6 @@ qhov	B
 yog	I
 qhov	I
 raug	I
-yog	O
-qhov	O
-raug	O
 ,	O
 ua	O
 cas	O
@@ -2182,9 +2173,6 @@ hu	B
 niam	I
 hu	I
 txiv	I
-niam	O
-hu	O
-txiv	O
 pab	O
 xwb	O
 laid	O
@@ -2365,9 +2353,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 ,	O
 koj	O
 thiaj	O
@@ -2377,9 +2362,6 @@ tej	B
 roob	I
 tej	I
 hav	I
-roob	O
-tej	O
-hav	O
 zoo	O
 ces	O
 koj	O
@@ -3167,9 +3149,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 ces	O
 nws	O
 yeej	O
@@ -3250,9 +3229,6 @@ ib	B
 sij	I
 ib	I
 lwm	I
-sij	O
-ib	O
-lwm	O
 tid	O
 sub	O
 .	O
@@ -3861,9 +3837,6 @@ txiv	B
 maab	I
 txiv	I
 ntoo	I
-maab	O
-txiv	O
-ntoo	O
 rua	O
 Canada	O
 los	O

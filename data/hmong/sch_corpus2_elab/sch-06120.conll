@@ -174,9 +174,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 los	O
 thiaj	O
 li	O
@@ -211,9 +208,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 aws	O
 .	O
 
@@ -495,9 +489,6 @@ tej	B
 tsiaj	I
 tej	I
 txhuv	I
-tsiaj	O
-tej	O
-txhuv	O
 ,	O
 thiab	O
 nyob	O
@@ -513,9 +504,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 twb	O
 tsi	O
 nrog	O

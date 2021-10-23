@@ -380,9 +380,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 hais	O
 txog	O
 yuav	O
@@ -422,9 +419,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 li	O
 no	O
 los	O
@@ -467,9 +461,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 no	O
 hnov	O
 tus	O
@@ -625,9 +616,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 tau	O
 30	O
 tawm	O
@@ -686,17 +674,11 @@ tej	B
 tub	I
 tej	I
 ki	I
-tub	O
-tej	O
-ki	O
 tej	O
 xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 nyob	O
 tom	O
 qab	O
@@ -730,9 +712,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 rau	O
 luag	O
 kom	O

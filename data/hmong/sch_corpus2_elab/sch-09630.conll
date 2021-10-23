@@ -192,9 +192,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 no	O
 .	O
 
@@ -1579,9 +1576,6 @@ khwv	B
 ciaj	I
 khwv	I
 tuag	I
-ciaj	O
-khwv	O
-tuag	O
 kom	O
 tau	O
 nyiaj	O
@@ -1598,9 +1592,6 @@ niaj	B
 hnub	I
 niaj	I
 hmo	I
-hnub	O
-niaj	O
-hmo	O
 ua	O
 npau	O
 suav	O

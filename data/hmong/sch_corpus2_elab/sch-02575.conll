@@ -171,9 +171,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 thiab	O
 ib	O
 lees	O
@@ -667,9 +664,6 @@ tub	B
 maab	I
 tub	I
 qhe	I
-maab	O
-tub	O
-qhe	O
 pib	O
 ua	O
 pluag	O
@@ -839,9 +833,6 @@ npaum	B
 ub	I
 npaum	I
 nua	I
-ub	O
-npaum	O
-nua	O
 nua	O
 los	O
 peb	O
@@ -1362,9 +1353,6 @@ koom	B
 poj	I
 koom	I
 yawm	I
-poj	O
-koom	O
-yawm	O
 )	O
 Niam	O
 ntxawm	O
@@ -1383,9 +1371,6 @@ koom	B
 poj	I
 koom	I
 yawm	I
-poj	O
-koom	O
-yawm	O
 )	O
 Nustij	O
 nus	O
@@ -1403,9 +1388,6 @@ koom	B
 poj	I
 koom	I
 yawm	I
-poj	O
-koom	O
-yawm	O
 )	O
 Qhua	O
 saib	O
@@ -1751,9 +1733,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 es	O
 yuav	O
 mus	O
@@ -1882,9 +1861,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 es	O
 yuav	O
 mus	O
@@ -2042,9 +2018,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 ntau	O
 ntau	O
 lawm	O
@@ -2248,9 +2221,6 @@ pom	B
 niam	I
 pom	I
 txiv	I
-niam	O
-pom	O
-txiv	O
 :	O
 1	O
 .	O
@@ -2301,9 +2271,6 @@ tus	B
 txheeb	I
 tus	I
 ze	I
-txheeb	O
-tus	O
-ze	O
 .	O
 
 
@@ -2562,9 +2529,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 ntau	O
 ntau	O
 lawm	O
@@ -2941,9 +2905,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 es	O
 yuav	O
 mus	O
@@ -3091,9 +3052,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 ntau	O
 ntau	O
 lawm	O
@@ -3319,9 +3277,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 es	O
 yuav	O
 mus	O
@@ -3469,9 +3424,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 ntau	O
 ntau	O
 lawm	O
@@ -3598,9 +3550,6 @@ paub	B
 qab	I
 paub	I
 hauv	I
-qab	O
-paub	O
-hauv	O
 thiab	O
 ,	O
 ua	O
@@ -3766,9 +3715,6 @@ tig	B
 ntsej	I
 tig	I
 muag	I
-ntsej	O
-tig	O
-muag	O
 los	O
 nrog	O
 vauv	O
@@ -3829,9 +3775,6 @@ zeem	B
 neej	I
 zeem	I
 tsav	I
-neej	O
-zeem	O
-tsav	O
 )	O
 ,	O
 ua	O
@@ -3860,9 +3803,6 @@ saib	B
 tshoob	I
 saib	I
 kos	I
-tshoob	O
-saib	O
-kos	O
 tsaug	O
 uas	O
 tuaj	O
@@ -3897,9 +3837,6 @@ kev	B
 txheeb	I
 kev	I
 ze	I
-txheeb	O
-kev	O
-ze	O
 tsaug	O
 uas	O
 tau	O
@@ -4064,9 +4001,6 @@ li	B
 dev	I
 li	I
 npua	I
-dev	O
-li	O
-npua	O
 los	O
 zam	O
 kev	O

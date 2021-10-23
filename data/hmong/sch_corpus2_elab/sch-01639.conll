@@ -961,9 +961,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 yuav	O
 kawg	O
 ,	O
@@ -1116,9 +1113,6 @@ me	B
 kab	I
 me	I
 ntsaum	I
-kab	O
-me	O
-ntsaum	O
 tej	O
 me	O
 tsiaj	O
@@ -1313,9 +1307,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 npaj	O
 peb	O
 lub	O
@@ -2103,9 +2094,6 @@ ua	B
 dlev	I
 ua	I
 npua	I
-dlev	O
-ua	O
-npua	O
 saab	O
 tim	O
 u	O
@@ -2216,9 +2204,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 saib	O
 Moob	O
 lub	O

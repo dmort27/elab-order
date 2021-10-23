@@ -36,9 +36,6 @@ mus	B
 vaj	I
 mus	I
 tsev	I
-vaj	O
-mus	O
-tsev	O
 los	O
 sis	O
 kom	O
@@ -256,9 +253,6 @@ yuav	B
 poj	I
 yuav	I
 sev	I
-poj	O
-yuav	O
-sev	O
 rau	O
 sab	O
 tiv	O
@@ -291,9 +285,6 @@ ntaim	B
 noj	I
 ntaim	I
 haus	I
-noj	O
-ntaim	O
-haus	O
 kom	O
 txaus	O
 thiab	O
@@ -376,9 +367,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 ,	O
 nyob	O
 rau	O
@@ -402,9 +390,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 .	O
 
 
@@ -459,9 +444,6 @@ sau	B
 qoob	I
 sau	I
 loo	I
-qoob	O
-sau	O
-loo	O
 tag	O
 lawm	O
 ,	O
@@ -470,9 +452,6 @@ puag	B
 tes	I
 puag	I
 taw	I
-tes	O
-puag	O
-taw	O
 nyob	O
 tsev	O
 ntaus	O
@@ -584,9 +563,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 .	O
 
 
@@ -603,9 +579,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 .	O
 
 
@@ -840,9 +813,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 .	O
 
 

@@ -78,9 +78,6 @@ hau	B
 roob	I
 hau	I
 hav	I
-roob	O
-hau	O
-hav	O
 tws	O
 .	O
 
@@ -537,9 +534,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 tuaj	O
 coob	O
 .	O
@@ -1226,9 +1220,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 thov	O
 xa	O
 xov	O
@@ -1338,9 +1329,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 twb	O
 tws	O
 lawm	O
@@ -1463,9 +1451,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 nawd	O
 ,	O
 luag	O

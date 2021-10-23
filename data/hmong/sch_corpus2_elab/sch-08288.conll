@@ -37,9 +37,6 @@ qhov	B
 quav	I
 qhov	I
 zis	I
-quav	O
-qhov	O
-zis	O
 koj	O
 tsis	O
 nrog	O
@@ -422,9 +419,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 thiab.Tus	O
 neeg	O
 hais	O
@@ -528,9 +522,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 zoo	O
 thiab	O
 muaj	O
@@ -635,9 +626,6 @@ qhov	B
 dev	I
 qhov	I
 npua	I
-dev	O
-qhov	O
-npua	O
 nawb	O
 .	O
 
@@ -1190,9 +1178,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 nyob	O
 hauv	O
 no	O
@@ -2070,9 +2055,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ma	O
 .	O
 

@@ -332,17 +332,11 @@ qab	B
 roob	I
 qab	I
 hav	I
-roob	O
-qab	O
-hav	O
 ,	O
 lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 twg	O
 ,	O
 lub	O
@@ -521,9 +515,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 thiab	O
 .	O
 

@@ -207,9 +207,6 @@ yog	B
 plaub	I
 yog	I
 ntug	I
-plaub	O
-yog	O
-ntug	O
 lawm	O
 ,	O
 kuv	O
@@ -512,9 +509,6 @@ pub	B
 noj	I
 pub	I
 haus	I
-noj	O
-pub	O
-haus	O
 xwb	O
 mas	O
 .	O
@@ -1113,9 +1107,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 yog	O
 pab	O
 twg	O

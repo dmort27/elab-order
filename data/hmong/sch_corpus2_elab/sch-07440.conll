@@ -49,9 +49,6 @@ fwm	B
 nom	I
 fwm	I
 tswv	I
-nom	O
-fwm	O
-tswv	O
 ,	O
 tsi	O
 fwm	O
@@ -156,9 +153,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 tias	O
 niam	O
 ua	O
@@ -167,9 +161,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ...	O
 ''	O
 Hlau	O
@@ -1033,9 +1024,6 @@ peb	B
 nam	I
 peb	I
 txiv	I
-nam	O
-peb	O
-txiv	O
 mas	O
 peb	O
 tsis	O
@@ -1288,9 +1276,6 @@ neeg	B
 txwj	I
 neeg	I
 laug	I
-txwj	O
-neeg	O
-laug	O
 kws	O
 muaj	O
 koob	O
@@ -1358,9 +1343,6 @@ peb	B
 nam	I
 peb	I
 txiv	I
-nam	O
-peb	O
-txiv	O
 .	O
 
 
@@ -1503,9 +1485,6 @@ poob	B
 teb	I
 poob	I
 chaw	I
-teb	O
-poob	O
-chaw	O
 lug	O
 tau	O
 ntau	O
@@ -1567,9 +1546,6 @@ thov	B
 koob	I
 thov	I
 moov	I
-koob	O
-thov	O
-moov	O
 lawm	O
 xwb	O
 nawb	O
@@ -2008,9 +1984,6 @@ yog	B
 niam	I
 yog	I
 txiv	I
-niam	O
-yog	O
-txiv	O
 lawm	O
 thaum	O
 txaus	O
@@ -2080,9 +2053,6 @@ khuam	B
 ntab	I
 khuam	I
 ntuv	I
-ntab	O
-khuam	O
-ntuv	O
 rau	O
 tim	O
 Thaib	O
@@ -2202,9 +2172,6 @@ mag	B
 cuab	I
 mag	I
 kaws	I
-cuab	O
-mag	O
-kaws	O
 )	O
 thiab	O
 nws	O

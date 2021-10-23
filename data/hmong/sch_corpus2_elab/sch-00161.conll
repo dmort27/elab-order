@@ -993,9 +993,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 tej	O
 neeg	O
 txheeb	O
@@ -2671,12 +2668,6 @@ tus	B
 daj	I
 tus	I
 dub	I
-daj	O
-tus	B
-dub	I
-tus	I
-dawb	I
-dub	O
 tus	O
 dawb	O
 los	O
@@ -3847,9 +3838,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ces	O
 yuav	O
 tsi	O
@@ -7120,9 +7108,6 @@ nws	B
 nyiam	I
 nws	I
 hlub	I
-nyiam	O
-nws	O
-hlub	O
 kuv	O
 ib	O
 leeg	O
@@ -8880,9 +8865,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 tias	O
 tsi	O
 muaj	O
@@ -9001,9 +8983,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 kom	O
 ntxim	O
 ntxim	O
@@ -9048,9 +9027,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 .	O
 
 

@@ -95,9 +95,6 @@ ib	B
 paab	I
 ib	I
 pawg	I
-paab	O
-ib	O
-pawg	O
 ho	O
 Moob	O
 Leeg	O
@@ -108,9 +105,6 @@ ib	B
 paab	I
 ib	I
 pawg	I
-paab	O
-ib	O
-pawg	O
 .	O
 
 
@@ -238,9 +232,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ces	O
 peb	O
 haiv	O
@@ -363,9 +354,6 @@ tseem	B
 kev	I
 tseem	I
 cai	I
-kev	O
-tseem	O
-cai	O
 tiag	O
 ces	O
 yuav	O

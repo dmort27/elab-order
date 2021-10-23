@@ -58,9 +58,6 @@ ua	B
 qeej	I
 ua	I
 nruas	I
-qeej	O
-ua	O
-nruas	O
 thiab	O
 muaj	O
 foom	O
@@ -760,9 +757,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 vim	O
 tias	O
 thaum	O
@@ -786,9 +780,6 @@ muaj	B
 qab	I
 muaj	I
 hau	I
-qab	O
-muaj	O
-hau	O
 zoo	O
 kawg	O
 nkaus	O
@@ -820,9 +811,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 es	O
 kom	O
 nws	O
@@ -1101,9 +1089,6 @@ tsis	B
 mus	I
 tsis	I
 los	I
-mus	O
-tsis	O
-los	O
 ,	O
 thaum	O
 qaug	O
@@ -1216,9 +1201,6 @@ kev	B
 lis	I
 kev	I
 cai	I
-lis	O
-kev	O
-cai	O
 ,	O
 hos	O
 fab	O

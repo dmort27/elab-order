@@ -1057,9 +1057,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 (	O
 stay	O
 young	O
@@ -1400,9 +1397,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 tabsis	O
 luag	O
 muaj	O
@@ -1533,9 +1527,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 mas	O
 lawv	O
 lam	O
@@ -1726,9 +1717,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 zoo	O
 dua	O
 qub	O
@@ -1972,9 +1960,6 @@ noj	B
 zaub	I
 noj	I
 mov	I
-zaub	O
-noj	O
-mov	O
 kom	O
 zoo	O
 ,	O

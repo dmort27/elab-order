@@ -662,9 +662,6 @@ tso	B
 dlaag	I
 tso	I
 luag	I
-dlaag	O
-tso	O
-luag	O
 hab	O
 mej	O
 yuav	O
@@ -879,9 +876,6 @@ qhov	B
 pim	I
 qhov	I
 qau	I
-pim	O
-qhov	O
-qau	O
 hauv	O
 internet	O
 no	O

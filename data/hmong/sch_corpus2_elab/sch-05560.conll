@@ -758,9 +758,6 @@ kev	B
 phem	I
 kev	I
 qias	I
-phem	O
-kev	O
-qias	O
 no	O
 ces	O
 kawg	O
@@ -1007,9 +1004,6 @@ kev	B
 phem	I
 kev	I
 qias	I
-phem	O
-kev	O
-qias	O
 no	O
 ces	O
 kawg	O
@@ -1738,9 +1732,6 @@ luag	B
 teb	I
 luag	I
 chaw	I
-teb	O
-luag	O
-chaw	O
 mas	O
 yuav	O
 tsum	O
@@ -1749,9 +1740,6 @@ yam	B
 zoo	I
 yam	I
 phem	I
-zoo	O
-yam	O
-phem	O
 los	O
 yus	O
 ua	O

@@ -394,9 +394,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 ,	O
 Yawg	O
 Lis	O
@@ -601,9 +598,6 @@ cov	B
 nom	I
 cov	I
 tswv	I
-nom	O
-cov	O
-tswv	O
 ,	O
 cem	O
 lawv	O
@@ -1205,9 +1199,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 tab	O
 sis	O
@@ -1255,9 +1246,6 @@ qhov	B
 zoo	I
 qhov	I
 phem	I
-zoo	O
-qhov	O
-phem	O
 tas	O
 nrho	O
 ,	O
@@ -2399,9 +2387,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 hab	O
 ua	O
 thawj	O
@@ -2732,9 +2717,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 xwb	O
 os	O
 .	O
@@ -2766,9 +2748,6 @@ ua	B
 tsuv	I
 ua	I
 rog	I
-tsuv	O
-ua	O
-rog	O
 .	O
 
 
@@ -3021,9 +3000,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 mas	O
 hais	O
 tau	O
@@ -3114,9 +3090,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 tsis	O
 zoo	O
 xwb	O
@@ -3188,9 +3161,6 @@ me	B
 tub	I
 me	I
 ntxhais	I
-tub	O
-me	O
-ntxhais	O
 vwm	O
 ,	O
 tsis	O
@@ -3423,9 +3393,6 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 loj	O
 txog	O
 Fuab	O
@@ -3580,9 +3547,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 ntiav	O
 ntawv	O
 kawm	O
@@ -3768,9 +3732,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 li	O
 qub	O
 pem	O
@@ -3889,9 +3850,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ua	O
 ua	O
 mus	O

@@ -192,9 +192,6 @@ yam	B
 ub	I
 yam	I
 no	I
-ub	O
-yam	O
-no	O
 ntag	O
 ,	O
 thiab	O
@@ -663,9 +660,6 @@ qub	B
 zaub	I
 qub	I
 mov	I
-zaub	O
-qub	O
-mov	O
 yog	O
 rhaub	O
 tsis	O
@@ -893,9 +887,6 @@ zuas	B
 ub	I
 zuas	I
 no	I
-ub	O
-zuas	O
-no	O
 los	O
 ua	O
 excuse	O

@@ -220,9 +220,6 @@ tub	B
 mab	I
 tub	I
 qhe	I
-mab	O
-tub	O
-qhe	O
 (	O
 ntxais	O
 ris	O
@@ -240,9 +237,6 @@ nqaij	B
 txhiab	I
 nqaij	I
 ci	I
-txhiab	O
-nqaij	O
-ci	O
 ,	O
 kom	O
 tau	O
@@ -737,9 +731,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 mas	O
 khwv	O
 tshaj	O
@@ -754,17 +745,11 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 ,	O
 pub	B
 qaib	I
 pub	I
 npua	I
-qaib	O
-pub	O
-npua	O
 ,	O
 ev	O
 dej	O
@@ -853,9 +838,6 @@ kho	B
 vaj	I
 kho	I
 tsev	I
-vaj	O
-kho	O
-tsev	O
 ,	O
 ua	O
 tsev	O
@@ -1311,9 +1293,6 @@ qub	B
 vaj	I
 qub	I
 tsev	I
-vaj	O
-qub	O
-tsev	O
 ,	O
 qub	O
 chaw	O
@@ -1535,9 +1514,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 xwb	O
 .	O
 
@@ -1566,9 +1542,6 @@ koj	B
 noj	I
 koj	I
 haus	I
-noj	O
-koj	O
-haus	O
 lawm	O
 .	O
 
@@ -1662,9 +1635,6 @@ tseev	B
 noj	I
 tseev	I
 haus	I
-noj	O
-tseev	O
-haus	O
 lawm	O
 --	O
 qhov	O
@@ -2549,9 +2519,6 @@ txaus	B
 noj	I
 txaus	I
 haus	I
-noj	O
-txaus	O
-haus	O
 lawm	O
 mam	O
 ,	O
@@ -2574,9 +2541,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 txaus	O
 ,	O
 xav	O

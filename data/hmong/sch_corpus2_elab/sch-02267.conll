@@ -157,9 +157,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 ib	O
 yam	O
 nkaus	O
@@ -791,9 +788,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 ...	O
 kuj	O
 hais	O
@@ -907,9 +901,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 tim	O
 tej	O
 nyuag	O
@@ -1097,9 +1088,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 tiag	O
 tsi	O
 yog	O
@@ -1308,9 +1296,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 tabsis	O
 yog	O
 tso	O
@@ -1809,9 +1794,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 ...	O
 2-3	O
 zaug	O

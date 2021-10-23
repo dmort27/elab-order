@@ -25,9 +25,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -343,9 +340,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 xwb	O
 xwb	O
 rau	O
@@ -560,9 +554,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 mas	O
 kuv	O
 kuj	O
@@ -669,9 +660,6 @@ tshum	B
 ub	I
 tshum	I
 no	I
-ub	O
-tshum	O
-no	O
 nej	O
 twb	O
 tu	O

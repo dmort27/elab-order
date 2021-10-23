@@ -31,17 +31,11 @@ ua	B
 paab	I
 ua	I
 pawg	I
-paab	O
-ua	O
-pawg	O
 ,	O
 sis	B
 hlub	I
 sis	I
 paab	I
-hlub	O
-sis	O
-paab	O
 hab	O
 muaj	O
 kev	O
@@ -49,9 +43,6 @@ koom	B
 sab	I
 koom	I
 ntsws	I
-sab	O
-koom	O
-ntsws	O
 ,	O
 koj	O
 xaav	O
@@ -1241,9 +1232,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 lawm	O
 .	O
 

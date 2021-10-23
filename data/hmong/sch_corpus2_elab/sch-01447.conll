@@ -117,9 +117,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 tau	O
 ua	O
 thiab	O
@@ -925,9 +922,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 kawm	O
 txog	O
 tej	O
@@ -1773,9 +1767,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 tas	O
 los	O
 xwb	O

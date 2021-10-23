@@ -381,9 +381,6 @@ noj	B
 seem	I
 noj	I
 so	I
-seem	O
-noj	O
-so	O
 ,	O
 tus	O
 noj	O
@@ -468,9 +465,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 li	O
 lawm	O
 nawb	O
@@ -581,17 +575,11 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 ,	O
 kev	B
 kwv	I
 kev	I
 tij	I
-kwv	O
-kev	O
-tij	O
 lawm	O
 mas	O
 --	O

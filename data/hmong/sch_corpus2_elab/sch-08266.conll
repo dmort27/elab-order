@@ -341,9 +341,6 @@ kev	B
 noj	I
 kev	I
 naav	I
-noj	O
-kev	O
-naav	O
 ,	O
 kev	O
 tshaib	O
@@ -3260,9 +3257,6 @@ uas	B
 dog	I
 uas	I
 dig	I
-dog	O
-uas	O
-dig	O
 li	O
 hmoob	O
 xwb	O
@@ -3279,9 +3273,6 @@ tsheej	B
 pab	I
 tsheej	I
 pheev	I
-pab	O
-tsheej	O
-pheev	O
 los	O
 ,	O
 luag	O
@@ -3379,9 +3370,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 es	O
 muaj	O
 muaj	O
@@ -3422,9 +3410,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 li	O
 nawb	O
 .	O
@@ -3480,9 +3465,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 thiab	O
 ruam	O
 dhau	O

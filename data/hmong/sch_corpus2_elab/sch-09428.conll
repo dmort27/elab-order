@@ -539,9 +539,6 @@ koj	B
 puj	I
 koj	I
 yawm	I
-puj	O
-koj	O
-yawm	O
 tseem	O
 tog	O
 tog	O
@@ -564,16 +561,10 @@ koj	B
 nam	I
 koj	I
 txiv	I
-nam	O
-koj	O
-txiv	O
 koj	B
 puj	I
 koj	I
 yawm	I
-puj	O
-koj	O
-yawm	O
 quaj	O
 quaj	O
 poob	O

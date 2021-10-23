@@ -15,9 +15,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 tsis	O
 zoo	O
 le	O
@@ -45,9 +42,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 mas	O
 yog	O
 ib	O
@@ -861,9 +855,6 @@ huv	B
 zej	I
 huv	I
 zog	I
-zej	O
-huv	O
-zog	O
 mas	O
 kuv	O
 pum	O
@@ -1147,9 +1138,6 @@ kuag	B
 kaab	I
 kuag	I
 hlau	I
-kaab	O
-kuag	O
-hlau	O
 kws	O
 tsi	O
 paub	O
@@ -1242,17 +1230,11 @@ nrhav	B
 noj	I
 nrhav	I
 haus	I
-noj	O
-nrhav	O
-haus	O
 ,	O
 yaug	B
 ncauj	I
 yaug	I
 lu	I
-ncauj	O
-yaug	O
-lu	O
 xwb	O
 lauv	O
 ..	O

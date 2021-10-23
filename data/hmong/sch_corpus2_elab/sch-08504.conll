@@ -463,9 +463,6 @@ txiv	B
 maab	I
 txiv	I
 ntoo	I
-maab	O
-txiv	O
-ntoo	O
 tseem	O
 yuav	O
 txi	O
@@ -822,9 +819,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 iab	O
 liam	O
 lus	O
@@ -1062,9 +1056,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 iab	O
 liam	O
 lus	O

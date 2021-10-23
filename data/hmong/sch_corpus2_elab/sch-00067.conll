@@ -490,9 +490,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 los	O
 tseem	O
 tshuav	O
@@ -1081,9 +1078,6 @@ tas	B
 zaj	I
 tas	I
 zog	I
-zaj	O
-tas	O
-zog	O
 thiab	O
 naj	O
 ?	O
@@ -1409,9 +1403,6 @@ lus	B
 iab	I
 lus	I
 daw	I
-iab	O
-lus	O
-daw	O
 nawb	O
 mog	O
 niag	O
@@ -1539,9 +1530,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 lawm	O
 .	O
 

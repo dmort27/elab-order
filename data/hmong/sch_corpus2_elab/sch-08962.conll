@@ -190,9 +190,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 los	O
 kho	O
 haiv	O
@@ -312,9 +309,6 @@ luag	B
 noj	I
 luag	I
 haus	I
-noj	O
-luag	O
-haus	O
 lawm	O
 .	O
 
@@ -1001,9 +995,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 ,	O
 Txiv	O
 ces	O
@@ -1060,9 +1051,6 @@ muaj	B
 qab	I
 muaj	I
 quas	I
-qab	O
-muaj	O
-quas	O
 ces	O
 cias	O
 li	O
@@ -1093,9 +1081,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 li	O
 tiag	O
 tiag	O
@@ -1117,9 +1102,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 ne	O
 ,	O
 puas	O
@@ -1199,9 +1181,6 @@ txoj	B
 kab	I
 txoj	I
 kev	I
-kab	O
-txoj	O
-kev	O
 rau	O
 yus	O
 haivneeg	O
@@ -1582,9 +1561,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 tiag	O
 ,	O
 tseem	O
@@ -2183,9 +2159,6 @@ pluas	B
 noj	I
 pluas	I
 haus	I
-noj	O
-pluas	O
-haus	O
 xwb	O
 es	O
 tsis	O
@@ -2320,17 +2293,11 @@ pom	B
 ub	I
 pom	I
 no	I
-ub	O
-pom	O
-no	O
 thiab	O
 hnov	B
 ub	I
 hnov	I
 no	I
-ub	O
-hnov	O
-no	O
 ntau	O
 kawg	O
 li	O
@@ -2368,9 +2335,6 @@ me	B
 kab	I
 me	I
 ntsaum	I
-kab	O
-me	O
-ntsaum	O
 ,	O
 me	O
 poj	O
@@ -2827,9 +2791,6 @@ tshum	B
 ntab	I
 tshum	I
 muv	I
-ntab	O
-tshum	O
-muv	O
 thiab	O
 tsis	O
 tas	O
@@ -2892,9 +2853,6 @@ tshum	B
 ntab	I
 tshum	I
 muv	I
-ntab	O
-tshum	O
-muv	O
 mas	O
 nyaj	O
 yuav	O
@@ -2996,9 +2954,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 es	O
 kho	O
 peb	O
@@ -3091,9 +3046,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 es	O
 rau	O
 siab	O
@@ -3105,9 +3057,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 og	O
 .	O
 
@@ -3220,9 +3169,6 @@ me	B
 ntab	I
 me	I
 muv	I
-ntab	O
-me	O
-muv	O
 yeej	O
 muaj	O
 txoj	O
@@ -3266,9 +3212,6 @@ txawb	B
 ub	I
 txawb	I
 no	I
-ub	O
-txawb	O
-no	O
 ces	O
 --	O
 kawg	O
@@ -3341,9 +3284,6 @@ muaj	B
 qab	I
 muaj	I
 hauv	I
-qab	O
-muaj	O
-hauv	O
 ,	O
 muaj	O
 txoj	O
@@ -3400,9 +3340,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 nkaux	O
 xwb	O
 ...	O
@@ -3551,9 +3488,6 @@ luag	B
 noj	I
 luag	I
 haus	I
-noj	O
-luag	O
-haus	O
 kuas	O
 tsis	O
 tshaib	O
@@ -4064,9 +3998,6 @@ ib	B
 hnub	I
 ib	I
 hmo	I
-hnub	O
-ib	O
-hmo	O
 ,	O
 yawg	O
 tham	O

@@ -1192,9 +1192,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 rov	O
 mus	O
 nyob	O
@@ -1782,17 +1779,11 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 ,	O
 ua	B
 laj	I
 ua	I
 kam	I
-laj	O
-ua	O
-kam	O
 ces	O
 koj	O
 yeej	O
@@ -2624,9 +2615,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 thiab	O
 pub	O
 rau	O
@@ -2706,9 +2694,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 tiamsis	O
 kuv	O
 xav	O
@@ -3005,9 +2990,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 rau	O
 nws	O
 ua	O

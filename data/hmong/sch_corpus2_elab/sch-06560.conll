@@ -173,9 +173,6 @@ nrim	B
 dej	I
 nrim	I
 av	I
-dej	O
-nrim	O
-av	O
 .	O
 
 
@@ -477,9 +474,6 @@ ntawv	B
 noj	I
 ntawv	I
 haus	I
-noj	O
-ntawv	O
-haus	O
 nua	O
 xwb	O
 mas	O
@@ -628,9 +622,6 @@ ntawv	B
 noj	I
 ntawv	I
 haus	I
-noj	O
-ntawv	O
-haus	O
 nua	O
 xwb	O
 mas	O
@@ -743,9 +734,6 @@ kev	B
 kwv	I
 kev	I
 tij	I
-kwv	O
-kev	O
-tij	O
 sib	O
 tawg	O
 tas	O

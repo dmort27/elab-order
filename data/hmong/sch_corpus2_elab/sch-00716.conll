@@ -1399,9 +1399,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 rau	O
 hmoob	O
 .	O
@@ -1496,9 +1493,6 @@ nqaij	B
 nyuj	I
 nqaij	I
 twm	I
-nyuj	O
-nqaij	O
-twm	O
 noj	O
 ,	O
 kom	O
@@ -1676,9 +1670,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 koj	O
 yuav	O
 ua	O
@@ -1905,9 +1896,6 @@ hlab	B
 siab	I
 hlab	I
 ntsws	I
-siab	O
-hlab	O
-ntsws	O
 kom	O
 txog	O
 thaum	O
@@ -2291,9 +2279,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 tau	O
 30	O
 tawm	O
@@ -2340,9 +2325,6 @@ nai	B
 phoo	I
 nai	I
 pha	I
-phoo	O
-nai	O
-pha	O
 mas	O
 twb	O
 khaub	O
@@ -3557,9 +3539,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 .	O
 
 
@@ -3580,9 +3559,6 @@ tseem	B
 kev	I
 tseem	I
 cai	I
-kev	O
-tseem	O
-cai	O
 ,	O
 tsis	O
 li	O
@@ -3600,9 +3576,6 @@ vij	B
 sub	I
 vij	I
 npog	I
-sub	O
-vij	O
-npog	O
 mus	O
 puag	O
 pw	O
@@ -3780,9 +3753,6 @@ muaj	B
 qab	I
 muaj	I
 hau	I
-qab	O
-muaj	O
-hau	O
 no	O
 laiv	O
 .	O
@@ -4531,9 +4501,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 tsis	O
 nco	O

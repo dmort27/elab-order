@@ -1742,9 +1742,6 @@ ib	B
 paab	I
 ib	I
 pawg	I
-paab	O
-ib	O
-pawg	O
 los	O
 !	O
 
@@ -2998,9 +2995,6 @@ tsev	B
 ploj	I
 tsev	I
 tuag	I
-ploj	O
-tsev	O
-tuag	O
 ces	O
 yog	O
 nej	O
@@ -3368,9 +3362,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 es	O
 yus	O
 yuam	O
@@ -3446,9 +3437,6 @@ kev	B
 txog	I
 kev	I
 txhaum	I
-txog	O
-kev	O
-txhaum	O
 lawm	O
 .	O
 
@@ -3636,9 +3624,6 @@ npe	B
 nom	I
 npe	I
 tswv	I
-nom	O
-npe	O
-tswv	O
 na	O
 .	O
 
@@ -3656,9 +3641,6 @@ rov	B
 qab	I
 rov	I
 quav	I
-qab	O
-rov	O
-quav	O
 tiag	O
 .	O
 

@@ -146,9 +146,6 @@ yuav	B
 rag	I
 yuav	I
 phom	I
-rag	O
-yuav	O
-phom	O
 tsua	O
 cov	O
 moog	O
@@ -1368,9 +1365,6 @@ tsi	B
 mus	I
 tsi	I
 los	I
-mus	O
-tsi	O
-los	O
 tsi	O
 muaj	O
 benefit	O

@@ -1417,9 +1417,6 @@ nrog	B
 huab	I
 nrog	I
 cua	I
-huab	O
-nrog	O
-cua	O
 nawb	O
 mog	O
 .	O
@@ -2750,9 +2747,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 .	O
 
 

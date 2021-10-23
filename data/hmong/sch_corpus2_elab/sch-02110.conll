@@ -1503,9 +1503,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 es	O
 tseem	O
 hniaj	O
@@ -1539,9 +1536,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 xwb	O
 ,	O
 saub	O
@@ -1694,9 +1688,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 thiaj	O
 li	O
 yuav	O
@@ -1747,9 +1738,6 @@ yam	B
 ub	I
 yam	I
 no	I
-ub	O
-yam	O
-no	O
 thaum	O
 xub	O
 thawj	O
@@ -1825,9 +1813,6 @@ qee	B
 leej	I
 qee	I
 tus	I
-leej	O
-qee	O
-tus	O
 thiaj	O
 tsis	O
 muaj	O
@@ -1937,9 +1922,6 @@ qub	B
 txeej	I
 qub	I
 teg	I
-txeej	O
-qub	O
-teg	O
 nawb	O
 .	O
 

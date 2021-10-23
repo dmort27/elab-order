@@ -360,9 +360,6 @@ hlub	B
 niam	I
 hlub	I
 txiv	I
-niam	O
-hlub	O
-txiv	O
 lawm	O
 ,	O
 thiab	O
@@ -370,9 +367,6 @@ hlub	B
 kwv	I
 hlub	I
 tij	I
-kwv	O
-hlub	O
-tij	O
 lawm	O
 .	O
 
@@ -409,9 +403,6 @@ kev	B
 lag	I
 kev	I
 luam	I
-lag	O
-kev	O
-luam	O
 thiab	O
 ,	O
 es	O
@@ -420,9 +411,6 @@ kev	B
 lag	I
 kev	I
 luam	I
-lag	O
-kev	O
-luam	O
 no	O
 thiaj	O
 li	O
@@ -566,9 +554,6 @@ muaj	B
 nyiaj	I
 muaj	I
 txiaj	I
-nyiaj	O
-muaj	O
-txiaj	O
 txau	O
 ;	O
 2-	O
@@ -1264,9 +1249,6 @@ kev	B
 lag	I
 kev	I
 luam	I
-lag	O
-kev	O
-luam	O
 thaum	O
 sawvdaws	O
 tseem	O
@@ -1456,9 +1438,6 @@ pab	B
 zej	I
 pab	I
 zos	I
-zej	O
-pab	O
-zos	O
 ,	O
 ces	O
 tej	O
@@ -1705,9 +1684,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 ,	O
 tej	O
 community	O
@@ -1916,9 +1892,6 @@ lub	B
 ntsej	I
 lub	I
 muag	I
-ntsej	O
-lub	O
-muag	O
 kom	O
 zoo	O
 li	O
@@ -2040,9 +2013,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 lawm	O
 xwb	O
 ,	O

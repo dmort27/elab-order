@@ -241,9 +241,6 @@ kev	B
 txog	I
 kev	I
 txhaum	I
-txog	O
-kev	O
-txhaum	O
 120	O
 tsav	O
 yam	O
@@ -259,9 +256,6 @@ ua	B
 kev	I
 ua	I
 cai	I
-kev	O
-ua	O
-cai	O
 hais	O
 no	O
 lau	O

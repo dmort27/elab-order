@@ -83,9 +83,6 @@ ua	B
 liaj	I
 ua	I
 kam	I
-liaj	O
-ua	O
-kam	O
 saib	O
 pej	O
 xeem	O
@@ -464,9 +461,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 yog	O
 ua	O
 tsis	O
@@ -859,9 +853,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 nrhiav	O
 teeb	O
 meem	O
@@ -1623,9 +1614,6 @@ ua	B
 dlog	I
 ua	I
 dlig	I
-dlog	O
-ua	O
-dlig	O
 le	O
 hov	O
 le	O
@@ -1947,9 +1935,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 ?	O
 
 
@@ -2260,9 +2245,6 @@ koj	B
 vaj	I
 koj	I
 tsev	I
-vaj	O
-koj	O
-tsev	O
 ,	O
 sau	O
 ntawv	O

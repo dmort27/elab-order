@@ -147,9 +147,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 .	O
 ''	O
 
@@ -170,9 +167,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 es	O
 nws	O
 twb	O
@@ -1618,9 +1612,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 lawm	O
 es	O
 saib	O
@@ -1747,9 +1738,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 nyob	O
 lub	O
 tebchaws	O
@@ -1771,9 +1759,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 lo	O
 ua	O
 peb	O
@@ -1873,18 +1858,12 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 ,	O
 kev	O
 muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 politic	O
 ,	O
@@ -1897,9 +1876,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 ntawm	O
 yus	O
 nyob	O
@@ -1967,9 +1943,6 @@ muaj	B
 laj	I
 muaj	I
 kam	I
-laj	O
-muaj	O
-kam	O
 ua	O
 ,	O
 muaj	O
@@ -1980,9 +1953,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 involve	O
 rau	O
@@ -2043,9 +2013,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 nyob	O
 thaibteb	O
 ,	O
@@ -2135,9 +2102,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 nyob	O
 lub	O
 tebchaws	O
@@ -2159,9 +2123,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 lo	O
 ua	O
 peb	O
@@ -2261,18 +2222,12 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 ,	O
 kev	O
 muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 politic	O
 ,	O
@@ -2285,9 +2240,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 ntawm	O
 yus	O
 nyob	O
@@ -2355,9 +2307,6 @@ muaj	B
 laj	I
 muaj	I
 kam	I
-laj	O
-muaj	O
-kam	O
 ua	O
 ,	O
 muaj	O
@@ -2368,9 +2317,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 involve	O
 rau	O
@@ -2431,9 +2377,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 nyob	O
 thaibteb	O
 ,	O
@@ -2534,9 +2477,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 xwb	O
 .	O
 
@@ -2553,9 +2493,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 .	O
 
 
@@ -2801,9 +2738,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 .	O
 
 
@@ -3015,9 +2949,6 @@ muaj	B
 yeej	I
 muaj	I
 swb	I
-yeej	O
-muaj	O
-swb	O
 mas	O
 txhaj	O
 ua	O
@@ -3852,9 +3783,6 @@ me	B
 kab	I
 me	I
 ntsaum	I
-kab	O
-me	O
-ntsaum	O
 xwb	O
 los	O
 ,	O

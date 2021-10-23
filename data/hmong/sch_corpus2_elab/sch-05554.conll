@@ -907,9 +907,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 li	O
 tsum	O
 thiab	O
@@ -976,9 +973,6 @@ muaj	B
 qab	I
 muaj	I
 hau	I
-qab	O
-muaj	O
-hau	O
 kawg	O
 thiab	O
 ,	O
@@ -2179,9 +2173,6 @@ nyiaj	B
 hnub	I
 nyiaj	I
 hli	I
-hnub	O
-nyiaj	O
-hli	O
 baum	O
 ub	O
 baum	O
@@ -2274,9 +2265,6 @@ txhais	B
 mus	I
 txhais	I
 los	I
-mus	O
-txhais	O
-los	O
 ces	O
 ua	O
 rau	O
@@ -2848,9 +2836,6 @@ nyuaj	B
 siab	I
 nyuaj	I
 ntsws	I
-siab	O
-nyuaj	O
-ntsws	O
 koj	O
 thiaj	O
 li	O
@@ -2875,9 +2860,6 @@ tub	B
 txib	I
 tub	I
 qhe	I
-txib	O
-tub	O
-qhe	O
 xwb	O
 yeej	O
 tsis	O
@@ -2915,9 +2897,6 @@ siv	B
 nyiaj	I
 siv	I
 txiaj	I
-nyiaj	O
-siv	O
-txiaj	O
 mus	O
 kawm	O
 20	O
@@ -2964,9 +2943,6 @@ pob	B
 zeb	I
 pob	I
 ca	I
-zeb	O
-pob	O
-ca	O
 )	O
 mas	O
 nyaj	O

@@ -594,9 +594,6 @@ tas	B
 phab	I
 tas	I
 pheev	I
-phab	O
-tas	O
-pheev	O
 .	O
 
 
@@ -619,9 +616,6 @@ paub	B
 ub	I
 paub	I
 no	I
-ub	O
-paub	O
-no	O
 ualuaj	O
 cas	O
 tsis	O
@@ -715,9 +709,6 @@ paub	B
 ub	I
 paub	I
 no	I
-ub	O
-paub	O
-no	O
 ualuaj	O
 cas	O
 tsis	O

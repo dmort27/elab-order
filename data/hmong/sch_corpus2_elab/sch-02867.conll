@@ -1027,9 +1027,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 ,	O
 poj	O
 qaib	O
@@ -1996,9 +1993,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 thiab	O
 tsuj	O
 lawm	O
@@ -2041,9 +2035,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 li	O
 1	O
 tug	O
@@ -2383,9 +2374,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 thiab	O
 tsuj	O
 lawm	O
@@ -2428,9 +2416,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 li	O
 1	O
 tug	O
@@ -2880,9 +2865,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 ,	O
 rub	O
 tuaj	O
@@ -3277,9 +3259,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 nawb	O
 .	O
 
@@ -3544,9 +3523,6 @@ tus	B
 txheeb	I
 tus	I
 ze	I
-txheeb	O
-tus	O
-ze	O
 hais	O
 zoo	O
 zoo	O
@@ -4233,9 +4209,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 tias	O
 yog	O
 mus	O

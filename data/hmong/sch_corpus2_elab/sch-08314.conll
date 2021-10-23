@@ -48,9 +48,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 kom	O
 tau	O
 vauv	O
@@ -262,9 +259,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 .	O
 
 
@@ -273,9 +267,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 txawj	O
 ntse	O
 xuam	O
@@ -603,9 +594,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 lawm	O
 xwb	O
 --	O
@@ -616,9 +604,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 ces	O
 twb	O
 muaj	O

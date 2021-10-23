@@ -66,9 +66,6 @@ xab	B
 nom	I
 xab	I
 tswv	I
-nom	O
-xab	O
-tswv	O
 mooj	O
 tau	O
 nej	O
@@ -1165,9 +1162,6 @@ ua	B
 tsov	I
 ua	I
 plis	I
-tsov	O
-ua	O
-plis	O
 sib	O
 tog	O
 sim	O
@@ -1630,9 +1624,6 @@ ua	B
 nruj	I
 ua	I
 tsiv	I
-nruj	O
-ua	O
-tsiv	O
 thaib	O
 hajyam	O
 mobsiab	O
@@ -1855,9 +1846,6 @@ ua	B
 nruj	I
 ua	I
 tsiv	I
-nruj	O
-ua	O
-tsiv	O
 thaib	O
 hajyam	O
 mobsiab	O
@@ -2552,9 +2540,6 @@ hmoob	B
 daj	I
 hmoob	I
 dub	I
-daj	O
-hmoob	O
-dub	O
 kuv	O
 pom	O
 ces	O

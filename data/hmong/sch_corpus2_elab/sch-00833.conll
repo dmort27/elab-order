@@ -110,9 +110,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 rau	O
 tom	O
 lub	O
@@ -473,9 +470,6 @@ muab	B
 dej	I
 muab	I
 cawv	I
-dej	O
-muab	O
-cawv	O
 pleev	O
 qhov	O
 muag	O
@@ -1394,9 +1388,6 @@ nyob	B
 deb	I
 nyob	I
 ze	I
-deb	O
-nyob	O
-ze	O
 tib	O
 si	O
 (	O
@@ -1441,9 +1432,6 @@ qub	B
 zej	I
 qub	I
 zog	I
-zej	O
-qub	O
-zog	O
 ntag	O
 laid	O
 .	O
@@ -1618,9 +1606,6 @@ kev	B
 ab	I
 kev	I
 khwv	I
-ab	O
-kev	O
-khwv	O
 ,	O
 kev	O
 ua	O

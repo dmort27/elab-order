@@ -303,9 +303,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 peb	O
 hmoob	O
 los	O
@@ -700,9 +697,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 tias	O
 koj	O
 tsis	O
@@ -763,9 +757,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 lawm	O
 no	O
 ov	O

@@ -303,9 +303,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 yam	O
 tsi	O
 tau	O
@@ -338,9 +335,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 xwb	O
 --	O
 -tsi	O
@@ -483,9 +477,6 @@ los	B
 noj	I
 los	I
 haus	I
-noj	O
-los	O
-haus	O
 lawm	O
 xwb	O
 nawb	O

@@ -548,9 +548,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 nas	O
 .	O
 
@@ -808,9 +805,6 @@ cov	B
 nom	I
 cov	I
 tswv	I
-nom	O
-cov	O
-tswv	O
 nyob	O
 ib	O
 ncig	O
@@ -1551,9 +1545,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 tsis	O
 hais	O
 fab	O
@@ -1751,9 +1742,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 es	O
 ywj	O
 nyias	O

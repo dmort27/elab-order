@@ -23,9 +23,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 tso	O
 (	O
 faus	O
@@ -894,9 +891,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 tshaj	O
 tam	O
 sim	O

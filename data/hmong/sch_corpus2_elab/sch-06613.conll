@@ -90,9 +90,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ces	O
 kom	O
 tso	O
@@ -229,9 +226,6 @@ nyias	B
 kwv	I
 nyias	I
 tij	I
-kwv	O
-nyias	O
-tij	O
 nyob	O
 tis	O
 USA	O
@@ -290,9 +284,6 @@ txhua	B
 hnub	I
 txhua	I
 hmo	I
-hnub	O
-txhua	O
-hmo	O
 li	O
 lawm	O
 ;	O
@@ -1306,9 +1297,6 @@ hais	B
 plaub	I
 hais	I
 ntug	I
-plaub	O
-hais	O
-ntug	O
 .	O
 
 
@@ -1648,9 +1636,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 thiab	O
 .	O
 
@@ -1918,9 +1903,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 lawm	O
 kom	O
 sawv	O
@@ -2055,9 +2037,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 paub	O
 tias	O
 muaj	O
@@ -2453,9 +2432,6 @@ xwj	B
 mus	I
 xwj	I
 los	I
-mus	O
-xwj	O
-los	O
 ,	O
 lawv	O
 muab	O
@@ -2765,9 +2741,6 @@ xwj	B
 mus	I
 xwj	I
 los	I
-mus	O
-xwj	O
-los	O
 ,	O
 lawv	O
 muab	O
@@ -3300,9 +3273,6 @@ tso	B
 riam	I
 tso	I
 phom	I
-riam	O
-tso	O
-phom	O
 es	O
 mus	O
 hais	O
@@ -3972,9 +3942,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 xwb	O
 .	O
 

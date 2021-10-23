@@ -621,9 +621,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 .	O
 
 
@@ -806,9 +803,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 ,	O
 nws	O
 thiaj	O
@@ -884,9 +878,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 yam	O
 tsis	O
 muaj	O
@@ -1535,9 +1526,6 @@ tim	B
 vaj	I
 tim	I
 tsev	I
-vaj	O
-tim	O
-tsev	O
 ces	O
 peb	O
 tsuas	O
@@ -3469,9 +3457,6 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 .	O
 
 
@@ -4112,9 +4097,6 @@ yog	B
 kev	I
 yog	I
 cai	I
-kev	O
-yog	O
-cai	O
 rau	O
 koj	O
 tsub	O
@@ -4371,9 +4353,6 @@ yog	B
 kev	I
 yog	I
 cai	I
-kev	O
-yog	O
-cai	O
 rau	O
 koj	O
 tsub	O
@@ -5287,9 +5266,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 .	O
 
 
@@ -5472,9 +5448,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 ,	O
 nws	O
 thiaj	O
@@ -5550,9 +5523,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 yam	O
 tsis	O
 muaj	O
@@ -6201,9 +6171,6 @@ tim	B
 vaj	I
 tim	I
 tsev	I
-vaj	O
-tim	O
-tsev	O
 ces	O
 peb	O
 tsuas	O
@@ -8232,9 +8199,6 @@ ntxias	B
 noj	I
 ntxias	I
 qhe	I
-noj	O
-ntxias	O
-qhe	O
 ''	O
 xwb	O
 os	O
@@ -9822,9 +9786,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 ,	O
 thiab	O
 thaum	O
@@ -11200,9 +11161,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 los	O
 tseem	O
 yuav	O
@@ -11276,18 +11234,12 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 ,	O
 los	O
 ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 rov	O
 rau	O
 yus	O
@@ -11450,9 +11402,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 ntxiv	O
 lawm	O
 ,	O
@@ -11469,9 +11418,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 ,	O
 coj	O
 kom	O
@@ -12233,9 +12179,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 .	O
 
 
@@ -12418,9 +12361,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 ,	O
 nws	O
 thiaj	O
@@ -12496,9 +12436,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 yam	O
 tsis	O
 muaj	O
@@ -13147,9 +13084,6 @@ tim	B
 vaj	I
 tim	I
 tsev	I
-vaj	O
-tim	O
-tsev	O
 ces	O
 peb	O
 tsuas	O
@@ -15922,9 +15856,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 li	O
 tej	O
 no	O
@@ -15941,9 +15872,6 @@ lub	B
 ntsej	I
 lub	I
 muag	I
-ntsej	O
-lub	O
-muag	O
 ,	O
 tsis	O
 xaiv	O

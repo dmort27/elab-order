@@ -641,9 +641,6 @@ dab	B
 tooj	I
 dab	I
 hlau	I
-tooj	O
-dab	O
-hlau	O
 rov	O
 qab	O
 loo	O
@@ -847,9 +844,6 @@ dab	B
 tooj	I
 dab	I
 hlau	I
-tooj	O
-dab	O
-hlau	O
 rov	O
 qab	O
 loo	O
@@ -1277,9 +1271,6 @@ tus	B
 paub	I
 tus	I
 pom	I
-paub	O
-tus	O
-pom	O
 ne	O
 .	O
 

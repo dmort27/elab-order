@@ -338,9 +338,6 @@ tsi	B
 mus	I
 tsi	I
 los	I
-mus	O
-tsi	O
-los	O
 li	O
 no	O
 cais	O
@@ -767,9 +764,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 kom	O
 luag	O
 hos	O
@@ -1528,9 +1522,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 xwb	O
 nawb	O
 ...	O
@@ -1942,9 +1933,6 @@ nyias	B
 noj	I
 nyias	I
 haus	I
-noj	O
-nyias	O
-haus	O
 xwb	O
 .	O
 

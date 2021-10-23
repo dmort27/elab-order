@@ -209,9 +209,6 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 thoobplaws	O
 qhov	O
 txhiachaw	O
@@ -661,17 +658,11 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 li	O
 kev	B
 lis	I
 kev	I
 cai	I
-lis	O
-kev	O
-cai	O
 los	O
 thuam	O
 vim	O
@@ -700,9 +691,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 thiab	O
 les	O
 es	O

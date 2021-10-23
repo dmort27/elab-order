@@ -54,9 +54,6 @@ rua	B
 ub	I
 rua	I
 nua	I
-ub	O
-rua	O
-nua	O
 .	O
 
 
@@ -197,9 +194,6 @@ ua	B
 lwj	I
 ua	I
 lam	I
-lwj	O
-ua	O
-lam	O
 (	O
 chiv	O
 chawj	O
@@ -452,9 +446,6 @@ dhia	B
 lwj	I
 dhia	I
 liam	I
-lwj	O
-dhia	O
-liam	O
 lo	O
 no	O
 mas	O
@@ -557,9 +548,6 @@ saib	B
 qab	I
 saib	I
 hauv	I
-qab	O
-saib	O
-hauv	O
 li	O
 naj	O
 .	O
@@ -920,9 +908,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 lawm	O
 xwb	O
 .	O
@@ -958,17 +943,11 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 (	O
 dhia	B
 ciaj	I
 dhia	I
 tuag	I
-ciaj	O
-dhia	O
-tuag	O
 )	O
 rau	O
 kuv	O
@@ -1239,9 +1218,6 @@ hlob	B
 mus	I
 hlob	I
 los	I
-mus	O
-hlob	O
-los	O
 ``	O
 nwg	O
 means	O
@@ -1668,9 +1644,6 @@ kev	B
 txob	I
 kev	I
 txhawj	I
-txob	O
-kev	O
-txhawj	O
 .	O
 
 

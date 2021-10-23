@@ -385,9 +385,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 li	O
 no	O
 .	O
@@ -437,9 +434,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 nyob	O
 tim	O
 Laos	O
@@ -915,9 +909,6 @@ muaj	B
 qab	I
 muaj	I
 hau	I
-qab	O
-muaj	O
-hau	O
 .	O
 
 
@@ -1218,9 +1209,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 los	O
 hmoob	O
 coj	O
@@ -1491,9 +1479,6 @@ lub	B
 sab	I
 lub	I
 ntsws	I
-sab	O
-lub	O
-ntsws	O
 yeej	O
 yuav	O
 nyob	O

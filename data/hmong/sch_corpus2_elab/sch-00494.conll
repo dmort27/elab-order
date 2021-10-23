@@ -1255,9 +1255,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 mas	O
 tab	O
 caum	O
@@ -1269,9 +1266,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -2372,9 +2366,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 .	O
 
 
@@ -3770,9 +3761,6 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 txog	O
 100	O
 tug	O
@@ -4697,9 +4685,6 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 los	O
 vim	O
 lawv	O
@@ -4806,9 +4791,6 @@ nyiaj	B
 hnub	I
 nyiaj	I
 hli	I
-hnub	O
-nyiaj	O
-hli	O
 .	O
 
 
@@ -5233,9 +5215,6 @@ hav	B
 tauj	I
 hav	I
 nqeeb	I
-tauj	O
-hav	O
-nqeeb	O
 mas	O
 muaj	O
 KUJYEM	O
@@ -6286,9 +6265,6 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 txog	O
 100	O
 tug	O
@@ -6980,9 +6956,6 @@ ncig	B
 zej	I
 ncig	I
 zos	I
-zej	O
-ncig	O
-zos	O
 thiab	O
 hnav	O
 mus	O

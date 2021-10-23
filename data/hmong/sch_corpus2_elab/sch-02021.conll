@@ -294,9 +294,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 thauv	O
 npe	O
 thiab	O
@@ -611,9 +608,6 @@ noj	B
 dawb	I
 noj	I
 do	I
-dawb	O
-noj	O
-do	O
 ......	O
 khaws	O
 tsis	O
@@ -1255,9 +1249,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -1598,9 +1589,6 @@ hle	B
 tes	I
 hle	I
 taw	I
-tes	O
-hle	O
-taw	O
 tias	O
 kom	O
 sawv	O
@@ -2795,9 +2783,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 dlua	O
 .	O
 

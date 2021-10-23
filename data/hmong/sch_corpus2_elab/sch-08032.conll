@@ -389,9 +389,6 @@ ua	B
 phooj	I
 ua	I
 ywg	I
-phooj	O
-ua	O
-ywg	O
 .	O
 
 
@@ -729,9 +726,6 @@ ua	B
 hmo	I
 ua	I
 tshais	I
-hmo	O
-ua	O
-tshais	O
 ,	O
 muaj	O
 ib	O
@@ -755,9 +749,6 @@ xaiv	B
 mus	I
 xaiv	I
 los	I
-mus	O
-xaiv	O
-los	O
 ,	O
 nws	O
 txawm	O
@@ -1768,9 +1759,6 @@ me	B
 nas	I
 me	I
 noog	I
-nas	O
-me	O
-noog	O
 ya/khiav	O
 los	O
 ntsauv	O
@@ -1833,9 +1821,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 kom	O
 nas	O
 noog	O

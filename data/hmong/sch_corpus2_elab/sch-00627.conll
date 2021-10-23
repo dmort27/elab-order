@@ -35,9 +35,6 @@ xws	B
 teb	I
 xws	I
 chaw	I
-teb	O
-xws	O
-chaw	O
 ,	O
 tab	O
 sis	O
@@ -82,9 +79,6 @@ kev	B
 coj	I
 kev	I
 ua	I
-coj	O
-kev	O
-ua	O
 tes	O
 hauj	O
 lwm	O
@@ -1140,9 +1134,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 hnub	O
 twg	O
 hmoob	O
@@ -1549,9 +1540,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 huv	O
 lub	O
 nplaj	O
@@ -1626,9 +1614,6 @@ kev	B
 dlaab	I
 kev	I
 qhua	I
-dlaab	O
-kev	O
-qhua	O
 sau	O
 tseg	O
 rua	O
@@ -2276,9 +2261,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 no	O
 lawm	O
 os	O
@@ -2304,9 +2286,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 ces	O
 tsi	O
 luaj	O
@@ -2402,9 +2381,6 @@ hmoob	B
 roj	I
 hmoob	I
 ntshav	I
-roj	O
-hmoob	O
-ntshav	O
 yeej	O
 txawm	O
 tau	O

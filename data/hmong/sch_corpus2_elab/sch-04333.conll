@@ -489,9 +489,6 @@ tsi	B
 moog	I
 tsi	I
 lug	I
-moog	O
-tsi	O
-lug	O
 vim	O
 puab	O
 tsi	O
@@ -567,9 +564,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 huv	O
 lub	O
 nplajteb	O
@@ -1810,9 +1804,6 @@ tiv	B
 tshaav	I
 tiv	I
 naag	I
-tshaav	O
-tiv	O
-naag	O
 tag	O
 luas	O
 tug	O
@@ -2162,9 +2153,6 @@ chim	B
 ntuj	I
 chim	I
 teb	I
-ntuj	O
-chim	O
-teb	O
 tsawm	O
 luag	O
 hu	O

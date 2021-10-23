@@ -618,9 +618,6 @@ tom	B
 vaaj	I
 tom	I
 tsev	I
-vaaj	O
-tom	O
-tsev	O
 ,	O
 nyob	O
 huv	O
@@ -702,9 +699,6 @@ tshum	B
 ub	I
 tshum	I
 no	I
-ub	O
-tshum	O
-no	O
 hwv	O
 no	O
 ne	O
@@ -729,9 +723,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 hwv	O
 tsam	O
 rau	O
@@ -836,9 +827,6 @@ ntxua	B
 nub	I
 ntxua	I
 mo	I
-nub	O
-ntxua	O
-mo	O
 faj	O
 hov	O
 tsis	O
@@ -1019,9 +1007,6 @@ saib	B
 moog	I
 saib	I
 lug	I
-moog	O
-saib	O
-lug	O
 yug	O
 yog	O
 cov	O

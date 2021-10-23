@@ -208,9 +208,6 @@ muaj	B
 dag	I
 muaj	I
 zog	I
-dag	O
-muaj	O
-zog	O
 muaj	O
 nyiaj	O
 tuaj	O
@@ -816,9 +813,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 ces	O
 yeej	O
 khoob	O
@@ -840,9 +834,6 @@ txhua	B
 tsaav	I
 txhua	I
 yaam	I
-tsaav	O
-txhua	O
-yaam	O
 rua	O
 suav	O
 dlawg	O
@@ -931,9 +922,6 @@ muaj	B
 plaub	I
 muaj	I
 ntug	I
-plaub	O
-muaj	O
-ntug	O
 ntau	O
 ces	O
 ua	O

@@ -20,9 +20,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 los	O
 tseem	O
 chim	O
@@ -529,9 +526,6 @@ tau	B
 nyiaj	I
 tau	I
 txiaj	I
-nyiaj	O
-tau	O
-txiaj	O
 --	O
 kuv	O
 twb	O
@@ -941,9 +935,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 uas	O
 rov	O
 mus	O
@@ -1373,9 +1364,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 mus	O
 li	O
 cas	O

@@ -592,9 +592,6 @@ ua	B
 ciaj	I
 ua	I
 tuag	I
-ciaj	O
-ua	O
-tuag	O
 thiab	O
 yuav	O
 ua	O
@@ -1444,9 +1441,6 @@ luag	B
 roj	I
 luag	I
 ntshav	I
-roj	O
-luag	O
-ntshav	O
 --	O
 luag	O
 lam	O
@@ -1675,9 +1669,6 @@ sib	B
 pab	I
 sib	I
 hlub	I
-pab	O
-sib	O
-hlub	O
 ,	O
 txhob	O
 nyhavsiab	O
@@ -1744,9 +1735,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 tiag	O
 .	O
 
@@ -1922,9 +1910,6 @@ tau	B
 ntaub	I
 tau	I
 ntawv	I
-ntaub	O
-tau	O
-ntawv	O
 tis	O
 me	O
 me	O
@@ -2295,9 +2280,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 tiag	O
 .	O
 
@@ -2475,9 +2457,6 @@ tau	B
 ntaub	I
 tau	I
 ntawv	I
-ntaub	O
-tau	O
-ntawv	O
 tis	O
 me	O
 me	O

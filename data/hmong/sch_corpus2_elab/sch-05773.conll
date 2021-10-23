@@ -490,17 +490,11 @@ dab	B
 niam	I
 dab	I
 txiv	I
-niam	O
-dab	O
-txiv	O
 thiab	O
 dab	B
 pog	I
 dab	I
 yawg	I
-pog	O
-dab	O
-yawg	O
 ?	O
 
 
@@ -773,9 +767,6 @@ luag	B
 dlej	I
 luag	I
 num	I
-dlej	O
-luag	O
-num	O
 mas	O
 txhaj	O
 yuav	O

@@ -245,9 +245,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 ,	O
 vim	O
 yog	O
@@ -288,9 +285,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 txoj	O
 niag	O
 kev	O
@@ -703,9 +697,6 @@ tsi	B
 mus	I
 tsi	I
 los	I
-mus	O
-tsi	O
-los	O
 qhov	O
 twg	O
 li	O

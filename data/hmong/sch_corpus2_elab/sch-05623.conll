@@ -557,9 +557,6 @@ leem	B
 kev	I
 leem	I
 cai	I
-kev	O
-leem	O
-cai	O
 lawm	O
 nawb	O
 .	O
@@ -1042,9 +1039,6 @@ npav	B
 dej	I
 npav	I
 taws	I
-dej	O
-npav	O
-taws	O
 ,	O
 npav	O
 ciaj	O
@@ -1057,17 +1051,11 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 ,	O
 sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 .	O
 
 
@@ -1122,9 +1110,6 @@ paub	B
 paus	I
 paub	I
 ntsis	I
-paus	O
-paub	O
-ntsis	O
 lawm	O
 peb	O
 yuav	O

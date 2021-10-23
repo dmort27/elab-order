@@ -284,9 +284,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 nyob	O
 vim	O
 peb	O
@@ -456,9 +453,6 @@ tej	B
 nam	I
 tej	I
 txiv	I
-nam	O
-tej	O
-txiv	O
 txaj	O
 le	O
 .	O
@@ -676,9 +670,6 @@ ke	B
 tes	I
 ke	I
 taw	I
-tes	O
-ke	O
-taw	O
 nram	O
 tiaj	O
 tos	O
@@ -930,9 +921,6 @@ ua	B
 phab	I
 ua	I
 pheev	I
-phab	O
-ua	O
-pheev	O
 tuaj	O
 li	O
 ntag	O
@@ -968,9 +956,6 @@ txhua	B
 tsav	I
 txhua	I
 yam	I
-tsav	O
-txhua	O
-yam	O
 los	O
 sib	O
 xyaws	O

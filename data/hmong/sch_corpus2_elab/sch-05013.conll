@@ -173,9 +173,6 @@ saib	B
 kwv	I
 saib	I
 tij	I
-kwv	O
-saib	O
-tij	O
 mas	O
 yuav	O
 tau	O
@@ -1780,9 +1777,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 li	O
 kuv	O
 hais	O
@@ -2362,9 +2356,6 @@ qhov	B
 ub	I
 qhov	I
 nuav	I
-ub	O
-qhov	O
-nuav	O
 xwb	O
 .	O
 
@@ -2416,9 +2407,6 @@ lwm	B
 leej	I
 lwm	I
 tug	I
-leej	O
-lwm	O
-tug	O
 pim	O
 .......	O
 yuav	O
@@ -2501,9 +2489,6 @@ puab	B
 nam	I
 puab	I
 txiv	I
-nam	O
-puab	O
-txiv	O
 taag	O
 kev	O
 casab	O

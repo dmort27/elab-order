@@ -721,9 +721,6 @@ hauv	B
 paus	I
 hauv	I
 ntsis	I
-paus	O
-hauv	O
-ntsis	O
 dab	O
 tsi	O
 li	O
@@ -874,9 +871,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ua	O
 luaj	O
 .	O
@@ -1121,9 +1115,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 ,	O
 txhais	O
 tau	O
@@ -2036,9 +2027,6 @@ hnov	B
 ub	I
 hnov	I
 no	I
-ub	O
-hnov	O
-no	O
 heev	O
 li	O
 ....	O

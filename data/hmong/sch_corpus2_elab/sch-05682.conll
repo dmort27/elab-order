@@ -1086,9 +1086,6 @@ npaj	B
 txhij	I
 npaj	I
 txhua	I
-txhij	O
-npaj	O
-txhua	O
 no	O
 ,	O
 ua	O
@@ -2443,9 +2440,6 @@ zoo	B
 caij	I
 zoo	I
 nyoog	I
-caij	O
-zoo	O
-nyoog	O
 na	O
 .	O
 
@@ -2595,9 +2589,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 thiab	O
 kuv	O
 ho	O
@@ -2637,9 +2628,6 @@ txhua	B
 hnub	I
 txhua	I
 hmo	I
-hnub	O
-txhua	O
-hmo	O
 thiab	O
 hos	O
 .	O
@@ -2677,18 +2665,12 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 mus	O
 rau	O
 xeeb	B
 teb	I
 xeeb	I
 chaw	I
-teb	O
-xeeb	O
-chaw	O
 tib	O
 si	O
 .	O
@@ -2805,9 +2787,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 thiab	O
 kuv	O
 ho	O
@@ -2847,9 +2826,6 @@ txhua	B
 hnub	I
 txhua	I
 hmo	I
-hnub	O
-txhua	O
-hmo	O
 thiab	O
 hos	O
 .	O
@@ -2887,18 +2863,12 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 mus	O
 rau	O
 xeeb	B
 teb	I
 xeeb	I
 chaw	I
-teb	O
-xeeb	O
-chaw	O
 tib	O
 si	O
 .	O
@@ -3343,9 +3313,6 @@ puas	B
 siab	I
 puas	I
 ntsws	I
-siab	O
-puas	O
-ntsws	O
 lawm	O
 no	O
 .	O

@@ -1236,9 +1236,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 thiab	O
 ov	O
 .	O
@@ -2527,9 +2524,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 li	O
 .	O
 
@@ -3280,9 +3274,6 @@ dag	B
 nom	I
 dag	I
 tswv	I
-nom	O
-dag	O
-tswv	O
 ,	O
 ces	O
 thaum	O
@@ -4379,9 +4370,6 @@ tog	B
 khaub	I
 tog	I
 tsuag	I
-khaub	O
-tog	O
-tsuag	O
 nrog	O
 xwb	O
 xwb	O
@@ -4923,9 +4911,6 @@ nyias	B
 kab	I
 nyias	I
 kev	I
-kab	O
-nyias	O
-kev	O
 lawm	O
 ces	O
 nyaj	O

@@ -69,9 +69,6 @@ tos	B
 tub	I
 tos	I
 kiv	I
-tub	O
-tos	O
-kiv	O
 hlob	O
 thaum	O
 ntawd	O
@@ -426,9 +423,6 @@ ua	B
 rwj	I
 ua	I
 aws	I
-rwj	O
-ua	O
-aws	O
 ncus	O
 txog	O
 tav	O
@@ -701,9 +695,6 @@ kis	B
 toj	I
 kis	I
 pes	I
-toj	O
-kis	O
-pes	O
 cuagli	O
 yus	O
 yog	O
@@ -803,9 +794,6 @@ paub	B
 qab	I
 paub	I
 hau	I
-qab	O
-paub	O
-hau	O
 los	O
 tseem	O
 tuaj	O
@@ -1036,9 +1024,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 .	O
 
 
@@ -1186,9 +1171,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 ,	O
 tiam	O
 sis	O
@@ -2105,9 +2087,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 lawm	O
 ces	O
 nyaj	O
@@ -2973,9 +2952,6 @@ keb	B
 ub	I
 keb	I
 no	I
-ub	O
-keb	O
-no	O
 lawm	O
 xwb	O
 pob	O
@@ -3035,9 +3011,6 @@ keb	B
 ub	I
 keb	I
 no	I
-ub	O
-keb	O
-no	O
 li	O
 no	O
 mas	O

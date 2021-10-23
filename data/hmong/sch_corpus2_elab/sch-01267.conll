@@ -56,9 +56,6 @@ muaj	B
 yeej	I
 muaj	I
 swb	I
-yeej	O
-muaj	O
-swb	O
 ces	O
 suav	O
 dlawg	O
@@ -443,9 +440,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 li	O
 niag	O
 me	O
@@ -1509,9 +1503,6 @@ peb	B
 txawj	I
 peb	I
 ntse	I
-txawj	O
-peb	O
-ntse	O
 lawm	O
 ....	O
 peb	O

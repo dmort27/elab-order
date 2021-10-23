@@ -440,9 +440,6 @@ txiv	B
 laus	I
 txiv	I
 hluas	I
-laus	O
-txiv	O
-hluas	O
 no	O
 Los	O
 !	O
@@ -664,9 +661,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 li	O
 mas	O
 Vajncuab	O
@@ -932,9 +926,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 .	O
 
 
@@ -3540,9 +3531,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 ,	O
 kwvtij	O
 ,	O
@@ -3736,9 +3724,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ,	O
 taab	O
 sis	O

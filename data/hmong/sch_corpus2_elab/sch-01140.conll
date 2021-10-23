@@ -689,9 +689,6 @@ ua	B
 nrw	I
 ua	I
 nrees	I
-nrw	O
-ua	O
-nrees	O
 mus	O
 puag	O
 pw	O
@@ -835,9 +832,6 @@ yog	B
 neej	I
 yog	I
 tsav	I
-neej	O
-yog	O
-tsav	O
 koj	O
 qaib	O
 pw	O
@@ -1806,17 +1800,11 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 tau	O
 kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 .	O
 
 
@@ -1837,9 +1825,6 @@ kis	B
 toj	I
 kis	I
 pes	I
-toj	O
-kis	O
-pes	O
 hwv	O
 ov	O
 .	O

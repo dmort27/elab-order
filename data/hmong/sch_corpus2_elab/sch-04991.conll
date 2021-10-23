@@ -73,9 +73,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 nrog	O
 luag	O
@@ -86,9 +83,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 ,	O
 tham	O
 lub	O
@@ -101,9 +95,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 tas	O
 mus	O
 li	O
@@ -151,9 +142,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 twb	O
 tsis	O
 me	O
@@ -198,9 +186,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 thiab	O
 .	O
 
@@ -1315,9 +1300,6 @@ txhua	B
 hnub	I
 txhua	I
 hmo	I
-hnub	O
-txhua	O
-hmo	O
 ,	O
 ces	O
 nws	O
@@ -1472,9 +1454,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 dhau	O
 los	O
 lawm	O
@@ -1586,9 +1565,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 li	O
 peb	O
 cov	O
@@ -2604,9 +2580,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 tiag	O
 ,	O
 tabsi	O
@@ -2704,9 +2677,6 @@ xab	B
 nom	I
 xab	I
 tswv	I
-nom	O
-xab	O
-tswv	O
 general	O
 ,	O
 colonel	O
@@ -2744,9 +2714,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ntawm	O
 peb	O
 haiv	O
@@ -2775,9 +2742,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ntawd	O
 ziag	O
 no	O
@@ -2812,9 +2776,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 lawv	O
 thiaj	O
 pheej	O
@@ -2869,9 +2830,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 sib	O
 luag	O
 sib	O
@@ -3064,9 +3022,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 es	O
 lawv	O
 thiaj	O
@@ -3267,9 +3222,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 cov	O
 nyiaj	O
 mas	O

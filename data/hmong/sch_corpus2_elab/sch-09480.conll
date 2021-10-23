@@ -1175,9 +1175,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -2553,9 +2550,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 los	O
 yog	O
 vim	O
@@ -2641,9 +2635,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 foob	O
 es	O
 txiv	O
@@ -2695,9 +2686,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 has	O
 no	O
 legal	O
@@ -2759,9 +2747,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 mus	O
 tsaj	O
 phov	O
@@ -2786,9 +2771,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ,	O
 nej	O
 mas	O

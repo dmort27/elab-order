@@ -511,9 +511,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 los	O
 luag	O
 yeej	O
@@ -2231,9 +2228,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 lawm	O
 xwb	O
 .	O

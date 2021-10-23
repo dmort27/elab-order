@@ -98,9 +98,6 @@ phom	B
 loj	I
 phom	I
 me	I
-loj	O
-phom	O
-me	O
 (	O
 qub	O
 thiab	O
@@ -271,9 +268,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 nws	O
 yuav	O
 raug	O
@@ -1016,9 +1010,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 twb	O
 los	O
 yuav	O
@@ -1130,9 +1121,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 yog	O
 ib	O
 txoj	O
@@ -1445,9 +1433,6 @@ phom	B
 loj	I
 phom	I
 me	I
-loj	O
-phom	O
-me	O
 sib	O
 tua	O
 ,	O
@@ -1511,9 +1496,6 @@ kwv	B
 riam	I
 kwv	I
 phom	I
-riam	O
-kwv	O
-phom	O
 tawm	O
 tsam	O
 government	O
@@ -2063,9 +2045,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 ,	O
 thiab	O
 lawv	O
@@ -2122,9 +2101,6 @@ ntsim	B
 siab	I
 ntsim	I
 plawv	I
-siab	O
-ntsim	O
-plawv	O
 no	O
 coj	O
 los	O
@@ -2136,9 +2112,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 no	O
 ntshe	O
 ib	O
@@ -2246,9 +2219,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ces	O
 Hmoob	O
 yog	O
@@ -2454,9 +2424,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 neeg	O
 .	O
 
@@ -2560,9 +2527,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 xwb	O
 ,	O
 Leej	O
@@ -2712,9 +2676,6 @@ ua	B
 vij	I
 ua	I
 swv	I
-vij	O
-ua	O
-swv	O
 rau	O
 Hmoob	O
 xwb	O
@@ -2735,9 +2696,6 @@ ua	B
 vij	I
 ua	I
 swv	I
-vij	O
-ua	O
-swv	O
 rau	O
 Hmoob	O
 thiab	O
@@ -2773,9 +2731,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 .	O
 
 
@@ -2785,9 +2740,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 peb	O
 ua	O
@@ -2983,9 +2935,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 hu	O
 ua	O
 traitor	O

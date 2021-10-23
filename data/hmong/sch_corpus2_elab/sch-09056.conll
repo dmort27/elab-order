@@ -34,17 +34,11 @@ txhua	B
 yam	I
 txhua	I
 tsav	I
-yam	O
-txhua	O
-tsav	O
 yog	O
 hmoob	B
 teej	I
 hmoob	I
 tug	I
-teej	O
-hmoob	O
-tug	O
 ces	O
 yog	O
 dab	O
@@ -504,9 +498,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 .	O
 
 
@@ -687,9 +678,6 @@ ib	B
 txheej	I
 ib	I
 tis	I
-txheej	O
-ib	O
-tis	O
 hais	O
 dhau	O
 ib	O

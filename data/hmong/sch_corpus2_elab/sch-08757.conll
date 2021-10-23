@@ -210,9 +210,6 @@ pluas	B
 noj	I
 pluas	I
 haus	I
-noj	O
-pluas	O
-haus	O
 los	O
 leg	O
 lawm	O
@@ -417,9 +414,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 mas	O
 kuj	O
 pab	O
@@ -773,9 +767,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 mas	O
 kuv	O
 kuj	O
@@ -1102,9 +1093,6 @@ li	B
 teb	I
 li	I
 chaw	I
-teb	O
-li	O
-chaw	O
 thiab	O
 xwb	O
 .	O

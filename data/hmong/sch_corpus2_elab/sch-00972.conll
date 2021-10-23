@@ -146,9 +146,6 @@ pluag	B
 noj	I
 pluag	I
 haus	I
-noj	O
-pluag	O
-haus	O
 ,	O
 pluag	O
 nyiaj	O
@@ -276,9 +273,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 muaj	O
 txoj	O
 kev	O
@@ -380,9 +374,6 @@ zov	B
 vaj	I
 zov	I
 tsev	I
-vaj	O
-zov	O
-tsev	O
 ,	O
 kom	O
 xwv	O
@@ -399,9 +390,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 kev	O
 nrhiav	O
 nyiaj	O
@@ -474,9 +462,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 .	O
 
 
@@ -1254,9 +1239,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 

@@ -2280,18 +2280,12 @@ rau	B
 nom	I
 rau	I
 tswv	I
-nom	O
-rau	O
-tswv	O
 rau	O
 court	O
 qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 .	O
 
 
@@ -2565,9 +2559,6 @@ chaws	B
 txawb	I
 chaws	I
 rau	I
-txawb	O
-chaws	O
-rau	O
 rau	O
 peb	O
 haivneeg	O

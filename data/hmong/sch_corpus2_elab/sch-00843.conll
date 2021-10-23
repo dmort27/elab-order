@@ -168,9 +168,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 yeej	O
 tias	O
 tsis	O
@@ -210,9 +207,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 lub	O
 hom	O
 phiaj	O
@@ -262,9 +256,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 xwb	O
 .	O
 
@@ -1976,9 +1967,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 nram	O
 lub	O
 zos	O
@@ -2783,9 +2771,6 @@ lawv	B
 vaj	I
 lawv	I
 tsev	I
-vaj	O
-lawv	O
-tsev	O
 yog	O
 yus	O
 yog	O
@@ -2833,9 +2818,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 rau	O
 lawv	O
 kiag	O
@@ -3431,9 +3413,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 nram	O
 lub	O
 zos	O

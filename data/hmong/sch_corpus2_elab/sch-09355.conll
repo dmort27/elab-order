@@ -948,9 +948,6 @@ cais	B
 paab	I
 cais	I
 pawg	I
-paab	O
-cais	O
-pawg	O
 .	O
 
 
@@ -1111,9 +1108,6 @@ nwg	B
 nam	I
 nwg	I
 txiv	I
-nam	O
-nwg	O
-txiv	O
 ntshe	O
 yog	O
 dlev	O
@@ -1588,9 +1582,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 mus	O
 .	O
 
@@ -1607,9 +1598,6 @@ sib	B
 pab	I
 sib	I
 hlub	I
-pab	O
-sib	O
-hlub	O
 li	O
 tau	O
 2-3	O
@@ -1795,9 +1783,6 @@ yaam	B
 ub	I
 yaam	I
 nua	I
-ub	O
-yaam	O
-nua	O
 lug	O
 paab	O
 mej	O
@@ -2532,9 +2517,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 kawg	O
 mad	O
 .	O
@@ -2548,9 +2530,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 tau	O
 2-3	O
 hnub	O
@@ -2816,9 +2795,6 @@ muaj	B
 qab	I
 muaj	I
 hau	I
-qab	O
-muaj	O
-hau	O
 .	O
 
 

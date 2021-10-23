@@ -113,9 +113,6 @@ ntau	B
 leej	I
 ntau	I
 tus	I
-leej	O
-ntau	O
-tus	O
 kuj	O
 muaj	O
 positive/negative	O
@@ -878,9 +875,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 .	O
 
 
@@ -1772,9 +1766,6 @@ tav	B
 ntuj	I
 tav	I
 teb	I
-ntuj	O
-tav	O
-teb	O
 no	O
 ces	O
 paj	O

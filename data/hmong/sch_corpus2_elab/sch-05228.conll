@@ -152,9 +152,6 @@ nrog	B
 huab	I
 nrog	I
 cua	I
-huab	O
-nrog	O
-cua	O
 mus	O
 pab	O
 hlub	O
@@ -353,9 +350,6 @@ kauv	B
 tes	I
 kauv	I
 taw	I
-tes	O
-kauv	O
-taw	O
 xwb	O
 ov	O
 ....	O

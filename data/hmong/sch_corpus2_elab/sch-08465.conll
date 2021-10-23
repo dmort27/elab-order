@@ -686,9 +686,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 hab	O
 kev	O
 ntseeg	O
@@ -1413,9 +1410,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 yuav	O
 tua	O
 su	O
@@ -2482,9 +2476,6 @@ nriav	B
 noj	I
 nriav	I
 haus	I
-noj	O
-nriav	O
-haus	O
 tab	O
 sis	O
 hnub	O

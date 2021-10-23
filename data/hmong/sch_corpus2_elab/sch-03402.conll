@@ -387,9 +387,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 li	O
 nej	O
 hnov	O
@@ -479,9 +476,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 ,	O
 kom	O
 muaj	O
@@ -580,9 +574,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 nawb	O
 .	O
 
@@ -656,9 +647,6 @@ yam	B
 ub	I
 yam	I
 no	I
-ub	O
-yam	O
-no	O
 tas	O
 mus	O
 li	O
@@ -832,9 +820,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 Thiab	O
 hais	O
@@ -887,9 +872,6 @@ kawg	B
 siab	I
 kawg	I
 ntsws	I
-siab	O
-kawg	O
-ntsws	O
 .	O
 
 
@@ -1135,9 +1117,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 tsi	O
 nkagsiab	O
 li	O
@@ -1627,9 +1606,6 @@ tes	B
 qav	I
 tes	I
 num	I
-qav	O
-tes	O
-num	O
 tiag-g	O
 kom	O
 Nplog	O
@@ -2002,9 +1978,6 @@ tas	B
 zaj	I
 tas	I
 zog	I
-zaj	O
-tas	O
-zog	O
 thiaj	O
 nrhiav	O
 tsi	O

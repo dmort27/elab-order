@@ -78,9 +78,6 @@ kev	B
 phem	I
 kev	I
 qas	I
-phem	O
-kev	O
-qas	O
 xwb	O
 ,	O
 moog	O
@@ -241,9 +238,6 @@ kev	B
 phem	I
 kev	I
 qas	I
-phem	O
-kev	O
-qas	O
 xwb	O
 ,	O
 moog	O
@@ -492,9 +486,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 tabsis	O
 peb	O
@@ -603,9 +594,6 @@ ua	B
 kub	I
 ua	I
 ntaiv	I
-kub	O
-ua	O
-ntaiv	O
 rau	O
 luag	O
 txog	O

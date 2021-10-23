@@ -421,9 +421,6 @@ yuav	B
 hlub	I
 yuav	I
 nyiam	I
-hlub	O
-yuav	O
-nyiam	O
 txog	O
 hnoob	O
 kawg	O
@@ -735,9 +732,6 @@ dhia	B
 siab	I
 dhia	I
 nqi	I
-siab	O
-dhia	O
-nqi	O
 nrog	O
 luag	O
 uas	O
@@ -1561,9 +1555,6 @@ dhia	B
 siab	I
 dhia	I
 nqi	I
-siab	O
-dhia	O
-nqi	O
 nrog	O
 luag	O
 uas	O

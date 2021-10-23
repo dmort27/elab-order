@@ -91,9 +91,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 .	O
 
 
@@ -125,9 +122,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 .	O
 
 
@@ -295,9 +289,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 .	O
 
 
@@ -329,9 +320,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 .	O
 
 
@@ -761,9 +749,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 .	O
 
 
@@ -795,9 +780,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 .	O
 
 
@@ -1111,9 +1093,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 thiab	O
 nej	O
 tej	O
@@ -1264,9 +1243,6 @@ tej	B
 ub	I
 tej	I
 no	I
-ub	O
-tej	O
-no	O
 yog	O
 peb	O
 li	O
@@ -1278,9 +1254,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 ...	O
 tej	O
 no	O

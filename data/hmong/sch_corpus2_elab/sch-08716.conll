@@ -731,9 +731,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ,	O
 los	O
 sib	O
@@ -1042,9 +1039,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 no	O
 mas	O
 thiaj	O
@@ -1168,9 +1162,6 @@ li	B
 kev	I
 li	I
 cai	I
-kev	O
-li	O
-cai	O
 lawm	O
 ces	O
 koj	O
@@ -1770,9 +1761,6 @@ pluas	B
 noj	I
 pluas	I
 haus	I
-noj	O
-pluas	O
-haus	O
 lawm	O
 nev	O
 .	O

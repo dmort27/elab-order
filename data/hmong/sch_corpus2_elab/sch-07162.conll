@@ -788,9 +788,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 tiam	O
 mam	O
 li	O
@@ -968,9 +965,6 @@ qhov	B
 zeb	I
 qhov	I
 tsua	I
-zeb	O
-qhov	O
-tsua	O
 xwb	O
 twb	O
 tsis	O
@@ -993,9 +987,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 thiab	O
 paub	O
 nto	O
@@ -1071,9 +1062,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 zuj	O
 zus	O
 txias	O
@@ -1106,9 +1094,6 @@ lwm	B
 teb	I
 lwm	I
 chaw	I
-teb	O
-lwm	O
-chaw	O
 yuav	O
 pauv	O
 siab	O
@@ -1216,9 +1201,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 mas	O
 yuav	O
 tsis	O
@@ -2234,9 +2216,6 @@ txug	B
 caij	I
 txug	I
 nyoog	I
-caij	O
-txug	O
-nyoog	O
 kuj	O
 tsim	O
 nyog	O

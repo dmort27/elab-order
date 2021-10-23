@@ -249,9 +249,6 @@ txog	B
 vaj	I
 txog	I
 tsev	I
-vaj	O
-txog	O
-tsev	O
 tas	O
 lawm	O
 es	O
@@ -932,9 +929,6 @@ pab	B
 niam	I
 pab	I
 txiv	I
-niam	O
-pab	O
-txiv	O
 li	O
 ,	O
 ces	O
@@ -1220,9 +1214,6 @@ cuag	B
 pog	I
 cuag	I
 yawg	I
-pog	O
-cuag	O
-yawg	O
 lawm	O
 xwb	O
 .	O

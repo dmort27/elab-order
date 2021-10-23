@@ -3058,9 +3058,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 lug	O
 tuag	O
 sau	O
@@ -3224,9 +3221,6 @@ zais	B
 txuj	I
 zais	I
 ci	I
-txuj	O
-zais	O
-ci	O
 ,	O
 kom	O
 luag	O

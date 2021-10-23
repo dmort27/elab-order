@@ -33,9 +33,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 thiab	O
 txhua	O
 txoj	O
@@ -96,9 +93,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 --	O
 puas	O
 yog	O
@@ -865,16 +859,10 @@ nrog	B
 kwv	I
 nrog	I
 tij	I
-kwv	O
-nrog	O
-tij	O
 nrog	B
 neej	I
 nrog	I
 tsav	I
-neej	O
-nrog	O
-tsav	O
 .	O
 
 
@@ -1383,9 +1371,6 @@ tus	B
 txawj	I
 tus	I
 ntse	I
-txawj	O
-tus	O
-ntse	O
 ,	O
 tus	O
 hlob	O
@@ -1735,9 +1720,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ntawd	O
 thiab	O
 xwb	O
@@ -1905,9 +1887,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 tiag	O
 ,	O
 tsua	O
@@ -2032,9 +2011,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ,	O
 los	O
 sib	O
@@ -2095,9 +2071,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 kom	O
 zoo	O
 thiab	O
@@ -2142,9 +2115,6 @@ sib	B
 pab	I
 sib	I
 koom	I
-pab	O
-sib	O
-koom	O
 tes	O
 ,	O
 ua	O
@@ -2270,9 +2240,6 @@ tom	B
 zej	I
 tom	I
 zos	I
-zej	O
-tom	O
-zos	O
 los	O
 yeej	O
 zoo	O
@@ -2367,17 +2334,11 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 ,	O
 tom	B
 zej	I
 tom	I
 zos	I
-zej	O
-tom	O
-zos	O
 los	O
 yeej	O
 ua	O
@@ -2906,9 +2867,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 los	O
 yog	O
 cov	O
@@ -2939,9 +2897,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 ,	O
 los	O
 yog	O
@@ -3141,9 +3096,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 es	O
 niaj	O
 hnub	O
@@ -3237,9 +3189,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 li	O
 no	O
 es	O
@@ -3546,9 +3495,6 @@ yus	B
 pab	I
 yus	I
 pawg	I
-pab	O
-yus	O
-pawg	O
 kwv	O
 tij	O
 xwb	O
@@ -3638,9 +3584,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 .	O
 
 
@@ -3656,9 +3599,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 tiav	O
 tas	O
 mas	O
@@ -3975,9 +3915,6 @@ kho	B
 kwv	I
 kho	I
 tij	I
-kwv	O
-kho	O
-tij	O
 mas	O
 ,	O
 kuv	O
@@ -4983,9 +4920,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 thiab	O
 txhua	O
 txoj	O
@@ -5046,9 +4980,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 --	O
 puas	O
 yog	O

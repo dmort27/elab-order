@@ -14,9 +14,6 @@ yuav	B
 phem	I
 yuav	I
 zoo	I
-phem	O
-yuav	O
-zoo	O
 tsis	O
 yog	O
 yuav	O
@@ -265,9 +262,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 ntau	O
 yam	O
 ...	O
@@ -675,9 +669,6 @@ sib	B
 txhawb	I
 sib	I
 nqa	I
-txhawb	O
-sib	O
-nqa	O
 kom	O
 yus	O
 haiv	O
@@ -1196,17 +1187,11 @@ xav	B
 neej	I
 xav	I
 tsav	I
-neej	O
-xav	O
-tsav	O
 ,	O
 xav	B
 kwv	I
 xav	I
 tij	I
-kwv	O
-xav	O
-tij	O
 li	O
 tej	O
 laus	O

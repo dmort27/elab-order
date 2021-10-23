@@ -209,9 +209,6 @@ muaj	B
 txij	I
 muaj	I
 nkawm	I
-txij	O
-muaj	O
-nkawm	O
 .	O
 
 
@@ -221,9 +218,6 @@ zoo	B
 txwj	I
 zoo	I
 nkawm	I
-txwj	O
-zoo	O
-nkawm	O
 ces	O
 leej	O
 twg	O
@@ -284,9 +278,6 @@ cua	B
 daj	I
 cua	I
 dub	I
-daj	O
-cua	O
-dub	O
 los	O
 ...	O
 yus	O
@@ -335,9 +326,6 @@ twv	B
 dag	I
 twv	I
 zog	I
-dag	O
-twv	O
-zog	O
 ,	O
 3	O
 twv	O

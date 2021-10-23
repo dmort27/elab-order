@@ -867,9 +867,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 ,	O
 rau	O
 hauv	O
@@ -2398,9 +2395,6 @@ poob	B
 nyiaj	I
 poob	I
 txiaj	I
-nyiaj	O
-poob	O
-txiaj	O
 thiab	O
 nyiaj	O
 dab	O
@@ -2869,9 +2863,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 ces	O
 ``	O
 Sibxws	O
@@ -3683,9 +3674,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 ,	O
 kev	O
 thooj	O

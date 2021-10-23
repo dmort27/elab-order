@@ -355,9 +355,6 @@ nom	B
 loj	I
 nom	I
 me	I
-loj	O
-nom	O
-me	O
 hauv	O
 lub	O
 koom	O
@@ -652,9 +649,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 ,	O
 Hmoob	O
 nyob	O
@@ -1308,9 +1302,6 @@ tus	B
 txawj	I
 tus	I
 ntse	I
-txawj	O
-tus	O
-ntse	O
 ,	O
 tus	O
 ncaj	O
@@ -2400,9 +2391,6 @@ cov	B
 nom	I
 cov	I
 tswv	I
-nom	O
-cov	O
-tswv	O
 Hmoob	O
 qub	O
 tej	O

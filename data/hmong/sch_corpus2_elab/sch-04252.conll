@@ -758,9 +758,6 @@ yus	B
 noj	I
 yus	I
 haus	I
-noj	O
-yus	O
-haus	O
 thiab	O
 tseem	O
 muaj	O
@@ -774,9 +771,6 @@ me	B
 vaj	I
 me	I
 tsev	I
-vaj	O
-me	O
-tsev	O
 thiab	O
 .	O
 
@@ -1047,9 +1041,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 mas	O
 kuv	O
 tus	O
@@ -1068,9 +1059,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 rau	O
 lawv	O
 tag	O

@@ -1446,9 +1446,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 xwb	O
 ''	O
 ?	O
@@ -2053,9 +2050,6 @@ mob	B
 ntsuj	I
 mob	I
 plig	I
-ntsuj	O
-mob	O
-plig	O
 xwb	O
 .	O
 
@@ -2065,9 +2059,6 @@ mob	B
 ntsuj	I
 mob	I
 plig	I
-ntsuj	O
-mob	O
-plig	O
 xwb	O
 ces	O
 kuv	O
@@ -2684,18 +2675,12 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 los	O
 tswj	B
 teb	I
 tswj	I
 chaw	I
-teb	O
-tswj	O
-chaw	O
 li	O
 ib	O
 cov	O

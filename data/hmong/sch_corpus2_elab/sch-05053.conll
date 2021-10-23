@@ -522,9 +522,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 ua	O
 es	O
 Faib	O
@@ -1026,9 +1023,6 @@ tsis	B
 mob	I
 tsis	I
 khaus	I
-mob	O
-tsis	O
-khaus	O
 .	O
 
 
@@ -1074,9 +1068,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 thiaj	O
 li	O
@@ -1411,9 +1402,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 .	O
 
 
@@ -1465,9 +1453,6 @@ qhov	B
 nyiaj	I
 qhov	I
 kub	I
-nyiaj	O
-qhov	O
-kub	O
 hauv	O
 lub	O
 teb	O
@@ -1498,9 +1483,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 tshee	O
 zuj	O
 zus	O
@@ -1720,16 +1702,10 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 los	O
 loj	O
 hlob	O

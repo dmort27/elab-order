@@ -28,9 +28,6 @@ paub	B
 qab	I
 paub	I
 hau	I
-qab	O
-paub	O
-hau	O
 ces	O
 luag	O
 yuav	O
@@ -171,9 +168,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 ,	O
 sib	O
 tua	O
@@ -214,9 +208,6 @@ noj	B
 seem	I
 noj	I
 so	I
-seem	O
-noj	O
-so	O
 .	O
 
 
@@ -372,9 +363,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 .	O
 
 
@@ -769,9 +757,6 @@ noj	B
 dawb	I
 noj	I
 do	I
-dawb	O
-noj	O
-do	O
 xwb	O
 .	O
 
@@ -989,9 +974,6 @@ noj	B
 dawb	I
 noj	I
 do	I
-dawb	O
-noj	O
-do	O
 xwb	O
 .	O
 
@@ -1831,9 +1813,6 @@ hauv	B
 roj	I
 hauv	I
 ntshav	I
-roj	O
-hauv	O
-ntshav	O
 lawm	O
 tiag	O
 hod	O
@@ -3084,9 +3063,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 moog	O
 kom	O
 zoo	O
@@ -3108,9 +3084,6 @@ sib	B
 hlub	I
 sib	I
 paab	I
-hlub	O
-sib	O
-paab	O
 kom	O
 yug	O
 haiv	O

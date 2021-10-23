@@ -346,9 +346,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 tau	O
 30	O
 xyoo	O
@@ -523,9 +520,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 tuaj	O
 xub	O
 laj	O
@@ -2373,9 +2367,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 .	O
 
 
@@ -2849,9 +2840,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ,	O
 ces	O
 leej	O
@@ -3036,9 +3024,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 ,	O
 nrhiav	O
 txoj	O
@@ -4229,9 +4214,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 tau	O
 30	O
 xyoo	O
@@ -4406,9 +4388,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 tuaj	O
 xub	O
 laj	O
@@ -5798,9 +5777,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 .	O
 
 
@@ -6691,9 +6667,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 .	O
 
 
@@ -7527,9 +7500,6 @@ hnab	B
 ris	I
 hnab	I
 tsho	I
-ris	O
-hnab	O
-tsho	O
 xwb	O
 .	O
 
@@ -8514,9 +8484,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 nawb	O
 .	O
 

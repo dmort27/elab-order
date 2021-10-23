@@ -80,9 +80,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 tas	O
 lawm	O
 no	O
@@ -382,9 +379,6 @@ haav	B
 zoov	I
 haav	I
 tsuag	I
-zoov	O
-haav	O
-tsuag	O
 hab	O
 paub	O
 cov	O

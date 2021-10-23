@@ -146,9 +146,6 @@ xaiv	B
 ntsej	I
 xaiv	I
 muag	I
-ntsej	O
-xaiv	O
-muag	O
 pab	O
 .	O
 
@@ -451,9 +448,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 yeej	O
 pom	O
 kuv	O
@@ -519,9 +513,6 @@ yuav	B
 koob	I
 yuav	I
 npe	I
-koob	O
-yuav	O
-npe	O
 :	O
 Lub	O
 weekend	O
@@ -819,9 +810,6 @@ dej	B
 siab	I
 dej	I
 ntsws	I
-siab	O
-dej	O
-ntsws	O
 kev	O
 sib	O
 pab	O
@@ -840,9 +828,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 ho	O
 yog	O
 ib	O
@@ -864,9 +849,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 rau	O
 txoj	O
 kev	O

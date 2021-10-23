@@ -264,9 +264,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 coj	O
 kev	O
 mus	O
@@ -404,9 +401,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 lawm	O
 mog	O
 .	O
@@ -427,9 +421,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ,	O
 Hmoob	O
 thiaj	O
@@ -444,9 +435,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ntxiv	O
 lawm	O
 nawb	O
@@ -687,9 +675,6 @@ tseem	B
 kev	I
 tseem	I
 cai	I
-kev	O
-tseem	O
-cai	O
 .	O
 
 
@@ -705,18 +690,12 @@ lawv	B
 teb	I
 lawv	I
 chaw	I
-teb	O
-lawv	O
-chaw	O
 ,	O
 muaj	O
 lawv	B
 nom	I
 lawv	I
 tswv	I
-nom	O
-lawv	O
-tswv	O
 tiamsis	O
 America	O
 cia	O

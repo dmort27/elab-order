@@ -241,9 +241,6 @@ tuaj	B
 noj	I
 tuaj	I
 haus	I
-noj	O
-tuaj	O
-haus	O
 tom	O
 tsev	O
 txag	O
@@ -467,9 +464,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 yeej	O
 muaj	O
 insurance	O
@@ -861,9 +855,6 @@ tuaj	B
 noj	I
 tuaj	I
 haus	I
-noj	O
-tuaj	O
-haus	O
 tom	O
 tsev	O
 txag	O
@@ -1585,9 +1576,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 yuav	O
 mus	O
 hlub	O
@@ -2044,9 +2032,6 @@ sib	B
 pab	I
 sib	I
 txhawb	I
-pab	O
-sib	O
-txhawb	O
 ib	O
 hnub	O
 twg	O
@@ -2216,9 +2201,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 tso	O
 mam	O
 hais	O

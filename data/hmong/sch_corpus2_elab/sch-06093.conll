@@ -224,9 +224,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 uas	O
 txog	O
 thaum	O
@@ -2110,9 +2107,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 zoo	O
 zoo	O
 es	O
@@ -2444,9 +2438,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 mas	O
 kuv	O
 tsis	O
@@ -2505,9 +2496,6 @@ nplooj	B
 hmab	I
 nplooj	I
 ntoo	I
-hmab	O
-nplooj	O
-ntoo	O
 li	O
 liab	O
 cuam	O
@@ -3242,9 +3230,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 tshaj	O
 li	O
 lawv	O
@@ -3273,9 +3258,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 los	O
 tsuas	O
 yog	O

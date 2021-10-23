@@ -297,9 +297,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 lawm	O
 es	O
 kuv	O
@@ -323,9 +320,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 ,	O
 yeej	O
 tsis	O
@@ -382,9 +376,6 @@ nyob	B
 mus	I
 nyob	I
 los	I
-mus	O
-nyob	O
-los	O
 Hmoob	O
 tseem	O
 mus	O
@@ -1064,9 +1055,6 @@ yuav	B
 vaj	I
 yuav	I
 tsev	I
-vaj	O
-yuav	O
-tsev	O
 yuav	O
 av	O
 cia	O
@@ -1115,9 +1103,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 es	O
 cov	O
 tim	O
@@ -1399,9 +1384,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 kawg	O
 le	O
 hab	O
@@ -2962,9 +2944,6 @@ saib	B
 teb	I
 saib	I
 chaw	I
-teb	O
-saib	O
-chaw	O
 ces	O
 lawv	O
 tsuas	O
@@ -3035,9 +3014,6 @@ li	B
 teb	I
 li	I
 chaw	I
-teb	O
-li	O
-chaw	O
 no	O
 ......	O
 example	O

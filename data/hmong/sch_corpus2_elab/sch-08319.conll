@@ -262,9 +262,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 es	O
 tsis	O
 paub	O
@@ -466,9 +463,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 mus	O
 hawm	O
 nej	O
@@ -533,9 +527,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 es	O
 pheej	O
 hais	O
@@ -707,9 +698,6 @@ hlub	B
 niam	I
 hlub	I
 txiv	I
-niam	O
-hlub	O
-txiv	O
 tsis	O
 hlub	O
 zej	O

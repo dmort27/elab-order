@@ -95,9 +95,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 thiab	O
 laus	O
 ,	O
@@ -285,9 +282,6 @@ pab	B
 ub	I
 pab	I
 no	I
-ub	O
-pab	O
-no	O
 mas	O
 tsis	O
 fair	O
@@ -349,9 +343,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 zoo	O
 dua	O
 .	O
@@ -905,9 +896,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 puas	O
 yog	O
 mas	O
@@ -1108,9 +1096,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 ,	O
 thaum	O
 nws	O
@@ -1356,9 +1341,6 @@ raws	B
 caij	I
 raws	I
 nyoog	I
-caij	O
-raws	O
-nyoog	O
 .	O
 
 
@@ -1576,9 +1558,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 rhuav	O
 tshem	O
 VP	O
@@ -1595,9 +1574,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 tab	O
 nej	O
 cov	O

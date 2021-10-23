@@ -233,9 +233,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 tua	O
 Nplog	O
 Liab	O
@@ -613,9 +610,6 @@ hauv	B
 paus	I
 hauv	I
 ntsis	I
-paus	O
-hauv	O
-ntsis	O
 ntawm	O
 cov	O
 Neohom	O
@@ -655,9 +649,6 @@ raug	B
 ploj	I
 raug	I
 tuag	I
-ploj	O
-raug	O
-tuag	O
 coob	O
 coob	O
 ntag	O
@@ -1184,9 +1175,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 qhua	O
 lpdr	O
 es	O
@@ -1421,9 +1409,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 (	O
 as	O
 above	O
@@ -1966,9 +1951,6 @@ paub	B
 qaab	I
 paub	I
 hau	I
-qaab	O
-paub	O
-hau	O
 dlaab	O
 tsi-	O
 mas	O

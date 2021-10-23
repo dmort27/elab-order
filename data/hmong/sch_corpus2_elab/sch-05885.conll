@@ -80,9 +80,6 @@ cov	B
 nam	I
 cov	I
 txiv	I
-nam	O
-cov	O
-txiv	O
 hab	O
 peb	O
 cov	O
@@ -350,9 +347,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 xwb	O
 .	O
 
@@ -782,9 +776,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 xwb	O
 .	O
 
@@ -888,9 +879,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 yog	O
 raug	O
 rua	O
@@ -1222,9 +1210,6 @@ tsi	B
 meej	I
 tsi	I
 pem	I
-meej	O
-tsi	O
-pem	O
 qhov	O
 twg	O
 los	O
@@ -1519,9 +1504,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 kom	O
 suav	O
 daws	O
@@ -1714,9 +1696,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 maj	O
 ?	O
 

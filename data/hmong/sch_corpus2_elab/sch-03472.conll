@@ -222,9 +222,6 @@ tug	B
 ntsuj	I
 tug	I
 plig	I
-ntsuj	O
-tug	O
-plig	O
 hab	O
 txhawb	O
 moov	O
@@ -256,9 +253,6 @@ txiv	B
 neeb	I
 txiv	I
 yaig	I
-neeb	O
-txiv	O
-yaig	O
 sawv	O
 coob	O
 li	O
@@ -448,9 +442,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 los	O
 yog	O
 nws	O
@@ -653,9 +644,6 @@ raws	B
 kev	I
 raws	I
 cai	I
-kev	O
-raws	O
-cai	O
 ..	O
 except	O
 that	O

@@ -1017,9 +1017,6 @@ tau	B
 ntau	I
 tau	I
 tsawg	I
-ntau	O
-tau	O
-tsawg	O
 los	O
 yus	O
 yeej	O
@@ -1112,9 +1109,6 @@ muaj	B
 siv	I
 muaj	I
 npog	I
-siv	O
-muaj	O
-npog	O
 ,	O
 yuav	O
 noj	O
@@ -1277,9 +1271,6 @@ tsis	B
 txheeb	I
 tsis	I
 ze	I
-txheeb	O
-tsis	O
-ze	O
 thiab	O
 tsis	O
 paub	O

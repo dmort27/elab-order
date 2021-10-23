@@ -246,9 +246,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 ham	O
 tsi	O
 sib	O
@@ -1488,9 +1485,6 @@ ua	B
 mab	I
 ua	I
 suav	I
-mab	O
-ua	O
-suav	O
 xwb	O
 las	O
 as	O
@@ -1517,9 +1511,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 tsis	O
 qhia	O
 nkaus-s	O
@@ -1847,9 +1838,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 los	O
 liam	O
 kom	O
@@ -2082,9 +2070,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 

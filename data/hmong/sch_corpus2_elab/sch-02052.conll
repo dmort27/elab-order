@@ -17,9 +17,6 @@ niaj	B
 hnub	I
 niaj	I
 hmo	I
-hnub	O
-niaj	O
-hmo	O
 ua	O
 npau	O
 suav	O
@@ -41,9 +38,6 @@ nplog	B
 teej	I
 nplog	I
 tug	I
-teej	O
-nplog	O
-tug	O
 tiag	O
 tiag	O
 ntshe	O
@@ -891,9 +885,6 @@ tsi	B
 tshaib	I
 tsi	I
 nqhis	I
-tshaib	O
-tsi	O
-nqhis	O
 li	O
 tim	O
 nplog	O
@@ -1035,9 +1026,6 @@ niaj	B
 hnub	I
 niaj	I
 hmo	I
-hnub	O
-niaj	O
-hmo	O
 ua	O
 npau	O
 suav	O
@@ -1125,9 +1113,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 noj	O
 nyob	O
 rau	O
@@ -1520,9 +1505,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 muaj	O
 haiv	O
@@ -1583,9 +1565,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ces	O
 twb	O
 lig	O
@@ -1763,9 +1742,6 @@ niaj	B
 hnub	I
 niaj	I
 hmo	I
-hnub	O
-niaj	O
-hmo	O
 ua	O
 npau	O
 suav	O
@@ -1853,9 +1829,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 noj	O
 nyob	O
 rau	O
@@ -2875,9 +2848,6 @@ zoo	B
 noj	I
 zoo	I
 hnav	I
-noj	O
-zoo	O
-hnav	O
 ,	O
 zoo	O
 khwv	O
@@ -2934,9 +2904,6 @@ ua	B
 loj	I
 ua	I
 lug	I
-loj	O
-ua	O
-lug	O
 mus	O
 rau	O
 lub	O
@@ -3707,9 +3674,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ,	O
 ib	O
 tsam	O
@@ -4069,9 +4033,6 @@ los	B
 koom	I
 los	I
 pab	I
-koom	O
-los	O
-pab	O
 nrog	O
 ua	O
 .	O
@@ -4129,9 +4090,6 @@ lov	B
 npab	I
 lov	I
 ceg	I
-npab	O
-lov	O
-ceg	O
 ,	O
 dig	O
 muag	O
@@ -4545,9 +4503,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 peb	O
 maam	O
 rov	O

@@ -153,9 +153,6 @@ sib	B
 hais	I
 sib	I
 kho	I
-hais	O
-sib	O
-kho	O
 kom	O
 hloov	O
 .	O
@@ -685,9 +682,6 @@ ntau	B
 tsav	I
 ntau	I
 yam	I
-tsav	O
-ntau	O
-yam	O
 .	O
 
 
@@ -2642,9 +2636,6 @@ saib	B
 kwv	I
 saib	I
 tij	I
-kwv	O
-saib	O
-tij	O
 ,	O
 mus	O
 yos	O
@@ -3015,9 +3006,6 @@ tsi	B
 deb	I
 tsi	I
 ze	I
-deb	O
-tsi	O
-ze	O
 ntawd	O
 DYD	O
 tau	O
@@ -3379,9 +3367,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 ,	O
 nyob	O
 tsi	O
@@ -3780,9 +3765,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 ntawd	O
 rau	O

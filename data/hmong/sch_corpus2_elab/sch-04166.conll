@@ -535,9 +535,6 @@ ib	B
 leej	I
 ib	I
 tug	I
-leej	O
-ib	O
-tug	O
 twg	O
 li	O
 lawm	O
@@ -558,9 +555,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 lawm	O
 .	O
 
@@ -1230,9 +1224,6 @@ tus	B
 loj	I
 tus	I
 me	I
-loj	O
-tus	O
-me	O
 tibsi	O
 mas	O
 thiab	O
@@ -1517,9 +1508,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 kom	O
 muab	O
 yus	O
@@ -1898,16 +1886,10 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 mus	B
 ntoj	I
 mus	I
 thuv	I
-ntoj	O
-mus	O
-thuv	O
 lawv	O
 txoj	O
 sia	O
@@ -1973,9 +1955,6 @@ tau	B
 teb	I
 tau	I
 chaw	I
-teb	O
-tau	O
-chaw	O
 mas	O
 twb	O
 tau	O
@@ -2017,9 +1996,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 tiag	O
 ib	O
 txhia	O
@@ -2086,9 +2062,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 mas	O
 cov	O
 nav	O
@@ -2665,9 +2638,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 ntawd	O
 coj	O
 mus	O
@@ -2807,9 +2777,6 @@ tus	B
 laus	I
 tus	I
 hluas	I
-laus	O
-tus	O
-hluas	O
 hauv	O
 sch	O
 no	O

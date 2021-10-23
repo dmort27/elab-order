@@ -136,9 +136,6 @@ tswv	B
 teb	I
 tswv	I
 chaw	I
-teb	O
-tswv	O
-chaw	O
 zoo	O
 li	O
 cov	O
@@ -1023,9 +1020,6 @@ muaj	B
 liaj	I
 muaj	I
 teb	I
-liaj	O
-muaj	O
-teb	O
 thiab	O
 vaj	O
 tse	O

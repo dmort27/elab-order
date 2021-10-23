@@ -831,9 +831,6 @@ muaj	B
 yeej	I
 muaj	I
 swb	I
-yeej	O
-muaj	O
-swb	O
 lawm	O
 xwb	O
 .	O
@@ -875,9 +872,6 @@ vwm	B
 loj	I
 vwm	I
 leg	I
-loj	O
-vwm	O
-leg	O
 los	O
 muaj	O
 .	O
@@ -1086,9 +1080,6 @@ muaj	B
 yeej	I
 muaj	I
 swb	I
-yeej	O
-muaj	O
-swb	O
 ,	O
 tab	O
 sis	O
@@ -2811,9 +2802,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 muaj	O
 ib	O

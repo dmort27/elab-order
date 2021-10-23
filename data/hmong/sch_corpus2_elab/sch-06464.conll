@@ -432,9 +432,6 @@ nra	B
 zeb	I
 nra	I
 tsua	I
-zeb	O
-nra	O
-tsua	O
 (	O
 obstacles	O
 )	O
@@ -733,9 +730,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 ntawm	O
 yus	O
 cov	O
@@ -1440,9 +1434,6 @@ ua	B
 dej	I
 ua	I
 num	I
-dej	O
-ua	O
-num	O
 rau	O
 luag	O
 lwm	O
@@ -1654,9 +1645,6 @@ nyob	B
 noj	I
 nyob	I
 haus	I
-noj	O
-nyob	O
-haus	O
 lawm	O
 xwb	O
 ,	O
@@ -2401,9 +2389,6 @@ npaum	B
 ub	I
 npaum	I
 nua	I
-ub	O
-npaum	O
-nua	O
 tog	O
 ,	O
 yog	O
@@ -2469,9 +2454,6 @@ dlaag	B
 noj	I
 dlaag	I
 haus	I
-noj	O
-dlaag	O
-haus	O
 tag	O
 tag	O
 .	O
@@ -2673,9 +2655,6 @@ tas	B
 zaj	I
 tas	I
 zog	I
-zaj	O
-tas	O
-zog	O
 seb	O
 puas	O
 muaj	O
@@ -2779,9 +2758,6 @@ tas	B
 zaj	I
 tas	I
 zog	I
-zaj	O
-tas	O
-zog	O
 ?	O
 
 
@@ -3485,9 +3461,6 @@ lwm	B
 leej	I
 lwm	I
 tug	I
-leej	O
-lwm	O
-tug	O
 mas	O
 koj	O
 yuav	O
@@ -4440,9 +4413,6 @@ tsi	B
 meej	I
 tsi	I
 pem	I
-meej	O
-tsi	O
-pem	O
 li	O
 saum	O
 toj	O
@@ -5810,9 +5780,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 no	O
 nes	O
 puas	O
@@ -6375,9 +6342,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 ntshai	O
 yuav	O
 qoog	O

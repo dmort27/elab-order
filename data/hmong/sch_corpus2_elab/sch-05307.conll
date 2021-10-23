@@ -170,9 +170,6 @@ ntees	B
 ploj	I
 ntees	I
 tuag	I
-ploj	O
-ntees	O
-tuag	O
 .	O
 
 
@@ -520,9 +517,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 .	O
 
 
@@ -768,9 +762,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 xwb	O
 ,	O
 tsi	O
@@ -790,9 +781,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 los	O
 pab	O
 peb	O

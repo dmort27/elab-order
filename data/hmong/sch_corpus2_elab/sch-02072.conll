@@ -481,9 +481,6 @@ sib	B
 ntsib	I
 sib	I
 tham	I
-ntsib	O
-sib	O
-tham	O
 ,	O
 haus	O
 poom	O
@@ -1442,9 +1439,6 @@ hais	B
 lwj	I
 hais	I
 liam	I
-lwj	O
-hais	O
-liam	O
 rau	O
 luag	O
 nawb	O
@@ -1514,9 +1508,6 @@ chim	B
 ciaj	I
 chim	I
 tuag	I
-ciaj	O
-chim	O
-tuag	O
 rau	O
 kuv	O
 cov	O
@@ -1586,9 +1577,6 @@ me	B
 roj	I
 me	I
 ntshav	I
-roj	O
-me	O
-ntshav	O
 --	O
 35	O
 xyoo	O

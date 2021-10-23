@@ -27,9 +27,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 (	O
 tsis	O
 yog	O
@@ -844,9 +841,6 @@ mloog	B
 niam	I
 mloog	I
 txiv	I
-niam	O
-mloog	O
-txiv	O
 hais	O
 ,	O
 tus	O
@@ -913,9 +907,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 thiab	O
 niam	O
 txiv	O
@@ -1372,9 +1363,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 thiab	O
 ..	O
 qhuas	O

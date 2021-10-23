@@ -429,9 +429,6 @@ me	B
 kab	I
 me	I
 noog	I
-kab	O
-me	O
-noog	O
 ,	O
 tus	O
 nyuag	O
@@ -469,9 +466,6 @@ raug	B
 huab	I
 raug	I
 cua	I
-huab	O
-raug	O
-cua	O
 ,	O
 tsis	O
 ntub	O
@@ -761,9 +755,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 li	O
 nws	O
 hais	O
@@ -892,9 +883,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 li	O
 Tooj	O
 Ntxhawg	O
@@ -1025,9 +1013,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 mas	O
 tsi	O
 lam	O
@@ -1377,9 +1362,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 li	O
 nws	O
 hais	O
@@ -1508,9 +1490,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 li	O
 Tooj	O
 Ntxhawg	O
@@ -1641,9 +1620,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 mas	O
 tsi	O
 lam	O
@@ -1993,9 +1969,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 li	O
 nws	O
 hais	O
@@ -2124,9 +2097,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 li	O
 Tooj	O
 Ntxhawg	O
@@ -2257,9 +2227,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 mas	O
 tsi	O
 lam	O
@@ -2609,9 +2576,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 li	O
 nws	O
 hais	O
@@ -2740,9 +2704,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 li	O
 Tooj	O
 Ntxhawg	O
@@ -2873,9 +2834,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 mas	O
 tsi	O
 lam	O
@@ -3225,9 +3183,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 li	O
 nws	O
 hais	O
@@ -3356,9 +3311,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 li	O
 Tooj	O
 Ntxhawg	O
@@ -3489,9 +3441,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 mas	O
 tsi	O
 lam	O
@@ -3860,9 +3809,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 thiab	O
 lomtxwm	O
 sau	O
@@ -6680,9 +6626,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 commie	O
 leaders	O
 thiaj	O
@@ -7312,9 +7255,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 txom	O
 nyem	O
 tuaj	O
@@ -7333,9 +7273,6 @@ nyob	B
 ub	I
 nyob	I
 no	I
-ub	O
-nyob	O
-no	O
 kom	O
 dim	O
 rau	O
@@ -8056,9 +7993,6 @@ tsheej	B
 phaab	I
 tsheej	I
 pheev	I
-phaab	O
-tsheej	O
-pheev	O
 es	O
 koj	O
 tseem	O
@@ -8379,9 +8313,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 dabtsi	O
 .	O
 
@@ -8699,9 +8630,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 le	O
 lwm	O
 lub	O
@@ -8986,9 +8914,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 twg	O
 kom	O
 muaj	O
@@ -9143,9 +9068,6 @@ noj	B
 teb	I
 noj	I
 chaw	I
-teb	O
-noj	O
-chaw	O
 .	O
 
 
@@ -9189,9 +9111,6 @@ noj	B
 teb	I
 noj	I
 chaw	I
-teb	O
-noj	O
-chaw	O
 li	O
 no	O
 .	O

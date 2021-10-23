@@ -262,9 +262,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 ...	O
 ua	O
 yam	O
@@ -1020,9 +1017,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 los	O
 tsis	O
 li	O
@@ -1364,9 +1358,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 ,	O
 tsheej	O
 ib	O
@@ -2583,9 +2574,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 ,	O
 tsheej	O
 ib	O

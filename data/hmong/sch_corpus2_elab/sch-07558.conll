@@ -513,9 +513,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 no	O
 ,	O
 tsua	O
@@ -562,9 +559,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 li	O
 es	O
 noj	O
@@ -573,9 +567,6 @@ cov	B
 nyiaj	I
 cov	I
 txiaj	I
-nyiaj	O
-cov	O
-txiaj	O
 xwb	O
 ne	O
 .	O
@@ -667,9 +658,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 ua	O
 ruam	O
 ruam	O

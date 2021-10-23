@@ -413,9 +413,6 @@ tsis	B
 mus	I
 tsis	I
 los	I
-mus	O
-tsis	O
-los	O
 ces	O
 lawv	O
 kuj	O
@@ -483,9 +480,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 kuj	O
 ua	O
 nyaum	O
@@ -542,9 +536,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 no	O
 lawm	O
 .	O

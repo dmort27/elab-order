@@ -299,9 +299,6 @@ los	B
 cob	I
 los	I
 qhia	I
-cob	O
-los	O
-qhia	O
 kom	O
 nyias	O
 pab	O
@@ -701,9 +698,6 @@ xauv	B
 tes	I
 xauv	I
 taw	I
-tes	O
-xauv	O
-taw	O
 coj	O
 mus	O
 kaw	O
@@ -1611,9 +1605,6 @@ muaj	B
 nyiaj	I
 muaj	I
 txiaj	I
-nyiaj	O
-muaj	O
-txiaj	O
 ,	O
 muaj	O
 vag	O
@@ -2332,9 +2323,6 @@ dag	B
 nom	I
 dag	I
 tswv	I
-nom	O
-dag	O
-tswv	O
 thiab	O
 dag	O
 Laura	O
@@ -2623,9 +2611,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 .	O
 
 
@@ -3062,9 +3047,6 @@ yog	B
 caij	I
 yog	I
 nyoog	I
-caij	O
-yog	O
-nyoog	O
 lawm	O
 kws	O
 cov	O
@@ -3174,9 +3156,6 @@ yog	B
 caij	I
 yog	I
 nyoog	I
-caij	O
-yog	O
-nyoog	O
 lawm	O
 kws	O
 cov	O

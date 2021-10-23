@@ -1370,9 +1370,6 @@ cais	B
 pab	I
 cais	I
 pawg	I
-pab	O
-cais	O
-pawg	O
 is	O
 a	O
 ``	O
@@ -1417,9 +1414,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 .	O
 ''	O
 
@@ -2112,9 +2106,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 .	O
 ``	O
 ``	O
@@ -2515,9 +2506,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 kom	O
 standard	O
 (	O
@@ -2995,9 +2983,6 @@ muaj	B
 tub	I
 muaj	I
 ntxhais	I
-tub	O
-muaj	O
-ntxhais	O
 sib	O
 nyiam	O
 raug	O
@@ -4672,18 +4657,12 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 thiab	O
 raws	O
 lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 lawm	O
 xwb	O
 .	O
@@ -5174,9 +5153,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 tso	O
 .	O
 

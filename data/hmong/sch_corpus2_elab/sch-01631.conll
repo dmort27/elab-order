@@ -42,9 +42,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 nrog	O
 rau	O
 lub	O
@@ -322,9 +319,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 thiab	O
 tej	O
 tij	O
@@ -747,9 +741,6 @@ kev	B
 lis	I
 kev	I
 cai	I
-lis	O
-kev	O
-cai	O
 Thab	O
 Ham	O
 tuaj	O
@@ -1147,9 +1138,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 nrog	O
 rau	O
 lub	O
@@ -1427,9 +1415,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 thiab	O
 tej	O
 tij	O
@@ -1852,9 +1837,6 @@ kev	B
 lis	I
 kev	I
 cai	I
-lis	O
-kev	O
-cai	O
 Thab	O
 Ham	O
 tuaj	O
@@ -2212,9 +2194,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 .	O
 
 
@@ -2227,9 +2206,6 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 uas	O
 tau	O
 siv	O
@@ -2396,9 +2372,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 ,	O
 thiab	O
 raws	O
@@ -2407,9 +2380,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 .	O
 
 

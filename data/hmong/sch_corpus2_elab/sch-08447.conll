@@ -255,9 +255,6 @@ pav	B
 tes	I
 pav	I
 taw	I
-tes	O
-pav	O
-taw	O
 xuas	O
 ib	O
 tug	O
@@ -653,9 +650,6 @@ yog	B
 nom	I
 yog	I
 tswv	I
-nom	O
-yog	O
-tswv	O
 ,	O
 yog	O
 vaj	O
@@ -733,9 +727,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 no	O
 pob	O
 .....	O

@@ -312,9 +312,6 @@ cais	B
 pab	I
 cais	I
 pawg	I
-pab	O
-cais	O
-pawg	O
 ,	O
 muaj	O
 homphiaj	O
@@ -618,9 +615,6 @@ yuav	B
 txawj	I
 yuav	I
 ntse	I
-txawj	O
-yuav	O
-ntse	O
 npaum	O
 cas	O
 los	O
@@ -860,9 +854,6 @@ yuav	B
 txawj	I
 yuav	I
 ntse	I
-txawj	O
-yuav	O
-ntse	O
 npaum	O
 cas	O
 los	O
@@ -1692,9 +1683,6 @@ yuav	B
 txawj	I
 yuav	I
 ntse	I
-txawj	O
-yuav	O
-ntse	O
 li	O
 cas	O
 los	O
@@ -2240,9 +2228,6 @@ yuav	B
 txawj	I
 yuav	I
 ntse	I
-txawj	O
-yuav	O
-ntse	O
 li	O
 cas	O
 los	O
@@ -3205,9 +3190,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 cov	O
 intellectual	O
 Hmoob	O
@@ -3466,9 +3448,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 .	O
 
 
@@ -4965,9 +4944,6 @@ luag	B
 pab	I
 luag	I
 pawg	I
-pab	O
-luag	O
-pawg	O
 yuav	O
 tau	O
 txhawb	O

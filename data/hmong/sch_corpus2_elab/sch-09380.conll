@@ -657,9 +657,6 @@ koom	B
 nom	I
 koom	I
 tswv	I
-nom	O
-koom	O
-tswv	O
 .	O
 
 
@@ -1091,9 +1088,6 @@ nws	B
 kwv	I
 nws	I
 tij	I
-kwv	O
-nws	O
-tij	O
 xwb	O
 ,	O
 txhob	O

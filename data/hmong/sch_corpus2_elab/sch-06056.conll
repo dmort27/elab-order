@@ -197,9 +197,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 xwb	O
 .	O
 
@@ -230,9 +227,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 ntawv	O
 .	O
 
@@ -703,9 +697,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 thiab	O
 ntawm	O
 wb	O
@@ -716,9 +707,6 @@ ua	B
 kwv	I
 ua	I
 tij	I
-kwv	O
-ua	O
-tij	O
 ....	O
 tabsi	O
 thaum	O
@@ -804,9 +792,6 @@ txog	B
 vaj	I
 txog	I
 tsev	I
-vaj	O
-txog	O
-tsev	O
 ,	O
 koj	O
 yeej	O
@@ -1234,9 +1219,6 @@ tsoo	B
 lwj	I
 tsoo	I
 liam	I
-lwj	O
-tsoo	O
-liam	O
 aws	O
 .	O
 

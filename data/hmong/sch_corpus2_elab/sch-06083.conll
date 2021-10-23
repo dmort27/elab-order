@@ -467,9 +467,6 @@ noob	B
 nom	I
 noob	I
 tswv	I
-nom	O
-noob	O
-tswv	O
 .	O
 
 
@@ -1983,9 +1980,6 @@ tsis	B
 txawj	I
 tsis	I
 ntse	I
-txawj	O
-tsis	O
-ntse	O
 ho	O
 yog	O
 dab	O
@@ -2171,9 +2165,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 es	O
 ua	O
 xim	O

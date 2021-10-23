@@ -115,9 +115,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 es	O
 muaj	O
 feem	O
@@ -574,17 +571,11 @@ ua	B
 phem	I
 ua	I
 qias	I
-phem	O
-ua	O
-qias	O
 thiab	O
 ua	B
 nruj	I
 ua	I
 tsiv	I
-nruj	O
-ua	O
-tsiv	O
 rau	O
 lwm	O
 tus	O
@@ -676,9 +667,6 @@ ua	B
 phem	I
 ua	I
 qias	I
-phem	O
-ua	O
-qias	O
 ywjsiab	O
 .	O
 

@@ -168,9 +168,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 rau	O
 H18X/VP/Neohom	O
 lawv	O
@@ -188,9 +185,6 @@ tuam	B
 meej	I
 tuam	I
 pem	I
-meej	O
-tuam	O
-pem	O
 rau	O
 suav	O
 daws	O
@@ -320,9 +314,6 @@ tag	B
 dawb	I
 tag	I
 do	I
-dawb	O
-tag	O
-do	O
 lawv	O
 dhia	O
 ____	O
@@ -750,9 +741,6 @@ tas	B
 zaj	I
 tas	I
 zog	I
-zaj	O
-tas	O
-zog	O
 hais	O
 lo	O
 lus	O
@@ -792,9 +780,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 hwv	O
 os	O
 .	O
@@ -1801,9 +1786,6 @@ tsw	B
 quav	I
 tsw	I
 zis	I
-quav	O
-tsw	O
-zis	O
 mas	O
 .	O
 
@@ -2803,9 +2785,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 es	O
 ib	O
 tug	O
@@ -2827,9 +2806,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 (	O
 business	O
 partners	O

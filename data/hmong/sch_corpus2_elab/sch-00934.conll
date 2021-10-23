@@ -931,9 +931,6 @@ ncig	B
 zej	I
 ncig	I
 zos	I
-zej	O
-ncig	O
-zos	O
 diam	O
 ,	O
 ua	O
@@ -2179,9 +2176,6 @@ ncig	B
 zej	I
 ncig	I
 zos	I
-zej	O
-ncig	O
-zos	O
 diam	O
 ,	O
 ua	O
@@ -2999,9 +2993,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 .	O
 
 
@@ -3456,9 +3447,6 @@ kom	B
 yeej	I
 kom	I
 swb	I
-yeej	O
-kom	O
-swb	O
 xwb	O
 los	O
 koj	O
@@ -3558,9 +3546,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 lawm	O
 .	O
 
@@ -3676,9 +3661,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 mas	O
 thiaj	O
 tsim	O

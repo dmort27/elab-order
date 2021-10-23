@@ -904,9 +904,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 rau	O
 tej	O
 thaj	O
@@ -1297,9 +1294,6 @@ xaiv	B
 nom	I
 xaiv	I
 tswv	I
-nom	O
-xaiv	O
-tswv	O
 tiam	O
 21	O
 no	O
@@ -1316,9 +1310,6 @@ kev	B
 txheeb	I
 kev	I
 ze	I
-txheeb	O
-kev	O
-ze	O
 thiab	O
 tsis	O
 txhob	O
@@ -1503,9 +1494,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 los	O
 ua	O
 lus	O

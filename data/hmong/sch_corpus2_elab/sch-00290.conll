@@ -810,9 +810,6 @@ fim	B
 ntsej	I
 fim	I
 muag	I
-ntsej	O
-fim	O
-muag	O
 kiag	O
 .	O
 
@@ -1978,9 +1975,6 @@ sib	B
 ceg	I
 sib	I
 ntaus	I
-ceg	O
-sib	O
-ntaus	O
 xwb	O
 puas	O
 yog	O
@@ -2984,9 +2978,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 yim	O
 nyob	O
 mus	O

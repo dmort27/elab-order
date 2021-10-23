@@ -697,9 +697,6 @@ tsev	B
 nyiaj	I
 tsev	I
 kub	I
-nyiaj	O
-tsev	O
-kub	O
 ntawd	O
 hlo	O
 li	O
@@ -1373,9 +1370,6 @@ sau	B
 ntaub	I
 sau	I
 ntawv	I
-ntaub	O
-sau	O
-ntawv	O
 os	O
 .	O
 
@@ -3433,9 +3427,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ces	O
 nws	O
 niam	O
@@ -4507,9 +4498,6 @@ lug	B
 fuab	I
 lug	I
 cua	I
-fuab	O
-lug	O
-cua	O
 xwb	O
 .	O
 

@@ -282,9 +282,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 tsis	O
 ua	O
 ,	O
@@ -491,16 +488,10 @@ has	B
 sab	I
 has	I
 qeg	I
-sab	O
-has	O
-qeg	O
 le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 los	O
 mej	O
 ib	O

@@ -77,9 +77,6 @@ ncej	B
 dab	I
 ncej	I
 qhua	I
-dab	O
-ncej	O
-qhua	O
 ...	O
 es	O
 kom	O
@@ -2191,9 +2188,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 ,	O
 koj	O
 hais	O
@@ -2398,9 +2392,6 @@ tog	B
 khaub	I
 tog	I
 tsuag	I
-khaub	O
-tog	O
-tsuag	O
 ,	O
 tsi	O
 ntsia	O
@@ -2607,9 +2598,6 @@ cab	B
 nyuj	I
 cab	I
 twm	I
-nyuj	O
-cab	O
-twm	O
 tuaj	O
 tua	O
 noj	O
@@ -3160,9 +3148,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 no	O
 ,	O
 peb	O

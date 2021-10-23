@@ -17,9 +17,6 @@ kwv	B
 tij	I
 kwv	I
 npaws	I
-tij	O
-kwv	O
-npaws	O
 xwb	O
 .	O
 
@@ -30,9 +27,6 @@ tua	B
 qaib	I
 tua	I
 npua	I
-qaib	O
-tua	O
-npua	O
 rau	O
 lawv	O
 thiab	O
@@ -133,9 +127,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -1098,9 +1089,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 tib	O
 yam	O
 yus	O
@@ -1531,9 +1519,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 ....	O
 tiam	O
 sis	O
@@ -1541,18 +1526,12 @@ zoo	B
 siab	I
 zoo	I
 ntsws	I
-siab	O
-zoo	O
-ntsws	O
 ...	O
 zoo	O
 tes	B
 dej	I
 tes	I
 num	I
-dej	O
-tes	O
-num	O
 ....	O
 Qhov	O
 no	O
@@ -1671,9 +1650,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 ....	O
 tiam	O
 sis	O
@@ -1681,18 +1657,12 @@ zoo	B
 siab	I
 zoo	I
 ntsws	I
-siab	O
-zoo	O
-ntsws	O
 ...	O
 zoo	O
 tes	B
 dej	I
 tes	I
 num	I
-dej	O
-tes	O
-num	O
 ....	O
 Qhov	O
 no	O
@@ -1798,9 +1768,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 thaum	O
 kuv	O
 txiv	O
@@ -2328,9 +2295,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 .	O
 
 
@@ -2354,9 +2318,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 .	O
 
 
@@ -3142,9 +3103,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 rau	O
 koj	O
 xwb	O

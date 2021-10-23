@@ -831,9 +831,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 rau	O
 teb	O
 chaws	O
@@ -1158,9 +1155,6 @@ ntshav	B
 ntsej	I
 ntshav	I
 ntswg	I
-ntsej	O
-ntshav	O
-ntswg	O
 ri	O
 sua	O
 mas	O
@@ -1207,9 +1201,6 @@ luag	B
 niam	I
 luag	I
 txiv	I
-niam	O
-luag	O
-txiv	O
 cem	O
 nce	O
 nthab	O
@@ -1867,9 +1858,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 neeg	O
 txoj	O
 kev	O
@@ -2047,9 +2035,6 @@ mloog	B
 niam	I
 mloog	I
 txiv	I
-niam	O
-mloog	O
-txiv	O
 lus	O
 ,	O
 koj	O
@@ -2060,9 +2045,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 hais	O
 .	O
 
@@ -2079,9 +2061,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 ;	O
 hos	O
 tus	O
@@ -2097,9 +2076,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 rau	O
 yeej	O
 tsis	O

@@ -159,9 +159,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 rau	O
 luag	O
 cov	O
@@ -605,9 +602,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 lawv	O
 lub	O
 hlwb	O

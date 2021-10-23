@@ -180,9 +180,6 @@ kaug	B
 ub	I
 kaug	I
 no	I
-ub	O
-kaug	O
-no	O
 mas	O
 tsis	O
 muaj	O
@@ -230,9 +227,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -679,9 +673,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 no	O
 mas	O
 yog	O
@@ -970,9 +961,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 .	O
 
 
@@ -2040,9 +2028,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 kom	O
 tau	O
 luag	O
@@ -2050,9 +2035,6 @@ tej	B
 nyuj	I
 tej	I
 twm	I
-nyuj	O
-tej	O
-twm	O
 noj	O
 ,	O
 thiab	O
@@ -2184,9 +2166,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 kom	O
 tau	O
 luag	O
@@ -2194,9 +2173,6 @@ tej	B
 nyuj	I
 tej	I
 twm	I
-nyuj	O
-tej	O
-twm	O
 noj	O
 ,	O
 thiab	O
@@ -2273,9 +2249,6 @@ yeej	B
 paub	I
 yeej	I
 pom	I
-paub	O
-yeej	O
-pom	O
 GVP	O
 lub	O
 qe	O
@@ -2456,9 +2429,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 xwb	O
 .	O
 
@@ -2511,9 +2481,6 @@ hais	B
 ciaj	I
 hais	I
 tuag	I
-ciaj	O
-hais	O
-tuag	O
 los	O
 tsi	O
 muaj	O
@@ -2527,9 +2494,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 es	O
 peb	O
 tsua	O
@@ -3112,9 +3076,6 @@ rov	B
 qab	I
 rov	I
 quav	I
-qab	O
-rov	O
-quav	O
 (	O
 confused	O
 )	O

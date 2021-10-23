@@ -37,9 +37,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 thiaj	O
 yuav	O
 nrog	O
@@ -50,9 +47,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 no	O
 cas	O
 zaum	O
@@ -143,9 +137,6 @@ ciaj	B
 nom	I
 ciaj	I
 tswv	I
-nom	O
-ciaj	O
-tswv	O
 li	O
 xav	O
 ntawd	O
@@ -808,9 +799,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 mus	O
 rua	O
 kiag	O
@@ -1023,9 +1011,6 @@ zoo	B
 hnub	I
 zoo	I
 nyoog	I
-hnub	O
-zoo	O
-nyoog	O
 ,	O
 NKAUJ	O
 NTSUAB	O
@@ -1100,9 +1085,6 @@ hav	B
 tauj	I
 hav	I
 nqeeb	I
-tauj	O
-hav	O
-nqeeb	O
 ,	O
 es	O
 dawj	O

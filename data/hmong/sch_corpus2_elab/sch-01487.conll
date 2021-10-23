@@ -122,9 +122,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 pob	O
 ?	O
 
@@ -755,9 +752,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 lio	O
 nej	O
 tshum	O
@@ -1498,9 +1492,6 @@ hloov	B
 nom	I
 hloov	I
 tswv	I
-nom	O
-hloov	O
-tswv	O
 ,	O
 hloov	O
 kev	O
@@ -1511,9 +1502,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 .	O
 
 
@@ -2016,9 +2004,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 lio	O
 nej	O
 tshum	O
@@ -2911,9 +2896,6 @@ ua	B
 kwv	I
 ua	I
 tij	I
-kwv	O
-ua	O
-tij	O
 nyob	O
 ,	O
 vim	O
@@ -3148,9 +3130,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 tabsis	O
 nws	O
@@ -3252,9 +3231,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 rau	O
 yus	O
 xwb	O
@@ -4536,9 +4512,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 lio	O
 nej	O
 tshum	O
@@ -4977,9 +4950,6 @@ muaj	B
 qab	I
 muaj	I
 quas	I
-qab	O
-muaj	O
-quas	O
 no	O
 --	O
 peb	O
@@ -5971,9 +5941,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 lio	O
 nej	O
 tshum	O

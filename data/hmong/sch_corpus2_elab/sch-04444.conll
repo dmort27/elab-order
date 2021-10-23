@@ -84,9 +84,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 ,	O
 txhob	O
 caij	O
@@ -180,9 +177,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 yog	O
 qhov	O
 tseem	O

@@ -747,9 +747,6 @@ poj	B
 nrauj	I
 poj	I
 ntsuam	I
-nrauj	O
-poj	O
-ntsuam	O
 los	O
 sis	O
 yuav	O
@@ -902,9 +899,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 yuav	O
 li	O
 ntawd	O
@@ -972,9 +966,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 thiab	O
 coj	O
@@ -1190,9 +1181,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 rau	O
 hauv	O
 no	O
@@ -1327,9 +1315,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 los	O
 tseg	O
 yog	O
@@ -1337,9 +1322,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 mas	O
 kuv	O
 mam	O

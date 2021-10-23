@@ -359,9 +359,6 @@ kom	B
 txhij	I
 kom	I
 txhua	I
-txhij	O
-kom	O
-txhua	O
 tuag	O
 thiaj	O
 tsim	O
@@ -606,9 +603,6 @@ noj	B
 dawb	I
 noj	I
 do	I
-dawb	O
-noj	O
-do	O
 xwb	O
 hauv	O
 .	O
@@ -796,9 +790,6 @@ noj	B
 dawb	I
 noj	I
 do	I
-dawb	O
-noj	O
-do	O
 xwb	O
 hauv	O
 .	O
@@ -1575,9 +1566,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 xwb	O
 mas	O
 .	O
@@ -1839,9 +1827,6 @@ zoo	B
 ntsej	I
 zoo	I
 muag	I
-ntsej	O
-zoo	O
-muag	O
 ,	O
 laaj	O
 lim	O

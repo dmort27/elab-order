@@ -1062,9 +1062,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 tom	O
 Nplog	O
 Liab	O
@@ -1086,9 +1083,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 .	O
 
 
@@ -1410,9 +1404,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 rau	O
 Hmoob	O
 tej	O
@@ -1584,9 +1575,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 .	O
 
 
@@ -1647,9 +1635,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 loj	O
 es	O
 cov	O
@@ -1980,9 +1965,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 (	O
 RUMOR	O
 )	O
@@ -2683,9 +2665,6 @@ kwv	B
 riam	I
 kwv	I
 phom	I
-riam	O
-kwv	O
-phom	O
 khiav	O
 mus	O
 nkaum	O
@@ -2715,9 +2694,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 ,	O
 kuv	O
 xav	O
@@ -2793,9 +2769,6 @@ nqa	B
 riam	I
 nqa	I
 phom	I
-riam	O
-nqa	O
-phom	O
 nkaum	O
 tom	O
 hav	O
@@ -3867,9 +3840,6 @@ lub	B
 plab	I
 lub	I
 plawv	I
-plab	O
-lub	O
-plawv	O
 ,	O
 yus	O
 tsi	O
@@ -4400,9 +4370,6 @@ lub	B
 plab	I
 lub	I
 plawv	I
-plab	O
-lub	O
-plawv	O
 ''	O
 tiag	O
 ,	O

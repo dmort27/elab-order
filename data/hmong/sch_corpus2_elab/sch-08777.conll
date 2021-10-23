@@ -156,9 +156,6 @@ lwm	B
 leej	I
 lwm	I
 tug	I
-leej	O
-lwm	O
-tug	O
 .	O
 
 
@@ -307,9 +304,6 @@ ua	B
 pleeg	I
 ua	I
 yi	I
-pleeg	O
-ua	O
-yi	O
 dlog	O
 dlig	O
 vim	O
@@ -811,9 +805,6 @@ tej	B
 txheeb	I
 tej	I
 ze	I
-txheeb	O
-tej	O
-ze	O
 xwb	O
 ces	O
 cuag	O
@@ -1736,9 +1727,6 @@ tshum	B
 ub	I
 tshum	I
 no	I
-ub	O
-tshum	O
-no	O
 na	O
 .	O
 
@@ -2284,9 +2272,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 li	O
 koj	O
 na	O

@@ -499,9 +499,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 ,	O
 Laura	O
 txwv	O
@@ -697,9 +694,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 nyob	O
 tsis	O
@@ -712,9 +706,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 lawm	O
 xwb	O
 .	O
@@ -753,9 +744,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -2184,9 +2172,6 @@ tus	B
 txiaj	I
 tus	I
 ntsim	I
-txiaj	O
-tus	O
-ntsim	O
 thiab	O
 yuav	O
 vote	O
@@ -3109,9 +3094,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 thiab	O
 .	O
 
@@ -3140,9 +3122,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 loj	O
 ua	O
 luaj	O

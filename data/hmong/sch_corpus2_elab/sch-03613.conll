@@ -275,9 +275,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 .	O
 
 
@@ -421,9 +418,6 @@ txhia	B
 leej	I
 txhia	I
 tus	I
-leej	O
-txhia	O
-tus	O
 .	O
 
 
@@ -1537,9 +1531,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 tab	O
 sis	O
@@ -1993,9 +1984,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 mus	O
 nrhiav	O
 kev	O
@@ -2200,9 +2188,6 @@ muab	B
 phom	I
 muab	I
 riam	I
-phom	O
-muab	O
-riam	O
 mus	O
 nrog	O
 Nplog	O
@@ -2222,9 +2207,6 @@ ua	B
 kub	I
 ua	I
 ntaiv	I
-kub	O
-ua	O
-ntaiv	O
 los	O
 txog	O
 ntua	O
@@ -2383,9 +2365,6 @@ ntau	B
 txhiab	I
 ntau	I
 tiam	I
-txhiab	O
-ntau	O
-tiam	O
 .	O
 
 
@@ -2533,9 +2512,6 @@ lub	B
 koob	I
 lub	I
 meej	I
-koob	O
-lub	O
-meej	O
 tsuas	O
 muaj	O
 yuav	O
@@ -2603,9 +2579,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 tham	O
 thiaj	O
 li	O
@@ -2668,9 +2641,6 @@ nto	B
 koob	I
 nto	I
 moo	I
-koob	O
-nto	O
-moo	O
 mus	O
 lawm	O
 yav	O
@@ -3056,9 +3026,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 .	O
 
 
@@ -3202,9 +3169,6 @@ txhia	B
 leej	I
 txhia	I
 tus	I
-leej	O
-txhia	O
-tus	O
 .	O
 
 
@@ -4318,9 +4282,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 tab	O
 sis	O
@@ -4774,9 +4735,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 mus	O
 nrhiav	O
 kev	O
@@ -4982,9 +4940,6 @@ muab	B
 phom	I
 muab	I
 riam	I
-phom	O
-muab	O
-riam	O
 mus	O
 nrog	O
 Nplog	O
@@ -5004,9 +4959,6 @@ ua	B
 kub	I
 ua	I
 ntaiv	I
-kub	O
-ua	O
-ntaiv	O
 los	O
 txog	O
 ntua	O
@@ -5165,9 +5117,6 @@ ntau	B
 txhiab	I
 ntau	I
 tiam	I
-txhiab	O
-ntau	O
-tiam	O
 .	O
 
 
@@ -5315,9 +5264,6 @@ lub	B
 koob	I
 lub	I
 meej	I
-koob	O
-lub	O
-meej	O
 tsuas	O
 muaj	O
 yuav	O
@@ -5385,9 +5331,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 tham	O
 thiaj	O
 li	O
@@ -5450,9 +5393,6 @@ nto	B
 koob	I
 nto	I
 moo	I
-koob	O
-nto	O
-moo	O
 mus	O
 lawm	O
 yav	O
@@ -5909,9 +5849,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hnyuv	O
 noj	O
 xwb	O

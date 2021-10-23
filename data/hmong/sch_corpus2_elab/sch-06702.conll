@@ -340,9 +340,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 ces	O
 nws	O
 tej	O
@@ -551,9 +548,6 @@ muas	B
 nom	I
 muas	I
 tswv	I
-nom	O
-muas	O
-tswv	O
 ua	O
 .	O
 
@@ -1244,9 +1238,6 @@ luab	B
 nuj	I
 luab	I
 nqi	I
-nuj	O
-luab	O
-nqi	O
 tseg	O
 .	O
 
@@ -1547,18 +1538,12 @@ pab	B
 nyiaj	I
 pab	I
 txiaj	I
-nyiaj	O
-pab	O
-txiaj	O
 mus	O
 ua	O
 lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 no	O
 ntshe	O
 lawv	O
@@ -2505,9 +2490,6 @@ yuav	B
 nom	I
 yuav	I
 tswv	I
-nom	O
-yuav	O
-tswv	O
 mas	O
 yog	O
 ib	O
@@ -2686,9 +2668,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 ,	O
 thuam	O
 uas	O
@@ -2835,9 +2814,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 thiab	O
 tam	O
 li	O

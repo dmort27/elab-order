@@ -212,9 +212,6 @@ pw	B
 noj	I
 pw	I
 haus	I
-noj	O
-pw	O
-haus	O
 lawm	O
 xwb	O
 .	O
@@ -247,9 +244,6 @@ tsev	B
 zeb	I
 tsev	I
 tsua	I
-zeb	O
-tsev	O
-tsua	O
 nyob	O
 hab	O
 tau	O
@@ -1303,9 +1297,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 ntawm	O
 tej	O
 hlob	O
@@ -2134,9 +2125,6 @@ yuav	B
 nom	I
 yuav	I
 tswv	I
-nom	O
-yuav	O
-tswv	O
 general	O
 los	O
 dai	O

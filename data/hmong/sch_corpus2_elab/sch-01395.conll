@@ -1115,9 +1115,6 @@ caum	B
 noj	I
 caum	I
 haus	I
-noj	O
-caum	O
-haus	O
 uas	O
 txog	O
 thaum	O
@@ -2238,9 +2235,6 @@ xyuas	B
 teb	I
 xyuas	I
 chaw	I
-teb	O
-xyuas	O
-chaw	O
 .	O
 
 
@@ -2378,9 +2372,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 ces	O
 tej	O
 cov	O
@@ -2412,9 +2403,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 ov	O
 lub	O
 nroog	O

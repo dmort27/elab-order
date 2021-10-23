@@ -990,9 +990,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 rau	O
 tus	O
 driver	O
@@ -1498,9 +1495,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 tshaj	O
 30	O
 tawm	O
@@ -1532,9 +1526,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 lawm	O
 xwb	O
 .	O
@@ -1552,9 +1543,6 @@ tus	B
 nom	I
 tus	I
 tswv	I
-nom	O
-tus	O
-tswv	O
 twg	O
 ,	O
 yog	O
@@ -1826,9 +1814,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 mas	O
 100	O
 leej	O

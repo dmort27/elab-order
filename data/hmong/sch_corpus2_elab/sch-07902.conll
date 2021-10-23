@@ -960,9 +960,6 @@ qhov	B
 txhia	I
 qhov	I
 chaw	I
-txhia	O
-qhov	O
-chaw	O
 .	O
 
 
@@ -1040,9 +1037,6 @@ txiv	B
 laus	I
 txiv	I
 hluas	I
-laus	O
-txiv	O
-hluas	O
 no	O
 yuav	O
 tsum	O
@@ -1058,9 +1052,6 @@ cua	B
 daj	I
 cua	I
 dub	I
-daj	O
-cua	O
-dub	O
 los	O
 ze	O
 tsis	O
@@ -1238,9 +1229,6 @@ cua	B
 daj	I
 cua	I
 dub	I
-daj	O
-cua	O
-dub	O
 los	O
 tsis	O
 lam	O
@@ -1265,9 +1253,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ntau	O
 ntau	O
 .	O

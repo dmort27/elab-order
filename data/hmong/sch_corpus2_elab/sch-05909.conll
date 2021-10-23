@@ -53,9 +53,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 hais	O
 kom	O
 tau	O
@@ -160,9 +157,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 txoj	O
 kev	O
 cai	O
@@ -630,9 +624,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 los	O
 yus	O
 yuav	O
@@ -685,9 +676,6 @@ ua	B
 kwv	I
 ua	I
 tij	I
-kwv	O
-ua	O
-tij	O
 es	O
 yuav	O
 los	O
@@ -697,9 +685,6 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 li	O
 lawm	O
 aws	O
@@ -1196,9 +1181,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 ,	O
 ua	O
 raws	O
@@ -1408,9 +1390,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 tsuas	O
 pub	O
 nej	O
@@ -1418,9 +1397,6 @@ ua	B
 phooj	I
 ua	I
 ywg	I
-phooj	O
-ua	O
-ywg	O
 xwb	O
 nawb	O
 .	O
@@ -1440,9 +1416,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 yuav	O
 tau	O
 report	O
@@ -1530,9 +1503,6 @@ raug	B
 thuv	I
 raug	I
 txim	I
-thuv	O
-raug	O
-txim	O
 hlo	O
 li	O
 ,	O
@@ -1970,9 +1940,6 @@ nyias	B
 noj	I
 nyias	I
 haus	I
-noj	O
-nyias	O
-haus	O
 nyias	O
 lawm	O
 xwb	O

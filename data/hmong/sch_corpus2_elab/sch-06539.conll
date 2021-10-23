@@ -933,9 +933,6 @@ muag	B
 nom	I
 muag	I
 tswv	I
-nom	O
-muag	O
-tswv	O
 yog	O
 ib	O
 qho	O
@@ -1219,9 +1216,6 @@ yus	B
 vaj	I
 yus	I
 tsev	I
-vaj	O
-yus	O
-tsev	O
 ,	O
 yuav	O
 ua	O

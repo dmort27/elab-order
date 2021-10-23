@@ -847,9 +847,6 @@ qhov	B
 ub	I
 qhov	I
 nuav	I
-ub	O
-qhov	O
-nuav	O
 ,	O
 but	O
 nwg	O
@@ -1762,9 +1759,6 @@ coj	B
 nruj	I
 coj	I
 tsiv	I
-nruj	O
-coj	O
-tsiv	O
 rau	O
 tej	O
 tus	O
@@ -1862,9 +1856,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 thiaj	O
 ntshai	O
 puas	O

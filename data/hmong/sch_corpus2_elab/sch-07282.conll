@@ -1894,9 +1894,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 tias	O
 ``	O
 Now	O
@@ -1994,9 +1991,6 @@ paub	B
 ub	I
 paub	I
 no	I
-ub	O
-paub	O
-no	O
 ua	O
 luaj	O
 .	O
@@ -2124,9 +2118,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 lawm	O
 no	O
 ne	O

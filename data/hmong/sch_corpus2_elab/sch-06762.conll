@@ -585,9 +585,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 txog	O
 rau	O
 niaj	O
@@ -1233,9 +1230,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 tau	O
 kawm	O
 txog	O
@@ -1387,9 +1381,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 coj	O
 los	O
 hlais	O

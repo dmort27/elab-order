@@ -74,9 +74,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 li	O
 no	O
 ...	O
@@ -341,9 +338,6 @@ kev	B
 lag	I
 kev	I
 luam	I
-lag	O
-kev	O
-luam	O
 ,	O
 kev	O
 ua	O
@@ -877,9 +871,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 los	O
 enforce	O
 tau	O
@@ -1331,9 +1322,6 @@ cis	B
 fij	I
 cis	I
 tom	I
-fij	O
-cis	O
-tom	O
 ,	O
 tsis	O
 muaj	O
@@ -1345,9 +1333,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 ,	O
 ces	O
 nej	O
@@ -1859,9 +1844,6 @@ raws	B
 caij	I
 raws	I
 nyoog	I
-caij	O
-raws	O
-nyoog	O
 tag	O
 tag	O
 .	O
@@ -2315,16 +2297,10 @@ tej	B
 niam	I
 tej	I
 txiv	I
-niam	O
-tej	O
-txiv	O
 thov	B
 koob	I
 thov	I
 hmoov	I
-koob	O
-thov	O
-hmoov	O
 ,	O
 thiab	O
 los	O
@@ -2386,9 +2362,6 @@ yas	B
 kev	I
 yas	I
 ncua	I
-kev	O
-yas	O
-ncua	O
 .	O
 
 

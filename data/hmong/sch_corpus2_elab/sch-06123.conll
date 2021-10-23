@@ -1089,9 +1089,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 rau	O
 yavntuj	O
 pegsuab	O
@@ -1474,9 +1471,6 @@ kuag	B
 kaab	I
 kuag	I
 hlau	I
-kaab	O
-kuag	O
-hlau	O
 nuav	O
 xaav	O
 mas	O

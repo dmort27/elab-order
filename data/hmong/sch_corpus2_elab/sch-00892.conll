@@ -233,9 +233,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ua	O
 rau	O
 lub	O
@@ -571,9 +568,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 tim	O
 u	O
 ces	O
@@ -990,9 +984,6 @@ lub	B
 zej	I
 lub	I
 zos	I
-zej	O
-lub	O
-zos	O
 xwb	O
 nos	O
 .	O
@@ -1102,9 +1093,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 lawm	O
 los	O
 ntshe	O

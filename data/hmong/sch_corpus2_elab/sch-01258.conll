@@ -76,9 +76,6 @@ nrog	B
 saib	I
 nrog	I
 xyuas	I
-saib	O
-nrog	O
-xyuas	O
 .	O
 
 
@@ -121,9 +118,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 tau	O
 rov	O
 los	O

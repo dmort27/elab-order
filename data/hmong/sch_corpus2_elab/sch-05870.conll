@@ -100,9 +100,6 @@ qub	B
 phooj	I
 qub	I
 ywg	I
-phooj	O
-qub	O
-ywg	O
 puag	O
 thaum	O
 ub	O
@@ -313,9 +310,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 ,	O
 sib	O
 ntaus	O
@@ -389,9 +383,6 @@ sib	B
 ntsib	I
 sib	I
 pom	I
-ntsib	O
-sib	O
-pom	O
 li	O
 nawb	O
 .	O
@@ -413,9 +404,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 kiag	O
 .	O
 

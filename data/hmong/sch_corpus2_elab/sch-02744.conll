@@ -12,9 +12,6 @@ tag	B
 teb	I
 tag	I
 chaw	I
-teb	O
-tag	O
-chaw	O
 fiv	O
 kom	O
 tau	O
@@ -104,9 +101,6 @@ ua	B
 dlog	I
 ua	I
 dlig	I
-dlog	O
-ua	O
-dlig	O
 rua	O
 peb	O
 cov	O

@@ -193,9 +193,6 @@ lug	B
 toj	I
 lug	I
 pes	I
-toj	O
-lug	O
-pes	O
 li	O
 ko	O
 ma	O
@@ -2874,9 +2871,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ces	O
 yuav	O
 siv	O
@@ -3075,9 +3069,6 @@ mus	B
 ub	I
 mus	I
 no	I
-ub	O
-mus	O
-no	O
 .	O
 
 
@@ -3247,18 +3238,12 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 yam	O
 tsis	O
 raug	B
 kev	I
 raug	I
 cai	I
-kev	O
-raug	O
-cai	O
 ces	O
 tsis	O
 yog	O

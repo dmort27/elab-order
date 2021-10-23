@@ -1941,9 +1941,6 @@ zoo	B
 noj	I
 zoo	I
 haus	I
-noj	O
-zoo	O
-haus	O
 thiab	O
 muaj	O
 chaw	O
@@ -2060,9 +2057,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 ,	O
 chaw	O
 ywjpheej-freedom	O
@@ -2121,9 +2115,6 @@ pw	B
 noj	I
 pw	I
 haus	I
-noj	O
-pw	O
-haus	O
 xwb	O
 --	O
 seb	O
@@ -2154,9 +2145,6 @@ tej	B
 vaj	I
 tej	I
 tsev	I
-vaj	O
-tej	O
-tsev	O
 nyob	O
 rau	O
 vangvieng	O
@@ -2310,9 +2298,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 ,	O
 kev	O
 vammeej	O
@@ -2322,9 +2307,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 tsi	O
 yog	O
@@ -2338,9 +2320,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 ces	O
 yuav	O
 nplhi	O
@@ -2832,9 +2811,6 @@ tug	B
 dab	I
 tug	I
 qhua	I
-dab	O
-tug	O
-qhua	O
 mas	O
 xa	O
 cov	O
@@ -3009,9 +2985,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 rau	O
 peb	O
 cov	O
@@ -3236,9 +3209,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 xwb	O
 hos	O
 dua	O
@@ -4877,9 +4847,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 no	O
 xwb	O
 .	O

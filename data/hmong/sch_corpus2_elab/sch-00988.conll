@@ -293,9 +293,6 @@ muaj	B
 ntsej	I
 muaj	I
 muag	I
-ntsej	O
-muaj	O
-muag	O
 heev	O
 no	O
 ,	O
@@ -451,9 +448,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 los	O
 tsa	O
 peb	O
@@ -607,9 +601,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 ib	O
 qhov	O
 li	O
@@ -1032,9 +1023,6 @@ lwg	B
 noj	I
 lwg	I
 haus	I
-noj	O
-lwg	O
-haus	O
 hauv	O
 yus	O
 cov	O
@@ -1108,9 +1096,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 sib	O
 xyuam	O
 phaj	O
@@ -2115,9 +2100,6 @@ muaj	B
 ntsej	I
 muaj	I
 muag	I
-ntsej	O
-muaj	O
-muag	O
 heev	O
 no	O
 ,	O
@@ -2273,9 +2255,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 los	O
 tsa	O
 peb	O
@@ -2429,9 +2408,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 ib	O
 qhov	O
 li	O
@@ -2854,9 +2830,6 @@ lwg	B
 noj	I
 lwg	I
 haus	I
-noj	O
-lwg	O
-haus	O
 hauv	O
 yus	O
 cov	O
@@ -2930,9 +2903,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 sib	O
 xyuam	O
 phaj	O
@@ -3763,9 +3733,6 @@ noj	B
 dawb	I
 noj	I
 do	I
-dawb	O
-noj	O
-do	O
 ne	O
 .	O
 
@@ -5035,9 +5002,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 los	O
 luag	O
 tsis	O
@@ -5511,9 +5475,6 @@ pom	B
 ub	I
 pom	I
 no	I
-ub	O
-pom	O
-no	O
 ntau	O
 yam	O
 ,	O
@@ -5542,9 +5503,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 !	O
 
 
@@ -5912,9 +5870,6 @@ lwg	B
 noj	I
 lwg	I
 haus	I
-noj	O
-lwg	O
-haus	O
 ntawm	O
 tej	O
 pej	O
@@ -6127,9 +6082,6 @@ lwg	B
 noj	I
 lwg	I
 haus	I
-noj	O
-lwg	O
-haus	O
 ntawm	O
 tus	O
 neeg	O
@@ -6389,9 +6341,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 kav	O
 ib	O
 pab	O
@@ -6442,9 +6391,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 kav	O
 nej	O
 lub	O
@@ -7386,9 +7332,6 @@ lwg	B
 noj	I
 lwg	I
 haus	I
-noj	O
-lwg	O
-haus	O
 ntawm	O
 tej	O
 pej	O
@@ -7601,9 +7544,6 @@ lwg	B
 noj	I
 lwg	I
 haus	I
-noj	O
-lwg	O
-haus	O
 ntawm	O
 tus	O
 neeg	O
@@ -7863,9 +7803,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 kav	O
 ib	O
 pab	O
@@ -7916,9 +7853,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 kav	O
 nej	O
 lub	O
@@ -9565,9 +9499,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 no	O
 cia	O
 ua	O

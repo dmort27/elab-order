@@ -536,9 +536,6 @@ tom	B
 zej	I
 tom	I
 zos	I
-zej	O
-tom	O
-zos	O
 loj	O
 xwb	O
 .	O
@@ -1014,9 +1011,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 hab	O
 sis	O
 to	O
@@ -1497,9 +1491,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 tshuas	O
 tos	O
 kom	O
@@ -1624,9 +1615,6 @@ saib	B
 moog	I
 saib	I
 lug	I
-moog	O
-saib	O
-lug	O
 ,	O
 get	O
 look	O
@@ -1664,9 +1652,6 @@ xaav	B
 moog	I
 xaav	I
 lug	I
-moog	O
-xaav	O
-lug	O
 ,	O
 get	O
 think	O
@@ -1715,9 +1700,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 .	O
 
 
@@ -1931,9 +1913,6 @@ ua	B
 ciaj	I
 ua	I
 tuag	I
-ciaj	O
-ua	O
-tuag	O
 txog	O
 thaum	O
 kawg	O
@@ -2080,9 +2059,6 @@ cav	B
 loj	I
 cav	I
 me	I
-loj	O
-cav	O
-me	O
 los	O
 ok	O
 .	O
@@ -2853,9 +2829,6 @@ nraav	B
 noj	I
 nraav	I
 haus	I
-noj	O
-nraav	O
-haus	O
 lwm	O
 yaam	O
 muaj	O
@@ -2974,9 +2947,6 @@ cav	B
 loj	I
 cav	I
 me	I
-loj	O
-cav	O
-me	O
 los	O
 ok	O
 .	O
@@ -3203,9 +3173,6 @@ ua	B
 ciaj	I
 ua	I
 tuag	I
-ciaj	O
-ua	O
-tuag	O
 txog	O
 thaum	O
 kawg	O
@@ -3920,9 +3887,6 @@ nraav	B
 noj	I
 nraav	I
 haus	I
-noj	O
-nraav	O
-haus	O
 lwm	O
 yaam	O
 muaj	O
@@ -4041,9 +4005,6 @@ cav	B
 loj	I
 cav	I
 me	I
-loj	O
-cav	O
-me	O
 los	O
 ok	O
 .	O
@@ -4270,9 +4231,6 @@ ua	B
 ciaj	I
 ua	I
 tuag	I
-ciaj	O
-ua	O
-tuag	O
 txog	O
 thaum	O
 kawg	O

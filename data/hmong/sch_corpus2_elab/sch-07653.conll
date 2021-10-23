@@ -95,17 +95,11 @@ kev	B
 plaub	I
 kev	I
 ntug	I
-plaub	O
-kev	O
-ntug	O
 ,	O
 kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 los	O
 lawv	O
 hais	O
@@ -229,9 +223,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 zoo	O
 .	O
 
@@ -244,9 +235,6 @@ tas	B
 teb	I
 tas	I
 chaw	I
-teb	O
-tas	O
-chaw	O
 ua	O
 .	O
 
@@ -277,9 +265,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 twb	O
 hais	O
 tsi	O
@@ -939,9 +924,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 aws	O
 .	O
 
@@ -994,9 +976,6 @@ lub	B
 ntsej	I
 lub	I
 muag	I
-ntsej	O
-lub	O
-muag	O
 xwb	O
 .	O
 

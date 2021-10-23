@@ -536,9 +536,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 li	O
 .	O
 
@@ -1962,9 +1959,6 @@ yog	B
 kwv	I
 yog	I
 tij	I
-kwv	O
-yog	O
-tij	O
 es	O
 pheej	O
 tseem	O
@@ -3406,9 +3400,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 ,	O
 peb	O
 los	O
@@ -3423,9 +3414,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 thiab	O
 txawj	O
@@ -3616,9 +3604,6 @@ tau	B
 kwv	I
 tau	I
 tij	I
-kwv	O
-tau	O
-tij	O
 thiab	O
 tseem	O
 mus	O
@@ -3683,9 +3668,6 @@ muaj	B
 mob	I
 muaj	I
 nkees	I
-mob	O
-muaj	O
-nkees	O
 li	O
 lawm	O
 ntag	O

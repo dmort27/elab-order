@@ -641,9 +641,6 @@ tas	B
 siab	I
 tas	I
 ntsws	I
-siab	O
-tas	O
-ntsws	O
 .	O
 
 
@@ -788,9 +785,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ,	O
 kuv	O
 thov	O

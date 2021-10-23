@@ -612,9 +612,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 los	O
 tab	O
 tom	O
@@ -631,17 +628,11 @@ kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 los	O
 lub	B
 sab	I
 lub	I
 ntsws	I
-sab	O
-lub	O
-ntsws	O
 taab	O
 tom	O
 yuj	O
@@ -928,9 +919,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 mus	O
 txog	O
 ntua	O

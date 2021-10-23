@@ -25,9 +25,6 @@ lub	B
 roob	I
 lub	I
 hav	I
-roob	O
-lub	O
-hav	O
 .	O
 
 
@@ -257,9 +254,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 nyob	O
 rau	O
 cheeb	O
@@ -509,9 +503,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ntawm	O
 vangviene	O
 ,	O
@@ -713,9 +704,6 @@ me	B
 vaj	I
 me	I
 tsev	I
-vaj	O
-me	O
-tsev	O
 kub	O
 nyiab	O
 thiab	O
@@ -1573,9 +1561,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 nrog	O
 Blog	O
 Liab	O
@@ -1823,9 +1808,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 nrog	O
 Blog	O
 Liab	O
@@ -2496,18 +2478,12 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 cov	O
 nyob	O
 tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 huv	O
 tib	O
 si	O

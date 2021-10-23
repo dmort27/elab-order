@@ -48,9 +48,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 no	O
 ces	O
@@ -266,9 +263,6 @@ hauv	B
 zej	I
 hauv	I
 zos	I
-zej	O
-hauv	O
-zos	O
 ...	O
 muab	O
 puab	O
@@ -278,9 +272,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 tes	O
 s/d	O
 txhaj	O

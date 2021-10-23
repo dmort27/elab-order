@@ -28,9 +28,6 @@ raws	B
 kwv	I
 raws	I
 tij	I
-kwv	O
-raws	O
-tij	O
 no	O
 pab	O
 txhawb	O
@@ -51,9 +48,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 ne	O
 ,	O
 qhov	O
@@ -84,9 +78,6 @@ yuav	B
 poj	I
 yuav	I
 sev	I
-poj	O
-yuav	O
-sev	O
 .	O
 
 
@@ -98,9 +89,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 los	O
 saib	O
 hlob	O
@@ -131,9 +119,6 @@ xws	B
 teb	I
 xws	I
 chaw	I
-teb	O
-xws	O
-chaw	O
 .	O
 
 
@@ -301,9 +286,6 @@ raws	B
 kwv	I
 raws	I
 tij	I
-kwv	O
-raws	O
-tij	O
 txo	O
 peb	O
 lub	O

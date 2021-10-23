@@ -162,9 +162,6 @@ liam	B
 ub	I
 liam	I
 no	I
-ub	O
-liam	O
-no	O
 ,	O
 tsis	O
 muaj	O
@@ -2219,9 +2216,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 es	O
 tseem	O
 tsis	O
@@ -2496,9 +2490,6 @@ thov	B
 dag	I
 thov	I
 zog	I
-dag	O
-thov	O
-zog	O
 lawm	O
 ces	O
 kawg	O
@@ -2642,9 +2633,6 @@ kawg	B
 siab	I
 kawg	I
 ntsws	I
-siab	O
-kawg	O
-ntsws	O
 ,	O
 uas	O
 rau	O
@@ -3380,9 +3368,6 @@ yus	B
 cuab	I
 yus	I
 ntxiab	I
-cuab	O
-yus	O
-ntxiab	O
 tais	O
 yus	O
 tes	O

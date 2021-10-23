@@ -23,9 +23,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ces	O
 cia	O
 rau	O
@@ -33,9 +30,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 lawm	O
 .	O
 
@@ -79,9 +73,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ces	O
 cia	O
 rau	O
@@ -89,9 +80,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 lawm	O
 .	O
 
@@ -845,9 +833,6 @@ ntaiv	B
 hnub	I
 ntaiv	I
 hli	I
-hnub	O
-ntaiv	O
-hli	O
 rau	O
 koj	O
 tus	O
@@ -1021,9 +1006,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ,	O
 ua	O
 mej	O

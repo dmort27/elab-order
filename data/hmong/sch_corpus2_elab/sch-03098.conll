@@ -250,9 +250,6 @@ tua	B
 nyuj	I
 tua	I
 twm	I
-nyuj	O
-tua	O
-twm	O
 noj	O
 ces	O
 tsis	O
@@ -1498,9 +1495,6 @@ rau	B
 tes	I
 rau	I
 taw	I
-tes	O
-rau	O
-taw	O
 cia	O
 no	O
 es	O
@@ -2625,9 +2619,6 @@ saib	B
 dab	I
 saib	I
 qhua	I
-dab	O
-saib	O
-qhua	O
 thiab	O
 kuv	O
 mam	O
@@ -2842,9 +2833,6 @@ saib	B
 dab	I
 saib	I
 qhua	I
-dab	O
-saib	O
-qhua	O
 thiab	O
 kuv	O
 mam	O
@@ -3200,9 +3188,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -3288,9 +3273,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 

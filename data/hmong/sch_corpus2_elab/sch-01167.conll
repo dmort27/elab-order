@@ -67,9 +67,6 @@ nyiaj	B
 hnub	I
 nyiaj	I
 hli	I
-hnub	O
-nyiaj	O
-hli	O
 nws	O
 yog	O
 ib	O
@@ -115,9 +112,6 @@ cua	B
 daj	I
 cua	I
 dub	I
-daj	O
-cua	O
-dub	O
 los	O
 ntau	O
 zeg	O
@@ -422,9 +416,6 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 ua	O
 nom	O
 qab	O
@@ -462,9 +453,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 kom	O
 muaj	O
 koob	O
@@ -979,9 +967,6 @@ nyiaj	B
 hnub	I
 nyiaj	I
 hli	I
-hnub	O
-nyiaj	O
-hli	O
 nws	O
 yog	O
 ib	O
@@ -1027,9 +1012,6 @@ cua	B
 daj	I
 cua	I
 dub	I
-daj	O
-cua	O
-dub	O
 los	O
 ntau	O
 zeg	O
@@ -1909,9 +1891,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 li	O
 no	O
 .	O
@@ -2285,9 +2264,6 @@ nyiaj	B
 hnub	I
 nyiaj	I
 hli	I
-hnub	O
-nyiaj	O
-hli	O
 nws	O
 yog	O
 ib	O
@@ -2333,9 +2309,6 @@ cua	B
 daj	I
 cua	I
 dub	I
-daj	O
-cua	O
-dub	O
 los	O
 ntau	O
 zeg	O
@@ -2817,9 +2790,6 @@ tau	B
 nom	I
 tau	I
 tswv	I
-nom	O
-tau	O
-tswv	O
 nce	O
 qib	O
 them	O

@@ -485,9 +485,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 lawm	O
 zujzus	O
 ,	O
@@ -495,9 +492,6 @@ txiv	B
 neeb	I
 txiv	I
 yaig	I
-neeb	O
-txiv	O
-yaig	O
 ,	O
 kwv	O
 mob	O
@@ -1122,9 +1116,6 @@ tub	B
 mab	I
 tub	I
 qhe	I
-mab	O
-tub	O
-qhe	O
 ,	O
 yog	O
 tuag	O
@@ -1185,9 +1176,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 nyob	O
 nraim	O
 hau	O
@@ -1216,9 +1204,6 @@ dej	B
 kub	I
 dej	I
 npau	I
-kub	O
-dej	O
-npau	O
 .	O
 
 
@@ -1274,9 +1259,6 @@ tsis	B
 tag	I
 tsis	I
 kawg	I
-tag	O
-tsis	O
-kawg	O
 .	O
 
 

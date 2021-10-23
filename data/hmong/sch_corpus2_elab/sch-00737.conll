@@ -254,9 +254,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 xwb.Pom	O
 qhov	O
 twg	O
@@ -1316,9 +1313,6 @@ muaj	B
 nyiaj	I
 muaj	I
 txiaj	I
-nyiaj	O
-muaj	O
-txiaj	O
 tseg	O
 lawm	O
 yav	O
@@ -1617,9 +1611,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 ces	O
 summer	O
 nkawv	O
@@ -1683,9 +1674,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 zoo	O
 ua	O
 luaj	O
@@ -1752,9 +1740,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 xwb	O
 .	O
 
@@ -1882,9 +1867,6 @@ tej	B
 vaj	I
 tej	I
 tsev	I
-vaj	O
-tej	O
-tsev	O
 thiab	O
 txhob	O
 xauj	O

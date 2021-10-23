@@ -191,9 +191,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 ,	O
 thiab	O
 muaj	O
@@ -204,9 +201,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 .	O
 
 
@@ -376,9 +370,6 @@ yog	B
 niam	I
 yog	I
 txiv	I
-niam	O
-yog	O
-txiv	O
 ,	O
 nws	O
 yuav	O
@@ -570,9 +561,6 @@ dav	B
 tooj	I
 dav	I
 hlau	I
-tooj	O
-dav	O
-hlau	O
 rov	O
 los	O
 rau	O
@@ -654,9 +642,6 @@ kis	B
 toj	I
 kis	I
 pes	I
-toj	O
-kis	O
-pes	O
 mus	O
 txog	O
 rau	O
@@ -929,9 +914,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 tau	O
 hnov	O
 tag	O
@@ -1003,9 +985,6 @@ saum	B
 huab	I
 saum	I
 cua	I
-huab	O
-saum	O
-cua	O
 yam	O
 tsis	O
 muaj	O
@@ -1115,9 +1094,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 nyob	O
 rau	O
 tebchaws	O
@@ -1153,9 +1129,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 ho	O
 to	O
 taub	O
@@ -1702,9 +1675,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 los	O
 li	O
 yav	O
@@ -1848,9 +1818,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 nkag	O
 txhaum	O
 tebchaws	O
@@ -2309,9 +2276,6 @@ tsoo	B
 rooj	I
 tsoo	I
 tog	I
-rooj	O
-tsoo	O
-tog	O
 ,	O
 tabsi	O
 thaum	O
@@ -2638,9 +2602,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 ntawm	O
 lawm	O
 es	O
@@ -2921,9 +2882,6 @@ muaj	B
 yeej	I
 muaj	I
 swb	I
-yeej	O
-muaj	O
-swb	O
 no	O
 os	O
 yog	O
@@ -3034,9 +2992,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 ualuaj	O
 li	O
 maj	O
@@ -3255,9 +3210,6 @@ neeg	B
 dawb	I
 neeg	I
 huv	I
-dawb	O
-neeg	O
-huv	O
 tiag	O
 no	O
 ces	O
@@ -3502,9 +3454,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 li	O
 cov	O
 lus	O
@@ -4056,9 +4005,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 saum	O
 rooj	O
 kom	O
@@ -4220,9 +4166,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 tau	O
 hnov	O
 tag	O
@@ -4438,9 +4381,6 @@ neeg	B
 ncaj	I
 neeg	I
 ncees	I
-ncaj	O
-neeg	O
-ncees	O
 es	O
 rov	O
 los	O
@@ -4505,9 +4445,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 los	O
 yeeb	O
 vim	O
@@ -4540,9 +4477,6 @@ neeg	B
 dawb	I
 neeg	I
 huv	I
-dawb	O
-neeg	O
-huv	O
 tiag	O
 ,	O
 teem	O
@@ -4570,9 +4504,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 muab	O
 peb	O
 cov	O
@@ -4858,9 +4789,6 @@ cuab	B
 ub	I
 cuab	I
 no	I
-ub	O
-cuab	O
-no	O
 tuaj	O
 xwb	O
 uas	O
@@ -4954,9 +4882,6 @@ neeg	B
 dawb	I
 neeg	I
 huv	I
-dawb	O
-neeg	O
-huv	O
 thiab	O
 siab	O
 ncaj	O
@@ -5381,9 +5306,6 @@ ua	B
 tshav	I
 ua	I
 nag	I
-tshav	O
-ua	O
-nag	O
 huam	O
 es	O
 cia	O

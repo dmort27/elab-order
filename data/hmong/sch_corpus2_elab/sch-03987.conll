@@ -157,9 +157,6 @@ yog	B
 nam	I
 yog	I
 txiv	I
-nam	O
-yog	O
-txiv	O
 le	O
 lub	O
 nub	O
@@ -221,9 +218,6 @@ koom	B
 zej	I
 koom	I
 zog	I
-zej	O
-koom	O
-zog	O
 .	O
 
 
@@ -1135,17 +1129,11 @@ teev	B
 puj	I
 teev	I
 yawm	I
-puj	O
-teev	O
-yawm	O
 ,	O
 thov	B
 ntuj	I
 thov	I
 teb	I
-ntuj	O
-thov	O
-teb	O
 kuas	O
 ``	O
 vaaj	O

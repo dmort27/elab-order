@@ -122,9 +122,6 @@ tej	B
 kwv	I
 tej	I
 tij	I
-kwv	O
-tej	O
-tij	O
 --	O
 yuav	O
 tsis	O
@@ -208,17 +205,11 @@ poj	B
 nrauj	I
 poj	I
 ntsuam	I
-nrauj	O
-poj	O
-ntsuam	O
 tsis	O
 muaj	B
 cuab	I
 muaj	I
 yim	I
-cuab	O
-muaj	O
-yim	O
 mus	O
 ua	O
 members	O
@@ -423,9 +414,6 @@ sib	B
 hlub	I
 sib	I
 paab	I
-hlub	O
-sib	O
-paab	O
 yuav	O
 pluj	O
 lawm	O

@@ -69,9 +69,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 no	O
 laiv	O
 .	O
@@ -1247,9 +1244,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 xwb	O
 los	O
 twb	O
@@ -1262,9 +1256,6 @@ tej	B
 siab	I
 tej	I
 ntsws	I
-siab	O
-tej	O
-ntsws	O
 thiab	O
 .	O
 
@@ -1529,9 +1520,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 hwm	O
 nqis	O
 tes	O
@@ -1613,9 +1601,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 los	O
 vim	O
 tsis	O
@@ -3873,9 +3858,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 los	O
 hais	O
 tias	O

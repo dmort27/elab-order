@@ -3162,9 +3162,6 @@ tsis	B
 tag	I
 tsis	I
 kawg	I
-tag	O
-tsis	O
-kawg	O
 .	O
 
 
@@ -3378,9 +3375,6 @@ peb	B
 nam	I
 peb	I
 txiv	I
-nam	O
-peb	O
-txiv	O
 ,	O
 peb	O
 tej	O
@@ -3883,9 +3877,6 @@ ua	B
 neej	I
 ua	I
 tsaav	I
-neej	O
-ua	O
-tsaav	O
 pum	O
 has	O
 tas	O

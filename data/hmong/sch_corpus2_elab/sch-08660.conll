@@ -155,9 +155,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 mus	O
 txog	O
 to	O
@@ -392,9 +389,6 @@ yog	B
 niam	I
 yog	I
 txiv	I
-niam	O
-yog	O
-txiv	O
 tam	O
 lub	O
 ntuj	O
@@ -505,9 +499,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 xwb	O
 los	O
 mas	O
@@ -796,9 +787,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 zoo	O
 .	O
 
@@ -1392,9 +1380,6 @@ tau	B
 koob	I
 tau	I
 npe	I
-koob	O
-tau	O
-npe	O
 no	O
 los	O
 kuj	O

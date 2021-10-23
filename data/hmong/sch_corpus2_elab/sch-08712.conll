@@ -848,9 +848,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 thiaj	O
 li	O
 siv	O
@@ -897,9 +894,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 hauv	O
 zej	O
 haus	O
@@ -915,9 +909,6 @@ hais	B
 phem	I
 hais	I
 zoo	I
-phem	O
-hais	O
-zoo	O
 los	O
 muaj	O
 tag	O

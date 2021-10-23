@@ -1801,16 +1801,10 @@ tua	B
 liab	I
 tua	I
 cuam	I
-liab	O
-tua	O
-cuam	O
 tua	B
 nas	I
 tua	I
 noog	I
-nas	O
-tua	O
-noog	O
 xwb	O
 .	O
 
@@ -3934,9 +3928,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 ntev2	O
 mus	O
 tsis	O
@@ -5421,9 +5412,6 @@ sib	B
 pab	I
 sib	I
 txhawb	I
-pab	O
-sib	O
-txhawb	O
 li	O
 koj	O
 hais	O
@@ -5738,9 +5726,6 @@ tsi	B
 ciaj	I
 tsi	I
 tuag	I
-ciaj	O
-tsi	O
-tuag	O
 .	O
 
 
@@ -7836,9 +7821,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 thiab	O
 muaj	O
 lub	O
@@ -7880,9 +7862,6 @@ khiav	B
 ciaj	I
 khiav	I
 tuag	I
-ciaj	O
-khiav	O
-tuag	O
 dhau	O
 tej	O
 me	O
@@ -7947,9 +7926,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 ntau	O
 xyoo	O
 no	O
@@ -8272,9 +8248,6 @@ hais	B
 txhij	I
 hais	I
 txhua	I
-txhij	O
-hais	O
-txhua	O
 ,	O
 sawvdaws	O
 nyiam	O

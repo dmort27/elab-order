@@ -72,9 +72,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 vim	O
 li	O
 no	O
@@ -84,9 +81,6 @@ poj	B
 nrauj	I
 poj	I
 ntsuam	I
-nrauj	O
-poj	O
-ntsuam	O
 los	O
 nyiag	O
 nyiam	O
@@ -406,9 +400,6 @@ tau	B
 koob	I
 tau	I
 npe	I
-koob	O
-tau	O
-npe	O
 .	O
 
 
@@ -421,9 +412,6 @@ tau	B
 koob	I
 tau	I
 npe	I
-koob	O
-tau	O
-npe	O
 xwb	O
 los	O
 cas	O
@@ -592,9 +580,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 nrov	O
 lawm	O
 ces	O

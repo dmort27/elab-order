@@ -578,9 +578,6 @@ ua	B
 vaj	I
 ua	I
 tsev	I
-vaj	O
-ua	O
-tsev	O
 tau	O
 peb	O
 haivneeg	O
@@ -683,17 +680,11 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 thiab	O
 ua	B
 vaj	I
 ua	I
 tsev	I
-vaj	O
-ua	O
-tsev	O
 zoo	O
 zoo	O
 nyob	O
@@ -705,9 +696,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 xwb	O
 .	O
 
@@ -751,9 +739,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 li	O
 no	O
 lawm	O
@@ -773,9 +758,6 @@ muaj	B
 dag	I
 muaj	I
 zog	I
-dag	O
-muaj	O
-zog	O
 ,	O
 muaj	O
 power	O
@@ -804,9 +786,6 @@ raug	B
 thuv	I
 raug	I
 txim	I
-thuv	O
-raug	O
-txim	O
 ,	O
 losyog	O
 tseem	O
@@ -829,9 +808,6 @@ hauv	B
 zej	I
 hauv	I
 zos	I
-zej	O
-hauv	O
-zos	O
 --	O
 kom	O
 pab	O
@@ -948,9 +924,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 no	O
 ntxiv	O
 lawm	O

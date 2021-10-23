@@ -56,9 +56,6 @@ tau	B
 nyob	I
 tau	I
 su	I
-nyob	O
-tau	O
-su	O
 les	O
 ,	O
 yog	O
@@ -965,9 +962,6 @@ raws	B
 kev	I
 raws	I
 cai	I
-kev	O
-raws	O
-cai	O
 lov	O
 ?	O
 
@@ -1280,9 +1274,6 @@ raws	B
 kev	I
 raws	I
 cai	I
-kev	O
-raws	O
-cai	O
 ,	O
 tau	O
 mus	O
@@ -2301,9 +2292,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 es	O
 koj	O
 thiaj	O
@@ -2531,9 +2519,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 rau	O
 St	O
 .	O
@@ -2557,9 +2542,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 nawg	O
 .	O
 
@@ -2749,9 +2731,6 @@ raws	B
 kev	I
 raws	I
 cai	I
-kev	O
-raws	O
-cai	O
 .	O
 
 
@@ -2833,9 +2812,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 mam	O
 nrog	O
 nws	O
@@ -2881,9 +2857,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 kom	O
 peb	O
 sawvdaws	O
@@ -2901,9 +2874,6 @@ tshum	B
 ub	I
 tshum	I
 no	I
-ub	O
-tshum	O
-no	O
 kom	O
 peb	O
 hais	O
@@ -3036,9 +3006,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 pab	O
 hmoob	O
 .	O
@@ -3055,9 +3022,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 zaum	O
 no	O
 .	O

@@ -582,9 +582,6 @@ nyias	B
 txawj	I
 nyias	I
 ntse	I
-txawj	O
-nyias	O
-ntse	O
 lawm	O
 even	O
 hais	O
@@ -1325,9 +1322,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 ua	O
 Phaya	O
@@ -1340,9 +1334,6 @@ tub	B
 qoob	I
 tub	I
 loo	I
-qoob	O
-tub	O
-loo	O
 thiab	O
 tub	O
 liaj	O
@@ -2104,9 +2095,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 tsis	O
 hwm	O
 Nai	O
@@ -2153,9 +2141,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 ,	O
 ua	O
 ua	O
@@ -2419,9 +2404,6 @@ koj	B
 txheeb	I
 koj	I
 ze	I
-txheeb	O
-koj	O
-ze	O
 GVP	O
 ces	O
 lawd	O

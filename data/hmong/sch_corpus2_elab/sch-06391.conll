@@ -127,9 +127,6 @@ fwm	B
 nom	I
 fwm	I
 tswv	I
-nom	O
-fwm	O
-tswv	O
 ,	O
 tsi	O
 fwm	O
@@ -234,9 +231,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 tias	O
 niam	O
 ua	O
@@ -245,9 +239,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ...	O
 ''	O
 Hlau	O
@@ -532,9 +523,6 @@ fwm	B
 nom	I
 fwm	I
 tswv	I
-nom	O
-fwm	O
-tswv	O
 ,	O
 tsi	O
 fwm	O
@@ -639,9 +627,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 tias	O
 niam	O
 ua	O
@@ -650,9 +635,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ...	O
 ''	O
 Hlau	O

@@ -26,9 +26,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 ntag	O
 hos	O
 .	O
@@ -221,9 +218,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsaus	I
-qab	O
-qhuas	O
-tsaus	O
 .	O
 
 
@@ -507,9 +501,6 @@ yuav	B
 zoo	I
 yuav	I
 phem	I
-zoo	O
-yuav	O
-phem	O
 los	O
 kav	O
 liam	O

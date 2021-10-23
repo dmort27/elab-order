@@ -219,9 +219,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 los	O
 peb	O
 yeej	O
@@ -238,9 +235,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 thiab	O
 las	O
 sav	O
@@ -288,9 +282,6 @@ peb	B
 nom	I
 peb	I
 tswv	I
-nom	O
-peb	O
-tswv	O
 .	O
 
 
@@ -924,9 +915,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 coj	O
 lug	O
 cob	O
@@ -936,9 +924,6 @@ ua	B
 paab	I
 ua	I
 pawg	I
-paab	O
-ua	O
-pawg	O
 le	O
 koj	O
 lub	O
@@ -1062,9 +1047,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 ces	O
 nwg	O
 tsi	O

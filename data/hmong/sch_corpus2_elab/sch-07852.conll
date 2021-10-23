@@ -91,9 +91,6 @@ lus	B
 phem	I
 lus	I
 zoo	I
-phem	O
-lus	O
-zoo	O
 los	O
 kuv	O
 yuav	O
@@ -139,9 +136,6 @@ kev	B
 plees	I
 kev	I
 yi	I
-plees	O
-kev	O
-yi	O
 na	O
 ,	O
 dablaug	O
@@ -553,9 +547,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 rau	O
 tej	O
 public	O
@@ -652,9 +643,6 @@ lus	B
 nom	I
 lus	I
 tswv	I
-nom	O
-lus	O
-tswv	O
 lus	O
 faj	O
 lus	O

@@ -418,9 +418,6 @@ tswv	B
 teb	I
 tswv	I
 chaw	I
-teb	O
-tswv	O
-chaw	O
 kuj	O
 lias	O
 teb	O
@@ -553,18 +550,12 @@ tej	B
 liaj	I
 tej	I
 teb	I
-liaj	O
-tej	O
-teb	O
 thiab	O
 rau	O
 nruab	B
 zoov	I
 nruab	I
 tsuag	I
-zoov	O
-nruab	O
-tsuag	O
 xwb	O
 .	O
 
@@ -740,9 +731,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 ,	O
 tsis	O
@@ -1187,9 +1175,6 @@ huab	B
 noj	I
 huab	I
 haus	I
-noj	O
-huab	O
-haus	O
 tuaj	O
 nthuav	O
 hauv	O
@@ -1375,9 +1360,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 ,	O
 tsis	O
 tag	O

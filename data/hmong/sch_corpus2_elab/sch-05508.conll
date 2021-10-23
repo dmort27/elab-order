@@ -523,9 +523,6 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 los	O
 yog	O
 dab	O
@@ -564,9 +561,6 @@ pov	B
 hwm	I
 pov	I
 yoom	I
-hwm	O
-pov	O
-yoom	O
 koj	O
 ces	O
 koj	O
@@ -960,9 +954,6 @@ tus	B
 yeej	I
 tus	I
 swb	I
-yeej	O
-tus	O
-swb	O
 no	O
 ces	O
 kuv	O
@@ -980,9 +971,6 @@ tus	B
 yeej	I
 tus	I
 swb	I
-yeej	O
-tus	O
-swb	O
 tiam	O
 sis	O
 xav	O
@@ -1473,9 +1461,6 @@ txawj	B
 mob	I
 txawj	I
 tuag	I
-mob	O
-txawj	O
-tuag	O
 rauqhov	O
 Vajtswv	O
 yeej	O
@@ -1823,9 +1808,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 ua	O
 vajtswv	O
 tej	O
@@ -2271,9 +2253,6 @@ ib	B
 hnub	I
 ib	I
 hmo	I
-hnub	O
-ib	O
-hmo	O
 los	O
 yuav	O
 tuav	O
@@ -2448,9 +2427,6 @@ me	B
 kab	I
 me	I
 ntsaum	I
-kab	O
-me	O
-ntsaum	O
 los	O
 yuav	O
 tsum	O

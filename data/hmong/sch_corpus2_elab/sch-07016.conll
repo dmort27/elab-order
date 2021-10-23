@@ -89,9 +89,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 koj	O
 yuav	O
 faib	O
@@ -200,9 +197,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 kws	O
 has	O
 lug	O
@@ -300,9 +294,6 @@ yaag	B
 kev	I
 yaag	I
 ncua	I
-kev	O
-yaag	O
-ncua	O
 es	O
 nug	O
 ces	O

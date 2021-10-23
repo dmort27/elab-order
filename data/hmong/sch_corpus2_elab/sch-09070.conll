@@ -79,9 +79,6 @@ nqi	B
 mis	I
 nqi	I
 hno	I
-mis	O
-nqi	O
-hno	O
 them	O
 tag	O
 lawm	O
@@ -470,9 +467,6 @@ ntau	B
 hnub	I
 ntau	I
 hmo	I
-hnub	O
-ntau	O
-hmo	O
 tsis	O
 raug	O
 txoj	O
@@ -509,9 +503,6 @@ yog	B
 neej	I
 yog	I
 tsav	I
-neej	O
-yog	O
-tsav	O
 es	O
 cia	O
 pab	O
@@ -1681,9 +1672,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 thiaj	O
 tsis	O
 tu	O
@@ -1755,9 +1743,6 @@ lub	B
 zej	I
 lub	I
 zog	I
-zej	O
-lub	O
-zog	O
 los	O
 lawm	O
 ntau	O
@@ -2217,9 +2202,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ,	O
 nyob	O
 teb	O
@@ -3248,9 +3230,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 thiab	O
 pab	O
 peb	O

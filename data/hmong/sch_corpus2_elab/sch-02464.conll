@@ -933,9 +933,6 @@ koj	B
 pog	I
 koj	I
 yawg	I
-pog	O
-koj	O
-yawg	O
 yog	O
 leej	O
 twg	O
@@ -945,9 +942,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 yog	O
 leej	O
 twg	O
@@ -1029,9 +1023,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 lawm	O
 .	O
 

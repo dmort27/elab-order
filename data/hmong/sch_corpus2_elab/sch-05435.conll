@@ -1234,9 +1234,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 .	O
 
 
@@ -1548,9 +1545,6 @@ yaug	B
 ncauj	I
 yaug	I
 lu	I
-ncauj	O
-yaug	O
-lu	O
 ces	O
 mus	O
 siab/qi	O
@@ -1696,9 +1690,6 @@ dab	B
 niam	I
 dab	I
 txiv	I
-niam	O
-dab	O
-txiv	O
 kom	O
 pab	O
 Hmoob	O
@@ -1924,9 +1915,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 li	O
 thaum	O
 ub	O
@@ -2123,9 +2111,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 .	O
 
 
@@ -3098,16 +3083,10 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 lawv	B
 pog	I
 lawv	I
 yawg	I
-pog	O
-lawv	O
-yawg	O
 tau	O
 muaj	O
 caub	O
@@ -3399,9 +3378,6 @@ qhov	B
 txhia	I
 qhov	I
 chaw	I
-txhia	O
-qhov	O
-chaw	O
 kom	O
 neeg	O
 qhuas	O
@@ -3415,9 +3391,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 ntxub	O
 koj	O
 lub	O
@@ -3669,9 +3642,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 ua	O
 raws	O
 txoj	O
@@ -3833,9 +3803,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 lov	O
 ?	O
 
@@ -3869,9 +3836,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ma	O
 ?	O
 
@@ -4883,9 +4847,6 @@ kev	B
 phem	I
 kev	I
 qias	I
-phem	O
-kev	O
-qias	O
 ua	O
 Laura	O
 reported	O
@@ -5163,9 +5124,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 kom	O
 ceev	O
 faj	O
@@ -5261,9 +5219,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 pab	O
 nej	O
 lawm	O
@@ -5727,9 +5682,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 es	O
 nws	O
 thiaj	O
@@ -6732,9 +6684,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 lawv	O
 mas	O
@@ -7422,9 +7371,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 cuag	O
 li	O
 uncle	O
@@ -7567,9 +7513,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 li	O
 los	O
 cas	O

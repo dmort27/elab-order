@@ -483,9 +483,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 ,	O
 txoj	O
 kev	O
@@ -493,9 +490,6 @@ ua	B
 laj	I
 ua	I
 kam	I
-laj	O
-ua	O
-kam	O
 ,	O
 txoj	O
 kev	O
@@ -503,9 +497,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 xwb	O
 qhov	O
 ntawv	O
@@ -542,9 +533,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ua	O
 ntej	O
 lawv	O
@@ -667,9 +655,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 cov	O
 txom	O
 nyem	O

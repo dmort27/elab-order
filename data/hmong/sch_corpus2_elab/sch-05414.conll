@@ -19,9 +19,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 ntau	O
 kev	O
 phooj	O
@@ -215,18 +212,12 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 thiab	O
 tuaj	O
 sib	B
 daj	I
 sib	I
 deev	I
-daj	O
-sib	O
-deev	O
 xwb	O
 .	O
 
@@ -734,9 +725,6 @@ sib	B
 tua	I
 sib	I
 ntaus	I
-tua	O
-sib	O
-ntaus	O
 mas	O
 twb	O
 tsis	O
@@ -807,9 +795,6 @@ dag	B
 ub	I
 dag	I
 no	I
-ub	O
-dag	O
-no	O
 tia	O
 huv	O
 lawm	O
@@ -917,9 +902,6 @@ ntau	B
 tsav	I
 ntau	I
 yam	I
-tsav	O
-ntau	O
-yam	O
 kom	O
 khoo	O
 tau	O

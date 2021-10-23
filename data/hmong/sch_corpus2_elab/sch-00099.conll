@@ -563,9 +563,6 @@ ua	B
 dlog	I
 ua	I
 dlig	I
-dlog	O
-ua	O
-dlig	O
 le	O
 ko	O
 ;	O
@@ -592,9 +589,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 xwb	O
 kuas	O
 qhov	O
@@ -1717,9 +1711,6 @@ tiav	B
 niam	I
 tiav	I
 txiv	I
-niam	O
-tiav	O
-txiv	O
 zom	O
 zaws	O
 ,	O

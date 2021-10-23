@@ -1399,9 +1399,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 xwb	O
 txhob	O
 muaj	O
@@ -2025,9 +2022,6 @@ pa	B
 hlob	I
 pa	I
 yau	I
-hlob	O
-pa	O
-yau	O
 xwb	O
 .	O
 
@@ -2793,9 +2787,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 tau	O
 30	O
 tawm	O
@@ -3108,9 +3099,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 los	O
 tsim	O
 Hmoob	O
@@ -3120,9 +3108,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 los	O
 cawm	O
 Hmoob	O

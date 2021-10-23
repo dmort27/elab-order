@@ -104,9 +104,6 @@ yus	B
 noj	I
 yus	I
 haus	I
-noj	O
-yus	O
-haus	O
 lawm	O
 ,	O
 tsi	O
@@ -301,9 +298,6 @@ tos	B
 noj	I
 tos	I
 haus	I
-noj	O
-tos	O
-haus	O
 tsam	O
 ua	O
 lub	O
@@ -808,9 +802,6 @@ ua	B
 neej	I
 ua	I
 tsa	I
-neej	O
-ua	O
-tsa	O
 mas	O
 thiab	O
 haum	O
@@ -929,9 +920,6 @@ ua	B
 neej	I
 ua	I
 tsa	I
-neej	O
-ua	O
-tsa	O
 ,	O
 yog	O
 koj	O
@@ -947,9 +935,6 @@ kev	B
 neej	I
 kev	I
 tsa	I
-neej	O
-kev	O
-tsa	O
 txoj	O
 kev	O
 sib	O

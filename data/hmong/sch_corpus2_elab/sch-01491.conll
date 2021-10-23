@@ -719,9 +719,6 @@ tsawg	B
 kwv	I
 tsawg	I
 tij	I
-kwv	O
-tsawg	O
-tij	O
 li	O
 peb	O
 ham	O
@@ -1208,9 +1205,6 @@ tau	B
 paub	I
 tau	I
 pom	I
-paub	O
-tau	O
-pom	O
 no	O
 .	O
 
@@ -1284,9 +1278,6 @@ kuv	B
 pom	I
 kuv	I
 paub	I
-pom	O
-kuv	O
-paub	O
 xwb	O
 ces	O
 txawm	O

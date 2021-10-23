@@ -378,9 +378,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 os	O
 .	O
 
@@ -648,9 +645,6 @@ tswv	B
 teb	I
 tswv	I
 chaw	I
-teb	O
-tswv	O
-chaw	O
 es	O
 luas	O
 tseem	O
@@ -659,9 +653,6 @@ muaj	B
 vaaj	I
 muaj	I
 tsev	I
-vaaj	O
-muaj	O
-tsev	O
 zoo	O
 ,	O
 muaj	O

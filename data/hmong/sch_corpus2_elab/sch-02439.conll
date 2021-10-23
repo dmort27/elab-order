@@ -7,9 +7,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 ,	O
 puas	O
 paub	O
@@ -131,16 +128,10 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 nrog	O
 pej	O
 kum	O
@@ -175,9 +166,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 .	O
 
 
@@ -242,9 +230,6 @@ yawm	B
 yij	I
 yawm	I
 dab	I
-yij	O
-yawm	O
-dab	O
 thiab	O
 tej	O
 txheeb	O
@@ -460,9 +445,6 @@ coj	B
 zoo	I
 coj	I
 ncaj	I
-zoo	O
-coj	O
-ncaj	O
 thiab	O
 ua	O
 dab	O
@@ -475,9 +457,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 thiab	O
 ua	O
 saum	O
@@ -984,9 +963,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 tes	O
 moob	O
 txhaj	O
@@ -1056,9 +1032,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 tsi	O
 muaj	O
 ib	O
@@ -1099,9 +1072,6 @@ tau	B
 teb	I
 tau	I
 chaw	I
-teb	O
-tau	O
-chaw	O
 .	O
 
 
@@ -1237,9 +1207,6 @@ ua	B
 kwv	I
 ua	I
 tij	I
-kwv	O
-ua	O
-tij	O
 .	O
 
 
@@ -1369,9 +1336,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 kev	O
 sis	O
@@ -1447,9 +1411,6 @@ tog	B
 vaaj	I
 tog	I
 tsev	I
-vaaj	O
-tog	O
-tsev	O
 xwb	O
 tes	O
 yog	O
@@ -1760,9 +1721,6 @@ hu	B
 ntuj	I
 hu	I
 teb	I
-ntuj	O
-hu	O
-teb	O
 thiab	O
 hu	O
 Hmoob	O
@@ -1923,9 +1881,6 @@ lus	B
 phem	I
 lus	I
 zoo	I
-phem	O
-lus	O
-zoo	O
 hauv	O
 no	O
 puas	O
@@ -2119,9 +2074,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 phem	O
 tsis	O
 zoo	O
@@ -2254,9 +2206,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 ,	O
 puas	O
 paub	O
@@ -3155,9 +3104,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 ,	O
 Ua	O
 rau	O
@@ -3341,9 +3287,6 @@ raws	B
 kwv	I
 raws	I
 tij	I
-kwv	O
-raws	O
-tij	O
 ces	O
 nyiag	O
 kev	O
@@ -3538,9 +3481,6 @@ tus	B
 txheeb	I
 tus	I
 ze	I
-txheeb	O
-tus	O
-ze	O
 kom	O
 tawm	O
 los	O
@@ -4171,9 +4111,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 los	O
 paub	O
 txog	O
@@ -4996,9 +4933,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 noj	O
 yam	O
 sis	O
@@ -5326,9 +5260,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 tsawm	O
 tsawv	O
 lawm	O
@@ -5586,9 +5517,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 ,	O
 puas	O
 paub	O
@@ -5878,9 +5806,6 @@ plawm	B
 ub	I
 plawm	I
 no	I
-ub	O
-plawm	O
-no	O
 .	O
 
 

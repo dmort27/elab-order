@@ -548,9 +548,6 @@ has	B
 ub	I
 has	I
 nua	I
-ub	O
-has	O
-nua	O
 (	O
 beatting	O
 around	O
@@ -611,9 +608,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 mus	O
 pab	O
 lwm	O
@@ -1233,9 +1227,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 thaum	O
 ub	O
 los	O
@@ -2099,9 +2090,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 thiab	O
 muaj	O
 lub	O
@@ -2136,9 +2124,6 @@ dhia	B
 siab	I
 dhia	I
 nqi	I
-siab	O
-dhia	O
-nqi	O
 li	O
 no	O
 .	O
@@ -2227,9 +2212,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 thiab	O
 ua	O
 tau	O
@@ -2588,9 +2570,6 @@ sib	B
 tog	I
 sib	I
 txeeb	I
-tog	O
-sib	O
-txeeb	O
 los	O
 zaum	O
 yawg	O
@@ -2604,9 +2583,6 @@ ntau	B
 leej	I
 ntau	I
 tus	I
-leej	O
-ntau	O
-tus	O
 heev	O
 .	O
 

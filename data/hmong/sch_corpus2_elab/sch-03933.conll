@@ -730,9 +730,6 @@ kev	B
 plees	I
 kev	I
 yi	I
-plees	O
-kev	O
-yi	O
 .	O
 
 
@@ -750,9 +747,6 @@ tuam	B
 meej	I
 tuam	I
 pem	I
-meej	O
-tuam	O
-pem	O
 rau	O
 sawv	O
 daws	O
@@ -2464,9 +2458,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 ,	O
 muaj	O
 tau	O

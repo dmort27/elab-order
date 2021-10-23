@@ -393,9 +393,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 .	O
 
 
@@ -818,9 +815,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 mas	O
 tsis	O
 muaj	O
@@ -870,9 +864,6 @@ khib	B
 ciaj	I
 khib	I
 tuag	I
-ciaj	O
-khib	O
-tuag	O
 li	O
 lwm	O
 tus	O
@@ -1532,9 +1523,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 kuj	O
 muaj	O
 peevxwm	O
@@ -1831,9 +1819,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 mas	O
 tej	O
 poj	O
@@ -1863,9 +1848,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 mas	O
 tej	O
 me	O

@@ -46,18 +46,12 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 mas	O
 tus	O
 hais	B
 phem	I
 hais	I
 zoo	I
-phem	O
-hais	O
-zoo	O
 rau	O
 yus	O
 los	O
@@ -453,9 +447,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 .	O
 
 

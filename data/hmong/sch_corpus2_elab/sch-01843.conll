@@ -17,9 +17,6 @@ ua	B
 sab	I
 ua	I
 sua	I
-sab	O
-ua	O
-sua	O
 tsis	O
 muaj	O
 pab	O
@@ -128,9 +125,6 @@ noj	B
 qab	I
 noj	I
 tsuag	I
-qab	O
-noj	O
-tsuag	O
 koom	O
 ib	O
 txoj	O
@@ -710,9 +704,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 nkaus	O
 xwb	O
 .	O
@@ -1208,9 +1199,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 ,	O
 kev	O
 teev	O

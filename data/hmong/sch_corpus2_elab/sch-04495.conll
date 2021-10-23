@@ -942,9 +942,6 @@ yog	B
 niam	I
 yog	I
 txiv	I
-niam	O
-yog	O
-txiv	O
 ,	O
 cas	O
 yus	O
@@ -1007,9 +1004,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 los	O
 lawm	O
 ,	O
@@ -1531,9 +1525,6 @@ yog	B
 niam	I
 yog	I
 txiv	I
-niam	O
-yog	O
-txiv	O
 ,	O
 cas	O
 yus	O
@@ -1596,9 +1587,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 los	O
 lawm	O
 ,	O

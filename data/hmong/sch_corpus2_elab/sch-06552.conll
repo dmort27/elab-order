@@ -333,9 +333,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 tawb	O
 kom	O
 tau	O
@@ -484,9 +481,6 @@ tus	B
 laus	I
 tus	I
 hluas	I
-laus	O
-tus	O
-hluas	O
 los	O
 yawg	O
 tham	O
@@ -753,9 +747,6 @@ kuag	B
 kaab	I
 kuag	I
 hlau	I
-kaab	O
-kuag	O
-hlau	O
 ,	O
 nuav	O
 ces	O
@@ -965,9 +956,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 los	O
 yog	O
 ntxeev	O
@@ -1069,9 +1057,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 ces	O
 zoo	O
 li	O
@@ -1878,9 +1863,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 tawb	O
 kom	O
 tau	O
@@ -2029,9 +2011,6 @@ tus	B
 laus	I
 tus	I
 hluas	I
-laus	O
-tus	O
-hluas	O
 los	O
 yawg	O
 tham	O

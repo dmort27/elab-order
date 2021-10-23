@@ -978,9 +978,6 @@ tau	B
 kwv	I
 tau	I
 tij	I
-kwv	O
-tau	O
-tij	O
 tau	O
 ib	O
 puas	O
@@ -1068,9 +1065,6 @@ sib	B
 pab	I
 sib	I
 koom	I
-pab	O
-sib	O
-koom	O
 siab	O
 ho	O
 txhaum	O

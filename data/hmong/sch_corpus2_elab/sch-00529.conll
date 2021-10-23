@@ -41,9 +41,6 @@ leeg	B
 nyuj	I
 leeg	I
 twm	I
-nyuj	O
-leeg	O
-twm	O
 --	O
 nqaij	O
 ntses	O
@@ -343,9 +340,6 @@ roob	B
 nqeeb	I
 roob	I
 tauj	I
-nqeeb	O
-roob	O
-tauj	O
 .	O
 
 
@@ -354,9 +348,6 @@ roob	B
 nqeeb	I
 roob	I
 tauj	I
-nqeeb	O
-roob	O
-tauj	O
 ces	O
 yog	O
 nas	O
@@ -663,9 +654,6 @@ nqa	B
 diav	I
 nqa	I
 tais	I
-diav	O
-nqa	O
-tais	O
 los	O
 vij	O
 kiag	O
@@ -879,9 +867,6 @@ kaus	B
 hmab	I
 kaus	I
 ntoo	I
-hmab	O
-kaus	O
-ntoo	O
 peb	O
 yeej	O
 tau	O
@@ -1959,9 +1944,6 @@ sib	B
 koom	I
 sib	I
 sau	I
-koom	O
-sib	O
-sau	O
 tau	O
 ib	O
 pab	O

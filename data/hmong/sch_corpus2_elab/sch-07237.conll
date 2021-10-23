@@ -949,9 +949,6 @@ mus	B
 ub	I
 mus	I
 no	I
-ub	O
-mus	O
-no	O
 thiab	O
 mus	O
 pab	O
@@ -1901,17 +1898,11 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 cem	O
 qhov	B
 quav	I
 qhov	I
 zis	I
-quav	O
-qhov	O
-zis	O
 2	O
 .	O
 
@@ -1985,9 +1976,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 6	O
 .	O
 
@@ -2086,9 +2074,6 @@ hais	B
 siab	I
 hais	I
 qis	I
-siab	O
-hais	O
-qis	O
 nawb	O
 .	O
 
@@ -2178,9 +2163,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 li	O
 neb	O
 xwb	O
@@ -2641,9 +2623,6 @@ mus	B
 ub	I
 mus	I
 no	I
-ub	O
-mus	O
-no	O
 thiab	O
 mus	O
 pab	O
@@ -4108,9 +4087,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 mam	O
 nkag	O
 khuav	O
@@ -4637,9 +4613,6 @@ me	B
 tub	I
 me	I
 ntxhais	I
-tub	O
-me	O
-ntxhais	O
 tua	O
 thiab	O
 tsis	O
@@ -5139,9 +5112,6 @@ kos	B
 tes	I
 kos	I
 taw	I
-tes	O
-kos	O
-taw	O
 xwb	O
 tab	O
 sis	O

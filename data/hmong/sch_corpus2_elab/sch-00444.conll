@@ -56,9 +56,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 .	O
 
 
@@ -297,9 +294,6 @@ tso	B
 tes	I
 tso	I
 taw	I
-tes	O
-tso	O
-taw	O
 khiav	O
 kom	O
 ceg	O

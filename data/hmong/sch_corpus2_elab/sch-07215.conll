@@ -38,9 +38,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 rau	O
 hauv	O
 SCH	O
@@ -64,9 +61,6 @@ sib	B
 qhuab	I
 sib	I
 qhia	I
-qhuab	O
-sib	O
-qhia	O
 mus	O
 .	O
 

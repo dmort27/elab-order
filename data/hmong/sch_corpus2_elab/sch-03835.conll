@@ -13,9 +13,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 ua	O
 luaj	O
 .	O
@@ -42,9 +39,6 @@ lub	B
 roob	I
 lub	I
 hav	I
-roob	O
-lub	O
-hav	O
 tiv	O
 no	O
 tham	O
@@ -52,9 +46,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 qhov	O
 tsev	O
 mas	O
@@ -80,9 +71,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 ntxiag	O
 .	O
 

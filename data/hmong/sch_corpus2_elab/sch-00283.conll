@@ -70,9 +70,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 hais	O
 tias	O
 vim	O
@@ -539,9 +536,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 xwb	O
 .	O
 
@@ -1451,9 +1445,6 @@ rooj	B
 nom	I
 rooj	I
 tswv	I
-nom	O
-rooj	O
-tswv	O
 zaum	O
 no	O
 mas	O
@@ -1580,9 +1571,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 no	O
 hos	O
 .	O
@@ -2026,9 +2014,6 @@ tswv	B
 teb	I
 tswv	I
 chaw	I
-teb	O
-tswv	O
-chaw	O
 .	O
 
 
@@ -2150,9 +2135,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 xwb	O
 ,	O
 tab	O
@@ -2553,9 +2535,6 @@ tswv	B
 teb	I
 tswv	I
 chaw	I
-teb	O
-tswv	O
-chaw	O
 .	O
 
 
@@ -2858,9 +2837,6 @@ pov	B
 riam	I
 pov	I
 phom	I
-riam	O
-pov	O
-phom	O
 los	O
 rau	O
 Hmoob	O
@@ -2980,9 +2956,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 no	O
 hos	O
 ,	O

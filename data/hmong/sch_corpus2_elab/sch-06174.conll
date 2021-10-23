@@ -202,9 +202,6 @@ siab	B
 loj	I
 siab	I
 dav	I
-loj	O
-siab	O
-dav	O
 ,	O
 tus	O
 twg	O
@@ -231,9 +228,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 tias	O
 yus	O
 thiaj	O
@@ -350,9 +344,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 tso	O
 mam	O
 mua	O
@@ -1076,9 +1067,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 xwb	O
 .	O
 
@@ -2079,9 +2067,6 @@ ua	B
 mus	I
 ua	I
 los	I
-mus	O
-ua	O
-los	O
 qho	O
 tus	O
 cia	O
@@ -2318,9 +2303,6 @@ kev	B
 lis	I
 kev	I
 cai	I
-lis	O
-kev	O
-cai	O
 .	O
 
 
@@ -2979,9 +2961,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 dig	O
 coj	O
 los	O

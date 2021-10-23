@@ -19,9 +19,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 ,	O
 mloog	O
 music	O
@@ -423,9 +420,6 @@ cov	B
 nom	I
 cov	I
 tswv	I
-nom	O
-cov	O
-tswv	O
 no	O
 nyiam	O
 ua	O
@@ -1331,9 +1325,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 nrov	O
 ncha	O
 thoob	O
@@ -1541,9 +1532,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 luag	O
 yeej	O
 tsis	O
@@ -1604,9 +1592,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 thiab	O
 phle	O
 ncauj	O

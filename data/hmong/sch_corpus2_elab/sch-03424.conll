@@ -60,9 +60,6 @@ lub	B
 roob	I
 lub	I
 hav	I
-roob	O
-lub	O
-hav	O
 .	O
 
 
@@ -121,9 +118,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 thiab	O
 xwb	O
 .	O
@@ -274,9 +268,6 @@ muaj	B
 plaub	I
 muaj	I
 ntug	I
-plaub	O
-muaj	O
-ntug	O
 ua	O
 luaj	O
 li	O
@@ -291,9 +282,6 @@ muaj	B
 tseeb	I
 muaj	I
 tsum	I
-tseeb	O
-muaj	O
-tsum	O
 no	O
 mas	O
 ,	O
@@ -1632,9 +1620,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 .	O
 
 
@@ -2101,9 +2086,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 Nplog	O
 sib	O
 tham	O
@@ -2471,9 +2453,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 lawm	O
 quav	O
 lawm	O

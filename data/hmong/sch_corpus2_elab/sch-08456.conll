@@ -588,9 +588,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 loj	O
 ,	O
 twb	O
@@ -689,9 +686,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 ua	O
 zaub	O
 muag	O
@@ -923,9 +917,6 @@ pob	B
 zeb	I
 pob	I
 ca	I
-zeb	O
-pob	O
-ca	O
 ua	O
 rau	O
 lub	O
@@ -1010,9 +1001,6 @@ cua	B
 daj	I
 cua	I
 dub	I
-daj	O
-cua	O
-dub	O
 ua	O
 es	O
 kuv	O
@@ -1142,9 +1130,6 @@ puas	B
 tsav	I
 puas	I
 yam	I
-tsav	O
-puas	O
-yam	O
 es	O
 thiaj	O
 zoo	O
@@ -1286,9 +1271,6 @@ mus	B
 haub	I
 mus	I
 ntxias	I
-haub	O
-mus	O
-ntxias	O
 tag	O
 zog	O
 tiam	O
@@ -1319,9 +1301,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 ces	O
 lawv	O
 tsis	O

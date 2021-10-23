@@ -65,9 +65,6 @@ sib	B
 tua	I
 sib	I
 ntaus	I
-tua	O
-sib	O
-ntaus	O
 nyob	O
 rau	O
 tom	O
@@ -148,9 +145,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 xwb	O
 ?	O
 
@@ -470,9 +464,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 li	O
 na	O
 .	O
@@ -497,9 +488,6 @@ tau	B
 paub	I
 tau	I
 pom	I
-paub	O
-tau	O
-pom	O
 li	O
 ne	O
 .	O
@@ -898,9 +886,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 ua	O
 rau	O

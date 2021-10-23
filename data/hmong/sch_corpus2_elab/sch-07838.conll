@@ -543,9 +543,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 ,	O
 uv	O
 uv	O
@@ -853,9 +850,6 @@ tej	B
 xyoob	I
 tej	I
 ntoo	I
-xyoob	O
-tej	O
-ntoo	O
 ,	O
 thiab	O
 tua	O
@@ -890,9 +884,6 @@ peb	B
 poj	I
 peb	I
 yawm	I
-poj	O
-peb	O
-yawm	O
 li	O
 ,	O
 peb	O
@@ -1169,9 +1160,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 kom	O
 Hmoob	O
 tu	O

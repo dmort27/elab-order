@@ -131,9 +131,6 @@ sib	B
 nyiam	I
 sib	I
 hlub	I
-nyiam	O
-sib	O
-hlub	O
 ces	O
 kawg	O
 sib	O
@@ -285,9 +282,6 @@ muaj	B
 tub	I
 muaj	I
 ntxhais	I
-tub	O
-muaj	O
-ntxhais	O
 tibsi	O
 .	O
 
@@ -328,9 +322,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 nyiam	O
 lawm	O
 cais	O
@@ -487,9 +478,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 li	O
 Hmoob	O
 kev	O
@@ -667,9 +655,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 cias	O
 li	O
 mus	O
@@ -697,9 +682,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 nrog	O
 hmoob	O
 men	O
@@ -749,9 +731,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 thiab	O
 lawv	O
 yeej	O

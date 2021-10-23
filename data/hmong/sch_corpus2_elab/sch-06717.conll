@@ -127,9 +127,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 ,	O
 thiab	O
 niam	O
@@ -418,9 +415,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 ntawm	O
 yus	O
 cov	O
@@ -440,9 +434,6 @@ dag	B
 mab	I
 dag	I
 suav	I
-mab	O
-dag	O
-suav	O
 mas	O
 noj	O
 tag	O
@@ -714,9 +705,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 li	O
 peb	O
 cov	O

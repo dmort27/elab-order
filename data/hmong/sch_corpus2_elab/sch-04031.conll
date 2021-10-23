@@ -453,9 +453,6 @@ sib	B
 ceg	I
 sib	I
 ntaus	I
-ceg	O
-sib	O
-ntaus	O
 +	O
 hu	O
 paumli	O
@@ -537,9 +534,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ,	O
 tu	O
 vaj	O
@@ -974,9 +968,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 loj	O
 hlob	O
 txawj	O
@@ -1944,9 +1935,6 @@ ua	B
 ntaub	I
 ua	I
 ntawv	I
-ntaub	O
-ua	O
-ntawv	O
 kom	O
 niag	O
 niam	O
@@ -4026,9 +4014,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 no	O
 nyob	O
 tib	O
@@ -4066,9 +4051,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 txawv	O
 ntau	O
 yam	O

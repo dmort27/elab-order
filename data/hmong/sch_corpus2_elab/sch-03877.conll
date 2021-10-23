@@ -7,9 +7,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 yuav	O
 hais	O
 kom	O
@@ -966,9 +963,6 @@ paub	B
 txhij	I
 paub	I
 txhua	I
-txhij	O
-paub	O
-txhua	O
 .	O
 
 
@@ -1500,9 +1494,6 @@ saib	B
 ntsej	I
 saib	I
 muag	I
-ntsej	O
-saib	O
-muag	O
 .	O
 
 

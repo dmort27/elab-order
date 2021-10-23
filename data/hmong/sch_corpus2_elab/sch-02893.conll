@@ -163,9 +163,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 nws	O
 tsis	O
 nyob	O
@@ -480,9 +477,6 @@ tus	B
 phem	I
 tus	I
 zoo	I
-phem	O
-tus	O
-zoo	O
 los	O
 yus	O
 yuav	O
@@ -759,9 +753,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 .	O
 
 
@@ -1081,16 +1072,10 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 kav	B
 teb	I
 kav	I
 chaw	I
-teb	O
-kav	O
-chaw	O
 ces	O
 yog	O
 qhov	O
@@ -1106,9 +1091,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 lawm	O
 xwb	O
 ntag	O
@@ -1362,9 +1344,6 @@ tus	B
 phem	I
 tus	I
 zoo	I
-phem	O
-tus	O
-zoo	O
 los	O
 yus	O
 yuav	O
@@ -1768,9 +1747,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -1920,9 +1896,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 thiab	O
 kev	O
 ncajncees	O

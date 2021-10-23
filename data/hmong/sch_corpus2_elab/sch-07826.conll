@@ -1122,9 +1122,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ov	O
 .	O
 
@@ -1489,9 +1486,6 @@ muaj	B
 yeej	I
 muaj	I
 swb	I
-yeej	O
-muaj	O
-swb	O
 ov	O
 but	O
 that	O
@@ -1586,9 +1580,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 yeej	O
 qhuab	O
 qhia	O
@@ -2049,9 +2040,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 qhias	O
 koj	O
 ces	O
@@ -2256,9 +2244,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 poob	O
 nrog	O
 lee	O
@@ -2463,9 +2448,6 @@ tsis	B
 meej	I
 tsis	I
 pem	I
-meej	O
-tsis	O
-pem	O
 li	O
 no	O
 naj	O

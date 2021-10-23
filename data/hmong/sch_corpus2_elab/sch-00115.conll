@@ -917,9 +917,6 @@ yuav	B
 mab	I
 yuav	I
 suav	I
-mab	O
-yuav	O
-suav	O
 tag	O
 lawm	O
 xwb	O
@@ -1071,9 +1068,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 Nplog	O
 muab	O
 luam	O
@@ -2245,9 +2239,6 @@ tiv	B
 tshav	I
 tiv	I
 nag	I
-tshav	O
-tiv	O
-nag	O
 li	O
 laud	O
 .	O
@@ -3286,9 +3277,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 los	O
 yog	O
 vim	O

@@ -426,9 +426,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ntau	O
 ntau	O
 .	O
@@ -1329,9 +1326,6 @@ ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 .	O
 
 
@@ -1358,9 +1352,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 li	O
 os	O
 ,	O

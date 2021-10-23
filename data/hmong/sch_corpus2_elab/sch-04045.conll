@@ -240,9 +240,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 thiab	O
 muaj	O
 education	O
@@ -879,9 +876,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 thiab	O
 qhov	O
 yog	O
@@ -1330,9 +1324,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 tias	O
 Dr	O
 .	O
@@ -1490,9 +1481,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 no	O
 los	O
 kuj	O
@@ -2050,9 +2038,6 @@ luag	B
 niam	I
 luag	I
 txiv	I
-niam	O
-luag	O
-txiv	O
 )	O
 tsis	O
 zoo	O
@@ -2103,9 +2088,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 -	O
 lino	O
 ,	O
@@ -2251,9 +2233,6 @@ kuv	B
 vaj	I
 kuv	I
 tsev	I
-vaj	O
-kuv	O
-tsev	O
 saib	O
 leej	O
 twg	O
@@ -2489,9 +2468,6 @@ tom	B
 ntej	I
 tom	I
 qaab	I
-ntej	O
-tom	O
-qaab	O
 le	O
 tsi	O
 yog	O
@@ -2770,9 +2746,6 @@ rov	B
 qab	I
 rov	I
 quav	I
-qab	O
-rov	O
-quav	O
 sib	O
 puag	O
 kom	O

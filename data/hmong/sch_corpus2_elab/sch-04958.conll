@@ -1262,9 +1262,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 cov	O
 neeg	O
@@ -1278,9 +1275,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 nej	O
 cov	O
@@ -1308,17 +1302,11 @@ muaj	B
 nyiaj	I
 muaj	I
 txiaj	I
-nyiaj	O
-muaj	O
-txiaj	O
 ,	O
 coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 thiab	O
 paubqab	O
@@ -1695,9 +1683,6 @@ tham	B
 mus	I
 tham	I
 los	I
-mus	O
-tham	O
-los	O
 ho	O
 tham	O
 txog	O
@@ -2519,9 +2504,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 tsis	O
 tuaj	O
 lawm	O

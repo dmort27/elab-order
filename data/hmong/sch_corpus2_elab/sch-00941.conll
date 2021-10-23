@@ -1066,9 +1066,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ,	O
 fwm	O
 thiab	O
@@ -1819,9 +1816,6 @@ sib	B
 txeeb	I
 sib	I
 fuas	I
-txeeb	O
-sib	O
-fuas	O
 lawm	O
 .	O
 
@@ -2429,9 +2423,6 @@ sib	B
 txeeb	I
 sib	I
 tog	I
-txeeb	O
-sib	O
-tog	O
 los	O
 siv	O
 cov	O
@@ -3676,9 +3667,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 tseem	O
 ruam	O
 tshaj	O
@@ -3730,9 +3718,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 --	O
 twb	O
 tsi	O
@@ -3828,9 +3813,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 nawb	O
 mog	O
 ..	O

@@ -281,9 +281,6 @@ pa	B
 hlob	I
 pa	I
 yau	I
-hlob	O
-pa	O
-yau	O
 lawm	O
 nab	O
 .	O
@@ -928,9 +925,6 @@ qhov	B
 txhia	I
 qhov	I
 chaw	I
-txhia	O
-qhov	O
-chaw	O
 ces	O
 koj	O
 kawg	O
@@ -1018,9 +1012,6 @@ siab	B
 loj	I
 siab	I
 ntev	I
-loj	O
-siab	O
-ntev	O
 ...	O
 tso	O
 nws	O

@@ -429,9 +429,6 @@ phaum	B
 niam	I
 phaum	I
 txiv	I
-niam	O
-phaum	O
-txiv	O
 yeej	O
 tseem	O
 cais	O
@@ -657,9 +654,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 kom	O
 lawv	O
 muaj	O
@@ -882,9 +876,6 @@ lug	B
 nyaj	I
 lug	I
 kub	I
-nyaj	O
-lug	O
-kub	O
 dlaab	O
 tsi	O
 faib	O
@@ -1074,9 +1065,6 @@ nam	B
 hlub	I
 nam	I
 yau	I
-hlub	O
-nam	O
-yau	O
 hab	O
 tag	O
 laud	O
@@ -1307,9 +1295,6 @@ nam	B
 hlub	I
 nam	I
 yau	I
-hlub	O
-nam	O
-yau	O
 hab	O
 tag	O
 laud	O
@@ -1447,9 +1432,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 coj	O
 los	O
 ntis	O
@@ -1457,9 +1439,6 @@ qhov	B
 ntsej	I
 qhov	I
 muag	I
-ntsej	O
-qhov	O
-muag	O
 ua	O
 kasmoos	O
 .	O
@@ -1874,9 +1853,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 na	O
 lawv	O
 tseem	O
@@ -1887,9 +1863,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 nrog	O
 lawv	O
 txeeb	O

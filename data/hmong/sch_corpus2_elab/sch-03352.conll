@@ -327,9 +327,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 rau	O
 lawv	O
 CIA	O
@@ -354,9 +351,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 raws	O
 ntuj	O
 qab	O
@@ -366,9 +360,6 @@ noob	B
 qoob	I
 noob	I
 loo	I
-qoob	O
-noob	O
-loo	O
 pab	O
 lawv	O
 ,	O
@@ -385,9 +376,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 noj	O
 ...	O
 cog	O
@@ -395,9 +383,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 ...	O
 xwb	O
 zoo	O
@@ -437,9 +422,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 noj	O
 ''	O
 xwb	O

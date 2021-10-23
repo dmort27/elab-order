@@ -87,9 +87,6 @@ muaj	B
 tub	I
 muaj	I
 kiv	I
-tub	O
-muaj	O
-kiv	O
 .	O
 
 
@@ -622,9 +619,6 @@ sib	B
 pab	I
 sib	I
 hlub	I
-pab	O
-sib	O
-hlub	O
 .	O
 
 
@@ -946,9 +940,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 los	O
 yuav	O
 tsis	O
@@ -1778,9 +1769,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 ,	O
 peb	O
 cov	O
@@ -1788,9 +1776,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 yav	O
 tom	O
 ntej	O

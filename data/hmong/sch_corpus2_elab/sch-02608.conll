@@ -288,9 +288,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 thiab	O
 ntxim	O
 nyiam	O
@@ -306,9 +303,6 @@ tej	B
 siab	I
 tej	I
 ntsws	I
-siab	O
-tej	O
-ntsws	O
 thiaj	O
 yuav	O
 dhia	O
@@ -933,9 +927,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 puas	O
 tag	O
 huv	O
@@ -1386,9 +1377,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 mas	O
 npawg	O
 aws	O

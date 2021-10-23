@@ -296,9 +296,6 @@ cais	B
 pab	I
 cais	I
 pawg	I
-pab	O
-cais	O
-pawg	O
 ,	O
 zais	O
 siab	O
@@ -311,9 +308,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 mas	O
 yoojyim	O
 heev	O
@@ -440,9 +434,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 ,	O
 thiab	O
 zaub	O
@@ -523,9 +514,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 nyob	O
 ywj	O
 siab	O
@@ -789,9 +777,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 ,	O
 thiab	O
 zaub	O

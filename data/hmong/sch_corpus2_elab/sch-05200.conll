@@ -66,9 +66,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 peb	O
 kawm	O
@@ -200,9 +197,6 @@ sau	B
 ntaub	I
 sau	I
 ntawv	I
-ntaub	O
-sau	O
-ntawv	O
 lawm	O
 mas	O
 .	O
@@ -395,9 +389,6 @@ lus	B
 phem	I
 lus	I
 zoo	I
-phem	O
-lus	O
-zoo	O
 kom	O
 txhob	O
 muaj	O

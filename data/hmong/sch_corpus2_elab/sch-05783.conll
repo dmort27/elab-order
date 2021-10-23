@@ -543,9 +543,6 @@ pa	B
 hlob	I
 pa	I
 yau	I
-hlob	O
-pa	O
-yau	O
 lawm	O
 xwb	O
 ntag	O
@@ -847,9 +844,6 @@ nqis	B
 tshoob	I
 nqis	I
 kos	I
-tshoob	O
-nqis	O
-kos	O
 ntawd	O
 yog	O
 muaj	O
@@ -962,9 +956,6 @@ ntshai	B
 plaub	I
 ntshai	I
 ntug	I
-plaub	O
-ntshai	O
-ntug	O
 es	O
 thiaj	O
 yuam	O
@@ -1294,9 +1285,6 @@ ua	B
 rwj	I
 ua	I
 aws	I
-rwj	O
-ua	O
-aws	O
 ncu	O
 lawm	O
 mog	O
@@ -1600,9 +1588,6 @@ tu	B
 tub	I
 tu	I
 kiv	I
-tub	O
-tu	O
-kiv	O
 vam	O
 ntws	O
 li	O
@@ -1835,9 +1820,6 @@ yug	B
 tub	I
 yug	I
 ntxhais	I
-tub	O
-yug	O
-ntxhais	O
 los	O
 kom	O
 sib	O
@@ -1852,9 +1834,6 @@ sib	B
 ntsib	I
 sib	I
 pom	I
-ntsib	O
-sib	O
-pom	O
 nev	O
 puas	O
 yog	O
@@ -1868,9 +1847,6 @@ kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 no	O
 mas	O
 lom	O
@@ -3153,9 +3129,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 kuj	O
 tsis	O
 ua	O

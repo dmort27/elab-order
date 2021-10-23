@@ -207,9 +207,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 tsuas	O
 tau	O
 kawm	O
@@ -266,9 +263,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ...	O
 3	O
 hmoob	O
@@ -294,9 +288,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 los	O
 mus	O
 .	O
@@ -355,9 +346,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 ,	O
 cov	O
 Artist	O
@@ -487,9 +475,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 tshaj	O
 .	O
 
@@ -717,9 +702,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 kawm	O
 txuj	O
 ci	O
@@ -818,9 +800,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 ...	O
 cov	O
 qub	O
@@ -828,9 +807,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 ...	O
 luag	O
 muaj	O
@@ -1660,9 +1636,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 ``	O
 na	O
 .	O
@@ -1942,9 +1915,6 @@ txaus	B
 noj	I
 txaus	I
 haus	I
-noj	O
-txaus	O
-haus	O
 xwb	O
 ;	O
 2.	O
@@ -2100,9 +2070,6 @@ ib	B
 pab	I
 ib	I
 haiv	I
-pab	O
-ib	O
-haiv	O
 tiag	O
 ,	O
 tiag	O
@@ -2169,9 +2136,6 @@ mus	B
 hais	I
 mus	I
 thov	I
-hais	O
-mus	O
-thov	O
 thiab	O
 nrog	O
 pab	O
@@ -2234,9 +2198,6 @@ kuv	B
 pab	I
 kuv	I
 pawg	I
-pab	O
-kuv	O
-pawg	O
 thiab	O
 mas	O
 thiaj	O
@@ -3983,9 +3944,6 @@ muaj	B
 nam	I
 muaj	I
 txiv	I
-nam	O
-muaj	O
-txiv	O
 paab	O
 ces	O
 nwg	O
@@ -4288,9 +4246,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 .	O
 
 
@@ -4852,9 +4807,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ,	O
 yog	O
 nws	O
@@ -4869,9 +4821,6 @@ txaus	B
 noj	I
 txaus	I
 haus	I
-noj	O
-txaus	O
-haus	O
 ntawm	O
 nws	O
 kheej	O
@@ -4896,9 +4845,6 @@ txaus	B
 noj	I
 txaus	I
 haus	I
-noj	O
-txaus	O
-haus	O
 lawm	O
 ,	O
 nyiaj	O
@@ -5001,18 +4947,12 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 ,	O
 kev	O
 kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 ''	O
 ...	O
 pes	O
@@ -5091,9 +5031,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 ...	O
 lub	O
 ncauj	O

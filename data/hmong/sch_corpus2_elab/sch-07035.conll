@@ -939,9 +939,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 kom	O
 tsis	O
 txhob	O
@@ -1005,9 +1002,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 Hmoob	O
 tej	O
 npe	O
@@ -1029,9 +1023,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 ces	O
 nws	O
 txawm	O
@@ -1523,9 +1514,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 ncha	O
 sai	O
 tshaj	O

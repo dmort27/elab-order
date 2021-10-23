@@ -145,9 +145,6 @@ puv	B
 toj	I
 puv	I
 pes	I
-toj	O
-puv	O
-pes	O
 lawm	O
 .	O
 
@@ -559,9 +556,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 xwb	O
 .	O
 
@@ -876,9 +870,6 @@ ua	B
 rwj	I
 ua	I
 aws	I
-rwj	O
-ua	O
-aws	O
 lug	O
 ntev	O
 lawm	O
@@ -887,9 +878,6 @@ txug	B
 caij	I
 txug	I
 nyoog	I
-caij	O
-txug	O
-nyoog	O
 ces	O
 cim	O
 civ	O

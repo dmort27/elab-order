@@ -1003,9 +1003,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 tsis	O
 muaj	O
 ``	O
@@ -1035,9 +1032,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 ?	O
 
 
@@ -1183,9 +1177,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hauv	O
 no	O
 ces	O
@@ -1234,9 +1225,6 @@ mus	B
 quaj	I
 mus	I
 qw	I
-quaj	O
-mus	O
-qw	O
 hais	O
 tias	O
 NPlog	O
@@ -1249,9 +1237,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 niam	O
 siab	O
@@ -1260,9 +1245,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 es	O
 tuaj	O
 nyob	O
@@ -1339,9 +1321,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 loj	O
 tshaj	O
 peb	O
@@ -1493,9 +1472,6 @@ luag	B
 tes	I
 luag	I
 taw	I
-tes	O
-luag	O
-taw	O
 xwb	O
 .	O
 
@@ -2164,9 +2140,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 liam	O
 thiab	O
 rhuav	O
@@ -2382,9 +2355,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 mas	O
 ntshe	O
@@ -2592,9 +2562,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 kiag	O
 saib	O
 xwb	O
@@ -2807,9 +2774,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 tsis	O
 muaj	O
@@ -2873,18 +2837,12 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 tiag	O
 tiag	O
 raw	B
 kev	I
 raw	I
 cai	I
-kev	O
-raw	O
-cai	O
 li	O
 Mim	O
 Muas	O
@@ -3229,9 +3187,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 tsis	O
 muaj	O
 ``	O
@@ -3261,9 +3216,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 ?	O
 
 
@@ -3409,9 +3361,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hauv	O
 no	O
 ces	O
@@ -3460,9 +3409,6 @@ mus	B
 quaj	I
 mus	I
 qw	I
-quaj	O
-mus	O
-qw	O
 hais	O
 tias	O
 NPlog	O
@@ -3475,9 +3421,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 niam	O
 siab	O
@@ -3486,9 +3429,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 es	O
 tuaj	O
 nyob	O
@@ -3565,9 +3505,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 loj	O
 tshaj	O
 peb	O
@@ -3719,9 +3656,6 @@ luag	B
 tes	I
 luag	I
 taw	I
-tes	O
-luag	O
-taw	O
 xwb	O
 .	O
 
@@ -3863,16 +3797,10 @@ tag	B
 vaj	I
 tag	I
 tsev	I
-vaj	O
-tag	O
-tsev	O
 tag	B
 zej	I
 tag	I
 zos	I
-zej	O
-tag	O
-zos	O
 cia	O
 li	O
 ua	O
@@ -3990,9 +3918,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 tshaj	O
 plaws	O
 (	O
@@ -4441,9 +4366,6 @@ nqis	B
 toj	I
 nqis	I
 taug	I
-toj	O
-nqis	O
-taug	O
 noj	O
 ntag	O
 laus	O
@@ -5422,17 +5344,11 @@ tsim	B
 ub	I
 tsim	I
 no	I
-ub	O
-tsim	O
-no	O
 rau	O
 tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 

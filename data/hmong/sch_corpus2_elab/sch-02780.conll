@@ -104,9 +104,6 @@ me	B
 nas	I
 me	I
 noog	I
-nas	O
-me	O
-noog	O
 tig	O
 zom	O
 zaws	O
@@ -193,9 +190,6 @@ hloob	B
 mus	I
 hloob	I
 los	I
-mus	O
-hloob	O
-los	O
 thiab	O
 ib	O
 ke	O
@@ -789,9 +783,6 @@ tej	B
 ub	I
 tej	I
 no	I
-ub	O
-tej	O
-no	O
 hlauv	O
 ,	O
 thiab	O
@@ -943,9 +934,6 @@ tej	B
 ub	I
 tej	I
 no	I
-ub	O
-tej	O
-no	O
 hlauv	O
 ,	O
 thiab	O
@@ -1482,9 +1470,6 @@ txhua	B
 yam	I
 txhua	I
 tsav	I
-yam	O
-txhua	O
-tsav	O
 li	O
 tiamsis	O
 kuv	O
@@ -2468,9 +2453,6 @@ hlob	B
 moog	I
 hlob	I
 lug	I
-moog	O
-hlob	O
-lug	O
 nrug	O
 koj	O
 dlaim	O
@@ -2611,9 +2593,6 @@ yaim	B
 moog	I
 yaim	I
 lug	I
-moog	O
-yaim	O
-lug	O
 ,	O
 muab	O
 tug	O
@@ -3372,9 +3351,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 ,	O
 lus	O
 xeeb	O
@@ -3560,9 +3536,6 @@ tej	B
 ub	I
 tej	I
 no	I
-ub	O
-tej	O
-no	O
 hlauv	O
 ,	O
 thiab	O
@@ -4122,9 +4095,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 ,	O
 tauv	O
 pem	O

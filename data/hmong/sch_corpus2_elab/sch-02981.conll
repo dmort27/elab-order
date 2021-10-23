@@ -69,9 +69,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 kom	O
 hloov	O
 ,	O
@@ -118,9 +115,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 los	O
 zaum	O
 ua	O
@@ -164,9 +158,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ntau	O
 ntau	O
 .	O
@@ -495,17 +486,11 @@ muaj	B
 nam	I
 muaj	I
 txiv	I
-nam	O
-muaj	O
-txiv	O
 hab	O
 muaj	B
 kwv	I
 muaj	I
 tij	I
-kwv	O
-muaj	O
-tij	O
 ces	O
 yeej	O
 los	O
@@ -553,9 +538,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 es	O
 kev	O
 hloov	O
@@ -645,9 +627,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 txhajle	O
 yog	O
 kev	O

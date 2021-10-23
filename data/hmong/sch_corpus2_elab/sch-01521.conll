@@ -406,9 +406,6 @@ sib	B
 ntsib	I
 sib	I
 fim	I
-ntsib	O
-sib	O
-fim	O
 ntxiv	O
 lawm	O
 yav	O
@@ -850,9 +847,6 @@ fim	B
 ntsej	I
 fim	I
 muag	I
-ntsej	O
-fim	O
-muag	O
 kiag	O
 no	O
 yuav	O
@@ -1288,9 +1282,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 sawv	O
 daws	O
 yeej	O
@@ -1591,9 +1582,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 lawv	O
 yog	O
 cov	O

@@ -446,9 +446,6 @@ yuav	B
 noj	I
 yuav	I
 haus	I
-noj	O
-yuav	O
-haus	O
 xwb	O
 .	O
 
@@ -529,9 +526,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 coj	O
 tuaj	O
 pov	O
@@ -679,9 +673,6 @@ lawv	B
 caij	I
 lawv	I
 nyoog	I
-caij	O
-lawv	O
-nyoog	O
 le	O
 lawm	O
 .	O
@@ -797,9 +788,6 @@ tua	B
 tsiaj	I
 tua	I
 txhuv	I
-tsiaj	O
-tua	O
-txhuv	O
 los	O
 rau	O
 sawvdaws	O
@@ -809,9 +797,6 @@ thoob	B
 zej	I
 thoob	I
 zog	I
-zej	O
-thoob	O
-zog	O
 .	O
 
 
@@ -889,9 +874,6 @@ tua	B
 tsiaj	I
 tua	I
 txhuv	I
-tsiaj	O
-tua	O
-txhuv	O
 noj	O
 rau	O
 hnub	O
@@ -927,9 +909,6 @@ tau	B
 qoob	I
 tau	I
 loo	I
-qoob	O
-tau	O
-loo	O
 siav	O
 .	O
 
@@ -946,9 +925,6 @@ tau	B
 qoob	I
 tau	I
 loo	I
-qoob	O
-tau	O
-loo	O
 siav	O
 ib	O
 yam	O
@@ -1047,9 +1023,6 @@ thov	B
 koob	I
 thov	I
 hmoov	I
-koob	O
-thov	O
-hmoov	O
 ;	O
 tsis	O
 yog	O

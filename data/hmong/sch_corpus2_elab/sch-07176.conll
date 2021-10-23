@@ -1325,9 +1325,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 .	O
 
 
@@ -2221,9 +2218,6 @@ tsi	B
 roj	I
 tsi	I
 ntshav	I
-roj	O
-tsi	O
-ntshav	O
 noj	O
 ib	O
 pheem	O

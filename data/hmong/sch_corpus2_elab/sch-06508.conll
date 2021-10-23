@@ -97,9 +97,6 @@ tej	B
 vaj	I
 tej	I
 tsev	I
-vaj	O
-tej	O
-tsev	O
 ``	O
 ywv	O
 ''	O
@@ -196,9 +193,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 thiab	O
 kom	O
 cov	O
@@ -237,9 +231,6 @@ ua	B
 sab	I
 ua	I
 sua	I
-sab	O
-ua	O
-sua	O
 ,	O
 ces	O
 kawg	O
@@ -422,9 +413,6 @@ siab	B
 dav	I
 siab	I
 zoo	I
-dav	O
-siab	O
-zoo	O
 li	O
 koj	O
 xav	O
@@ -731,9 +719,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 loj	O
 lhob	O
 tuaj	O
@@ -1060,9 +1045,6 @@ tej	B
 zaub	I
 tej	I
 mov	I
-zaub	O
-tej	O
-mov	O
 ,	O
 tej	O
 ris	O
@@ -1317,9 +1299,6 @@ leej	B
 niam	I
 leej	I
 txiv	I
-niam	O
-leej	O
-txiv	O
 yam	O
 tsis	O
 muaj	O
@@ -1369,9 +1348,6 @@ nrog	B
 niam	I
 nrog	I
 txiv	I
-niam	O
-nrog	O
-txiv	O
 sawv	O
 daws	O
 lub	O
@@ -1732,17 +1708,11 @@ nyias	B
 vaj	I
 nyias	I
 tsev	I
-vaj	O
-nyias	O
-tsev	O
 thiab	O
 nyias	B
 zej	I
 nyias	I
 zos	I
-zej	O
-nyias	O
-zos	O
 xwb	O
 .	O
 
@@ -1786,9 +1756,6 @@ mus	B
 vaj	I
 mus	I
 tsev	I
-vaj	O
-mus	O
-tsev	O
 xwb	O
 yuav	O
 zoo	O
@@ -1883,18 +1850,12 @@ tau	B
 vaj	I
 tau	I
 tsev	I
-vaj	O
-tau	O
-tsev	O
 nyob	O
 thiab	O
 tau	B
 liaj	I
 tau	I
 teb	I
-liaj	O
-tau	O
-teb	O
 ua	O
 .	O
 
@@ -2015,9 +1976,6 @@ mus	B
 haub	I
 mus	I
 ntxias	I
-haub	O
-mus	O
-ntxias	O
 lawm	O
 ces	O
 ,	O
@@ -2908,9 +2866,6 @@ ua	B
 kub	I
 ua	I
 ntaiv	I
-kub	O
-ua	O
-ntaiv	O
 kom	O
 hmoob	O
 cia	O
@@ -3360,9 +3315,6 @@ tus	B
 txheeb	I
 tus	I
 ze	I
-txheeb	O
-tus	O
-ze	O
 nrog	O
 koj	O
 mus	O
@@ -3387,9 +3339,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 .	O
 
 
@@ -3796,9 +3745,6 @@ lug	B
 toj	I
 lug	I
 pes	I
-toj	O
-lug	O
-pes	O
 xwb	O
 .	O
 
@@ -4727,26 +4673,17 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 ,	O
 lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 ,	O
 thiab	O
 khwv	B
 nyiaj	I
 khwv	I
 txiaj	I
-nyiaj	O
-khwv	O
-txiaj	O
 xa	O
 kuv	O
 mus	O
@@ -4757,9 +4694,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -5239,9 +5173,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 ,	O
 thiab	O
 tsis	O
@@ -5533,9 +5464,6 @@ ua	B
 kub	I
 ua	I
 ntaiv	I
-kub	O
-ua	O
-ntaiv	O
 thiab	O
 .	O
 
@@ -6184,9 +6112,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 es	O
 ,	O
 kuv	O
@@ -6551,9 +6476,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 yam	O
 tsis	O
 muaj	O
@@ -7605,9 +7527,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 li	O
 ?	O
 

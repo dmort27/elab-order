@@ -63,9 +63,6 @@ pom	B
 ntsej	I
 pom	I
 muag	I
-ntsej	O
-pom	O
-muag	O
 los	O
 ,	O
 yeej	O
@@ -99,9 +96,6 @@ pom	B
 ntsej	I
 pom	I
 muag	I
-ntsej	O
-pom	O
-muag	O
 thiab	O
 tau	O
 sibntsib	O
@@ -1182,9 +1176,6 @@ ntawm	B
 ntsej	I
 ntawm	I
 muag	I
-ntsej	O
-ntawm	O
-muag	O
 los	O
 virtually	O
 we	O
@@ -1866,9 +1857,6 @@ pom	B
 ntsej	I
 pom	I
 muag	I
-ntsej	O
-pom	O
-muag	O
 los	O
 ,	O
 yeej	O
@@ -1902,9 +1890,6 @@ pom	B
 ntsej	I
 pom	I
 muag	I
-ntsej	O
-pom	O
-muag	O
 thiab	O
 tau	O
 sibntsib	O
@@ -2137,9 +2122,6 @@ muaj	B
 koob	I
 muaj	I
 meej	I
-koob	O
-muaj	O
-meej	O
 ,	O
 tabsis	O
 yam	O
@@ -2802,17 +2784,11 @@ zoo	B
 kwv	I
 zoo	I
 tij	I
-kwv	O
-zoo	O
-tij	O
 thiab	O
 zoo	B
 phooj	I
 zoo	I
 ywg	I
-phooj	O
-zoo	O
-ywg	O
 luag	O
 yeej	O
 tsi	O

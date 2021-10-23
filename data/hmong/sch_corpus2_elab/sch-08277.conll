@@ -984,9 +984,6 @@ tsis	B
 txheeb	I
 tsis	I
 ze	I
-txheeb	O
-tsis	O
-ze	O
 kuv	O
 li	O
 es	O
@@ -1052,9 +1049,6 @@ tsis	B
 mob	I
 tsis	I
 khaus	I
-mob	O
-tsis	O
-khaus	O
 kuv	O
 li	O
 no	O
@@ -1612,9 +1606,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 rau	O
 American	O
 tus	O
@@ -1727,9 +1718,6 @@ tsis	B
 mob	I
 tsis	I
 khaus	I
-mob	O
-tsis	O
-khaus	O
 lpd	O
 hlo	O
 li	O
@@ -2200,9 +2188,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 hu	O
 tuaj	O
 ,	O
@@ -2211,9 +2196,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 ,	O
 kuj	O
 yog	O
@@ -2266,9 +2248,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -2281,9 +2260,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 hu	O
 tuaj	O
 ,	O
@@ -2345,9 +2321,6 @@ tseem	B
 kev	I
 tseem	I
 cai	I
-kev	O
-tseem	O
-cai	O
 lawm	O
 ,	O
 luag	O
@@ -2497,9 +2470,6 @@ tseem	B
 kev	I
 tseem	I
 cai	I
-kev	O
-tseem	O
-cai	O
 .	O
 
 
@@ -2596,9 +2566,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 lawm	O
 cis	O
 tub	O
@@ -2718,9 +2685,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 siv	O
 tag	O
 lawm	O
@@ -3028,9 +2992,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 no	O
 xwb	O
 .	O
@@ -3087,9 +3048,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 no	O
 xwb	O
 .	O
@@ -3171,9 +3129,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 muaj	O
 access	O
 mus	O
@@ -3217,9 +3172,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 lawm	O
 ,	O
 tsi	O
@@ -3767,9 +3719,6 @@ raug	B
 kev	I
 raug	I
 cai	I
-kev	O
-raug	O
-cai	O
 li	O
 ntawd	O
 .	O
@@ -3849,9 +3798,6 @@ cheem	B
 lwj	I
 cheem	I
 liam	I
-lwj	O
-cheem	O
-liam	O
 kom	O
 cov	O
 Hmoob	O

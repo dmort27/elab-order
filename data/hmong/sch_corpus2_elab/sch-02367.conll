@@ -1833,9 +1833,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 xwb	O
 ,	O
 txawm	O
@@ -1844,9 +1841,6 @@ nrog	B
 liab	I
 nrog	I
 cuam	I
-liab	O
-nrog	O
-cuam	O
 xwb	O
 los	O
 xav	O

@@ -1022,9 +1022,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 es	O
 yuav	O
 ua	O
@@ -1085,9 +1082,6 @@ kom	B
 lwj	I
 kom	I
 liam	I
-lwj	O
-kom	O
-liam	O
 kom	O
 tag	O
 li	O
@@ -1155,9 +1149,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 tuaj	O
 li	O
 no	O
@@ -1257,9 +1248,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 es	O
 kom	O
 ib	O
@@ -1295,9 +1283,6 @@ txoj	B
 kab	I
 txoj	I
 kev	I
-kab	O
-txoj	O
-kev	O
 taug	O
 thiab	O
 mus	O
@@ -1374,9 +1359,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 ...	O
 hais	O
 kiag	O
@@ -1454,9 +1436,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 yuav	O
 tsum	O
@@ -1465,9 +1444,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ...	O
 Xab	O
 maim	O
@@ -2176,9 +2152,6 @@ txawj	B
 nyeem	I
 txawj	I
 sau	I
-nyeem	O
-txawj	O
-sau	O
 no	O
 uantej	O
 ntag	O
@@ -3798,9 +3771,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 mas	O
 --	O
 ntshe	O
@@ -4059,9 +4029,6 @@ haus	B
 zej	I
 haus	I
 zos	I
-zej	O
-haus	O
-zos	O
 no	O
 mus	O
 thov	O
@@ -4085,9 +4052,6 @@ ua	B
 hmo	I
 ua	I
 tshais	I
-hmo	O
-ua	O
-tshais	O
 tseem	O
 hais	O
 li	O
@@ -4178,9 +4142,6 @@ txhawb	B
 zej	I
 txhawb	I
 zos	I
-zej	O
-txhawb	O
-zos	O
 kom	O
 lub	O
 community	O
@@ -4421,9 +4382,6 @@ tug	B
 ub	I
 tug	I
 nuav	I
-ub	O
-tug	O
-nuav	O
 heev	O
 .	O
 
@@ -4566,9 +4524,6 @@ sib	B
 tog	I
 sib	I
 txeeb	I
-tog	O
-sib	O
-txeeb	O
 nyiaj	O
 noj	O
 los	O
@@ -4577,9 +4532,6 @@ haum	B
 kab	I
 haum	I
 kev	I
-kab	O
-haum	O
-kev	O
 tas	O
 nrho	O
 ,	O
@@ -4882,9 +4834,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 ,	O
 niam	O
 muab	O
@@ -4894,9 +4843,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 los	O
 hais	O
 ua	O
@@ -4959,9 +4905,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 los	O
 piav	O
 li	O
@@ -5585,9 +5528,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 loj	O
 ntawd	O
 puav	O

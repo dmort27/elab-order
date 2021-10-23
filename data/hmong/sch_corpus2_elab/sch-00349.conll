@@ -183,9 +183,6 @@ lus	B
 nom	I
 lus	I
 tswv	I
-nom	O
-lus	O
-tswv	O
 li	O
 .	O
 
@@ -279,9 +276,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 thiab	O
 .	O
 

@@ -150,9 +150,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 .	O
 
 
@@ -868,9 +865,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 .	O
 
 
@@ -1061,9 +1055,6 @@ moob	B
 teej	I
 moob	I
 tug	I
-teej	O
-moob	O
-tug	O
 ,	O
 qhov	O
 ob	O
@@ -1394,9 +1385,6 @@ qhov	B
 ntsej	I
 qhov	I
 muag	I
-ntsej	O
-qhov	O
-muag	O
 saib	O
 nploglab	O
 puas	O

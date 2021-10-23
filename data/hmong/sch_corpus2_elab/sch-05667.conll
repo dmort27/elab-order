@@ -410,9 +410,6 @@ kom	B
 txawj	I
 kom	I
 ntse	I
-txawj	O
-kom	O
-ntse	O
 ,	O
 rov	O
 los	O
@@ -812,9 +809,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 .	O
 
 
@@ -894,9 +888,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 thiab	O
 muaj	O
@@ -1528,9 +1519,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 ,	O
 lawv	O
 thiaj	O
@@ -1651,9 +1639,6 @@ tub	B
 sab	I
 tub	I
 nyiag	I
-sab	O
-tub	O
-nyiag	O
 ,	O
 huab	O
 luag	O
@@ -1716,9 +1701,6 @@ kev	B
 txhoj	I
 kev	I
 txhaum	I
-txhoj	O
-kev	O
-txhaum	O
 pob	O
 ?	O
 

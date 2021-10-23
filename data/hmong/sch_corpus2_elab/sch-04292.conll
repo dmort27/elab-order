@@ -24,9 +24,6 @@ rua	B
 ub	I
 rua	I
 nua	I
-ub	O
-rua	O
-nua	O
 maj	O
 .	O
 
@@ -563,9 +560,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 yaam	O
 nkaus	O
 le	O
@@ -1150,9 +1144,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 ib	O
 tog	O
 zujzug	O
@@ -1667,9 +1658,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 rau	O
 kuv	O
 haivhmoob	O
@@ -1949,9 +1937,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 mus	O
 sau	O
 coj	O
@@ -1969,9 +1954,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 mas	O
 kua	O
 muag	O
@@ -2445,9 +2427,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 hais	O
 lus	O
 xwb	O
@@ -2579,9 +2558,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 qhia	O
 rau	O
 luag	O
@@ -2620,9 +2596,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 li	O
 American	O
 no	O
@@ -2914,9 +2887,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 (	O
 NTR	O
 )	O
@@ -2946,9 +2916,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 li	O
 tamsim	O
 no	O
@@ -3102,9 +3069,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ,	O
 leej	O
 twg	O
@@ -3119,9 +3083,6 @@ qhia	B
 teb	I
 qhia	I
 chaw	I
-teb	O
-qhia	O
-chaw	O
 ,	O
 qhia	O
 nom	O
@@ -3161,9 +3122,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 .	O
 
 
@@ -3199,9 +3157,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 ua	O
 haujlwm	O
 nyob	O
@@ -3277,9 +3232,6 @@ dhia	B
 siab	I
 dhia	I
 nqi	I
-siab	O
-dhia	O
-nqi	O
 thiab	O
 hais	O
 rau	O
@@ -3960,9 +3912,6 @@ dag	B
 ub	I
 dag	I
 no	I
-ub	O
-dag	O
-no	O
 ua	O
 tsis	O
 tau	O
@@ -4019,9 +3968,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 tim	O
 ub	O
 lawm	O
@@ -4234,9 +4180,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 xwb	O
 ces	O
@@ -4753,9 +4696,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 .	O
 
 

@@ -104,9 +104,6 @@ nyias	B
 pab	I
 nyias	I
 pawg	I
-pab	O
-nyias	O
-pawg	O
 lawm	O
 xwb	O
 .	O
@@ -305,9 +302,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 tias	O
 twb	O
 yog	O
@@ -342,9 +336,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 ces	O
 hos	O
 lam	O
@@ -495,17 +486,11 @@ kev	B
 kwv	I
 kev	I
 tij	I
-kwv	O
-kev	O
-tij	O
 ,	O
 kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 .	O
 
 
@@ -1892,9 +1877,6 @@ me	B
 ntswb	I
 me	I
 ntsis	I
-ntswb	O
-me	O
-ntsis	O
 rau	O
 koj	O
 yaim	O
@@ -2441,9 +2423,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 hauv	O
 tsev	O
 ntag	O

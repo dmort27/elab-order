@@ -18,9 +18,6 @@ le	B
 ub	I
 le	I
 nuav	I
-ub	O
-le	O
-nuav	O
 .	O
 
 
@@ -168,9 +165,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 .....	O
 cov	O
 kws	O
@@ -724,9 +718,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 es	O
 txhaj	O
 le	O
@@ -765,9 +756,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 kws	O
 koj	O
 coj	O

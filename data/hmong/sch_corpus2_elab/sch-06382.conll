@@ -298,9 +298,6 @@ noj	B
 siav	I
 noj	I
 zog	I
-siav	O
-noj	O
-zog	O
 heev	O
 li	O
 nawb	O
@@ -398,9 +395,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 sib	O
 xws	O
 (	O
@@ -482,9 +476,6 @@ lwm	B
 paab	I
 lwm	I
 pawg	I
-paab	O
-lwm	O
-pawg	O
 ,	O
 Moob	O
 yog	O
@@ -1352,9 +1343,6 @@ muaj	B
 phooj	I
 muaj	I
 ywg	I
-phooj	O
-muaj	O
-ywg	O
 --	O
 txawm	O
 pom	O
@@ -1813,9 +1801,6 @@ twm	B
 zeej	I
 twm	I
 kawv	I
-zeej	O
-twm	O
-kawv	O
 .	O
 
 

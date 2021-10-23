@@ -565,9 +565,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 muaj	O
 nyob	O
 rau	O
@@ -1014,9 +1011,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 no	O
 naj	O
 .......	O
@@ -1649,9 +1643,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 tshajlij	O
 npaum	O
 li	O
@@ -1697,9 +1688,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 loj	O
 npaum	O
 li	O
@@ -1820,9 +1808,6 @@ tsi	B
 pom	I
 tsi	I
 paub	I
-pom	O
-tsi	O
-paub	O
 txog	O
 .	O
 

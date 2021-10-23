@@ -995,9 +995,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 thiab	O
 lus	O
 xaiv	O
@@ -1277,9 +1274,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 li	O
 no	O
 ntau	O
@@ -1654,9 +1648,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 npau	O
 suav	O
 toog	O
@@ -2017,9 +2008,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -2331,9 +2319,6 @@ lwm	B
 paab	I
 lwm	I
 pawg	I
-paab	O
-lwm	O
-pawg	O
 hab	O
 ib	O
 tsoom	O
@@ -2469,9 +2454,6 @@ pav	B
 tes	I
 pav	I
 taw	I
-tes	O
-pav	O
-taw	O
 ,	O
 pav	O
 qhov	O

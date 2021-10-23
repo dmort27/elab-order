@@ -19,9 +19,6 @@ rooj	B
 nom	I
 rooj	I
 tswv	I
-nom	O
-rooj	O
-tswv	O
 Tim	O
 nploj	O
 maj	O
@@ -757,9 +754,6 @@ pa	B
 ntsuab	I
 pa	I
 xiav	I
-ntsuab	O
-pa	O
-xiav	O
 ua	O
 rau	O
 peb	O
@@ -976,9 +970,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 lawm	O
 mam	O
 tham	O
@@ -1549,9 +1540,6 @@ cam	B
 dlej	I
 cam	I
 aav	I
-dlej	O
-cam	O
-aav	O
 kws	O
 qhas	O
 tau	O
@@ -1595,18 +1583,12 @@ yoog	B
 tshaib	I
 yoog	I
 nqe	I
-tshaib	O
-yoog	O
-nqe	O
 ,	O
 moog	O
 tiv	B
 tshaav	I
 tiv	I
 naag	I
-tshaav	O
-tiv	O
-naag	O
 xwb	O
 .	O
 

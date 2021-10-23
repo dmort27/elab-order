@@ -100,9 +100,6 @@ ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 xwb	O
 .	O
 
@@ -553,9 +550,6 @@ nyuag	B
 kwv	I
 nyuag	I
 tij	I
-kwv	O
-nyuag	O
-tij	O
 xwb	O
 .	O
 
@@ -769,9 +763,6 @@ tus	B
 tub	I
 tus	I
 kiv	I
-tub	O
-tus	O
-kiv	O
 tos	O
 lawm	O
 koj	O
@@ -1096,9 +1087,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 mas	O
 everyone	O
 yeej	O
@@ -1916,9 +1904,6 @@ txhob	B
 khib	I
 txhob	I
 chim	I
-khib	O
-txhob	O
-chim	O
 lawm	O
 .	O
 

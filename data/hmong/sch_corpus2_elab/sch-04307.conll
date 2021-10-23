@@ -395,9 +395,6 @@ uas	B
 pab	I
 uas	I
 pawg	I
-pab	O
-uas	O
-pawg	O
 tsis	O
 mloog	O
 nws	O
@@ -1269,9 +1266,6 @@ cov	B
 poj	I
 cov	I
 yawm	I
-poj	O
-cov	O
-yawm	O
 tseem	O
 nyob	O
 china	O
@@ -2248,9 +2242,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 li	O
 ib	O
 tug	O

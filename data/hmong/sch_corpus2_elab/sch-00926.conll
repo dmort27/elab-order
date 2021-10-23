@@ -1196,9 +1196,6 @@ tsi	B
 mus	I
 tsi	I
 los	I
-mus	O
-tsi	O
-los	O
 ,	O
 neeg	O
 tsi	O
@@ -1297,9 +1294,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 lawm	O
 tiag	O
 ces	O
@@ -1502,9 +1496,6 @@ me	B
 ntswb	I
 me	I
 ntsis	I
-ntswb	O
-me	O
-ntsis	O
 ntawd	O
 .	O
 
@@ -2772,9 +2763,6 @@ ib	B
 tsob	I
 ib	I
 txoog	I
-tsob	O
-ib	O
-txoog	O
 mas	O
 thiaj	O
 yog	O
@@ -3462,18 +3450,12 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 txoj	O
 kev	O
 kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 kom	O
 coob	O
 npaum	O
@@ -3491,9 +3473,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 kom	O
 loj	O
 hlob	O
@@ -3839,9 +3818,6 @@ ntsuj	B
 duab	I
 ntsuj	I
 hlaus	I
-duab	O
-ntsuj	O
-hlaus	O
 me	O
 ntsi	O
 no	O
@@ -4855,9 +4831,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 tias	O
 tej	O
 DR.YD	O
@@ -5316,9 +5289,6 @@ thiaj	B
 leej	I
 thiaj	I
 tseeb	I
-leej	O
-thiaj	O
-tseeb	O
 .	O
 
 
@@ -5623,9 +5593,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 thiab	O
 cov	O
 ua	O
@@ -5710,9 +5677,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 thiab	O
 muaj	O
 lajlim	O
@@ -6064,9 +6028,6 @@ ntseeg	B
 tseeb	I
 ntseeg	I
 tsum	I
-tseeb	O
-ntseeg	O
-tsum	O
 tas	O
 txuj	O
 kev	O
@@ -6462,9 +6423,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 los	O
 yog	O
 luag	O

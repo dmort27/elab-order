@@ -38,9 +38,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 yug	O
 nws	O
 .	O
@@ -113,9 +110,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ,	O
 yog	O
 yuav	O
@@ -123,9 +117,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 tiag	O
 cais	O
 kawg	O
@@ -426,9 +417,6 @@ tu	B
 siab	I
 tu	I
 plawv	I
-siab	O
-tu	O
-plawv	O
 tag	O
 .......	O
 Yog	O
@@ -649,9 +637,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 tiamsis	O
 tsi	O
 mob	O
@@ -725,9 +710,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 nawb	O
 thiab	O
 txhob	O
@@ -813,9 +795,6 @@ txug	B
 caij	I
 txug	I
 nyoog	I
-caij	O
-txug	O
-nyoog	O
 lawm	O
 nwg	O
 yuav	O
@@ -968,9 +947,6 @@ zoo	B
 caij	I
 zoo	I
 nyoog	I
-caij	O
-zoo	O
-nyoog	O
 li	O
 no	O
 xwb	O
@@ -987,9 +963,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ntau	O
 li	O
 no	O

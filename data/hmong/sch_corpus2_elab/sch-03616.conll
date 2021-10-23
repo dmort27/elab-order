@@ -253,9 +253,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 kom	O
 tsis	O
 txhob	O
@@ -288,9 +285,6 @@ kev	B
 plaub	I
 kev	I
 ntug	I
-plaub	O
-kev	O
-ntug	O
 ,	O
 kab	O
 lis	O
@@ -301,9 +295,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 lawm	O
 xwb	O
 .	O
@@ -387,9 +378,6 @@ taug	B
 neej	I
 taug	I
 tsav	I
-neej	O
-taug	O
-tsav	O
 Tub	O
 hlob	O
 tiav	O
@@ -527,9 +515,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 los	O
 yeej	O
 zoo	O

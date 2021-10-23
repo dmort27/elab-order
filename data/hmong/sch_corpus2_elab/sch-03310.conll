@@ -469,9 +469,6 @@ tsaj	B
 nyeg	I
 tsaj	I
 qus	I
-nyeg	O
-tsaj	O
-qus	O
 ,	O
 tsaj	O
 luj	O
@@ -1054,9 +1051,6 @@ cuag	B
 puj	I
 cuag	I
 yawm	I
-puj	O
-cuag	O
-yawm	O
 hab	O
 zais	O
 neev	O
@@ -1107,9 +1101,6 @@ cuag	B
 puj	I
 cuag	I
 yawm	I
-puj	O
-cuag	O
-yawm	O
 es	O
 koj	O
 has	O
@@ -1126,9 +1117,6 @@ cuag	B
 puj	I
 cuag	I
 yawm	I
-puj	O
-cuag	O
-yawm	O
 mas	O
 kuv	O
 txhaj	O
@@ -1145,9 +1133,6 @@ cuag	B
 puj	I
 cuag	I
 yawm	I
-puj	O
-cuag	O
-yawm	O
 lawm	O
 cais	O
 kuv	O
@@ -1198,9 +1183,6 @@ koj	B
 noj	I
 koj	I
 haus	I
-noj	O
-koj	O
-haus	O
 .	O
 
 
@@ -1221,9 +1203,6 @@ koj	B
 noj	I
 koj	I
 haus	I
-noj	O
-koj	O
-haus	O
 nua	O
 mas	O
 khws	O
@@ -1266,17 +1245,11 @@ yug	B
 puj	I
 yug	I
 yawm	I
-puj	O
-yug	O
-yawm	O
 ,	O
 yug	B
 nam	I
 yug	I
 txiv	I
-nam	O
-yug	O
-txiv	O
 nuav	O
 cais	O
 yug	O

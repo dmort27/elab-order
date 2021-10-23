@@ -127,9 +127,6 @@ yog	B
 caij	I
 yog	I
 nyoog	I
-caij	O
-yog	O
-nyoog	O
 ntawd	O
 .	O
 
@@ -155,9 +152,6 @@ yog	B
 caij	I
 yog	I
 nyoog	I
-caij	O
-yog	O
-nyoog	O
 muaj	O
 li	O
 nram	O
@@ -378,9 +372,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 khwv	O
 khwv	O
 ces	O
@@ -456,12 +447,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	B
-pab	I
-sib	I
-txhawb	I
-pab	O
 sib	O
 txhawb	O
 es	O
@@ -470,9 +455,6 @@ cais	B
 pab	I
 cais	I
 pawg	I
-pab	O
-cais	O
-pawg	O
 ,	O
 txhob	O
 muab	O
@@ -728,9 +710,6 @@ yog	B
 caij	I
 yog	I
 nyoog	I
-caij	O
-yog	O
-nyoog	O
 ntawd	O
 .	O
 
@@ -966,9 +945,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 pib	O
 thaum	O
 lub	O
@@ -1549,9 +1525,6 @@ tua	B
 tsiaj	I
 tua	I
 txhuv	I
-tsiaj	O
-tua	O
-txhuv	O
 noj	O
 thiab	O
 hu	O
@@ -1580,9 +1553,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 (	O
 dinner	O
 )	O
@@ -2059,9 +2029,6 @@ tsi	B
 deb	I
 tsi	I
 ze	I
-deb	O
-tsi	O
-ze	O
 ua	O
 ke	O
 hauv	O
@@ -2128,9 +2095,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 noj	O
 30	O
 caug	O
@@ -2486,9 +2450,6 @@ tswv	B
 teb	I
 tswv	I
 chaw	I
-teb	O
-tswv	O
-chaw	O
 los	O
 muaj	O
 ,	O

@@ -895,9 +895,6 @@ muaj	B
 nyiaj	I
 muaj	I
 txiaj	I
-nyiaj	O
-muaj	O
-txiaj	O
 es	O
 lawv	O
 xav	O
@@ -1030,9 +1027,6 @@ yog	B
 plaub	I
 yog	I
 ntug	I
-plaub	O
-yog	O
-ntug	O
 xwb	O
 nawb	O
 .	O
@@ -1049,9 +1043,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 muab	O
 es	O
 kuv	O

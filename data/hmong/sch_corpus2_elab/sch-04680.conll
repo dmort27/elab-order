@@ -1081,9 +1081,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 ?	O
 
 
@@ -1465,9 +1462,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 .	O
 
 
@@ -1711,9 +1705,6 @@ xav	B
 txhij	I
 xav	I
 txhua	I
-txhij	O
-xav	O
-txhua	O
 los	O
 yog	O
 peb	O
@@ -1780,9 +1771,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 kho	O
 hmoob	O
 kom	O

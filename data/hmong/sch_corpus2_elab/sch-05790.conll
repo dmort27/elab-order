@@ -941,9 +941,6 @@ ua	B
 ciaj	I
 ua	I
 tuag	I
-ciaj	O
-ua	O
-tuag	O
 yuav	O
 khiav	O
 rov	O
@@ -1302,9 +1299,6 @@ ib	B
 txhiab	I
 ib	I
 txhis	I
-txhiab	O
-ib	O
-txhis	O
 ,	O
 yeej	O
 tsis	O
@@ -1333,9 +1327,6 @@ tub	B
 tes	I
 tub	I
 taw	I
-tes	O
-tub	O
-taw	O
 nyob	O
 ib	O
 lub	O

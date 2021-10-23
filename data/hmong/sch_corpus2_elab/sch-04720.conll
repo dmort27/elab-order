@@ -289,9 +289,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 li	O
 no	O
 mas	O
@@ -515,9 +512,6 @@ tiav	B
 niam	I
 tiav	I
 txiv	I
-niam	O
-tiav	O
-txiv	O
 ,	O
 muaj	O
 kev	O
@@ -1246,9 +1240,6 @@ yus	B
 kwv	I
 yus	I
 tij	I
-kwv	O
-yus	O
-tij	O
 ces	O
 txaus	O
 xiab	O
@@ -2142,9 +2133,6 @@ lus	B
 xaiv	I
 lus	I
 ncua	I
-xaiv	O
-lus	O
-ncua	O
 xwb	O
 ned	O
 .	O

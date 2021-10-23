@@ -79,9 +79,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 loj	O
 tag	O
 ,	O
@@ -782,9 +779,6 @@ rau	B
 noj	I
 rau	I
 hnav	I
-noj	O
-rau	O
-hnav	O
 thiab	O
 mas	O
 thiaj	O
@@ -1635,9 +1629,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -1910,9 +1901,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ...	O
 tabsi	O
 yog	O
@@ -2013,18 +2001,12 @@ ua	B
 ntsej	I
 ua	I
 muag	I
-ntsej	O
-ua	O
-muag	O
 kom	O
 saib	O
 tau	B
 neej	I
 tau	I
 tsav	I
-neej	O
-tau	O
-tsav	O
 li	O
 hmoob	O
 txoj	O
@@ -2067,9 +2049,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 es	O
 nws	O
 lam	O
@@ -2170,18 +2149,12 @@ rau	B
 neej	I
 rau	I
 tsav	I
-neej	O
-rau	O
-tsav	O
 kom	O
 txhob	O
 poob	B
 ntsej	I
 poob	I
 muag	I
-ntsej	O
-poob	O
-muag	O
 nawb	O
 .	O
 

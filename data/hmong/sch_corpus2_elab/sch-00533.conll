@@ -650,9 +650,6 @@ puag	B
 niaj	I
 puag	I
 xyoo	I
-niaj	O
-puag	O
-xyoo	O
 dai	O
 tej	O
 lub	O
@@ -1865,9 +1862,6 @@ zov	B
 teb	I
 zov	I
 tsev	I
-teb	O
-zov	O
-tsev	O
 .	O
 
 
@@ -2030,9 +2024,6 @@ tsis	B
 pom	I
 tsis	I
 paub	I
-pom	O
-tsis	O
-paub	O
 tias	O
 yog	O
 model	O
@@ -2321,9 +2312,6 @@ yog	B
 paj	I
 yog	I
 txiv	I
-paj	O
-yog	O
-txiv	O
 lawm	O
 xwb	O
 .	O
@@ -3887,9 +3875,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 daim	O
 travel	O
 VDO	O

@@ -203,9 +203,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 es	O
 phem/liam	O
 ham	O
@@ -343,9 +340,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 yuav	O
 tsum	O
 nyoo	O
@@ -867,9 +861,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 ,	O
 es	O
 hais	O
@@ -944,9 +935,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 luag	O
 pom	O
@@ -1164,9 +1152,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 ,	O
 es	O
 hais	O
@@ -1327,9 +1312,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 kiag	O
 os	O
 thaub	O
@@ -1787,9 +1769,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 li	O
 no	O
 xwb	O
@@ -2277,9 +2256,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 thiab	O
 lus	O
 zoo	O

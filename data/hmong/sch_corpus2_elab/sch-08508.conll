@@ -1515,9 +1515,6 @@ dos	B
 quav	I
 dos	I
 zis	I
-quav	O
-dos	O
-zis	O
 no	O
 es	O
 neb	O
@@ -1766,16 +1763,10 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 koj	B
 pog	I
 koj	I
 yawg	I
-pog	O
-koj	O
-yawg	O
 ?	O
 ''	O
 
@@ -1822,16 +1813,10 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 koj	B
 pog	I
 koj	I
 yawg	I
-pog	O
-koj	O
-yawg	O
 es	O
 ua	O
 li	O
@@ -2638,9 +2623,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 .	O
 
 

@@ -1195,9 +1195,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 hu	O
 zaj	O
 nkauj	O
@@ -1279,9 +1276,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -1705,9 +1699,6 @@ lus	B
 nom	I
 lus	I
 tswv	I
-nom	O
-lus	O
-tswv	O
 ua	O
 lus	O
 hmoob	O
@@ -1810,9 +1801,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ......	O
 yog	O
 lawv	O

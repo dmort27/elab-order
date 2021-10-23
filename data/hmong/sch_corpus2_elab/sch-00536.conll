@@ -131,9 +131,6 @@ tsi	B
 deb	I
 tsi	I
 ze	I
-deb	O
-tsi	O
-ze	O
 Naxus	O
 Vaj	O
 Txiab	O
@@ -856,9 +853,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 tag	O
 .....	O
 nkim	O
@@ -1582,9 +1576,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -1761,9 +1752,6 @@ tsi	B
 deb	I
 tsi	I
 ze	I
-deb	O
-tsi	O
-ze	O
 Naxus	O
 Vaj	O
 Txiab	O
@@ -2782,9 +2770,6 @@ kev	B
 laj	I
 kev	I
 kam	I
-laj	O
-kev	O
-kam	O
 koj	O
 yuav	O
 saib	O
@@ -2977,9 +2962,6 @@ ib	B
 zej	I
 ib	I
 zos	I
-zej	O
-ib	O
-zos	O
 ho	O
 mus	O
 pab	O
@@ -3045,9 +3027,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 lawm	O
 las	O
 as	O
@@ -3643,9 +3622,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 thiaj	O
 muaj	O
@@ -3908,9 +3884,6 @@ kev	B
 laj	I
 kev	I
 kam	I
-laj	O
-kev	O
-kam	O
 koj	O
 yuav	O
 saib	O
@@ -4103,9 +4076,6 @@ ib	B
 zej	I
 ib	I
 zos	I
-zej	O
-ib	O
-zos	O
 ho	O
 mus	O
 pab	O
@@ -5224,9 +5194,6 @@ sib	B
 hlub	I
 sib	I
 hwm	I
-hlub	O
-sib	O
-hwm	O
 lub	O
 npe	O
 Hmoob	O
@@ -5352,9 +5319,6 @@ hais	B
 phem	I
 hais	I
 zoo	I
-phem	O
-hais	O
-zoo	O
 txog	O
 kuv	O
 txiv	O
@@ -5467,9 +5431,6 @@ sib	B
 hlub	I
 sib	I
 hwm	I
-hlub	O
-sib	O
-hwm	O
 lub	O
 npe	O
 Hmoob	O

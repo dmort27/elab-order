@@ -40,9 +40,6 @@ lug	B
 paaj	I
 lug	I
 cua	I
-paaj	O
-lug	O
-cua	O
 ,	O
 lug	O
 dlaaj	O
@@ -270,9 +267,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 txhem	O
 yus	O
 poj	O
@@ -283,9 +277,6 @@ nqi	B
 noj	I
 nqi	I
 haus	I
-noj	O
-nqi	O
-haus	O
 tuaj	O
 cev	O
 rau	O
@@ -331,9 +322,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 yeej	O
 paub	O
 meej	O
@@ -1055,9 +1043,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 mus	O
 los	O
 mus	O

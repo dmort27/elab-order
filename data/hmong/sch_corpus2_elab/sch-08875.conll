@@ -1043,9 +1043,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 .	O
 
 
@@ -1664,9 +1661,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 nyob	O
 Nyablaaj	O
 teb	O
@@ -1681,9 +1675,6 @@ qub	B
 zej	I
 qub	I
 zog	I
-zej	O
-qub	O
-zog	O
 nyob	O
 rua	O
 yaav	O
@@ -1712,9 +1703,6 @@ puab	B
 zej	I
 puab	I
 zog	I
-zej	O
-puab	O
-zog	O
 pem	O
 sij	O
 taag	O
@@ -2573,9 +2561,6 @@ taw	B
 ub	I
 taw	I
 no	I
-ub	O
-taw	O
-no	O
 xwb	O
 ;	O
 yuav	O
@@ -2784,9 +2769,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 tog	O
 ywjpheej	O

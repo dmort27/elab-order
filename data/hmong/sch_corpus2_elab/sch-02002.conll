@@ -89,9 +89,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ntxhov	O
 niab	O
 li	O
@@ -127,9 +124,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ,	O
 yuav	O
 tsum	O
@@ -137,9 +131,6 @@ paub	B
 paus	I
 paub	I
 ntsis	I
-paus	O
-paub	O
-ntsis	O
 kom	O
 kawg-g	O
 tso	O
@@ -350,9 +341,6 @@ ciam	B
 liaj	I
 ciam	I
 av	I
-liaj	O
-ciam	O
-av	O
 xwb	O
 .	O
 
@@ -589,9 +577,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ntxhov	O
 niab	O
 li	O
@@ -783,9 +768,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 kom	O
 peb	O
 pom	O
@@ -1696,9 +1678,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 rau	O
 .	O
 
@@ -1962,9 +1941,6 @@ kom	B
 loj	I
 kom	I
 dav	I
-loj	O
-kom	O
-dav	O
 ,	O
 kom	O
 ib	O
@@ -3001,9 +2977,6 @@ ua	B
 kub	I
 ua	I
 ntaiv	I
-kub	O
-ua	O
-ntaiv	O
 rau	O
 peb	O
 cov	O

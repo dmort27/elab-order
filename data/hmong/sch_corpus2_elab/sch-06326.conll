@@ -234,16 +234,10 @@ siv	B
 dag	I
 siv	I
 zog	I
-dag	O
-siv	O
-zog	O
 siv	B
 riam	I
 siv	I
 phom	I
-riam	O
-siv	O
-phom	O
 nrog	O
 Nplog	O
 Liab	O
@@ -699,9 +693,6 @@ hniav	B
 ntaj	I
 hniav	I
 riam	I
-ntaj	O
-hniav	O
-riam	O
 dhau	O
 heev	O
 lawm	O

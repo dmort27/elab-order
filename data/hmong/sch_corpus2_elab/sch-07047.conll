@@ -276,9 +276,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 .	O
 
 
@@ -536,9 +533,6 @@ tej	B
 pog	I
 tej	I
 yawg	I
-pog	O
-tej	O
-yawg	O
 ,	O
 ibsim	O
 neej	O

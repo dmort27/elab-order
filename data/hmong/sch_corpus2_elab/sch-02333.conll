@@ -58,9 +58,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -782,18 +779,12 @@ nwg	B
 nam	I
 nwg	I
 txiv	I
-nam	O
-nwg	O
-txiv	O
 ;	O
 huas	O
 nwg	B
 nam	I
 nwg	I
 txiv	I
-nam	O
-nwg	O
-txiv	O
 hos	O
 moog	O
 ntseeg	O
@@ -895,18 +886,12 @@ nwg	B
 nam	I
 nwg	I
 txiv	I
-nam	O
-nwg	O
-txiv	O
 ;	O
 huas	O
 nwg	B
 nam	I
 nwg	I
 txiv	I
-nam	O
-nwg	O
-txiv	O
 hos	O
 moog	O
 ntseeg	O
@@ -1513,9 +1498,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 rau	O
 yus	O
 lub	O
@@ -1554,9 +1536,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ;	O
 koj	O
 nrog	O
@@ -1616,17 +1595,11 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 ces	O
 thaum	O
 ntawd	O
@@ -2217,9 +2190,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 rau	O
 Haiv	O
 Hmoob	O

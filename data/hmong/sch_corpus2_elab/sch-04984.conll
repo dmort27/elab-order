@@ -332,9 +332,6 @@ txhua	B
 hnub	I
 txhua	I
 hmo	I
-hnub	O
-txhua	O
-hmo	O
 ua	O
 ua	O
 cov	O
@@ -720,9 +717,6 @@ lug	B
 dlev	I
 lug	I
 npua	I
-dlev	O
-lug	O
-npua	O
 le	O
 tej	O
 tug	O
@@ -778,9 +772,6 @@ lwm	B
 leej	I
 lwm	I
 tug	I
-leej	O
-lwm	O
-tug	O
 directly	O
 lawm	O
 .	O
@@ -1001,9 +992,6 @@ tsheej	B
 pab	I
 tsheej	I
 pheev	I
-pab	O
-tsheej	O
-pheev	O
 es	O
 nyeem	O
 tag	O
@@ -1162,9 +1150,6 @@ kev	B
 phem	I
 kev	I
 zoo	I
-phem	O
-kev	O
-zoo	O
 sib	O
 npaug	O
 zos	O
@@ -2161,9 +2146,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 ...	O
 ua	O
 cas	O
@@ -2718,9 +2700,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 mas	O
 ,	O
 lawv	O
@@ -3243,9 +3222,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ,	O
 tsi	O
 muaj	O
@@ -3580,9 +3556,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 laiv	O
 ,	O
 thaum	O

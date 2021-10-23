@@ -208,9 +208,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ces	O
 luag	O
 yuav	O
@@ -637,9 +634,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 ua	O
 tej	O
 yam	O
@@ -1022,9 +1016,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 tuaj	O
 sab	O
 tim	O
@@ -1397,9 +1388,6 @@ ib	B
 txhiab	I
 ib	I
 txhis	I
-txhiab	O
-ib	O
-txhis	O
 (	O
 tsis	O
 muaj	O

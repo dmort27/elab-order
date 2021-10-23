@@ -479,9 +479,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 .	O
 
 
@@ -505,9 +502,6 @@ hauv	B
 zej	I
 hauv	I
 zos	I
-zej	O
-hauv	O
-zos	O
 ,	O
 hauv	O
 lawm	O
@@ -637,9 +631,6 @@ tug	B
 ub	I
 tug	I
 nuav	I
-ub	O
-tug	O
-nuav	O
 xwb	O
 ,	O
 yog	O
@@ -786,9 +777,6 @@ tug	B
 ub	I
 tug	I
 nuav	I
-ub	O
-tug	O
-nuav	O
 xwb	O
 ,	O
 yog	O

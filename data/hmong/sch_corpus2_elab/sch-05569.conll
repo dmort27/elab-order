@@ -368,9 +368,6 @@ cis	B
 fij	I
 cis	I
 tom	I
-fij	O
-cis	O
-tom	O
 .	O
 
 
@@ -1125,9 +1122,6 @@ kev	B
 ab	I
 kev	I
 khwv	I
-ab	O
-kev	O
-khwv	O
 ,	O
 kev	O
 nyaj	O
@@ -1479,9 +1473,6 @@ zoo	B
 nom	I
 zoo	I
 tswv	I
-nom	O
-zoo	O
-tswv	O
 zoo	O
 Fuabtais	O
 los	O
@@ -2619,9 +2610,6 @@ ib	B
 leej	I
 ib	I
 tug	I
-leej	O
-ib	O
-tug	O
 twg	O
 puab	O
 tau	O
@@ -3097,9 +3085,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 lawm	O
 .	O
 
@@ -3323,9 +3308,6 @@ ib	B
 txhab	I
 ib	I
 txhis	I
-txhab	O
-ib	O
-txhis	O
 .	O
 
 
@@ -4351,9 +4333,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 es	O
 Hmmoob	O
 thiaj	O
@@ -4379,9 +4358,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 tab	O
 sis	O
 twb	O
@@ -4400,18 +4376,12 @@ ntshaw	B
 nom	I
 ntshaw	I
 tswv	I
-nom	O
-ntshaw	O
-tswv	O
 txoj	O
 kev	O
 ntshaw	B
 noj	I
 ntshaw	I
 hnav	I
-noj	O
-ntshaw	O
-hnav	O
 ces	O
 thiaj	O
 mus	O
@@ -4697,9 +4667,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 li	O
 .	O
 
@@ -5048,9 +5015,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 ib	O
 yam	O
 li	O
@@ -5083,9 +5047,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 yog	O
 Hmoob	O
 teej	O
@@ -5724,9 +5685,6 @@ siv	B
 sav	I
 siv	I
 zug	I
-sav	O
-siv	O
-zug	O
 heev	O
 es	O
 txha	O
@@ -5903,9 +5861,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 tau	O
 60	O
 xyoo	O
@@ -5962,9 +5917,6 @@ kev	B
 ab	I
 kev	I
 khwv	I
-ab	O
-kev	O
-khwv	O
 hlo	O
 le	O
 .	O
@@ -6543,9 +6495,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 kav	O
 hav	O
 zoo	O
@@ -6581,9 +6530,6 @@ txhua	B
 hnub	I
 txhua	I
 hmo	I
-hnub	O
-txhua	O
-hmo	O
 li	O
 .	O
 
@@ -6632,9 +6578,6 @@ kaum	B
 roob	I
 kaum	I
 hav	I
-roob	O
-kaum	O
-hav	O
 .	O
 
 
@@ -6826,9 +6769,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 nyob	O
 Nplogteb	O
 ces	O
@@ -6907,9 +6847,6 @@ fuab	B
 noj	I
 fuab	I
 haus	I
-noj	O
-fuab	O
-haus	O
 ,	O
 tab	O
 sis	O
@@ -7011,9 +6948,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 Hmoob	O
 kws	O
 raug	O
@@ -7759,9 +7693,6 @@ noj	B
 siav	I
 noj	I
 zog	I
-siav	O
-noj	O
-zog	O
 nawj	O
 tus	O
 phooj	O
@@ -8079,9 +8010,6 @@ ua	B
 sab	I
 ua	I
 sua	I
-sab	O
-ua	O
-sua	O
 faib	O
 mus	O
 ua	O
@@ -8562,9 +8490,6 @@ nyias	B
 pab	I
 nyias	I
 pawg	I
-pab	O
-nyias	O
-pawg	O
 tiam	O
 sis	O
 qhov	O
@@ -9185,9 +9110,6 @@ muaj	B
 yeej	I
 muaj	I
 swb	I
-yeej	O
-muaj	O
-swb	O
 ,	O
 kuv	O
 tseem	O
@@ -9278,17 +9200,11 @@ hnub	B
 ub	I
 hnub	I
 no	I
-ub	O
-hnub	O
-no	O
 ,	O
 xyoo	B
 ub	I
 xyoo	I
 no	I
-ub	O
-xyoo	O
-no	O
 mas	O
 yuav	O
 pom	O
@@ -9617,9 +9533,6 @@ has	B
 ub	I
 has	I
 nua	I
-ub	O
-has	O
-nua	O
 .	O
 
 

@@ -583,9 +583,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 li	O
 kuv	O
 tus	O
@@ -718,9 +715,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 muaj	O
 peev	O
 xwm	O
@@ -780,9 +774,6 @@ cais	B
 pab	I
 cais	I
 pawg	I
-pab	O
-cais	O
-pawg	O
 .	O
 
 

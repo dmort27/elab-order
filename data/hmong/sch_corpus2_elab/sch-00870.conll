@@ -1039,9 +1039,6 @@ tsws	B
 deb	I
 tsws	I
 ze	I
-deb	O
-tsws	O
-ze	O
 xws	O
 yam	O
 peb	O
@@ -1406,9 +1403,6 @@ tsws	B
 deb	I
 tsws	I
 ze	I
-deb	O
-tsws	O
-ze	O
 xws	O
 yam	O
 peb	O
@@ -1583,9 +1577,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 .	O
 
 
@@ -1665,9 +1656,6 @@ cais	B
 pab	I
 cais	I
 pawg	I
-pab	O
-cais	O
-pawg	O
 thiab	O
 feeb	O
 meej	O

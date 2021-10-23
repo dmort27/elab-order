@@ -271,9 +271,6 @@ le	B
 ub	I
 le	I
 nuav	I
-ub	O
-le	O
-nuav	O
 los	O
 nyaj	O
 yuav	O
@@ -533,9 +530,6 @@ tas	B
 phab	I
 tas	I
 pheev	I
-phab	O
-tas	O
-pheev	O
 uas	O
 tsis	O
 muaj	O
@@ -1428,9 +1422,6 @@ tub	B
 maab	I
 tub	I
 qhe	I
-maab	O
-tub	O
-qhe	O
 xaav	O
 kuas	O
 lub	O
@@ -2324,9 +2315,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 txaus	O
 lawm	O
 lawv	O

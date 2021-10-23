@@ -424,9 +424,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 zoo	O
 le	O
 luag	O
@@ -650,9 +647,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 zoo	O
 le	O
 luag	O
@@ -1700,9 +1694,6 @@ ua	B
 neej	I
 ua	I
 tsa	I
-neej	O
-ua	O
-tsa	O
 .	O
 
 
@@ -2114,9 +2105,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 ne	O
 ,	O
 koj	O
@@ -2495,9 +2483,6 @@ ua	B
 neej	I
 ua	I
 tsa	I
-neej	O
-ua	O
-tsa	O
 .	O
 
 
@@ -3702,9 +3687,6 @@ poj	B
 nrauj	I
 poj	I
 ntsuam	I
-nrauj	O
-poj	O
-ntsuam	O
 tham	O
 xwb	O
 mas	O

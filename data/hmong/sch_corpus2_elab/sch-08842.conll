@@ -13,9 +13,6 @@ tsis	B
 meej	I
 tsis	I
 pem	I
-meej	O
-tsis	O
-pem	O
 le	O
 lawm	O
 naw	O
@@ -243,9 +240,6 @@ rua	B
 ub	I
 rua	I
 nua	I
-ub	O
-rua	O
-nua	O
 kawg	O
 hab	O
 laiv	O
@@ -1560,9 +1554,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 xwb	O
 .	O
 
@@ -2985,9 +2976,6 @@ zaum	B
 rooj	I
 zaum	I
 tog	I
-rooj	O
-zaum	O
-tog	O
 nrog	O
 cov	O
 nplog	O
@@ -3023,9 +3011,6 @@ vuag	B
 ub	I
 vuag	I
 no	I
-ub	O
-vuag	O
-no	O
 los	O
 hais	O
 xwb	O
@@ -3248,9 +3233,6 @@ vuag	B
 ub	I
 vuag	I
 no	I
-ub	O
-vuag	O
-no	O
 tej	O
 yam	O
 niag	O

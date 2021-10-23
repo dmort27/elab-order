@@ -103,9 +103,6 @@ yus	B
 noj	I
 yus	I
 haus	I
-noj	O
-yus	O
-haus	O
 los	O
 yeej	O
 kawg	O
@@ -428,9 +425,6 @@ luag	B
 zej	I
 luag	I
 zos	I
-zej	O
-luag	O
-zos	O
 ,	O
 nyob	O
 tsam	O
@@ -450,9 +444,6 @@ ciam	B
 liaj	I
 ciam	I
 av	I
-liaj	O
-ciam	O
-av	O
 mam	O
 tso	O
 rau	O
@@ -773,9 +764,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 ntag	O
 hos	O
 .	O
@@ -1058,9 +1046,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 ntag	O
 ov	O
 .	O
@@ -1099,9 +1084,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 .	O
 
 
@@ -1969,9 +1951,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ,	O
 Kev	O
 noj	O

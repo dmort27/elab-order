@@ -107,9 +107,6 @@ sib	B
 daj	I
 sib	I
 deev	I
-daj	O
-sib	O
-deev	O
 txuam	O
 .	O
 
@@ -166,9 +163,6 @@ sib	B
 daj	I
 sib	I
 dee	I
-daj	O
-sib	O
-dee	O
 no	O
 rau	O
 hauv	O
@@ -187,9 +181,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 thiaj	O
 li	O
 mus	O

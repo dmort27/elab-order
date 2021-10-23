@@ -817,9 +817,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 tag	O
 mas	O
 yeej	O
@@ -1510,9 +1507,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 thaus	O
 twg	O
 kuv	O
@@ -1912,9 +1906,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 yeej	O
 muaj	O
 .	O
@@ -2036,9 +2027,6 @@ khoom	B
 vaj	I
 khoom	I
 tsev	I
-vaj	O
-khoom	O
-tsev	O
 ces	O
 ua	O
 hluav	O

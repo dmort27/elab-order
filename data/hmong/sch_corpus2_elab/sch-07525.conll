@@ -521,9 +521,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 twb	O
 tsis	O
 nyob	O
@@ -612,9 +609,6 @@ yas	B
 kev	I
 yas	I
 ncua	I
-kev	O
-yas	O
-ncua	O
 mas	O
 cav	O
 ua	O
@@ -1361,9 +1355,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 kom	O
 rus	O
 tso	O
@@ -1375,9 +1366,6 @@ luag	B
 vaj	I
 luag	I
 tsev	I
-vaj	O
-luag	O
-tsev	O
 no	O
 os	O
 .	O
@@ -1727,9 +1715,6 @@ chaws	B
 txawb	I
 chaws	I
 rau	I
-txawb	O
-chaws	O
-rau	O
 mas	O
 .....	O
 es	O
@@ -2002,9 +1987,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 yog	O
 peb	O
 cov	O
@@ -2016,9 +1998,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 nyob	O
 tim	O
 LosTsuas	O

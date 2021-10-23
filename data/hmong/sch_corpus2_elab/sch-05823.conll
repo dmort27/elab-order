@@ -143,9 +143,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 ,	O
 txawm	O
 lwm	O
@@ -154,9 +151,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 txawj	O
 npaum	O
 twg	O
@@ -404,9 +398,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 xwb	O
 .	O
 
@@ -673,9 +664,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -1115,9 +1103,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 tabsis	O
 pheej	O
 tsis	O

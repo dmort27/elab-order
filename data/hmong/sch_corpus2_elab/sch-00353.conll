@@ -1181,9 +1181,6 @@ tug	B
 tub	I
 tug	I
 ntxhais	I
-tub	O
-tug	O
-ntxhais	O
 niam	O
 txiv	O
 yeej	O
@@ -1347,9 +1344,6 @@ pom	B
 tshoob	I
 pom	I
 kos	I
-tshoob	O
-pom	O
-kos	O
 lawm	O
 thiab	O
 ,	O
@@ -1396,9 +1390,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 zoo	O
 li	O
 hmoob	O
@@ -2591,9 +2582,6 @@ rau	B
 niam	I
 rau	I
 txiv	I
-niam	O
-rau	O
-txiv	O
 xwb	O
 .	O
 
@@ -2698,9 +2686,6 @@ tsi	B
 ciaj	I
 tsi	I
 tuag	I
-ciaj	O
-tsi	O
-tuag	O
 li	O
 ces	O
 rau	O
@@ -2755,9 +2740,6 @@ kev	B
 tshoob	I
 kev	I
 kos	I
-tshoob	O
-kev	O
-kos	O
 ces	O
 tham	O
 rau	O

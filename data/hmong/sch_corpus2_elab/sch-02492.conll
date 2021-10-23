@@ -11,9 +11,6 @@ tus	B
 txheeb	I
 tus	I
 ze	I
-txheeb	O
-tus	O
-ze	O
 twg	O
 uas	O
 nyob	O
@@ -33,9 +30,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 ,	O
 yam	O
 tsawg	O
@@ -79,9 +73,6 @@ ntsuag	B
 nyiaj	I
 ntsuag	I
 kub	I
-nyiaj	O
-ntsuag	O
-kub	O
 rau	O
 tsev	O
 neeg	O
@@ -96,9 +87,6 @@ ua	B
 txheeb	I
 ua	I
 ze	I
-txheeb	O
-ua	O
-ze	O
 uas	O
 nyob	O
 tebchaws	O
@@ -124,9 +112,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 lawv	O
 tsis	O
 xav	O
@@ -522,9 +507,6 @@ nqi	B
 mis	I
 nqi	I
 hno	I
-mis	O
-nqi	O
-hno	O
 .	O
 
 
@@ -1042,9 +1024,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 thiab	O
 yuav	O
 khoom	O
@@ -1249,9 +1228,6 @@ kaus	B
 noj	I
 kaus	I
 haus	I
-noj	O
-kaus	O
-haus	O
 lawm	O
 xwb	O
 .	O
@@ -1425,9 +1401,6 @@ tus	B
 txheeb	I
 tus	I
 ze	I
-txheeb	O
-tus	O
-ze	O
 li	O
 lawm	O
 ,	O
@@ -1620,25 +1593,16 @@ muaj	B
 ntxhais	I
 muaj	I
 vauv	I
-ntxhais	O
-muaj	O
-vauv	O
 ,	O
 muaj	O
 xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 puv	B
 vaj	I
 puv	I
 tsev	I
-vaj	O
-puv	O
-tsev	O
 tag	O
 lawm	O
 los	O
@@ -1717,9 +1681,6 @@ rau	B
 noj	I
 rau	I
 hnav	I
-noj	O
-rau	O
-hnav	O
 .	O
 
 
@@ -1730,9 +1691,6 @@ tau	B
 noj	I
 tau	I
 hnav	I
-noj	O
-tau	O
-hnav	O
 tau	O
 chaw	O
 sov	O
@@ -1825,9 +1783,6 @@ tus	B
 mab	I
 tus	I
 suav	I
-mab	O
-tus	O
-suav	O
 xwb	O
 txhob	O
 ua	O
@@ -2417,9 +2372,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 lawm	O
 ...	O
 all	O
@@ -3005,9 +2957,6 @@ muaj	B
 ntsej	I
 muaj	I
 muag	I
-ntsej	O
-muaj	O
-muag	O
 (	O
 muaj	O
 kiad	O
@@ -3247,9 +3196,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 mus	O
 tau	O
 lub	O
@@ -3354,9 +3300,6 @@ nws	B
 poj	I
 nws	I
 sev	I
-poj	O
-nws	O
-sev	O
 zoo	O
 ,	O
 tabsis	O
@@ -3491,9 +3434,6 @@ tsis	B
 ncaj	I
 tsis	I
 ncees	I
-ncaj	O
-tsis	O
-ncees	O
 ,	O
 nyiag	O
 ntshis	O
@@ -3503,9 +3443,6 @@ ua	B
 plees	I
 ua	I
 yi	I
-plees	O
-ua	O
-yi	O
 .	O
 
 
@@ -3556,9 +3493,6 @@ neej	B
 tshiab	I
 neej	I
 lig	I
-tshiab	O
-neej	O
-lig	O
 los	O
 lawv	O
 yeej	O
@@ -3684,9 +3618,6 @@ tau	B
 ntau	I
 tau	I
 tsawg	I
-ntau	O
-tau	O
-tsawg	O
 los	O
 yeej	O
 xoov	O
@@ -3711,9 +3642,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 tim	O
 ub	O
 tuaj	O

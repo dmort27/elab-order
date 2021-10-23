@@ -674,9 +674,6 @@ dab	B
 ub	I
 dab	I
 no	I
-ub	O
-dab	O
-no	O
 .	O
 
 
@@ -919,9 +916,6 @@ tej	B
 txuj	I
 tej	I
 ci	I
-txuj	O
-tej	O
-ci	O
 yog	O
 xub	O
 xub	O
@@ -1128,9 +1122,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 xwb	O
 .	O
 
@@ -1613,9 +1604,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 nws	O
 tsis	O
 muaj	O
@@ -2764,9 +2752,6 @@ muaj	B
 qib	I
 muaj	I
 duas	I
-qib	O
-muaj	O
-duas	O
 .	O
 
 
@@ -2988,9 +2973,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 .	O
 
 

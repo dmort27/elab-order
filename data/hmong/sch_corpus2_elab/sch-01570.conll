@@ -1024,9 +1024,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ,	O
 yuav	O
 txawj	O
@@ -1034,9 +1031,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 ,	O
 koj	O
 tuag	O
@@ -1054,9 +1048,6 @@ muaj	B
 qab	I
 muaj	I
 tsuag	I
-qab	O
-muaj	O
-tsuag	O
 kom	O
 tau	O
 noj	O

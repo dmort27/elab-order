@@ -881,9 +881,6 @@ xyaws	B
 mab	I
 xyaws	I
 suav	I
-mab	O
-xyaws	O
-suav	O
 xwb	O
 nawb	O
 .	O
@@ -1439,9 +1436,6 @@ me	B
 ntswb	I
 me	I
 ntsis	I
-ntswb	O
-me	O
-ntsis	O
 xwb	O
 ,	O
 hais	O
@@ -2518,9 +2512,6 @@ kev	B
 lis	I
 kev	I
 cai	I
-lis	O
-kev	O
-cai	O
 dab	O
 qhuas	O
 Hmoob	O
@@ -2772,9 +2763,6 @@ coob	B
 leej	I
 coob	I
 tus	I
-leej	O
-coob	O
-tus	O
 thiab	O
 koj	O
 txiv	O
@@ -3999,9 +3987,6 @@ kev	B
 lis	I
 kev	I
 cai	I
-lis	O
-kev	O
-cai	O
 dab	O
 qhuas	O
 Hmoob	O
@@ -4253,9 +4238,6 @@ coob	B
 leej	I
 coob	I
 tus	I
-leej	O
-coob	O
-tus	O
 thiab	O
 koj	O
 txiv	O

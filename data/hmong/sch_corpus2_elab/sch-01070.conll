@@ -889,9 +889,6 @@ tis	B
 tshoob	I
 tis	I
 kos	I
-tshoob	O
-tis	O
-kos	O
 .	O
 
 
@@ -1109,9 +1106,6 @@ zeem	B
 neej	I
 zeem	I
 tsav	I
-neej	O
-zeem	O
-tsav	O
 .	O
 
 
@@ -1953,9 +1947,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ntawv	O
 pawg	O
 xeem	O
@@ -2541,9 +2532,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ces	O
 peb	O
 zoo	O
@@ -2616,9 +2604,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ces	O
 peb	O
 zoo	O

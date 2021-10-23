@@ -359,9 +359,6 @@ muaj	B
 plaub	I
 muaj	I
 ntug	I
-plaub	O
-muaj	O
-ntug	O
 nrog	O
 tseemfwv	O
 Nyablaj	O
@@ -719,9 +716,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 dog	O
 dig	O
 hauv	O
@@ -1983,9 +1977,6 @@ hav	B
 dej	I
 hav	I
 zoov	I
-dej	O
-hav	O
-zoov	O
 lawm	O
 xwb	O
 pauj	O
@@ -2194,9 +2185,6 @@ siab	B
 mos	I
 siab	I
 muag	I
-mos	O
-siab	O
-muag	O
 thiab	O
 lawv	O
 txawv	O
@@ -2384,9 +2372,6 @@ nqa	B
 riam	I
 nqa	I
 phom	I
-riam	O
-nqa	O
-phom	O
 ,	O
 lawv	O
 xyuas	O
@@ -2870,9 +2855,6 @@ raug	B
 cuab	I
 raug	I
 khi	I
-cuab	O
-raug	O
-khi	O
 vim	O
 yog	O
 tshaj	O
@@ -3289,9 +3271,6 @@ kev	B
 txog	I
 kev	I
 txhaum	I
-txog	O
-kev	O
-txhaum	O
 loj	O
 loj	O
 xwv	O

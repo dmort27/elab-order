@@ -626,9 +626,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 ib	O
 yam	O
 ,	O
@@ -743,9 +740,6 @@ lug	B
 toj	I
 lug	I
 pes	I
-toj	O
-lug	O
-pes	O
 xwb	O
 ma	O
 .	O
@@ -789,9 +783,6 @@ tuam	B
 meej	I
 tuam	I
 pem	I
-meej	O
-tuam	O
-pem	O
 los	O
 xwb	O
 .	O
@@ -910,9 +901,6 @@ tsis	B
 txwv	I
 tsis	I
 txiav	I
-txwv	O
-tsis	O
-txiav	O
 kiag	O
 liag	O
 ,	O

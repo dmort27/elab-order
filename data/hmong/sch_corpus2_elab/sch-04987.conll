@@ -655,9 +655,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 uas	O
 ntsuag	O
 xwb	O
@@ -1894,9 +1891,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 .	O
 
 
@@ -3908,9 +3902,6 @@ ntsuag	B
 niam	I
 ntsuag	I
 txiv	I
-niam	O
-ntsuag	O
-txiv	O
 coj	O
 los	O
 hais	O
@@ -4044,9 +4035,6 @@ kev	B
 txob	I
 kev	I
 txhawj	I
-txob	O
-kev	O
-txhawj	O
 ,	O
 kev	O
 ntxub	O

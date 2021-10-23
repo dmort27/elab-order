@@ -737,9 +737,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 tsis	O
 koomsiab	O
 ces	O
@@ -1549,9 +1546,6 @@ luag	B
 teej	I
 luag	I
 tug	I
-teej	O
-luag	O
-tug	O
 rau	O
 luag	O
 thiab	O
@@ -1831,9 +1825,6 @@ ua	B
 pag	I
 ua	I
 xau	I
-pag	O
-ua	O
-xau	O
 rau	O
 fab	O
 kev	O
@@ -1871,17 +1862,11 @@ siv	B
 qeej	I
 siv	I
 nruas	I
-qeej	O
-siv	O
-nruas	O
 los	O
 ua	B
 pag	I
 ua	I
 xau	I
-pag	O
-ua	O
-xau	O
 tom	O
 church	O
 qhuas	O
@@ -2157,9 +2142,6 @@ siv	B
 qeej	I
 siv	I
 nruas	I
-qeej	O
-siv	O
-nruas	O
 los	O
 uapag	O
 uaxau	O
@@ -2274,9 +2256,6 @@ suab	B
 quaj	I
 suab	I
 nyav	I
-quaj	O
-suab	O
-nyav	O
 xyaw	O
 rua	O
 huv	O

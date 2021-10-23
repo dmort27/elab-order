@@ -274,9 +274,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 lawm	O
 .	O
 
@@ -370,9 +367,6 @@ cam	B
 dlej	I
 cam	I
 aav	I
-dlej	O
-cam	O
-aav	O
 taag	O
 ,	O
 ua	O
@@ -820,9 +814,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 npaum	O
 nkaus	O
 li	O
@@ -975,9 +966,6 @@ lus	B
 zoo	I
 lus	I
 phem	I
-zoo	O
-lus	O
-phem	O
 ntawm	O
 Tus	O
 Tswv	O
@@ -1087,9 +1075,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 es	O
 thiaj	O
 tsis	O
@@ -1845,9 +1830,6 @@ paub	B
 ub	I
 paub	I
 no	I
-ub	O
-paub	O
-no	O
 ,	O
 thaum	O
 tso	O
@@ -2403,9 +2385,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 ,	O
 xav	O
 ua	O
@@ -2424,9 +2403,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 ces	O
 kawg	O
 yeej	O
@@ -3301,9 +3277,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 thov	O
 kom	O
 peb	O
@@ -3543,9 +3516,6 @@ khoom	B
 noj	I
 khoom	I
 haus	I
-noj	O
-khoom	O
-haus	O
 ,	O
 koj	O
 paab	O

@@ -47,9 +47,6 @@ qab	B
 roob	I
 qab	I
 hav	I
-roob	O
-qab	O
-hav	O
 ,	O
 qab	O
 zeb	O
@@ -308,9 +305,6 @@ yuav	B
 ntsej	I
 yuav	I
 muag	I
-ntsej	O
-yuav	O
-muag	O
 thiab	O
 ho	O
 .	O
@@ -345,9 +339,6 @@ mus	B
 ntoj	I
 mus	I
 thuv	I
-ntoj	O
-mus	O
-thuv	O
 ,	O
 yog	O
 hnub	O
@@ -366,9 +357,6 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 tsuas	O
 tuaj	O
 yeem	O
@@ -405,9 +393,6 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 los	O
 wb	O
 yuav	O
@@ -501,9 +486,6 @@ khi	B
 tes	I
 khi	I
 taw	I
-tes	O
-khi	O
-taw	O
 los	O
 yeej	O
 yuav	O
@@ -599,9 +581,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 os	O
 DAB	O
 LAUG	O
@@ -785,9 +764,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 ,	O
 kom	O
 lom	O

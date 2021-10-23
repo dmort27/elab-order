@@ -691,9 +691,6 @@ qhov	B
 dev	I
 qhov	I
 npua	I
-dev	O
-qhov	O
-npua	O
 xwb	O
 .	O
 ''	O

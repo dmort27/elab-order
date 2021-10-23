@@ -627,9 +627,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 thiaj	O
 nyob	O
 mus	O
@@ -661,9 +658,6 @@ thiaj	B
 leej	I
 thiaj	I
 tseeb	I
-leej	O
-thiaj	O
-tseeb	O
 li	O
 SIV	O
 YIS	O
@@ -1442,9 +1436,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 ,	O
 yog	O
 thaum	O
@@ -1761,9 +1752,6 @@ tu	B
 ncaab	I
 tu	I
 ncua	I
-ncaab	O
-tu	O
-ncua	O
 le	O
 hab	O
 .	O
@@ -3332,9 +3320,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 yog	O
 ib	O
 qho	O
@@ -3354,9 +3339,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 hov	O
 tsis	O
 pub	O
@@ -3635,9 +3617,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 yog	O
 ib	O
 txoj	O
@@ -3755,9 +3734,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 no	O
 kuj	O
 yog	O
@@ -3868,9 +3844,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 thiaj	O
 tsis	O
 yog	O
@@ -3924,9 +3897,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 can	O
 be	O
 explained	O
@@ -4048,9 +4018,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 yog	O
 ib	O
 qho	O
@@ -4070,9 +4037,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 hov	O
 tsis	O
 pub	O
@@ -4472,9 +4436,6 @@ tu	B
 ncaab	I
 tu	I
 ncua	I
-ncaab	O
-tu	O
-ncua	O
 le	O
 hab	O
 .	O
@@ -5036,9 +4997,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 yog	O
 ib	O
 txoj	O
@@ -5156,9 +5114,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 no	O
 kuj	O
 yog	O
@@ -5269,9 +5224,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 thiaj	O
 tsis	O
 yog	O
@@ -5325,9 +5277,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 can	O
 be	O
 explained	O

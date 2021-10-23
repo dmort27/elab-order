@@ -1737,9 +1737,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 .	O
 
 
@@ -1865,9 +1862,6 @@ tej	B
 zej	I
 tej	I
 zos	I
-zej	O
-tej	O
-zos	O
 .	O
 
 

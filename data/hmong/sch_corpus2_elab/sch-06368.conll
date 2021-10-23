@@ -137,9 +137,6 @@ yog	B
 neej	I
 yog	I
 tsav	I
-neej	O
-yog	O
-tsav	O
 es	O
 cias	O
 lawv	O
@@ -1360,9 +1357,6 @@ kev	B
 neej	I
 kev	I
 tsaav	I
-neej	O
-kev	O
-tsaav	O
 ntawm	O
 tug	O
 pujnyaaj	O
@@ -1416,9 +1410,6 @@ kev	B
 txheeb	I
 kev	I
 ze	I
-txheeb	O
-kev	O
-ze	O
 ....	O
 ms	O
 Puab	O
@@ -1808,9 +1799,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 pob	O
 .....	O
 vim	O
@@ -1991,9 +1979,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 los	O
 tau	O
 30	O
@@ -2257,9 +2242,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 thiab	O
 nyob	O
 rau	O
@@ -2713,9 +2695,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 ,	O
 thaum	O
 nrug	O
@@ -2837,9 +2816,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 tsis	O
 has	O
 HAIV	O

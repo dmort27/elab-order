@@ -202,9 +202,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 ,	O
 ces	O
 lam	O
@@ -534,9 +531,6 @@ sau	B
 qoob	I
 sau	I
 loo	I
-qoob	O
-sau	O
-loo	O
 tej	O
 laus	O
 tia	O
@@ -714,9 +708,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 .....	O
 haib	O
 kawg	O

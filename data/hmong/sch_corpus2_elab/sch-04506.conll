@@ -734,9 +734,6 @@ tsi	B
 paub	I
 tsi	I
 pom	I
-paub	O
-tsi	O
-pom	O
 koj	O
 txoj	O
 kev	O
@@ -777,9 +774,6 @@ hais	B
 ciaj	I
 hais	I
 tuag	I
-ciaj	O
-hais	O
-tuag	O
 los	O
 yeej	O
 tsi	O

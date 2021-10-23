@@ -134,9 +134,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 hais	O
 las	O
 sav	O
@@ -1880,9 +1877,6 @@ tshum	B
 ntab	I
 tshum	I
 muv	I
-ntab	O
-tshum	O
-muv	O
 .	O
 
 
@@ -2113,9 +2107,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 tias	O
 DAG	O
 SIV	O
@@ -2322,9 +2313,6 @@ raug	B
 plaub	I
 raug	I
 ntug	I
-plaub	O
-raug	O
-ntug	O
 li	O
 no	O
 yus	O
@@ -2567,9 +2555,6 @@ raug	B
 plaub	I
 raug	I
 ntug	I
-plaub	O
-raug	O
-ntug	O
 li	O
 no	O
 yus	O

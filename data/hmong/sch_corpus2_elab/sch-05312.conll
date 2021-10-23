@@ -550,9 +550,6 @@ poob	B
 teb	I
 poob	I
 chaw	I
-teb	O
-poob	O
-chaw	O
 los	O
 nyob	O
 rau	O
@@ -560,9 +557,6 @@ luag	B
 teb	I
 luag	I
 chaw	I
-teb	O
-luag	O
-chaw	O
 lawm	O
 ces	O
 lam	O
@@ -628,9 +622,6 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 poib	O
 rau	O
 .	O

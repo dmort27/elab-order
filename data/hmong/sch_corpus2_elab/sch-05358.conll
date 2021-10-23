@@ -55,9 +55,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 tau	O
 ib	O
 nyuas	O
@@ -285,9 +282,6 @@ tu	B
 vaaj	I
 tu	I
 tsev	I
-vaaj	O
-tu	O
-tsev	O
 ,	O
 ntxhuas	O
 khaub	O

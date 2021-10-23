@@ -35,9 +35,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 )	O
 4	O
 .	O
@@ -535,9 +532,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 tuaj	O
 thiab	O
 muaj	O
@@ -656,9 +650,6 @@ khwv	B
 ciaj	I
 khwv	I
 tuag	I
-ciaj	O
-khwv	O
-tuag	O
 ces	O
 tog	O
 paub	O
@@ -698,9 +689,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 tib	O
 yam	O
 ,	O

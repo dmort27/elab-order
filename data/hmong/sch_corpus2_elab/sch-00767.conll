@@ -28,9 +28,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 kom	O
 txog	O
 thaum	O
@@ -81,9 +78,6 @@ sib	B
 koom	I
 sib	I
 sau	I
-koom	O
-sib	O
-sau	O
 tau	O
 .	O
 
@@ -541,9 +535,6 @@ rau	B
 ped	I
 rau	I
 nrad	I
-ped	O
-rau	O
-nrad	O
 xwb	O
 ntag	O
 .	O
@@ -596,9 +587,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -637,9 +625,6 @@ tham	B
 mus	I
 tham	I
 los	I
-mus	O
-tham	O
-los	O
 ib	O
 tsam	O
 ces	O
@@ -772,9 +757,6 @@ rooj	B
 noj	I
 rooj	I
 haus	I
-noj	O
-rooj	O
-haus	O
 .	O
 
 
@@ -975,9 +957,6 @@ tsawg	B
 pab	I
 tsawg	I
 pawg	I
-pab	O
-tsawg	O
-pawg	O
 tseem	O
 khiav	O
 tej	O
@@ -1209,9 +1188,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 kom	O
 txog	O
 thaum	O
@@ -1262,9 +1238,6 @@ sib	B
 koom	I
 sib	I
 sau	I
-koom	O
-sib	O
-sau	O
 tau	O
 .	O
 
@@ -1722,9 +1695,6 @@ rau	B
 ped	I
 rau	I
 nrad	I
-ped	O
-rau	O
-nrad	O
 xwb	O
 ntag	O
 .	O
@@ -1777,9 +1747,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -1818,9 +1785,6 @@ tham	B
 mus	I
 tham	I
 los	I
-mus	O
-tham	O
-los	O
 ib	O
 tsam	O
 ces	O
@@ -1953,9 +1917,6 @@ rooj	B
 noj	I
 rooj	I
 haus	I
-noj	O
-rooj	O
-haus	O
 .	O
 
 
@@ -2156,9 +2117,6 @@ tsawg	B
 pab	I
 tsawg	I
 pawg	I
-pab	O
-tsawg	O
-pawg	O
 tseem	O
 khiav	O
 tej	O
@@ -2641,9 +2599,6 @@ khiav	B
 mus	I
 khiav	I
 los	I
-mus	O
-khiav	O
-los	O
 tsam	O
 no	O
 mus	O

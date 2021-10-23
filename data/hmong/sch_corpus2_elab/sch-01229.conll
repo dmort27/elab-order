@@ -589,9 +589,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 hab	O
 ua	O
 fuabtais	O
@@ -1067,9 +1064,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 txhob	O
 tuag	O
 tshaib	O

@@ -568,9 +568,6 @@ tswv	B
 ntuj	I
 tswv	I
 teb	I
-ntuj	O
-tswv	O
-teb	O
 ..	O
 tswv	O
 luaj	O
@@ -658,9 +655,6 @@ kev	B
 ab	I
 kev	I
 khwv	I
-ab	O
-kev	O
-khwv	O
 lawm	O
 ..	O
 yes	O
@@ -1157,9 +1151,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 ...	O
 yog	O
 hu	O
@@ -1231,9 +1222,6 @@ kev	B
 phem	I
 kev	I
 qias	I
-phem	O
-kev	O
-qias	O
 mus	O
 ...	O
 etc	O
@@ -1397,9 +1385,6 @@ muaj	B
 yeej	I
 muaj	I
 swb	I
-yeej	O
-muaj	O
-swb	O
 thiab	O
 kom	O
 muaj	O
@@ -1479,9 +1464,6 @@ twv	B
 ntuj	I
 twv	I
 teb	I
-ntuj	O
-twv	O
-teb	O
 tshev	O
 pes	O
 hlob	O
@@ -1493,9 +1475,6 @@ hauv	B
 paug	I
 hauv	I
 ntsis	I
-paug	O
-hauv	O
-ntsis	O
 le	O
 .	O
 

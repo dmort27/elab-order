@@ -147,9 +147,6 @@ cuab	B
 ub	I
 cuab	I
 no	I
-ub	O
-cuab	O
-no	O
 rau	O
 sawv	O
 daws	O
@@ -811,9 +808,6 @@ ua	B
 phem	I
 ua	I
 qias	I
-phem	O
-ua	O
-qias	O
 koj	O
 deev	O
 kuv	O
@@ -911,9 +905,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ,	O
 koj	O
 hais	O
@@ -1168,9 +1159,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ces	O
 cov	O
 lubnoob	O
@@ -1956,9 +1944,6 @@ tib	B
 pab	I
 tib	I
 pawg	I
-pab	O
-tib	O
-pawg	O
 xwb	O
 .	O
 
@@ -2174,9 +2159,6 @@ dab	B
 ntuj	I
 dab	I
 teb	I
-ntuj	O
-dab	O
-teb	O
 dab	O
 trinity	O
 ,	O
@@ -2256,9 +2238,6 @@ raug	B
 ntes	I
 raug	I
 tua	I
-ntes	O
-raug	O
-tua	O
 thiab	O
 .	O
 

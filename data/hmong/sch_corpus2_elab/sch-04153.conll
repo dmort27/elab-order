@@ -145,9 +145,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 os	O
 .	O
 
@@ -1101,9 +1098,6 @@ tsoob	B
 lwj	I
 tsoob	I
 liam	I
-lwj	O
-tsoob	O
-liam	O
 taas	O
 li	O
 hov	O
@@ -1340,9 +1334,6 @@ luag	B
 vaj	I
 luag	I
 tsev	I
-vaj	O
-luag	O
-tsev	O
 xwb	O
 es	O
 thiaj	O
@@ -1352,9 +1343,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 tuag	O
 los	O
 nej	O
@@ -1366,9 +1354,6 @@ tu	B
 ub	I
 tu	I
 no	I
-ub	O
-tu	O
-no	O
 ris	O
 thiab	O
 tseem	O
@@ -1757,9 +1742,6 @@ ua	B
 kwv	I
 ua	I
 tij	I
-kwv	O
-ua	O
-tij	O
 los	O
 txhob	O
 nyuaj	O

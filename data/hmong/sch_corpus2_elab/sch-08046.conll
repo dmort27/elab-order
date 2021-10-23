@@ -913,9 +913,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ces	O
 txawm	O
 yog	O
@@ -1233,9 +1230,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 yam	O
 lawv	O
 zoo	O
@@ -1475,9 +1469,6 @@ kuag	B
 kab	I
 kuag	I
 hlau	I
-kab	O
-kuag	O
-hlau	O
 paub	O
 thiab	O
 nawb	O
@@ -1546,9 +1537,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 lawm	O
 cov	O
 coj	O
@@ -1598,9 +1586,6 @@ puag	B
 tes	I
 puag	I
 taw	I
-tes	O
-puag	O
-taw	O
 tos	O
 noj	O
 xwb	O

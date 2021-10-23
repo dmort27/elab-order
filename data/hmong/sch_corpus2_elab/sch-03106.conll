@@ -1053,9 +1053,6 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 tseem	O
 yuav	O
 hajyam	O
@@ -1855,9 +1852,6 @@ sib	B
 ntsib	I
 sib	I
 pom	I
-ntsib	O
-sib	O
-pom	O
 dua	O
 los	O
 ,	O
@@ -1874,9 +1868,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 yeej	O
 tseem	O
 ceeb	O

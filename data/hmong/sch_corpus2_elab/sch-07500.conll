@@ -171,9 +171,6 @@ khawv	B
 yaj	I
 khawv	I
 yws	I
-yaj	O
-khawv	O
-yws	O
 no	O
 thiaj	O
 li	O
@@ -318,9 +315,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 thiab	O
 hais	O
 xaiv	O
@@ -378,9 +372,6 @@ hais	B
 plaub	I
 hais	I
 ntug	I
-plaub	O
-hais	O
-ntug	O
 thiab	O
 hais	O
 xaiv	O
@@ -392,9 +383,6 @@ hais	B
 ciaj	I
 hais	I
 tuag	I
-ciaj	O
-hais	O
-tuag	O
 los	O
 ,	O
 yeej	O
@@ -836,9 +824,6 @@ cov	B
 txawj	I
 cov	I
 ntse	I
-txawj	O
-cov	O
-ntse	O
 ,	O
 qhov	O
 loj	O

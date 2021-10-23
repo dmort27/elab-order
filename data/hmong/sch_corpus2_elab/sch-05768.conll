@@ -101,9 +101,6 @@ kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 haj	O
 tsi	O
 ua	O
@@ -765,9 +762,6 @@ nrog	B
 pom	I
 nrog	I
 paub	I
-pom	O
-nrog	O
-paub	O
 es	O
 qhov	O
 zoo	O
@@ -804,9 +798,6 @@ kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 ces	O
 muab	O
 hais	O
@@ -1116,9 +1107,6 @@ nyob	B
 deb	I
 nyob	I
 ze	I
-deb	O
-nyob	O
-ze	O
 tuaj	O
 xwb	O
 .	O
@@ -1393,9 +1381,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 kuv	O
 mam	O
 kom	O
@@ -1698,9 +1683,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 tej	O
 teevpheem	O
 tag	O
@@ -1974,9 +1956,6 @@ sib	B
 tham	I
 sib	I
 kho	I
-tham	O
-sib	O
-kho	O
 tiag	O
 .	O
 
@@ -2027,9 +2006,6 @@ kev	B
 plees	I
 kev	I
 yi	I
-plees	O
-kev	O
-yi	O
 uas	O
 peb	O
 lub	O
@@ -3417,9 +3393,6 @@ rooj	B
 tshoob	I
 rooj	I
 kos	I
-tshoob	O
-rooj	O
-kos	O
 ces	O
 thiaj	O
 plam	O
@@ -3475,9 +3448,6 @@ tag	B
 siab	I
 tag	I
 ntsws	I
-siab	O
-tag	O
-ntsws	O
 li	O
 lawm	O
 tab	O
@@ -3638,9 +3608,6 @@ tu	B
 koob	I
 tu	I
 moo	I
-koob	O
-tu	O
-moo	O
 kom	O
 muab	O
 txoj	O
@@ -3668,9 +3635,6 @@ sib	B
 hlub	I
 sib	I
 tshua	I
-hlub	O
-sib	O
-tshua	O
 ntxiv	O
 lawm	O
 vim	O
@@ -3872,9 +3836,6 @@ npuas	B
 ncauj	I
 npuas	I
 ntswg	I
-ncauj	O
-npuas	O
-ntswg	O
 taws	O
 si	O
 laim	O
@@ -3901,9 +3862,6 @@ txoj	B
 pa	I
 txoj	I
 sia	I
-pa	O
-txoj	O
-sia	O
 yuav	O
 tu	O
 tiag	O
@@ -3968,9 +3926,6 @@ cim	B
 ntsej	I
 cim	I
 muag	I
-ntsej	O
-cim	O
-muag	O
 tseg	O
 ;	O
 cia	O
@@ -3996,9 +3951,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 lawv	O
 pom	O
 thov	O

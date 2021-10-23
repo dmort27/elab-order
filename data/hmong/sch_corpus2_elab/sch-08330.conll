@@ -91,9 +91,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 li	O
 yav	O
 tag	O
@@ -148,9 +145,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 tuaj	O
 rau	O
 cov	O
@@ -1915,9 +1909,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 chim	O
 chim	O
 siab	O

@@ -83,9 +83,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 .	O
 
 
@@ -364,9 +361,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 tej	O
 me	O
 tsawv8	O
@@ -416,17 +410,11 @@ muaj	B
 phooj	I
 muaj	I
 ywg	I
-phooj	O
-muaj	O
-ywg	O
 thiab	O
 muaj	B
 kwv	I
 muaj	I
 tij	I
-kwv	O
-muaj	O
-tij	O
 los	O
 ,	O
 kom	O
@@ -552,9 +540,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 ....	O
 tsuav	O
 yog	O
@@ -752,9 +737,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 kuv	O
 yuav	O
 tsis	O

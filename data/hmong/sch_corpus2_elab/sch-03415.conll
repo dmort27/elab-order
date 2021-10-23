@@ -1015,9 +1015,6 @@ tas	B
 zaj	I
 tas	I
 zog	I
-zaj	O
-tas	O
-zog	O
 thiaj	O
 nrhiav	O
 tsi	O
@@ -2366,9 +2363,6 @@ kawg	B
 paus	I
 kawg	I
 ntsis	I
-paus	O
-kawg	O
-ntsis	O
 thiab	O
 nyeem	O
 2-3	O
@@ -3051,9 +3045,6 @@ cem	B
 lwj	I
 cem	I
 liam	I
-lwj	O
-cem	O
-liam	O
 lawm	O
 naj	O
 ?	O
@@ -3137,9 +3128,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 nawb	O
 .	O
 
@@ -3244,9 +3232,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 nas	O
 ,	O
 Koj	O
@@ -3487,9 +3472,6 @@ chua	B
 mus	I
 chua	I
 los	I
-mus	O
-chua	O
-los	O
 tsam	O
 lub	O
 npe	O
@@ -3517,9 +3499,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ces	O
 peb	O
 yeej	O
@@ -3702,9 +3681,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 los	O
 vim	O
 tseem	O
@@ -3970,9 +3946,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 dlog	O
 dlig	O
 nua	O
@@ -4546,9 +4519,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 ,	O
 tsawg	O
 daim	O

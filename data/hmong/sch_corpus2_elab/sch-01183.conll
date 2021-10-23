@@ -259,12 +259,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	B
-pab	I
-sib	I
-txhawb	I
-pab	O
 sib	O
 txhawb	O
 li	O
@@ -312,9 +306,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 li	O
 txoj	O
 nkauj	O
@@ -824,9 +815,6 @@ suav	B
 hnub	I
 suav	I
 hmo	I
-hnub	O
-suav	O
-hmo	O
 yuav	O
 ploj	O
 zuj	O
@@ -1055,9 +1043,6 @@ yam	B
 zoo	I
 yam	I
 phem	I
-zoo	O
-yam	O
-phem	O
 los	O
 suav	O
 yuav	O

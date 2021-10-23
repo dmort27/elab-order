@@ -260,9 +260,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 ,	O
 tsis	O
 tseg	O
@@ -293,9 +290,6 @@ xuas	B
 riam	I
 xuas	I
 qws	I
-riam	O
-xuas	O
-qws	O
 rau	O
 nplog	O
 ces	O
@@ -384,9 +378,6 @@ ntxias	B
 noj	I
 ntxias	I
 qhe	I
-noj	O
-ntxias	O
-qhe	O
 li	O
 no	O
 tsam	O
@@ -772,9 +763,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 .	O
 
 
@@ -1417,9 +1405,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 ,	O
 mus	O
 travel	O
@@ -1569,9 +1554,6 @@ hnov	B
 ub	I
 hnov	I
 no	I
-ub	O
-hnov	O
-no	O
 thiab	O
 xwb	O
 no	O
@@ -1956,9 +1938,6 @@ kam	B
 teb	I
 kam	I
 chaw	I
-teb	O
-kam	O
-chaw	O
 ua	O
 koj	O
 cov	O
@@ -2279,9 +2258,6 @@ yog	B
 plaub	I
 yog	I
 ntug	I
-plaub	O
-yog	O
-ntug	O
 xwb	O
 ne	O
 .	O

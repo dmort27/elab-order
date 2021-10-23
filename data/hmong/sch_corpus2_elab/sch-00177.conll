@@ -294,9 +294,6 @@ tas	B
 zaj	I
 tas	I
 zog	I
-zaj	O
-tas	O
-zog	O
 tiam	O
 sis	O
 yus	O
@@ -447,9 +444,6 @@ nws	B
 kwv	I
 nws	I
 tij	I
-kwv	O
-nws	O
-tij	O
 li	O
 tw	O
 ntxiab	O
@@ -562,9 +556,6 @@ nws	B
 kwv	I
 nws	I
 tij	I
-kwv	O
-nws	O
-tij	O
 li	O
 tw	O
 ntxiab	O
@@ -756,9 +747,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 lub	O
 teb	O
 chaw	O
@@ -1034,9 +1022,6 @@ nws	B
 kwv	I
 nws	I
 tij	I
-kwv	O
-nws	O
-tij	O
 li	O
 tw	O
 ntxiab	O
@@ -1259,9 +1244,6 @@ nws	B
 kwv	I
 nws	I
 tij	I
-kwv	O
-nws	O
-tij	O
 li	O
 tw	O
 ntxiab	O
@@ -1414,9 +1396,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 no	O
 ,	O
 peb	O
@@ -3020,9 +2999,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 thiab	O
 cov	O
 muaj	O

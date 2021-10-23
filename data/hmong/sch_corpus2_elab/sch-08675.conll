@@ -493,9 +493,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 .	O
 
 
@@ -538,9 +535,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 tag	O
 lawm	O
 e.	O
@@ -814,9 +808,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -854,9 +845,6 @@ tau	B
 ntsej	I
 tau	I
 muag	I
-ntsej	O
-tau	O
-muag	O
 ,	O
 rau	O
 qhov	O
@@ -2010,9 +1998,6 @@ yus	B
 nug	I
 yus	I
 teb	I
-nug	O
-yus	O
-teb	O
 thiab	O
 muab	O
 quav	O
@@ -2027,9 +2012,6 @@ zoo	B
 ntsej	I
 zoo	I
 muag	I
-ntsej	O
-zoo	O
-muag	O
 twb	O
 yog	O
 niam	O
@@ -3686,9 +3668,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 neeg	O
 ,	O
 ces	O

@@ -35,9 +35,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 txawj	O
 ntawv	O
 thiab	O
@@ -935,9 +932,6 @@ hu	B
 kwv	I
 hu	I
 tij	I
-kwv	O
-hu	O
-tij	O
 tuaj	O
 tsheej	O
 tsev	O
@@ -1126,17 +1120,11 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 cem	O
 qhov	B
 quav	I
 qhov	I
 zis	I
-quav	O
-qhov	O
-zis	O
 .	O
 
 

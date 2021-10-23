@@ -2239,9 +2239,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ua	O
 luaj	O
 li	O
@@ -2787,9 +2784,6 @@ qub	B
 zej	I
 qub	I
 zos	I
-zej	O
-qub	O
-zos	O
 los	O
 .	O
 

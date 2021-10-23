@@ -344,9 +344,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 yeej	O
 ib	O
 txwm	O
@@ -362,9 +359,6 @@ qhov	B
 dev	I
 qhov	I
 npua	I
-dev	O
-qhov	O
-npua	O
 li	O
 ntawd	O
 kuv	O

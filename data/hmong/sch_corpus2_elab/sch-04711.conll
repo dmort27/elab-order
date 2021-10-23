@@ -239,9 +239,6 @@ cam	B
 dlej	I
 cam	I
 aav	I
-dlej	O
-cam	O
-aav	O
 nru	O
 tawm	O
 lug	O
@@ -398,9 +395,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 cov	O
 hlob	O
 thiab	O
@@ -537,9 +531,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 muaj	O
 nom	O
@@ -614,9 +605,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 sawv	O
 thiab	O
 cia	O
@@ -651,9 +639,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 thiab	O
 kwv	O
 tij	O

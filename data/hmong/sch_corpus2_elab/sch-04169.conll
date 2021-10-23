@@ -107,9 +107,6 @@ txia	B
 mus	I
 txia	I
 los	I
-mus	O
-txia	O
-los	O
 ntau	O
 zaus	O
 tab	O
@@ -200,9 +197,6 @@ muaj	B
 tub	I
 muaj	I
 ntxhais	I
-tub	O
-muaj	O
-ntxhais	O
 los	O
 cia	O
 yuav	O
@@ -231,9 +225,6 @@ koj	B
 tub	I
 koj	I
 ntxhais	I
-tub	O
-koj	O
-ntxhais	O
 li	O
 ntag	O
 nawb	O
@@ -316,9 +307,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 mus	O
 yuav	O
 John	O
@@ -326,9 +314,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 ...	O
 cov	O
 neeg	O
@@ -1206,9 +1191,6 @@ kev	B
 toj	I
 kev	I
 taug	I
-toj	O
-kev	O
-taug	O
 los	O
 mus	O
 lawm	O
@@ -1488,9 +1470,6 @@ koj	B
 kwv	I
 koj	I
 tij	I
-kwv	O
-koj	O
-tij	O
 ,	O
 pej	O
 lub	O

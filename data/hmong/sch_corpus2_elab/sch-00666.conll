@@ -529,9 +529,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 nyob	O
 ces	O
 feem	O
@@ -783,9 +780,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 lawm	O
 ob	O
 niam	O
@@ -875,9 +869,6 @@ ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 ces	O
 yeej	O
 tsi	O

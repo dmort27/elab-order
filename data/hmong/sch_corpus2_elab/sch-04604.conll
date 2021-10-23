@@ -66,9 +66,6 @@ tas	B
 teb	I
 tas	I
 chaw	I
-teb	O
-tas	O
-chaw	O
 tub	O
 hwm	O
 es	O
@@ -727,9 +724,6 @@ tsis	B
 tag	I
 tsis	I
 kawg	I
-tag	O
-tsis	O
-kawg	O
 .	O
 
 
@@ -757,9 +751,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 uas	O
 tau	O
 koom	O
@@ -786,9 +777,6 @@ tsis	B
 tag	I
 tsis	I
 kawg	I
-tag	O
-tsis	O
-kawg	O
 .	O
 
 

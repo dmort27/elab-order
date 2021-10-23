@@ -921,9 +921,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 li	O
 tsis	O
 yog	O
@@ -932,9 +929,6 @@ neeg	B
 nom	I
 neeg	I
 tswv	I
-nom	O
-neeg	O
-tswv	O
 li	O
 .	O
 
@@ -1766,9 +1760,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsaus	I
-qab	O
-qhuas	O
-tsaus	O
 tias	O
 meb	O
 thiab	O

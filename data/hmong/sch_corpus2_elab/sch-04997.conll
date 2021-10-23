@@ -832,9 +832,6 @@ noog	B
 ub	I
 noog	I
 no	I
-ub	O
-noog	O
-no	O
 xiam	O
 sij	O
 hawm	O
@@ -1174,9 +1171,6 @@ lub	B
 paj	I
 lub	I
 cua	I
-paj	O
-lub	O
-cua	O
 tseem	O
 phem	O
 tshaj	O
@@ -1203,9 +1197,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 kuv	O
 mam	O
 li	O
@@ -1991,9 +1982,6 @@ xyuas	B
 neej	I
 xyuas	I
 tsav	I
-neej	O
-xyuas	O
-tsav	O
 tsis	O
 mus	O
 ntxiv	O
@@ -2050,9 +2038,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 no	O
 nws	O
 yuav	O
@@ -2234,9 +2219,6 @@ suab	B
 ntaj	I
 suab	I
 phom	I
-ntaj	O
-suab	O
-phom	O
 ,	O
 tabsis	O
 nws	O
@@ -2579,9 +2561,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 los	O
 yog	O
 lawv	O
@@ -2590,9 +2569,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 (	O
 nrhiav	O
 nyiaj	O
@@ -2622,9 +2598,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 nyob	O
 lawm	O
 .	O

@@ -330,9 +330,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 .	O
 
 
@@ -681,9 +678,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 los	O
 txog	O
 ntawd	O
@@ -1578,9 +1572,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 hnov	O
 tias	O
 vp	O
@@ -1784,9 +1775,6 @@ hlawv	B
 xyab	I
 hlawv	I
 ntawv	I
-xyab	O
-hlawv	O
-ntawv	O
 hu	O
 thov	O
 nws	O
@@ -1836,9 +1824,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 mus	O
 pe	O
 hawm	O
@@ -2813,9 +2798,6 @@ muaj	B
 kiab	I
 muaj	I
 khw	I
-kiab	O
-muaj	O
-khw	O
 Tus	O
 muaj	O
 ntxhw	O
@@ -2886,9 +2868,6 @@ rau	B
 teb	I
 rau	I
 chaw	I
-teb	O
-rau	O
-chaw	O
 Luag	O
 twb	O
 taw	O

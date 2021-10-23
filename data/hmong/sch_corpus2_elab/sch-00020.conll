@@ -140,9 +140,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 tij	O
 tauj	O
 tij	O
@@ -218,9 +215,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 nrog	O
 POJ	O
 DAUM	O
@@ -1866,9 +1860,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 tus	O
 TUB	O
 XYOOJ9	O

@@ -30,9 +30,6 @@ hloob	B
 mus	I
 hloob	I
 los	I
-mus	O
-hloob	O
-los	O
 thaum	O
 pib	O
 thiab	O
@@ -511,9 +508,6 @@ hloob	B
 mus	I
 hloob	I
 los	I
-mus	O
-hloob	O
-los	O
 thaum	O
 pib	O
 thiab	O
@@ -1993,9 +1987,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 nawb	O
 ...	O
 Tab	O
@@ -2022,9 +2013,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 yog	O
 ib	O
 qho	O

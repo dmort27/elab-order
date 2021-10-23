@@ -6,9 +6,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 txij	O
 no	O
 mus	O
@@ -1210,9 +1207,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 los	O
 yog	O
 tsis	O
@@ -1425,9 +1419,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 muab	O
 Laura	O
 Xiong	O

@@ -1373,9 +1373,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 rau	O
 suav	O
 daws	O
@@ -1888,9 +1885,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 rau	O
 suav	O
 daws	O
@@ -2221,9 +2215,6 @@ moob	B
 neej	I
 moob	I
 tsaav	I
-neej	O
-moob	O
-tsaav	O
 tsis	O
 muaj	O
 dlaab	O

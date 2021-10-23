@@ -49,9 +49,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 .	O
 
 
@@ -121,9 +118,6 @@ kuag	B
 kaab	I
 kuag	I
 hlau	I
-kaab	O
-kuag	O
-hlau	O
 le	O
 kuv	O
 ces	O

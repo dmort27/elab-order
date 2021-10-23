@@ -739,9 +739,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 leejtwg	O
 thiaj	O
@@ -1178,9 +1175,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 thiab	O
 yuav	O
 pab	O
@@ -2632,9 +2626,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 peb	O
 haj	O
@@ -3707,9 +3698,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 .	O
 
 
@@ -4193,9 +4181,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 tsis	O
 paub	O
 tag	O
@@ -4336,9 +4321,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 ,	O
 tsis	O
 paub	O

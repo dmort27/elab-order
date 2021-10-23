@@ -681,9 +681,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 tua	O
 pov	O
 tseg	O
@@ -785,9 +782,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 zoo	O
 li	O
 nov	O

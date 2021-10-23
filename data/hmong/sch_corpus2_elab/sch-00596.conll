@@ -305,9 +305,6 @@ keb	B
 ub	I
 keb	I
 no	I
-ub	O
-keb	O
-no	O
 .	O
 
 
@@ -447,9 +444,6 @@ keb	B
 ub	I
 keb	I
 no	I
-ub	O
-keb	O
-no	O
 .	O
 
 
@@ -1251,9 +1245,6 @@ tham	B
 mus	I
 tham	I
 los	I
-mus	O
-tham	O
-los	O
 nws	O
 mam	O
 li	O
@@ -1277,9 +1268,6 @@ niam	B
 laus	I
 niam	I
 hluas	I
-laus	O
-niam	O
-hluas	O
 tsis	O
 muaj	O
 txiv	O
@@ -1406,9 +1394,6 @@ hle	B
 ub	I
 hle	I
 no	I
-ub	O
-hle	O
-no	O
 tuaj	O
 lawm	O
 tiag.Kuv	O
@@ -1542,9 +1527,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 los	O
 cub	O
 lawm	O
@@ -2255,9 +2237,6 @@ txiv	B
 hmab	I
 txiv	I
 ntoo	I
-hmab	O
-txiv	O
-ntoo	O
 los	O
 cub	O
 lawm	O
@@ -3341,9 +3320,6 @@ niam	B
 laus	I
 niam	I
 hluas	I
-laus	O
-niam	O
-hluas	O
 nkauj	O
 Hmoob	O
 Vaj	O

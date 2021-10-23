@@ -212,9 +212,6 @@ tsi	B
 mus	I
 tsi	I
 los	I
-mus	O
-tsi	O
-los	O
 li	O
 no	O
 tiag	O
@@ -482,9 +479,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 ces	O
 ntsib	O
 phem	O

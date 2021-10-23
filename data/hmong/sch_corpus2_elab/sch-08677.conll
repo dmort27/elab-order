@@ -1071,9 +1071,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 thiab	O
 thov	O
 vajtswv	O
@@ -1134,9 +1131,6 @@ tej	B
 rwj	I
 tej	I
 aws	I
-rwj	O
-tej	O
-aws	O
 tshaj	O
 plaws	O
 li	O
@@ -1154,9 +1148,6 @@ ua	B
 rwj	I
 ua	I
 aws	I
-rwj	O
-ua	O
-aws	O
 ncus	O
 los	O
 lawm	O
@@ -1244,9 +1235,6 @@ ua	B
 rwj	I
 ua	I
 aws	I
-rwj	O
-ua	O
-aws	O
 ncus	O
 mus	O
 tas	O
@@ -1657,9 +1645,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 .	O
 
 

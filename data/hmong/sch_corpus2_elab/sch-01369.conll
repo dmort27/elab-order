@@ -318,9 +318,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 li	O
 cas	O
 ntxiv	O
@@ -594,9 +591,6 @@ tsi	B
 tag	I
 tsi	I
 kawg	I
-tag	O
-tsi	O
-kawg	O
 li	O
 koj	O
 .	O

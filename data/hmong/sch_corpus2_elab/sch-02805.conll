@@ -27,9 +27,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 .	O
 
 
@@ -410,9 +407,6 @@ ncig	B
 zej	I
 ncig	I
 zos	I
-zej	O
-ncig	O
-zos	O
 4.	O
 cheryang	O
 yog	O
@@ -872,17 +866,11 @@ ntawv	B
 txwj	I
 ntawv	I
 nkawm	I
-txwj	O
-ntawv	O
-nkawm	O
 los	O
 ua	B
 txwj	I
 ua	I
 nkawm	I
-txwj	O
-ua	O
-nkawm	O
 ua	O
 ke	O
 ,	O
@@ -897,9 +885,6 @@ ntawv	B
 txwj	I
 ntawv	I
 nkawm	I
-txwj	O
-ntawv	O
-nkawm	O
 los	O
 sib	O
 txig	O
@@ -1028,9 +1013,6 @@ ua	B
 txwj	I
 ua	I
 nkawm	I
-txwj	O
-ua	O
-nkawm	O
 .	O
 
 
@@ -1217,9 +1199,6 @@ ua	B
 kev	I
 ua	I
 cai	I
-kev	O
-ua	O
-cai	O
 kom	O
 tag	O
 dab	O
@@ -1258,9 +1237,6 @@ ua	B
 txwj	I
 ua	I
 nkawm	I
-txwj	O
-ua	O
-nkawm	O
 tiag	O
 tiag	O
 li	O
@@ -1327,9 +1303,6 @@ ua	B
 txwj	I
 ua	I
 nkawm	I
-txwj	O
-ua	O
-nkawm	O
 lawm	O
 .	O
 
@@ -1717,9 +1690,6 @@ kawm	B
 txhij	I
 kawm	I
 txhua	I
-txhij	O
-kawm	O
-txhua	O
 lawd	O
 xwb	O
 vim	O
@@ -2145,9 +2115,6 @@ ua	B
 kev	I
 ua	I
 cai	I
-kev	O
-ua	O
-cai	O
 xwb	O
 .	O
 
@@ -2164,9 +2131,6 @@ ua	B
 txwj	I
 ua	I
 nkawm	I
-txwj	O
-ua	O
-nkawm	O
 .	O
 
 

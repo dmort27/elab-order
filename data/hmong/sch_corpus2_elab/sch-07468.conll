@@ -301,9 +301,6 @@ teg	B
 dej	I
 teg	I
 num	I
-dej	O
-teg	O
-num	O
 yam	O
 tsis	O
 tau	O
@@ -342,9 +339,6 @@ rau	B
 poj	I
 rau	I
 yawm	I
-poj	O
-rau	O
-yawm	O
 los	O
 sis	O
 rau	O
@@ -474,9 +468,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 ,	O
 kev	O
 txawj	O
@@ -488,9 +479,6 @@ siab	B
 loj	I
 siab	I
 dav	I
-loj	O
-siab	O
-dav	O
 .	O
 
 

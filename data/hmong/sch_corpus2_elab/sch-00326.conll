@@ -582,9 +582,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 tej	O
 neeg	O
@@ -2790,9 +2787,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 yawg	O
 txhos	O

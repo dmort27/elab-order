@@ -57,9 +57,6 @@ sib	B
 hlub	I
 sib	I
 tshua	I
-hlub	O
-sib	O
-tshua	O
 .	O
 
 
@@ -90,9 +87,6 @@ suab	B
 nas	I
 suab	I
 noog	I
-nas	O
-suab	O
-noog	O
 ,	O
 thiab	O
 suab	O
@@ -208,9 +202,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 thiab	O
 puam	O
 tsuaj	O
@@ -242,9 +233,6 @@ thoob	B
 zej	I
 thoob	I
 zos	I
-zej	O
-thoob	O
-zos	O
 ,	O
 txhua	O
 lub	O
@@ -294,9 +282,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 thiab	O
 ib	O
 leeg	O

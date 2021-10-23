@@ -123,9 +123,6 @@ nyiag	B
 noj	I
 nyiag	I
 haus	I
-noj	O
-nyiag	O
-haus	O
 yav	O
 tas	O
 lawm	O
@@ -250,9 +247,6 @@ kuv	B
 pog	I
 kuv	I
 yawg	I
-pog	O
-kuv	O
-yawg	O
 nrog	O
 koom	O
 vim	O
@@ -731,9 +725,6 @@ suab	B
 riam	I
 suab	I
 phom	I
-riam	O
-suab	O
-phom	O
 nyuam	O
 qhuav	O
 ntsiag	O
@@ -784,9 +775,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 .	O
 
 
@@ -799,9 +787,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 ,	O
 nws	O
 yog	O
@@ -943,9 +928,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 .	O
 
 
@@ -1024,9 +1006,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 ntau	O
 tus	O
 tim	O

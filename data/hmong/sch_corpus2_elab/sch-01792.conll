@@ -69,9 +69,6 @@ lub	B
 ntsej	I
 lub	I
 muag	I
-ntsej	O
-lub	O
-muag	O
 tsis	O
 zoo	O
 los	O
@@ -209,16 +206,10 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 muaj	B
 ntsej	I
 muaj	I
 muag	I
-ntsej	O
-muaj	O
-muag	O
 luag	O
 yeej	O
 tsis	O
@@ -296,9 +287,6 @@ tw	B
 vaj	I
 tw	I
 tsev	I
-vaj	O
-tw	O
-tsev	O
 yam	O
 twb	O
 tsis	O

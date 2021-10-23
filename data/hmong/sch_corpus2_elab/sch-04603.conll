@@ -38,9 +38,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 tias	O
 nej	O
 mas	O
@@ -217,9 +214,6 @@ raug	B
 ntes	I
 raug	I
 kaw	I
-ntes	O
-raug	O
-kaw	O
 ,	O
 koj	O
 mam	O
@@ -315,9 +309,6 @@ raws	B
 noj	I
 raws	I
 haus	I
-noj	O
-raws	O
-haus	O
 ''	O
 yuav	O
 raug	O
@@ -548,9 +539,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 tuaj	O
 .	O
 

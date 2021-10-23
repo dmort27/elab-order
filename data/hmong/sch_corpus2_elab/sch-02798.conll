@@ -70,9 +70,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 rau	O
 nws	O
 pojniam	O
@@ -381,9 +378,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 ces	O
 thaum	O
 kawg	O
@@ -1293,9 +1287,6 @@ siab	B
 loj	I
 siab	I
 dav	I
-loj	O
-siab	O
-dav	O
 ,	O
 tsho	O
 plhuav	O
@@ -1868,9 +1859,6 @@ tau	B
 koob	I
 tau	I
 hmoov	I
-koob	O
-tau	O
-hmoov	O
 .	O
 
 
@@ -1913,9 +1901,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 mas	O
 thiaj	O
 zoo	O
@@ -1991,9 +1976,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 es	O
 tsis	O
 xav	O

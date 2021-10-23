@@ -49,9 +49,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 dabtsi	O
 lawm	O
 ...	O
@@ -267,9 +264,6 @@ tsi	B
 mus	I
 tsi	I
 los	I
-mus	O
-tsi	O
-los	O
 ...	O
 lawd	O
 kuj	O
@@ -426,9 +420,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 hais	O
 kuv	O
 li	O

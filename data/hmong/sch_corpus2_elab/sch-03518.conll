@@ -355,9 +355,6 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 los	O
 hmoob	O
 yeej	O
@@ -809,9 +806,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 thov	O
 paub	O
 txaj	O
@@ -1194,9 +1188,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 li	O
 ntawd	O
 .	O

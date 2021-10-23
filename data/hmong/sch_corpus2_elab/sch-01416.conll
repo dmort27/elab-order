@@ -472,9 +472,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 pab	O
 kom	O
 txhob	O
@@ -1353,9 +1350,6 @@ piav	B
 tes	I
 piav	I
 taw	I
-tes	O
-piav	O
-taw	O
 ntau	O
 xwb	O
 vim	O
@@ -1921,9 +1915,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 .	O
 

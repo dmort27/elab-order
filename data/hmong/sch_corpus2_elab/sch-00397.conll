@@ -174,9 +174,6 @@ muaj	B
 teej	I
 muaj	I
 tug	I
-teej	O
-muaj	O
-tug	O
 luas	O
 sav	O
 ?	O
@@ -490,9 +487,6 @@ muaj	B
 teej	I
 muaj	I
 tug	I
-teej	O
-muaj	O
-tug	O
 luas	O
 sav	O
 ?	O
@@ -644,9 +638,6 @@ tawm	B
 roj	I
 tawm	I
 ntshaav	I
-roj	O
-tawm	O
-ntshaav	O
 ntawd	O
 nua	O
 .	O
@@ -659,9 +650,6 @@ tej	B
 nam	I
 tej	I
 txiv	I
-nam	O
-tej	O
-txiv	O
 ua	O
 tau	O
 30	O
@@ -775,9 +763,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 ,	O
 thiab	O
 cov	O
@@ -960,9 +945,6 @@ cov	B
 txawj	I
 cov	I
 ntse	I
-txawj	O
-cov	O
-ntse	O
 thiab	O
 cov	O
 neeg	O
@@ -1158,9 +1140,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 dlaag	O
 tug	O
 puas	O

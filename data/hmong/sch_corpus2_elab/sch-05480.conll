@@ -55,9 +55,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 hauv	O
 no	O
 los	O
@@ -202,9 +199,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 nyiam	O
 qhuav	O
 pib	O
@@ -212,9 +206,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 nrog	O
 lwm	O
 haiv	O
@@ -392,9 +383,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 lub	O
 taw	O
 rooj	O
@@ -441,9 +429,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 los	O
 koj	O
 tus	O

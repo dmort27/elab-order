@@ -918,9 +918,6 @@ ua	B
 loj	I
 ua	I
 lug	I
-loj	O
-ua	O
-lug	O
 rau	O
 cov	O
 yawm	O
@@ -1200,9 +1197,6 @@ rua	B
 ub	I
 rua	I
 nua	I
-ub	O
-rua	O
-nua	O
 ces	O
 pheej	O
 muaj	O
@@ -1306,9 +1300,6 @@ twv	B
 ub	I
 twv	I
 no	I
-ub	O
-twv	O
-no	O
 es	O
 lam	O
 ze	O
@@ -2156,9 +2147,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 thiab	O
 daim	O
 qub	O

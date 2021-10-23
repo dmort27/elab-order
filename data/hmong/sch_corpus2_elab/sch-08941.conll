@@ -270,9 +270,6 @@ ntau	B
 pab	I
 ntau	I
 pawg	I
-pab	O
-ntau	O
-pawg	O
 ,	O
 ntau	O
 haiv-neeg	O
@@ -670,17 +667,11 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 (	O
 ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 )	O
 .	O
 
@@ -1508,9 +1499,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 .	O
 
 
@@ -1992,9 +1980,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 me	O
 ntsis	O
 thiab	O
@@ -2048,9 +2033,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 rau	O
 yus	O
 thiab	O
@@ -2267,9 +2249,6 @@ nom	B
 ub	I
 nom	I
 no	I
-ub	O
-nom	O
-no	O
 .	O
 
 
@@ -2430,9 +2409,6 @@ tej	B
 siab	I
 tej	I
 ntsws	I
-siab	O
-tej	O
-ntsws	O
 mus	O
 cog	O
 rau	O
@@ -2765,9 +2741,6 @@ luag	B
 noj	I
 luag	I
 haus	I
-noj	O
-luag	O
-haus	O
 ,	O
 mus	O
 lasvoo	O

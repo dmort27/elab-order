@@ -194,9 +194,6 @@ kawg	B
 siab	I
 kawg	I
 ntsws	I
-siab	O
-kawg	O
-ntsws	O
 li	O
 ntag	O
 .	O
@@ -1149,9 +1146,6 @@ hais	B
 lwj	I
 hais	I
 liam	I
-lwj	O
-hais	O
-liam	O
 los	O
 .	O
 
@@ -1172,9 +1166,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 no	O
 .	O
@@ -1255,9 +1246,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 li	O
 no	O
 lawm	O
@@ -1282,9 +1270,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 ntxhais	O
 coj	O
 tuaj	O
@@ -1320,9 +1305,6 @@ haus	B
 dej	I
 haus	I
 cawv	I
-dej	O
-haus	O
-cawv	O
 es	O
 mus	O
 saum	O
@@ -1549,9 +1531,6 @@ dhau	B
 kev	I
 dhau	I
 cai	I
-kev	O
-dhau	O
-cai	O
 hwv	O
 lawm	O
 .....	O
@@ -1593,9 +1572,6 @@ xeem	B
 ub	I
 xeem	I
 no	I
-ub	O
-xeem	O
-no	O
 rau	O
 luag	O
 ......	O

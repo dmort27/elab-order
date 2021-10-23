@@ -269,9 +269,6 @@ muaj	B
 kuab	I
 muaj	I
 tshuaj	I
-kuab	O
-muaj	O
-tshuaj	O
 (	O
 tsis	O
 muaj	O
@@ -729,9 +726,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 qw	O
 ncej	O
 toj	O
@@ -751,9 +745,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 ces	O
 ,	O
 kuv	O
@@ -896,9 +887,6 @@ ua	B
 phab	I
 ua	I
 pheev	I
-phab	O
-ua	O
-pheev	O
 ?	O
 ?	O
 
@@ -1298,9 +1286,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 no	O
 tiag	O
 tiag	O

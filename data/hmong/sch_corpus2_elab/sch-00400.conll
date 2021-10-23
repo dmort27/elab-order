@@ -1384,9 +1384,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 tes	O
 poob	O
 taag	O
@@ -2144,9 +2141,6 @@ yawm	B
 yij	I
 yawm	I
 dab	I
-yij	O
-yawm	O
-dab	O
 tog	O
 ntxhais	O
 thiaj	O
@@ -4617,9 +4611,6 @@ rooj	B
 noj	I
 rooj	I
 haus	I
-noj	O
-rooj	O
-haus	O
 .	O
 
 
@@ -4642,9 +4633,6 @@ txiv	B
 neeb	I
 txiv	I
 yaig	I
-neeb	O
-txiv	O
-yaig	O
 lawv	O
 thiaj	O
 xav	O

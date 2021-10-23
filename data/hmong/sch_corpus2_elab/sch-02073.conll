@@ -168,9 +168,6 @@ raug	B
 ntsej	I
 raug	I
 muag	I
-ntsej	O
-raug	O
-muag	O
 li	O
 no	O
 ,	O
@@ -231,9 +228,6 @@ yuav	B
 lwj	I
 yuav	I
 liam	I
-lwj	O
-yuav	O
-liam	O
 tag	O
 lau	O
 ...............	O
@@ -326,9 +320,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 nrog	O
 lwm	O
 tus	O
@@ -375,9 +366,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 es	O
 thiaj	O
 muaj	O
@@ -746,9 +734,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 nawb	O
 .	O
 
@@ -1847,9 +1832,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 ,	O
 muaj	O
 pojniam	O
@@ -1860,17 +1842,11 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 muaj	B
 laj	I
 muaj	I
 kam	I
-laj	O
-muaj	O
-kam	O
 xwb	O
 !	O
 
@@ -2697,9 +2673,6 @@ xav	B
 ub	I
 xav	I
 no	I
-ub	O
-xav	O
-no	O
 thiab	O
 yeej	O
 ntsia	O

@@ -1115,9 +1115,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ntiag	O
 tug	O
 li	O
@@ -1160,9 +1157,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 sib	O
 rho	O
 sia	O
@@ -1390,9 +1384,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 es	O
 pheej	O
 niaj	O
@@ -1413,9 +1404,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 lawm	O
 no	O
 ,	O
@@ -1559,9 +1547,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 .	O
 
 
@@ -1571,9 +1556,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 ,	O
 leej	O
 twg	O
@@ -2864,9 +2846,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 xwb	O
 ....	O
 piv	O

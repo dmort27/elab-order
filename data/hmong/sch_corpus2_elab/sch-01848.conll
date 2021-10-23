@@ -174,9 +174,6 @@ yuav	B
 mab	I
 yuav	I
 suav	I
-mab	O
-yuav	O
-suav	O
 thiab	O
 txia	O
 thiab	O
@@ -185,9 +182,6 @@ ua	B
 mab	I
 ua	I
 suav	I
-mab	O
-ua	O
-suav	O
 kom	O
 muaj	O
 cov	O
@@ -389,9 +383,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 thiab	O
 peb	O
 lub	O

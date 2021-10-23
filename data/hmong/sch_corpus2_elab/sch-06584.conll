@@ -511,9 +511,6 @@ hnab	B
 ris	I
 hnab	I
 tsho	I
-ris	O
-hnab	O
-tsho	O
 ne	O
 .	O
 
@@ -574,9 +571,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 thiab	O
 kab	O
 tshoob	O
@@ -614,9 +608,6 @@ txeeb	B
 teb	I
 txeeb	I
 chaw	I
-teb	O
-txeeb	O
-chaw	O
 .	O
 
 

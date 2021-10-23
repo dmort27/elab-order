@@ -223,9 +223,6 @@ tiav	B
 nkauj	I
 tiav	I
 nraug	I
-nkauj	O
-tiav	O
-nraug	O
 tab	O
 txawm	O
 tsis	O
@@ -277,9 +274,6 @@ lus	B
 tshoob	I
 lus	I
 kos	I
-tshoob	O
-lus	O
-kos	O
 Ziag	O
 no	O
 (	O
@@ -379,9 +373,6 @@ coj	B
 dab	I
 coj	I
 qhua	I
-dab	O
-coj	O
-qhua	O
 thiab	O
 tuav	O
 kab	O
@@ -706,9 +697,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 xwb	O
 nawb	O
 .	O

@@ -195,9 +195,6 @@ me	B
 teb	I
 me	I
 chaw	I
-teb	O
-me	O
-chaw	O
 es	O
 hos	O
 tsi	O
@@ -615,9 +612,6 @@ ntsuag	B
 teb	I
 ntsuag	I
 chaw	I
-teb	O
-ntsuag	O
-chaw	O
 ......	O
 nws	O
 Pes	O
@@ -3262,9 +3256,6 @@ ncig	B
 zej	I
 ncig	I
 zos	I
-zej	O
-ncig	O
-zos	O
 ..	O
 ua	O
 tus	O

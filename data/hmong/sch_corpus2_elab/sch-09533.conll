@@ -570,9 +570,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 .	O
 
 
@@ -628,9 +625,6 @@ ywj	B
 faab	I
 ywj	I
 fwj	I
-faab	O
-ywj	O
-fwj	O
 .	O
 
 
@@ -1171,9 +1165,6 @@ tsi	B
 taj	I
 tsi	I
 tug	I
-taj	O
-tsi	O
-tug	O
 es	O
 nwg	O
 yaaj	O

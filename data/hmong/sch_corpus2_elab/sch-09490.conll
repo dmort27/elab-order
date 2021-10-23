@@ -408,9 +408,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ,	O
 tus	O
 ntawd	O
@@ -523,9 +520,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 li	O
 lwm	O
 pawg	O
@@ -735,9 +729,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ,	O
 los	O
 yog	O
@@ -749,9 +740,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -1270,9 +1258,6 @@ muab	B
 ub	I
 muab	I
 no	I
-ub	O
-muab	O
-no	O
 coj	O
 los	O
 waste	O
@@ -2372,9 +2357,6 @@ yas	B
 kev	I
 yas	I
 ncua	I
-kev	O
-yas	O
-ncua	O
 xwb	O
 .	O
 
@@ -2591,9 +2573,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 mas	O
 lod	O
 ...	O
@@ -2639,9 +2618,6 @@ lus	B
 siab	I
 lus	I
 nqi	I
-siab	O
-lus	O
-nqi	O
 xwb	O
 nad	O
 .	O
@@ -3073,9 +3049,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 tsis	O
 txhob	O
 muab	O

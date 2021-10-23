@@ -462,9 +462,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ntawm	O
 tej	O
 chaw	O
@@ -528,9 +525,6 @@ nqa	B
 hneev	I
 nqa	I
 xub	I
-hneev	O
-nqa	O
-xub	O
 maj	O
 mam	O
 xauj	O
@@ -1254,9 +1248,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 zoo	O
 li	O
 yus	O
@@ -1722,9 +1713,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 ces	O
 ua	O
 siab	O
@@ -2108,9 +2096,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 tham	O
 hluas	O
 nkauj	O
@@ -2231,9 +2216,6 @@ mus	B
 mus	I
 mus	I
 los	I
-mus	O
-mus	O
-los	O
 los	O
 thaum	O
 twg	O
@@ -2858,9 +2840,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ntawm	O
 tej	O
 chaw	O
@@ -2924,9 +2903,6 @@ nqa	B
 hneev	I
 nqa	I
 xub	I
-hneev	O
-nqa	O
-xub	O
 maj	O
 mam	O
 xauj	O
@@ -3650,9 +3626,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 zoo	O
 li	O
 yus	O
@@ -4098,9 +4071,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 ces	O
 ua	O
 siab	O
@@ -4484,9 +4454,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 tham	O
 hluas	O
 nkauj	O
@@ -4607,9 +4574,6 @@ mus	B
 mus	I
 mus	I
 los	I
-mus	O
-mus	O
-los	O
 los	O
 thaum	O
 twg	O
@@ -5256,9 +5220,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 los	O
 nws	O
 kuj	O

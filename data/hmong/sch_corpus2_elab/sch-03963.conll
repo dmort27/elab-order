@@ -81,9 +81,6 @@ coob	B
 leej	I
 coob	I
 tus	I
-leej	O
-coob	O
-tus	O
 tuaj	O
 ua	O
 lub	O
@@ -111,9 +108,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 thiab	O
 los	O
 kuj	O
@@ -123,9 +117,6 @@ nyias	B
 vaj	I
 nyias	I
 tsev	I
-vaj	O
-nyias	O
-tsev	O
 los	O
 yog	O
 ib	O
@@ -555,9 +546,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 lawm	O
 ...	O
 laj	O
@@ -1415,9 +1403,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 no	O
 los	O
 mas	O

@@ -933,9 +933,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 tsis	O
 yog	O
 lam	O
@@ -2078,9 +2075,6 @@ koj	B
 vaj	I
 koj	I
 tsev	I
-vaj	O
-koj	O
-tsev	O
 koj	O
 uas	O
 rau	O
@@ -2297,9 +2291,6 @@ luag	B
 poj	I
 luag	I
 sev	I
-poj	O
-luag	O
-sev	O
 ,	O
 thiab	O
 ntxias	O
@@ -2307,9 +2298,6 @@ luag	B
 noj	I
 luag	I
 haus	I
-noj	O
-luag	O
-haus	O
 .	O
 
 
@@ -2511,9 +2499,6 @@ xiam	B
 hlwb	I
 xiam	I
 ceg	I
-hlwb	O
-xiam	O
-ceg	O
 lawm	O
 xwb	O
 ,	O
@@ -3345,9 +3330,6 @@ txoj	B
 kab	I
 txoj	I
 kev	I
-kab	O
-txoj	O
-kev	O
 ,	O
 lawv	O
 nthuav	O
@@ -3545,9 +3527,6 @@ tsheej	B
 phab	I
 tsheej	I
 pheem	I
-phab	O
-tsheej	O
-pheem	O
 cia	O
 ..	O
 Tab	O

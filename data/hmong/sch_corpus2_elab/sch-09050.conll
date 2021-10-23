@@ -191,9 +191,6 @@ xaiv	B
 ntsej	I
 xaiv	I
 muag	I
-ntsej	O
-xaiv	O
-muag	O
 .	O
 
 
@@ -282,9 +279,6 @@ cam	B
 mus	I
 cam	I
 los	I
-mus	O
-cam	O
-los	O
 ,	O
 los	O
 yeej	O
@@ -313,9 +307,6 @@ cam	B
 mus	I
 cam	I
 los	I
-mus	O
-cam	O
-los	O
 ,	O
 zoo	O
 li	O
@@ -431,18 +422,12 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 ,	O
 yus	O
 tej	B
 txheeb	I
 tej	I
 ze	I
-txheeb	O
-tej	O
-ze	O
 ,	O
 tej	O
 yam	O

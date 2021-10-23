@@ -1001,9 +1001,6 @@ luag	B
 noj	I
 luag	I
 haus	I
-noj	O
-luag	O
-haus	O
 3.	O
 cov	O
 ua	O
@@ -1022,9 +1019,6 @@ qhua	B
 qab	I
 qhua	I
 tsau	I
-qab	O
-qhua	O
-tsau	O
 kom	O
 cov	O
 hos	O
@@ -1341,9 +1335,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 txog	O
 thaum	O
 Tsoomfwv	O
@@ -2611,9 +2602,6 @@ txav	B
 xyoob	I
 txav	I
 ntoo	I
-xyoob	O
-txav	O
-ntoo	O
 lug	O
 thaiv	O
 lug	O
@@ -2820,9 +2808,6 @@ lwm	B
 paab	I
 lwm	I
 pawg	I
-paab	O
-lwm	O
-pawg	O
 ua	O
 tsi	O
 yog	O
@@ -2831,9 +2816,6 @@ lwm	B
 paab	I
 lwm	I
 pawg	I
-paab	O
-lwm	O
-pawg	O
 lawm	O
 hab	O
 ces	O
@@ -2858,9 +2840,6 @@ lwm	B
 paab	I
 lwm	I
 pawg	I
-paab	O
-lwm	O
-pawg	O
 los	O
 kuj	O
 muaj	O
@@ -3096,9 +3075,6 @@ los	B
 qhuab	I
 los	I
 qhia	I
-qhuab	O
-los	O
-qhia	O
 seb	O
 lawv	O
 puas	O

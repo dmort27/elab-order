@@ -127,9 +127,6 @@ txheej	B
 paab	I
 txheej	I
 pawg	I
-paab	O
-txheej	O
-pawg	O
 le	O
 .	O
 
@@ -693,9 +690,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 nrug	O
 luas	O
 nyob	O
@@ -1204,9 +1198,6 @@ raws	B
 kwv	I
 raws	I
 tij	I
-kwv	O
-raws	O
-tij	O
 ,	O
 koj	O
 twb	O
@@ -1511,9 +1502,6 @@ muag	B
 vaj	I
 muag	I
 tsev	I
-vaj	O
-muag	O
-tsev	O
 .	O
 
 
@@ -1728,9 +1716,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 nrug	O
 luas	O
 nyob	O
@@ -1922,9 +1907,6 @@ tsi	B
 dleb	I
 tsi	I
 ze	I
-dleb	O
-tsi	O
-ze	O
 ntawm	O
 cov	O
 Yivxasees	O
@@ -2022,9 +2004,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 kuam	O
 cobphum	O
 xyoo	O

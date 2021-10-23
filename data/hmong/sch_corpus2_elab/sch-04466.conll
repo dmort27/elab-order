@@ -211,9 +211,6 @@ lwm	B
 leej	I
 lwm	I
 tug	I
-leej	O
-lwm	O
-tug	O
 .	O
 
 
@@ -530,9 +527,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 xwb	O
 ''	O
 tsi	O
@@ -971,9 +965,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 tag	O
 tus	O
 lawm	O

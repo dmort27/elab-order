@@ -90,9 +90,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 tau	O
 30	O
 xyoo	O
@@ -264,9 +261,6 @@ paub	B
 siab	I
 paub	I
 nqi	I
-siab	O
-paub	O
-nqi	O
 ...	O
 es	O
 txhob	O
@@ -1109,9 +1103,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 uas	O
 twb	O
 tsis	O

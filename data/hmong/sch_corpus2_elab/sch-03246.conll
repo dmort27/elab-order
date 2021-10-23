@@ -567,9 +567,6 @@ tau	B
 kwv	I
 tau	I
 tij	I
-kwv	O
-tau	O
-tij	O
 ,	O
 hlub	O
 tsi	O
@@ -586,9 +583,6 @@ lub	B
 zej	I
 lub	I
 zog	I
-zej	O
-lub	O
-zog	O
 .	O
 
 
@@ -707,9 +701,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 lawm	O
 xwb	O
 ces	O
@@ -778,9 +769,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 xwb	O
 nawb	O
 .	O
@@ -1007,9 +995,6 @@ lub	B
 zej	I
 lub	I
 zog	I
-zej	O
-lub	O
-zog	O
 .	O
 
 
@@ -1128,9 +1113,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 lawm	O
 xwb	O
 ces	O
@@ -1199,9 +1181,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 xwb	O
 nawb.	O
 <	O

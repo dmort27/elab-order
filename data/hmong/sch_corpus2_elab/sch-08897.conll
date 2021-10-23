@@ -90,9 +90,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 tsis	O
 yeej	O
 tus	O
@@ -211,17 +208,11 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hais	O
 txog	B
 ub	I
 txog	I
 no	I
-ub	O
-txog	O
-no	O
 li	O
 koj	O
 .	O
@@ -356,9 +347,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ?	O
 
 

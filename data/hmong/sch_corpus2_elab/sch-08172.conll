@@ -56,9 +56,6 @@ muaj	B
 tsuv	I
 muaj	I
 rog	I
-tsuv	O
-muaj	O
-rog	O
 lawm	O
 ces	O
 nyob	O
@@ -97,9 +94,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 rau	O
 saab	O
 tebchaws	O
@@ -163,9 +157,6 @@ ua	B
 dlev	I
 ua	I
 npua	I
-dlev	O
-ua	O
-npua	O
 cuag	O
 le	O
 puab	O
@@ -201,9 +192,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 .	O
 
 
@@ -214,9 +202,6 @@ ua	B
 dlej	I
 ua	I
 num	I
-dlej	O
-ua	O
-num	O
 .	O
 
 

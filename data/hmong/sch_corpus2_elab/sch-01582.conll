@@ -109,9 +109,6 @@ txhua	B
 pab	I
 txhua	I
 pawg	I
-pab	O
-txhua	O
-pawg	O
 sivzog	O
 kawg	O
 kiag	O
@@ -291,9 +288,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 kom	O
 peb	O
 cov	O
@@ -576,9 +570,6 @@ tw	B
 vaj	I
 tw	I
 tsev	I
-vaj	O
-tw	O
-tsev	O
 xwb	O
 ces	O
 ,	O

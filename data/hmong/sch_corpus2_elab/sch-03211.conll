@@ -10,17 +10,11 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 los	O
 kav	B
 teb	I
 kav	I
 chaw	I
-teb	O
-kav	O
-chaw	O
 thiab	O
 mas	O
 kuv	O

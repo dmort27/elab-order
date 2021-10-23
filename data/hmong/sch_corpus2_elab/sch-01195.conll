@@ -332,9 +332,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 tiag	O
 tiag	O
 txog	O
@@ -520,9 +517,6 @@ yus	B
 vaj	I
 yus	I
 tsev	I
-vaj	O
-yus	O
-tsev	O
 (	O
 USA	O
 )	O
@@ -1800,9 +1794,6 @@ tu	B
 vaj	I
 tu	I
 tsev	I
-vaj	O
-tu	O
-tsev	O
 ib	O
 nyuag	O
 ntu	O
@@ -1854,9 +1845,6 @@ lov	B
 tes	I
 lov	I
 taw	I
-tes	O
-lov	O
-taw	O
 ,	O
 lov	O
 duav	O
@@ -2274,9 +2262,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 qhia	O
 sawv	O
 daws	O

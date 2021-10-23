@@ -465,9 +465,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 democracy	O
 xwb	O
 .	O
@@ -587,9 +584,6 @@ koom	B
 teb	I
 koom	I
 chaw	I
-teb	O
-koom	O
-chaw	O
 .	O
 
 
@@ -629,9 +623,6 @@ txuj	B
 kev	I
 txuj	I
 cai	I
-kev	O
-txuj	O
-cai	O
 kws	O
 yuav	O
 zoo	O
@@ -701,9 +692,6 @@ txuj	B
 kev	I
 txuj	I
 cai	I
-kev	O
-txuj	O
-cai	O
 kws	O
 yuav	O
 zoo	O
@@ -915,9 +903,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 democracy	O
 xwb	O
 .	O
@@ -1037,9 +1022,6 @@ koom	B
 teb	I
 koom	I
 chaw	I
-teb	O
-koom	O
-chaw	O
 .	O
 
 
@@ -1079,9 +1061,6 @@ txuj	B
 kev	I
 txuj	I
 cai	I
-kev	O
-txuj	O
-cai	O
 kws	O
 yuav	O
 zoo	O
@@ -1314,9 +1293,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 saib	O
 yog	O
 mus	O
@@ -1536,9 +1512,6 @@ lug	B
 paaj	I
 lug	I
 cua	I
-paaj	O
-lug	O
-cua	O
 qaab	O
 rooj	O
 mas	O
@@ -1560,9 +1533,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 sib	O
 thaam	O
 txug	O
@@ -2086,9 +2056,6 @@ ua	B
 kub	I
 ua	I
 ceev	I
-kub	O
-ua	O
-ceev	O
 kom	O
 tus	O
 Nais	O
@@ -2615,9 +2582,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hais	O
 xwb	O
 xyov	O
@@ -2904,9 +2868,6 @@ lug	B
 paaj	I
 lug	I
 cua	I
-paaj	O
-lug	O
-cua	O
 peb	O
 nov	O
 ntawd	O
@@ -2973,9 +2934,6 @@ ib	B
 teb	I
 ib	I
 chaw	I
-teb	O
-ib	O
-chaw	O
 los	O
 lawm	O
 xwb	O
@@ -3389,9 +3347,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 kawg	O
 kev	O
 lawm	O

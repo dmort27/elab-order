@@ -194,9 +194,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 rau	O
 nws	O
 lub	O
@@ -772,9 +769,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 los	O
 yog	O
 cog	O
@@ -793,9 +787,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -1770,9 +1761,6 @@ paub	B
 txhij	I
 paub	I
 txhua	I
-txhij	O
-paub	O
-txhua	O
 teb	O
 saib	O
 yog	O
@@ -1844,9 +1832,6 @@ haav	B
 zoov	I
 haav	I
 tsuag	I
-zoov	O
-haav	O
-tsuag	O
 xwb	O
 nua	O
 --	O
@@ -1933,9 +1918,6 @@ tsiv	B
 noj	I
 tsiv	I
 haus	I
-noj	O
-tsiv	O
-haus	O
 xwb	O
 lov	O
 ?	O

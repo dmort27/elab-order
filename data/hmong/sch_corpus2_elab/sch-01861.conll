@@ -93,9 +93,6 @@ hais	B
 plaub	I
 hais	I
 ntug	I
-plaub	O
-hais	O
-ntug	O
 hauv	O
 court	O
 no	O
@@ -246,9 +243,6 @@ cuag	B
 poj	I
 cuag	I
 yawm	I
-poj	O
-cuag	O
-yawm	O
 ned	O
 ...	O
 txoj	O
@@ -365,9 +359,6 @@ tsi	B
 moog	I
 tsi	I
 lug	I
-moog	O
-tsi	O
-lug	O
 .	O
 
 
@@ -1257,9 +1248,6 @@ tus	B
 phem	I
 tus	I
 zoo	I
-phem	O
-tus	O
-zoo	O
 los	O
 yeej	O
 muaj	O
@@ -1704,9 +1692,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 ua	O
 hau	O
 zos	O
@@ -1997,9 +1982,6 @@ lub	B
 dag	I
 lub	I
 zog	I
-dag	O
-lub	O
-zog	O
 thiab	O
 txhua	O
 tus	O
@@ -2045,9 +2027,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 ces	O
 kawg	O
 rau	O
@@ -2844,9 +2823,6 @@ has	B
 ub	I
 has	I
 nua	I
-ub	O
-has	O
-nua	O
 lawm	O
 os	O
 ,	O

@@ -121,9 +121,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 sib	O
 tw	O
 khiav	O
@@ -854,9 +851,6 @@ sib	B
 hlub	I
 sib	I
 paab	I
-hlub	O
-sib	O
-paab	O
 hab	O
 has	O
 ib	O
@@ -1709,9 +1703,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 muab	O
 hlwb	O
 ntxuav	O
@@ -4505,9 +4496,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 ,	O
 tsuas	O
 yog	O

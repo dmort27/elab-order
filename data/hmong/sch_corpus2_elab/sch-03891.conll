@@ -1450,27 +1450,18 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 mus	O
 ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 mus	O
 ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 JUST	O
 GO	O
 >	O
@@ -1658,9 +1649,6 @@ tau	B
 tub	I
 tau	I
 kiv	I
-tub	O
-tau	O
-kiv	O
 ,	O
 yog	O
 tus	O
@@ -1685,9 +1673,6 @@ nej	B
 tub	I
 nej	I
 kiv	I
-tub	O
-nej	O
-kiv	O
 .	O
 ''	O
 
@@ -1708,9 +1693,6 @@ me	B
 tub	I
 me	I
 ntxhais	I
-tub	O
-me	O
-ntxhais	O
 los	O
 es	O
 hlub	O
@@ -1857,9 +1839,6 @@ xaiv	B
 ntsej	I
 xaiv	I
 muag	I
-ntsej	O
-xaiv	O
-muag	O
 ,	O
 tsi	O
 xaiv	O
@@ -2007,9 +1986,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 thiab	O
 tej	O
 kab	O
@@ -2128,9 +2104,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 tsom	O
 kwm	O
 koj	O
@@ -2478,9 +2451,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 ....	O
 Sis	O
 ntsib	O
@@ -2522,9 +2492,6 @@ xwb	B
 leej	I
 xwb	I
 ntxwv	I
-leej	O
-xwb	O
-ntxwv	O
 ntag	O
 .	O
 
@@ -2643,9 +2610,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 heev	O
 ,	O
 kuv	O

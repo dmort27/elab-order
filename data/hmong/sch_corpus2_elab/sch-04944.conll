@@ -483,9 +483,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 tseem	O
 yuav	O
 muab	O
@@ -709,9 +706,6 @@ sib	B
 pab	I
 sib	I
 txhawb	I
-pab	O
-sib	O
-txhawb	O
 ,	O
 kev	O
 sib	O
@@ -1137,9 +1131,6 @@ yam	B
 ub	I
 yam	I
 no	I
-ub	O
-yam	O
-no	O
 rau	O
 nws	O
 xwb	O

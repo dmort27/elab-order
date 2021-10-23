@@ -139,9 +139,6 @@ ua	B
 rwj	I
 ua	I
 aws	I
-rwj	O
-ua	O
-aws	O
 rau	O
 yus	O
 txoj	O
@@ -170,9 +167,6 @@ tawm	B
 roj	I
 tawm	I
 ntshav	I
-roj	O
-tawm	O
-ntshav	O
 pab	O
 xwb	O
 thiaj	O
@@ -922,9 +916,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 los	O
 ua	O
 rau	O
@@ -1093,9 +1084,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 los	O
 hais	O
 .	O
@@ -1124,9 +1112,6 @@ luag	B
 vaj	I
 luag	I
 tsev	I
-vaj	O
-luag	O
-tsev	O
 .	O
 
 
@@ -2058,9 +2043,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 ,	O
 thiaj	O
 li	O

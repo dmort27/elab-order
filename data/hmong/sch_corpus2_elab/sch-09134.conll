@@ -585,9 +585,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 li	O
 .	O
 
@@ -1741,9 +1738,6 @@ tsi	B
 kub	I
 tsi	I
 txag	I
-kub	O
-tsi	O
-txag	O
 los	O
 hajyam	O
 tsi	O
@@ -2274,9 +2268,6 @@ tus	B
 hlob	I
 tus	I
 yau	I
-hlob	O
-tus	O
-yau	O
 kawg	O
 yuav	O
 tuaj	O
@@ -3357,9 +3348,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 yug	O
 ......	O
 Maiv	O
@@ -4218,9 +4206,6 @@ ua	B
 neej	I
 ua	I
 tsav	I
-neej	O
-ua	O
-tsav	O
 lawm	O
 xwb	O
 lauj	O

@@ -406,9 +406,6 @@ nrog	B
 mab	I
 nrog	I
 suav	I
-mab	O
-nrog	O
-suav	O
 ,	O
 laug	O
 tsis	O
@@ -542,9 +539,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 los	O
 koj	O
 yeej	O
@@ -558,9 +552,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 los	O
 kuj	O
 ua	O
@@ -1133,9 +1124,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 ua	O
 nom	O
 .	O
@@ -1531,9 +1519,6 @@ tsis	B
 ciaj	I
 tsis	I
 tuag	I
-ciaj	O
-tsis	O
-tuag	O
 li	O
 nej	O
 .	O
@@ -1731,9 +1716,6 @@ paub	B
 ub	I
 paub	I
 no	I
-ub	O
-paub	O
-no	O
 xwb	O
 mas	O
 lawv	O
@@ -2010,9 +1992,6 @@ tos	B
 noj	I
 tos	I
 haus	I
-noj	O
-tos	O
-haus	O
 xwb	O
 yeej	O
 tsis	O
@@ -2790,9 +2769,6 @@ tos	B
 noj	I
 tos	I
 haus	I
-noj	O
-tos	O
-haus	O
 .	O
 
 

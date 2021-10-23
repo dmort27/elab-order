@@ -110,9 +110,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 tias	O
 lawv	O
 yog	O
@@ -122,9 +119,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 lawm	O
 vim	O
 qhov	O
@@ -343,9 +337,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 4.	O
 yuav	O
 tau	O
@@ -888,9 +879,6 @@ huab	B
 noj	I
 huab	I
 haus	I
-noj	O
-huab	O
-haus	O
 lawm	O
 xwb	O
 .	O
@@ -1019,9 +1007,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 thiaj	O
 li	O
 txawj	O
@@ -1078,9 +1063,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 sib	O
 zog	O
 rau	O
@@ -1091,9 +1073,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 thiab	O
 .	O
 

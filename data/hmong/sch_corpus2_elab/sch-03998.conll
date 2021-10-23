@@ -16,9 +16,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 -	O
 lino	O
 ,	O
@@ -86,9 +83,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 cais	O
 yuav	O
 ua	O
@@ -102,9 +96,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 nrog	O
 lawv	O
 nyob	O
@@ -152,9 +143,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 no	O
 ho	O
 yuav	O
@@ -220,9 +208,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 no	O
 ho	O
 yuav	O
@@ -282,9 +267,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 mas	O
 kuv	O
 xav	O
@@ -296,9 +278,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 heev	O
 rau	O
 hauv	O
@@ -321,9 +300,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 txaus	O
 rau	O
 hauv	O
@@ -426,9 +402,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 rau	O
 ntawm	O
 Hmoob	O
@@ -693,9 +666,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 hauv	O
 no	O
 tias	O
@@ -942,9 +912,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 no	O
 tuaj	O
 puag	O

@@ -55,9 +55,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 rau	O
 nej	O
 .	O
@@ -592,9 +589,6 @@ kaus	B
 noj	I
 kaus	I
 haus	I
-noj	O
-kaus	O
-haus	O
 tsuav	O
 yus	O
 hnab	O
@@ -674,9 +668,6 @@ pab	B
 ub	I
 pab	I
 no	I
-ub	O
-pab	O
-no	O
 thiab	O
 yuav	O
 tig	O
@@ -719,9 +710,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ces	O
 luag	O
 lam	O
@@ -778,9 +766,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 los	O
 kuv	O
 saib	O

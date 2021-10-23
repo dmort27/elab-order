@@ -2371,9 +2371,6 @@ kev	B
 kwv	I
 kev	I
 tij	I
-kwv	O
-kev	O
-tij	O
 yuav	O
 zoo	O
 dua	O
@@ -2887,9 +2884,6 @@ qub	B
 nom	I
 qub	I
 tswv	I
-nom	O
-qub	O
-tswv	O
 uas	O
 tuaj	O
 Nom	O
@@ -3336,9 +3330,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 nyob	O
 rau	O
 yav	O
@@ -3403,9 +3394,6 @@ ua	B
 phooj	I
 ua	I
 ywg	I
-phooj	O
-ua	O
-ywg	O
 ua	O
 kwv	O
 tij	O
@@ -5675,9 +5663,6 @@ ua	B
 kub	I
 ua	I
 ntaiv	I
-kub	O
-ua	O
-ntaiv	O
 ntawd	O
 se	O
 mus	O

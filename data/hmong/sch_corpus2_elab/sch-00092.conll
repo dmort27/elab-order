@@ -786,9 +786,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 tseem	O
 tuav	O
 rawv	O
@@ -805,9 +802,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 tsis	O
 tyxaus	O
 siab	O
@@ -853,9 +847,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 los	O
 nrog	O
 nws	O
@@ -989,9 +980,6 @@ nrog	B
 niam	I
 nrog	I
 txiv	I
-niam	O
-nrog	O
-txiv	O
 tas	O
 .	O
 

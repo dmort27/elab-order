@@ -32,9 +32,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 los	O
 yog	O
 sex	O
@@ -63,9 +60,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 los	O
 yog	O
 sex	O
@@ -75,9 +69,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 los	O
 yog	O
 sex	O
@@ -354,9 +345,6 @@ xav	B
 paub	I
 xav	I
 pom	I
-paub	O
-xav	O
-pom	O
 ,	O
 tabsis	O
 ,	O

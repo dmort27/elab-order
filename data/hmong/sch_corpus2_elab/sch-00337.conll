@@ -73,9 +73,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 mas	O
 ,	O
 lub	O
@@ -890,9 +887,6 @@ paub	B
 qab	I
 paub	I
 hau	I
-qab	O
-paub	O
-hau	O
 li	O
 .....	O
 tham	O
@@ -1200,9 +1194,6 @@ ua	B
 txuj	I
 ua	I
 ci	I
-txuj	O
-ua	O
-ci	O
 ntawm	O
 kuv	O
 ntsej	O
@@ -1332,9 +1323,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 ,	O
 ua	O
 cas	O
@@ -1350,9 +1338,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 ,	O
 zoo	O
 li	O
@@ -1366,9 +1351,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 lub	O
 meej	O
 mom	O
@@ -1395,9 +1377,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 li	O
 .	O
 
@@ -1421,9 +1400,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 tsis	O
 tau	O
 txaus	O
@@ -1453,9 +1429,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 txoj	O
 kev	O
 npau	O
@@ -1530,9 +1503,6 @@ yus	B
 niam	I
 yus	I
 txiv	I
-niam	O
-yus	O
-txiv	O
 lub	O
 meej	O
 mom	O

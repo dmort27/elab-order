@@ -225,9 +225,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 hab	O
 ,	O
 txawm	O
@@ -593,9 +590,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 ,	O
 tsi	O
 xum	O
@@ -1060,9 +1054,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 nyob	O
 tsua	O
 huv	O

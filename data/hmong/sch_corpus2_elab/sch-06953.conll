@@ -913,9 +913,6 @@ nyag	B
 paab	I
 nyag	I
 pawg	I
-paab	O
-nyag	O
-pawg	O
 tag	O
 es	O
 ca	O
@@ -1047,9 +1044,6 @@ sab	B
 luj	I
 sab	I
 dlaav	I
-luj	O
-sab	O
-dlaav	O
 tag	O
 :	O
 Moob	O

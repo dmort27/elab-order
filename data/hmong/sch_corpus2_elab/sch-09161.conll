@@ -142,9 +142,6 @@ kev	B
 plees	I
 kev	I
 yi	I
-plees	O
-kev	O
-yi	O
 ;	O
 3.	O
 saib	O
@@ -157,9 +154,6 @@ saib	B
 teb	I
 saib	I
 chaw	I
-teb	O
-saib	O
-chaw	O
 .	O
 
 
@@ -452,9 +446,6 @@ muaj	B
 qab	I
 muaj	I
 hau	I
-qab	O
-muaj	O
-hau	O
 muaj	O
 reasons	O
 mas	O

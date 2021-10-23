@@ -378,9 +378,6 @@ koom	B
 teb	I
 koom	I
 chaw	I
-teb	O
-koom	O
-chaw	O
 lawm	O
 xwb	O
 os	O
@@ -781,9 +778,6 @@ tau	B
 nom	I
 tau	I
 tswv	I
-nom	O
-tau	O
-tswv	O
 loj	O
 ,	O
 es	O
@@ -1253,9 +1247,6 @@ kev	B
 coj	I
 kev	I
 ua	I
-coj	O
-kev	O
-ua	O
 mas	O
 puav	O
 leej	O
@@ -1843,9 +1834,6 @@ pab	B
 ub	I
 pab	I
 no	I
-ub	O
-pab	O
-no	O
 no	O
 los	O
 ntshe	O
@@ -4402,9 +4390,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 es	O
 muaj	O
 qee	O
@@ -4497,9 +4482,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 nyob	O
 Meskas	O
 teb	O
@@ -4759,9 +4741,6 @@ ciam	B
 dej	I
 ciam	I
 av	I
-dej	O
-ciam	O
-av	O
 .	O
 
 

@@ -158,9 +158,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 nad	O
 .	O
 
@@ -543,9 +540,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 nad	O
 ....	O
 LOl	O
@@ -578,9 +572,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 neb	O
 ob	O
@@ -1289,9 +1280,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 uas	O
 zov-v	O
 ib	O

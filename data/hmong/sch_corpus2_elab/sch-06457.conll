@@ -299,9 +299,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 li	O
 tsis	O
 muaj	O
@@ -548,9 +545,6 @@ twv	B
 ntuj	I
 twv	I
 teb	I
-ntuj	O
-twv	O
-teb	O
 nav	O
 .	O
 

@@ -392,9 +392,6 @@ cov	B
 phem	I
 cov	I
 zoo	I
-phem	O
-cov	O
-zoo	O
 ,	O
 thiab	O
 cov	O
@@ -871,9 +868,6 @@ qhov	B
 zoo	I
 qhov	I
 phem	I
-zoo	O
-qhov	O
-phem	O
 .	O
 
 
@@ -1525,9 +1519,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 li	O
 los	O
 vim	O

@@ -278,9 +278,6 @@ hmoob	B
 niam	I
 hmoob	I
 txiv	I
-niam	O
-hmoob	O
-txiv	O
 kom	O
 rov	O
 mus	O
@@ -967,9 +964,6 @@ raug	B
 ntau	I
 raug	I
 tua	I
-ntau	O
-raug	O
-tua	O
 raug	O
 tsim	O
 txom	O
@@ -1834,9 +1828,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 tias	O
 blog	O
 hlub	O
@@ -2041,9 +2032,6 @@ sib	B
 pab	I
 sib	I
 hlub	I
-pab	O
-sib	O
-hlub	O
 ,	O
 Hmoob	O
 yeej	O
@@ -2822,9 +2810,6 @@ los	B
 coj	I
 los	I
 ua	I
-coj	O
-los	O
-ua	O
 thiaj	O
 ua	O
 tau	O
@@ -2889,9 +2874,6 @@ kev	B
 iab	I
 kev	I
 daw	I
-iab	O
-kev	O
-daw	O
 uas	O
 nplog	O
 liab	O
@@ -3023,9 +3005,6 @@ kev	B
 iab	I
 kev	I
 daw	I
-iab	O
-kev	O
-daw	O
 tsi	O
 paub	O
 ploj	O
@@ -3719,9 +3698,6 @@ los	B
 coj	I
 los	I
 ua	I
-coj	O
-los	O
-ua	O
 thiaj	O
 ua	O
 tau	O
@@ -3786,9 +3762,6 @@ kev	B
 iab	I
 kev	I
 daw	I
-iab	O
-kev	O
-daw	O
 uas	O
 nplog	O
 liab	O
@@ -3920,9 +3893,6 @@ kev	B
 iab	I
 kev	I
 daw	I
-iab	O
-kev	O
-daw	O
 tsi	O
 paub	O
 ploj	O
@@ -5759,9 +5729,6 @@ ris	B
 ntaj	I
 ris	I
 phom	I
-ntaj	O
-ris	O
-phom	O
 tuaj	O
 luaj	O
 hmoob	O
@@ -5868,9 +5835,6 @@ koom	B
 pog	I
 koom	I
 yawg	I
-pog	O
-koom	O
-yawg	O
 ...	O
 Koom	O
 pog	O

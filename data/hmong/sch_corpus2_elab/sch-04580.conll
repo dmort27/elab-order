@@ -1905,9 +1905,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 zoo-Respectful	O
 .	O
 
@@ -3075,9 +3072,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 there	O
 are	O
@@ -3139,9 +3133,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 yuav	O
 ua	O
@@ -3192,9 +3183,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 yuav	O
 ua	O
@@ -3624,9 +3612,6 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 los	O
 kav	O
 yus	O
@@ -3642,9 +3627,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 nyob	O
 kom	O
 muaj	O
@@ -4260,9 +4242,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 there	O
 are	O
@@ -4324,9 +4303,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 yuav	O
 ua	O
@@ -4377,9 +4353,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 yuav	O
 ua	O
@@ -4809,9 +4782,6 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 los	O
 kav	O
 yus	O
@@ -4827,9 +4797,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 nyob	O
 kom	O
 muaj	O

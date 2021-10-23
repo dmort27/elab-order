@@ -482,9 +482,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 li	O
 ,	O
 peb	O
@@ -820,9 +817,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -1172,9 +1166,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 sawv	O
 los	O
 nrog	O
@@ -1229,9 +1220,6 @@ nyias	B
 pab	I
 nyias	I
 pawg	I
-pab	O
-nyias	O
-pawg	O
 ,	O
 nyias	O
 noj	O
@@ -1543,9 +1531,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 (	O
 a	O
 joke	O
@@ -1584,9 +1569,6 @@ tub	B
 ntsoj	I
 tub	I
 ntsuag	I
-ntsoj	O
-tub	O
-ntsuag	O
 nrog	O
 niam	O
 tij	O

@@ -484,9 +484,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 txiv	O
 leej	O
 twg	O
@@ -717,9 +714,6 @@ rau	B
 thuv	I
 rau	I
 txim	I
-thuv	O
-rau	O
-txim	O
 es	O
 txawm	O
 nws	O
@@ -849,9 +843,6 @@ kwv	B
 tij	I
 kwv	I
 npawg	I
-tij	O
-kwv	O
-npawg	O
 txhua	O
 tus	O
 including	O

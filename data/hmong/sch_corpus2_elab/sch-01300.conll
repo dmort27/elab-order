@@ -343,9 +343,6 @@ yog	B
 neej	I
 yog	I
 tsav	I
-neej	O
-yog	O
-tsav	O
 ,	O
 thiab	O
 tseem	O
@@ -361,9 +358,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 .	O
 
 
@@ -832,9 +826,6 @@ ua	B
 nkauj	I
 ua	I
 nraug	I
-nkauj	O
-ua	O
-nraug	O
 no	O
 nws	O
 tsis	O
@@ -1135,17 +1126,11 @@ hais	B
 siab	I
 hais	I
 qis	I
-siab	O
-hais	O
-qis	O
 ,	O
 tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 ces	O
 yawg	O
 yog	O

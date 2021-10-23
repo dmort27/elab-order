@@ -427,9 +427,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 (	O
 last	O
 agony	O
@@ -538,9 +535,6 @@ tus	B
 ruam	I
 tus	I
 ntse	I
-ruam	O
-tus	O
-ntse	O
 los	O
 koj	O
 ua	O
@@ -563,9 +557,6 @@ lus	B
 phem	I
 lus	I
 zoo	I
-phem	O
-lus	O
-zoo	O
 los	O
 luag	O
 yeej	O
@@ -896,9 +887,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 ......	O
 yog	O
 li	O
@@ -1088,9 +1076,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 tim	O
 tshav	O
 pob	O
@@ -1527,9 +1512,6 @@ lug	B
 nyaj	I
 lug	I
 kub	I
-nyaj	O
-lug	O
-kub	O
 .	O
 
 

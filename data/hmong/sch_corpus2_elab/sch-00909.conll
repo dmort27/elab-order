@@ -2555,9 +2555,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 .	O
 
 
@@ -3372,9 +3369,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 mas	O
 daim	O
 listed	O

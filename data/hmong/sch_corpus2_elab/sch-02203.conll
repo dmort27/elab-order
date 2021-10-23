@@ -83,9 +83,6 @@ txog	B
 vaj	I
 txog	I
 tsev	I
-vaj	O
-txog	O
-tsev	O
 lawm	O
 .	O
 
@@ -121,9 +118,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 thiab	O
 sib	O
 ceg	O
@@ -281,9 +275,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 thiab	O
 sib	O
 ceg	O

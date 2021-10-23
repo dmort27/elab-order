@@ -684,9 +684,6 @@ iab	B
 siab	I
 iab	I
 plawv	I
-siab	O
-iab	O
-plawv	O
 tuaj	O
 pov	O
 rau	O
@@ -746,9 +743,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 kom	O
 zoo	O
 koj	O
@@ -1465,9 +1459,6 @@ muab	B
 vaj	I
 muab	I
 tsev	I
-vaj	O
-muab	O
-tsev	O
 tso	O
 povtseg	O
 ,	O
@@ -1634,9 +1625,6 @@ lus	B
 nkib	I
 lus	I
 nkaus	I
-nkib	O
-lus	O
-nkaus	O
 tuaj	O
 .	O
 
@@ -2066,9 +2054,6 @@ kis	B
 toj	I
 kis	I
 pes	I
-toj	O
-kis	O
-pes	O
 ua	O
 rau	O
 toj	O
@@ -3025,9 +3010,6 @@ hav	B
 tauj	I
 hav	I
 nqeeb	I
-tauj	O
-hav	O
-nqeeb	O
 los	O
 kuv	O
 tsis	O

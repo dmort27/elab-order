@@ -37,9 +37,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 tuag	O
 pawg	O
 lug	O
@@ -475,9 +472,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 ,	O
 thiab	O
 tuag	O
@@ -789,9 +783,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 xwb	O
 ,	O
 tab	O
@@ -802,9 +793,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 uas	O
 hnov	O
 txog	O

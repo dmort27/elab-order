@@ -400,9 +400,6 @@ tso	B
 riam	I
 tso	I
 phom	I
-riam	O
-tso	O
-phom	O
 tseg	O
 es	O
 muab	O
@@ -441,9 +438,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 thiab	O
 tseem	O
 dag	O
@@ -798,9 +792,6 @@ tso	B
 riam	I
 tso	I
 phom	I
-riam	O
-tso	O
-phom	O
 tseg	O
 es	O
 muab	O
@@ -872,9 +863,6 @@ ua	B
 kwv	I
 ua	I
 tij	I
-kwv	O
-ua	O
-tij	O
 liqub	O
 ,	O
 thiab	O
@@ -980,9 +968,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 thiab	O
 tseem	O
 dag	O
@@ -1944,9 +1929,6 @@ tsis	B
 ciaj	I
 tsis	I
 tuag	I
-ciaj	O
-tsis	O
-tuag	O
 ua	O
 kom	O
 cov	O
@@ -2065,9 +2047,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 tsis	O
 ntev	O
 xwb	O
@@ -2467,9 +2446,6 @@ tso	B
 riam	I
 tso	I
 phom	I
-riam	O
-tso	O
-phom	O
 tseg	O
 es	O
 muab	O
@@ -2563,9 +2539,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 thiab	O
 tseem	O
 dag	O
@@ -3009,9 +2982,6 @@ puas	B
 tsuaj	I
 puas	I
 ntsoog	I
-tsuaj	O
-puas	O
-ntsoog	O
 tag	O
 lawm	O
 ,	O
@@ -3315,9 +3285,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 hais	O
 tias	O
 yuav	O

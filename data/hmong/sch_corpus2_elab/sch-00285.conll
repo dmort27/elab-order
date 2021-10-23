@@ -199,9 +199,6 @@ koom	B
 niam	I
 koom	I
 txiv	I
-niam	O
-koom	O
-txiv	O
 ?	O
 ?	O
 
@@ -968,9 +965,6 @@ ua	B
 phab	I
 ua	I
 pheev	I
-phab	O
-ua	O
-pheev	O
 hauv	O
 no	O
 ces	O
@@ -1308,9 +1302,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 unless	O
 lawv	O
 muaj	O
@@ -1344,9 +1335,6 @@ tiv	B
 mab	I
 tiv	I
 suav	I
-mab	O
-tiv	O
-suav	O
 nqi	O
 es	O
 tau	O
@@ -1356,9 +1344,6 @@ ua	B
 lag	I
 ua	I
 luam	I
-lag	O
-ua	O
-luam	O
 lawm	O
 es	O
 thiaj	O
@@ -1374,9 +1359,6 @@ ua	B
 nyuj	I
 ua	I
 nees	I
-nyuj	O
-ua	O
-nees	O
 ris	O
 nra	O
 lawm	O
@@ -2122,9 +2104,6 @@ tshum	B
 ub	I
 tshum	I
 no	I
-ub	O
-tshum	O
-no	O
 tuaj	O
 ces	O
 ho	O
@@ -2672,9 +2651,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 mas	O
 ......	O
 nej	O
@@ -3795,9 +3771,6 @@ xeeb	B
 luj	I
 xeeb	I
 lam	I
-luj	O
-xeeb	O
-lam	O
 mloog	O
 nawb	O
 .	O
@@ -5451,9 +5424,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 thiaj	O
 yuav	O
 nrog	O

@@ -1595,9 +1595,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 li	O
 ntawd	O
 .	O
@@ -1715,9 +1712,6 @@ nco	B
 txob	I
 nco	I
 txhawj	I
-txob	O
-nco	O
-txhawj	O
 dab	O
 tsi	O
 li	O

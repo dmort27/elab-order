@@ -586,9 +586,6 @@ ua	B
 nruj	I
 ua	I
 tsiv	I
-nruj	O
-ua	O
-tsiv	O
 taas	O
 yuav	O
 muab	O
@@ -897,9 +894,6 @@ ua	B
 ub	I
 ua	I
 nuav	I
-ub	O
-ua	O
-nuav	O
 ,	O
 kuv	O
 ntshai	O
@@ -1572,9 +1566,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 (	O
 Hmoob	O
 18	O
@@ -1781,9 +1772,6 @@ muab	B
 vaj	I
 muab	I
 tsev	I
-vaj	O
-muab	O
-tsev	O
 pem	O
 Thaib	O
 muag	O
@@ -4113,9 +4101,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 hais	O
 txog	O
 rau	O

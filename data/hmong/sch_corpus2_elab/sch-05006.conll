@@ -317,9 +317,6 @@ cov	B
 tub	I
 cov	I
 kiv	I
-tub	O
-cov	O
-kiv	O
 maag	O
 paub	O
 kua	O
@@ -686,17 +683,11 @@ ntees	B
 mob	I
 ntees	I
 tuag	I
-mob	O
-ntees	O
-tuag	O
 thiab	O
 rooj	B
 tshoob	I
 rooj	I
 kos	I
-tshoob	O
-rooj	O
-kos	O
 ne	O
 .	O
 
@@ -828,9 +819,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 cheem	O
 dej	O
 hlob	O
@@ -916,9 +904,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 ,	O
 choj	O
 yuav	O
@@ -935,17 +920,11 @@ rooj	B
 tshoob	I
 rooj	I
 kos	I
-tshoob	O
-rooj	O
-kos	O
 thiab	O
 ntees	B
 mob	I
 ntees	I
 tuag	I
-mob	O
-ntees	O
-tuag	O
 xwb	O
 .	O
 
@@ -1129,9 +1108,6 @@ ntsim	B
 siab	I
 ntsim	I
 plawv	I
-siab	O
-ntsim	O
-plawv	O
 thiaj	O
 li	O
 yuav	O
@@ -1326,9 +1302,6 @@ tus	B
 phem	I
 tus	I
 zoo	I
-phem	O
-tus	O
-zoo	O
 ,	O
 tus	O
 txawj	O
@@ -1364,9 +1337,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 xwb	O
 .	O
 
@@ -1839,9 +1809,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 los	O
 lwv	O
 ces	O

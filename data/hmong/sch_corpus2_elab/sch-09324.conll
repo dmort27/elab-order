@@ -805,9 +805,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 .	O
 
 
@@ -899,9 +896,6 @@ yuav	B
 ciaj	I
 yuav	I
 tuag	I
-ciaj	O
-yuav	O
-tuag	O
 ,	O
 yuav	O
 mag	O
@@ -1079,9 +1073,6 @@ poob	B
 koob	I
 poob	I
 npe	I
-koob	O
-poob	O
-npe	O
 tas	O
 thiaj	O
 hais	O

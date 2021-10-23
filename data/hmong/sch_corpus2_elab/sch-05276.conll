@@ -803,9 +803,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 yog	O
 ua	O
 lawv	O
@@ -1520,9 +1517,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 .	O
 
 
@@ -1551,17 +1545,11 @@ hu	B
 ntuj	I
 hu	I
 teb	I
-ntuj	O
-hu	O
-teb	O
 ,	O
 twv	B
 ntuj	I
 twv	I
 teb	I
-ntuj	O
-twv	O
-teb	O
 hab	O
 kaws	O
 aav	O

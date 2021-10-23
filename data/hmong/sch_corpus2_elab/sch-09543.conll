@@ -570,9 +570,6 @@ ua	B
 phem	I
 ua	I
 zoo	I
-phem	O
-ua	O
-zoo	O
 ces	O
 nyob	O
 ntawm	O
@@ -789,9 +786,6 @@ hauv	B
 zej	I
 hauv	I
 zos	I
-zej	O
-hauv	O
-zos	O
 .	O
 
 
@@ -1232,9 +1226,6 @@ tus	B
 laus	I
 tus	I
 hluas	I
-laus	O
-tus	O
-hluas	O
 los	O
 muaj	O
 ib	O
@@ -1789,9 +1780,6 @@ tus	B
 laus	I
 tus	I
 hluas	I
-laus	O
-tus	O
-hluas	O
 los	O
 muaj	O
 ib	O
@@ -1892,9 +1880,6 @@ mlom	B
 tooj	I
 mlom	I
 hlau	I
-tooj	O
-mlom	O
-hlau	O
 ,	O
 teevhawm	O
 VajTswv	O
@@ -1970,9 +1955,6 @@ ua	B
 phab	I
 ua	I
 pheev	I
-phab	O
-ua	O
-pheev	O
 los	O
 lo	O
 twg	O

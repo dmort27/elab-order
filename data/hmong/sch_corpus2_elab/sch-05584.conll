@@ -169,9 +169,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 muaj	O
 casaulty	O
 rau	O
@@ -200,9 +197,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 ,	O
 ces	O
 luag	O
@@ -337,9 +331,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 tuag	O
 tag	O
 ,	O
@@ -841,9 +832,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 thiab	O
 kuj	O
 tseem	O
@@ -936,9 +924,6 @@ lo	B
 tes	I
 lo	I
 taw	I
-tes	O
-lo	O
-taw	O
 ntawd	O
 yog	O
 nom	O
@@ -1363,9 +1348,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 ,	O
 los	O
 nyob	O
@@ -1478,9 +1460,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 dag	O
 ntxia	O
 ,	O
@@ -1550,9 +1529,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 nrog	O
 txhua	O
 haiv	O
@@ -1640,9 +1616,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ,	O
 thiab	O
 tsis	O
@@ -2463,9 +2436,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 kom	O
 du	O
 ces	O
@@ -2526,9 +2496,6 @@ muaj	B
 tseeb	I
 muaj	I
 tsum	I
-tseeb	O
-muaj	O
-tsum	O
 li	O
 koj	O
 hais	O
@@ -2569,9 +2536,6 @@ tu	B
 tes	I
 tu	I
 taw	I
-tes	O
-tu	O
-taw	O
 los	O
 muaj	O
 coob	O
@@ -3066,9 +3030,6 @@ ntau	B
 leej	I
 ntau	I
 tus	I
-leej	O
-ntau	O
-tus	O
 hmoob	O
 kom	O
 txhob	O
@@ -3635,9 +3596,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 .	O
 
 
@@ -4511,9 +4469,6 @@ raug	B
 ploj	I
 raug	I
 tuag	I
-ploj	O
-raug	O
-tuag	O
 mas	O
 ?	O
 
@@ -4692,9 +4647,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 chua	O
 lawm	O
 du	O
@@ -4982,9 +4934,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 pib	O
 tshwm	O
 sim	O
@@ -5072,9 +5021,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -5093,9 +5039,6 @@ raug	B
 ntes	I
 raug	I
 tua	I
-ntes	O
-raug	O
-tua	O
 thiab	O
 ,	O
 vim	O
@@ -5147,9 +5090,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 ,	O
 mus	O
 pw	O
@@ -5221,9 +5161,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 ,	O
 muab	O
 txoj	O
@@ -5847,17 +5784,11 @@ nplooj	B
 hmab	I
 nplooj	I
 ntoo	I
-hmab	O
-nplooj	O
-ntoo	O
 tau	O
 ntau	B
 niaj	I
 ntau	I
 xyoo	I
-niaj	O
-ntau	O
-xyoo	O
 ,	O
 tsim	O
 nyob	O

@@ -130,9 +130,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 .	O
 
 
@@ -161,9 +158,6 @@ yog	B
 kaab	I
 yog	I
 hlau	I
-kaab	O
-yog	O
-hlau	O
 .	O
 
 
@@ -1123,9 +1117,6 @@ ntev	B
 niaj	I
 ntev	I
 xyoo	I
-niaj	O
-ntev	O
-xyoo	O
 nawb	O
 mog	O
 .	O
@@ -2317,9 +2308,6 @@ kaum	B
 vaaj	I
 kaum	I
 tsev	I
-vaaj	O
-kaum	O
-tsev	O
 le	O
 tag	O
 !	O

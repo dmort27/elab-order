@@ -232,9 +232,6 @@ tua	B
 nas	I
 tua	I
 noog	I
-nas	O
-tua	O
-noog	O
 xwb	O
 mas	O
 yawm	O
@@ -1319,9 +1316,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 lawm	O
 ,	O
 qhov	O

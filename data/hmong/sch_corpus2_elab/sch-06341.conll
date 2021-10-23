@@ -137,9 +137,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 los	O
 yog	O
 peb	O
@@ -148,9 +145,6 @@ tej	B
 siab	I
 tej	I
 ntsws	I
-siab	O
-tej	O
-ntsws	O
 zoo	O
 li	O
 no	O
@@ -1562,9 +1556,6 @@ los	B
 noj	I
 los	I
 haus	I
-noj	O
-los	O
-haus	O
 npaumtwg	O
 los	O
 yeej	O
@@ -1645,9 +1636,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 .	O
 
 
@@ -2186,9 +2174,6 @@ kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 tuav	O
 lub	O
 teb	O
@@ -2258,9 +2243,6 @@ siab	B
 loj	I
 siab	I
 dav	I
-loj	O
-siab	O
-dav	O
 rau	O
 nkawd	O
 ob	O
@@ -2270,9 +2252,6 @@ muaj	B
 pab	I
 muaj	I
 pawg	I
-pab	O
-muaj	O
-pawg	O
 ntawd	O
 thiab	O
 nawb	O

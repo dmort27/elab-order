@@ -955,9 +955,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 los	O
 tsa	O
 peb	O
@@ -2482,9 +2479,6 @@ cov	B
 nom	I
 cov	I
 tswv	I
-nom	O
-cov	O
-tswv	O
 ...	O
 tseem	O
 muaj	O
@@ -2515,9 +2509,6 @@ tsi	B
 txawj	I
 tsi	I
 ntse	I
-txawj	O
-tsi	O
-ntse	O
 tiag	O
 tiag	O
 ...	O
@@ -2889,9 +2880,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 

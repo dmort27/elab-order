@@ -887,9 +887,6 @@ rau	B
 tes	I
 rau	I
 taw	I
-tes	O
-rau	O
-taw	O
 nrha	O
 ris	O
 nkhaus	O
@@ -2092,9 +2089,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ntau	O
 yam	O
 tsis	O
@@ -2460,9 +2454,6 @@ pw	B
 noj	I
 pw	I
 haus	I
-noj	O
-pw	O
-haus	O
 lawm	O
 xwb	O
 los	O
@@ -2718,9 +2709,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 ,	O
 luag	O
 twb	O
@@ -2822,9 +2810,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 yuav	O
 ua	O
 yam	O
@@ -2840,9 +2825,6 @@ raug	B
 ntsej	I
 raug	I
 muag	I
-ntsej	O
-raug	O
-muag	O
 kom	O
 Hmoob	O
 tsis	O

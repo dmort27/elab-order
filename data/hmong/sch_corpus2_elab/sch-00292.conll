@@ -1893,9 +1893,6 @@ yuav	B
 ciaj	I
 yuav	I
 tuag	I
-ciaj	O
-yuav	O
-tuag	O
 hmoob	O
 tias	O
 mob	O
@@ -2345,9 +2342,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 nyob	O
 Eureka	O
 ,	O
@@ -2511,9 +2505,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 ,	O
 zoo	O
 li	O
@@ -2768,9 +2759,6 @@ sib	B
 nyiam	I
 sib	I
 hlub	I
-nyiam	O
-sib	O
-hlub	O
 .	O
 
 
@@ -3114,9 +3102,6 @@ sib	B
 pom	I
 sib	I
 paub	I
-pom	O
-sib	O
-paub	O
 los	O
 lawm	O
 ntau	O

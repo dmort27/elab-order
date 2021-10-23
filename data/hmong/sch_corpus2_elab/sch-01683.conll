@@ -407,9 +407,6 @@ tog	B
 vaaj	I
 tog	I
 tsev	I
-vaaj	O
-tog	O
-tsev	O
 ua	O
 ntej	O
 yug	O
@@ -1465,9 +1462,6 @@ sib	B
 khawm	I
 sib	I
 hnias	I
-khawm	O
-sib	O
-hnias	O
 .	O
 
 
@@ -2962,9 +2956,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 mas	O
 under	O
 cover	O
@@ -5188,9 +5179,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 mas	O
 under	O
 cover	O

@@ -409,9 +409,6 @@ pub	B
 puj	I
 pub	I
 yawm	I
-puj	O
-pub	O
-yawm	O
 noj	O
 lawm	O
 ntuj	O
@@ -527,9 +524,6 @@ tua	B
 nyuj	I
 tua	I
 twm	I
-nyuj	O
-tua	O
-twm	O
 rua	O
 tug	O
 tuag	O
@@ -553,9 +547,6 @@ yuav	B
 noj	I
 yuav	I
 haus	I
-noj	O
-yuav	O
-haus	O
 .	O
 
 

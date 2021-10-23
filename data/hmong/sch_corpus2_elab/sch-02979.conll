@@ -882,9 +882,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 kuj	O
 txawv	O
 3	O
@@ -1495,9 +1492,6 @@ muaj	B
 tub	I
 muaj	I
 kiv	I
-tub	O
-muaj	O
-kiv	O
 ua	O
 ke	O
 lawm	O
@@ -1638,9 +1632,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 saib	O
 ...	O
 tiam	O

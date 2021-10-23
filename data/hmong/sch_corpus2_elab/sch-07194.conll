@@ -274,9 +274,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 yeej	O
 ib	O
 txwm	O
@@ -662,9 +659,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 thiaj	O
 pheej	O
 dag	O
@@ -849,9 +843,6 @@ tav	B
 ntuj	I
 tav	I
 teb	I
-ntuj	O
-tav	O
-teb	O
 no	O
 hmoob	O
 tuag	O
@@ -997,9 +988,6 @@ lawv	B
 teb	I
 lawv	I
 chaw	I
-teb	O
-lawv	O
-chaw	O
 ,	O
 lawv	O
 coj	O
@@ -1207,9 +1195,6 @@ ntsis	B
 ntaj	I
 ntsis	I
 riam	I
-ntaj	O
-ntsis	O
-riam	O
 .	O
 ''	O
 
@@ -1344,9 +1329,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 yog	O
 ntseeg	O
 hmoov	O
@@ -1417,9 +1399,6 @@ nyiaj	B
 hnub	I
 nyiaj	I
 hli	I
-hnub	O
-nyiaj	O
-hli	O
 them	O
 nws	O
 cov	O
@@ -1452,9 +1431,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 tseem	O
 siv	O
 Napoleon	O
@@ -1585,9 +1561,6 @@ yeej	B
 teb	I
 yeej	I
 chaw	I
-teb	O
-yeej	O
-chaw	O
 tag	O
 lawm	O
 .	O
@@ -1683,9 +1656,6 @@ hmoob	B
 teej	I
 hmoob	I
 tug	I
-teej	O
-hmoob	O
-tug	O
 nyob	O
 Georgia	O
 ,	O
@@ -1883,9 +1853,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 Kev	O
 ntaub	O

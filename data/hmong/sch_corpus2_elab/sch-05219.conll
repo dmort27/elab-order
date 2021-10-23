@@ -604,9 +604,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 peb	O
 niaj	O
@@ -920,9 +917,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 no	O
 rau	O
@@ -989,9 +983,6 @@ cam	B
 ub	I
 cam	I
 no	I
-ub	O
-cam	O
-no	O
 li	O
 no	O
 thiab	O

@@ -169,9 +169,6 @@ rov	B
 qab	I
 rov	I
 quav	I
-qab	O
-rov	O
-quav	O
 tas	O
 ...	O
 hehehehehe	O
@@ -933,17 +930,11 @@ muag	B
 yeeb	I
 muag	I
 tshuaj	I
-yeeb	O
-muag	O
-tshuaj	O
 ,	O
 raws	B
 noj	I
 raws	I
 haus	I
-noj	O
-raws	O
-haus	O
 ,	O
 thiab	O
 muaj	O
@@ -1619,9 +1610,6 @@ raws	B
 noj	I
 raws	I
 haus	I
-noj	O
-raws	O
-haus	O
 .	O
 
 
@@ -1901,9 +1889,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 ,	O
 thaum	O
 nws	O

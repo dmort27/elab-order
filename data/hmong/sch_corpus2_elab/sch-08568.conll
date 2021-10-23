@@ -35,9 +35,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 naj	O
 nub	O
 tuaj	O
@@ -67,9 +64,6 @@ cov	B
 tub	I
 cov	I
 ntxhais	I
-tub	O
-cov	O
-ntxhais	O
 naj	O
 nub	O
 maag	O
@@ -391,9 +385,6 @@ sib	B
 caav	I
 sib	I
 ceg	I
-caav	O
-sib	O
-ceg	O
 naw	O
 ,	O
 kuv	O
@@ -419,9 +410,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 ntawm	O
 ntug	O
 kev	O
@@ -449,9 +437,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 zoo	O
 mus	O
 ntxiv	O

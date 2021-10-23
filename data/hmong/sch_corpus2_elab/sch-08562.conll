@@ -161,9 +161,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 loj	O
 coob	O
 nej	O
@@ -958,9 +955,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 lawm	O
 xwb	O
 no	O

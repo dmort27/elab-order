@@ -385,9 +385,6 @@ sis	B
 caav	I
 sis	I
 tshe	I
-caav	O
-sis	O
-tshe	O
 ces	O
 hos	O
 rov	O
@@ -691,9 +688,6 @@ peb	B
 noj	I
 peb	I
 haus	I
-noj	O
-peb	O
-haus	O
 .	O
 
 
@@ -727,9 +721,6 @@ peb	B
 noj	I
 peb	I
 haus	I
-noj	O
-peb	O
-haus	O
 .	O
 
 

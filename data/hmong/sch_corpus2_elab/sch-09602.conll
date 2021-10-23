@@ -174,9 +174,6 @@ lus	B
 zoo	I
 lus	I
 phem	I
-zoo	O
-lus	O
-phem	O
 ,	O
 kev	O
 npau	O
@@ -278,9 +275,6 @@ nws	B
 vaj	I
 nws	I
 tsev	I
-vaj	O
-nws	O
-tsev	O
 mas	O
 nws	O
 yeej	O
@@ -808,9 +802,6 @@ txog	B
 caij	I
 txog	I
 nyoog	I
-caij	O
-txog	O
-nyoog	O
 lawv	O
 mam	O
 siv	O
@@ -933,9 +924,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 kiag	O
 lawm	O
 mas	O
@@ -968,9 +956,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 lawv	O
 mas	O
 sawv	O

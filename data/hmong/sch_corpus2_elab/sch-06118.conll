@@ -80,9 +80,6 @@ tus	B
 ncaj	I
 tus	I
 zoo	I
-ncaj	O
-tus	O
-zoo	O
 pab	O
 ua	O
 kom	O
@@ -379,9 +376,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 ,	O
 hais	O
 lus	O
@@ -976,18 +970,12 @@ tsi	B
 qhuab	I
 tsi	I
 qhia	I
-qhuab	O
-tsi	O
-qhia	O
 lawv	O
 tej	O
 me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 li	O
 ,	O
 lawv	O
@@ -997,9 +985,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 ces	O
 coj	O
 mus	O
@@ -1019,9 +1004,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 los	O
 thiaj	O
 li	O
@@ -1255,9 +1237,6 @@ pom	B
 ntsej	I
 pom	I
 muag	I
-ntsej	O
-pom	O
-muag	O
 ,	O
 es	O
 kom	O
@@ -1340,9 +1319,6 @@ hais	B
 phem	I
 hais	I
 zoo	I
-phem	O
-hais	O
-zoo	O
 aws	O
 .	O
 
@@ -1395,9 +1371,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 aws	O
 .	O
 
@@ -1468,9 +1441,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 tiag	O
 tiag	O
 es	O
@@ -1697,9 +1667,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 thiab	O
 ntiajteb	O
 ,	O
@@ -1872,9 +1839,6 @@ ntiv	B
 tes	I
 ntiv	I
 taw	I
-tes	O
-ntiv	O
-taw	O
 xwb	O
 mas	O
 thaum	O

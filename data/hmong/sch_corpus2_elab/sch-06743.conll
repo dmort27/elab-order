@@ -269,9 +269,6 @@ luag	B
 teb	I
 luag	I
 chaw	I
-teb	O
-luag	O
-chaw	O
 ntsia	O
 .	O
 
@@ -374,9 +371,6 @@ luag	B
 teb	I
 luag	I
 chaw	I
-teb	O
-luag	O
-chaw	O
 xav	O
 hais	O
 tias	O
@@ -1738,9 +1732,6 @@ ke	B
 tes	I
 ke	I
 taw	I
-tes	O
-ke	O
-taw	O
 ,	O
 rau	O
 rau	O
@@ -1762,9 +1753,6 @@ zoo	B
 caij	I
 zoo	I
 nyoog	I
-caij	O
-zoo	O
-nyoog	O
 zaj	O
 laug	O
 yeej	O

@@ -540,9 +540,6 @@ paub	B
 siab	I
 paub	I
 nqi	I
-siab	O
-paub	O
-nqi	O
 mam	O
 li	O
 sib	O
@@ -2384,9 +2381,6 @@ do	B
 quav	I
 do	I
 zis	I
-quav	O
-do	O
-zis	O
 nawb	O
 .	O
 

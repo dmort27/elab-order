@@ -1150,9 +1150,6 @@ lus	B
 mos	I
 lus	I
 muag	I
-mos	O
-lus	O
-muag	O
 nplij	O
 kuv	O
 tus	O
@@ -1624,9 +1621,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ces	O
 twg	O
 yog	O
@@ -2790,9 +2784,6 @@ nees	B
 mus	I
 nees	I
 los	I
-mus	O
-nees	O
-los	O
 txhob	O
 xav	O
 li	O
@@ -2862,9 +2853,6 @@ tsis	B
 mob	I
 tsis	I
 khaus	I
-mob	O
-tsis	O
-khaus	O
 leejtwg	O
 li	O
 no	O
@@ -2996,9 +2984,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 sib	O
 raug	O
 zoo	O

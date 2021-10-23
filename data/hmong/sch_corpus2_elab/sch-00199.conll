@@ -839,9 +839,6 @@ tsis	B
 ntsib	I
 tsis	I
 pom	I
-ntsib	O
-tsis	O
-pom	O
 nwsli	O
 kuv	O
 nco	O
@@ -2004,9 +2001,6 @@ xaiv	B
 txij	I
 xaiv	I
 nkawm	I
-txij	O
-xaiv	O
-nkawm	O
 no	O
 maj	O
 ,	O
@@ -2026,9 +2020,6 @@ xaiv	B
 txij	I
 xaiv	I
 nkawm	I
-txij	O
-xaiv	O
-nkawm	O
 lawm	O
 tsheej	O
 txhiab	O
@@ -2060,9 +2051,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 lawm	O
 ces	O
 co	O

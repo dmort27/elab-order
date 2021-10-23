@@ -518,9 +518,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 .	O
 
 
@@ -590,9 +587,6 @@ muab	B
 riam	I
 muab	I
 phom	I
-riam	O
-muab	O
-phom	O
 mus	O
 ua	O
 teb	O
@@ -749,9 +743,6 @@ yog	B
 niam	I
 yog	I
 txiv	I
-niam	O
-yog	O
-txiv	O
 ,	O
 yog	O
 Hmoob	O
@@ -865,9 +856,6 @@ mus	B
 tham	I
 mus	I
 deev	I
-tham	O
-mus	O
-deev	O
 cov	O
 ntxhais	O
 mos	O
@@ -1656,9 +1644,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -1775,9 +1760,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 tsis	O
 yooj	O
 yim	O
@@ -1941,9 +1923,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 lawv	O
 tsuas	O
 yog	O
@@ -2017,9 +1996,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 tsis	O
 yog	O
 ua	O

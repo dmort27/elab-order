@@ -504,9 +504,6 @@ poob	B
 teb	I
 poob	I
 chaw	I
-teb	O
-poob	O
-chaw	O
 tuaj	O
 qiv	O
 luag	O
@@ -580,9 +577,6 @@ peem	B
 ntuj	I
 peem	I
 teb	I
-ntuj	O
-peem	O
-teb	O
 kom	O
 dim	O
 lub	O
@@ -773,9 +767,6 @@ lub	B
 siab	I
 lub	I
 plawv	I
-siab	O
-lub	O
-plawv	O
 kam	O
 ua	O
 .	O

@@ -131,9 +131,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 lawm	O
 ,	O
 ua	O
@@ -157,9 +154,6 @@ chim	B
 ciaj	I
 chim	I
 tuag	I
-ciaj	O
-chim	O
-tuag	O
 ,	O
 es	O
 yuav	O
@@ -172,9 +166,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 li	O
 mas	O
 me	O
@@ -511,9 +502,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 tuag	O
 tag	O
 ,	O

@@ -123,9 +123,6 @@ chaws	B
 txawb	I
 chaws	I
 rau	I
-txawb	O
-chaws	O
-rau	O
 lawm	O
 .	O
 
@@ -138,9 +135,6 @@ ua	B
 ntaub	I
 ua	I
 ntawv	I
-ntaub	O
-ua	O
-ntawv	O
 ces	O
 kav	O
 tsij	O
@@ -2125,9 +2119,6 @@ qhov	B
 zoo	I
 qhov	I
 phem	I
-zoo	O
-qhov	O
-phem	O
 tib	O
 sis	O
 thiaj	O
@@ -2341,9 +2332,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 Caivplawv	O
 tsis	O
 hais	O
@@ -2537,9 +2525,6 @@ yog	B
 kwv	I
 yog	I
 tij	I
-kwv	O
-yog	O
-tij	O
 uas	O
 cas	O
 koj	O
@@ -4268,17 +4253,11 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 ,	O
 kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 .	O
 
 
@@ -4390,9 +4369,6 @@ txo	B
 riam	I
 txo	I
 phom	I
-riam	O
-txo	O
-phom	O
 tseg	O
 rau	O
 Pathet	O
@@ -6156,9 +6132,6 @@ qhov	B
 zoo	I
 qhov	I
 phem	I
-zoo	O
-qhov	O
-phem	O
 tawm	O
 mas	O
 nyuaj	O
@@ -6398,9 +6371,6 @@ luag	B
 nom	I
 luag	I
 tswv	I
-nom	O
-luag	O
-tswv	O
 ,	O
 tau	O
 ua	O
@@ -6410,9 +6380,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 tau	O
 zaum	O

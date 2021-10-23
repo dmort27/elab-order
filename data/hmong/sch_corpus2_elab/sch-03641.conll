@@ -799,9 +799,6 @@ zoo	B
 nam	I
 zoo	I
 txiv	I
-nam	O
-zoo	O
-txiv	O
 tabsis	O
 yog	O
 luag	O
@@ -1770,9 +1767,6 @@ kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 los	O
 sis	O
 support	O
@@ -1900,9 +1894,6 @@ tug	B
 ub	I
 tug	I
 nuav	I
-ub	O
-tug	O
-nuav	O
 kuas	O
 muaj	O
 tuab	O
@@ -2031,9 +2022,6 @@ tug	B
 ub	I
 tug	I
 nuav	I
-ub	O
-tug	O
-nuav	O
 kuas	O
 puab	O
 ca	O
@@ -2068,9 +2056,6 @@ zoo	B
 koob	I
 zoo	I
 npe	I
-koob	O
-zoo	O
-npe	O
 le	O
 has	O
 tag	O
@@ -2154,9 +2139,6 @@ puab	B
 nam	I
 puab	I
 txiv	I
-nam	O
-puab	O
-txiv	O
 yeej	O
 yog	O
 tuab	O
@@ -2189,9 +2171,6 @@ moog	B
 ntoj	I
 moog	I
 thuv	I
-ntoj	O
-moog	O
-thuv	O
 lawm	O
 las	O
 kaj	O
@@ -2217,9 +2196,6 @@ puab	B
 nam	I
 puab	I
 txiv	I
-nam	O
-puab	O
-txiv	O
 lub	O
 meej	O
 mom	O
@@ -2727,9 +2703,6 @@ kub	B
 toj	I
 kub	I
 pes	I
-toj	O
-kub	O
-pes	O
 hauv	O
 no	O
 .	O
@@ -3048,9 +3021,6 @@ kev	B
 ncaaj	I
 kev	I
 nceeg	I
-ncaaj	O
-kev	O
-nceeg	O
 Vaajtswv	O
 txhaj	O
 yuav	O
@@ -3099,9 +3069,6 @@ has	B
 dlog	I
 has	I
 dlig	I
-dlog	O
-has	O
-dlig	O
 rua	O
 huv	O
 tej	O

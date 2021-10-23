@@ -892,9 +892,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 yog	O
 tsis	O
 ua	O
@@ -928,9 +925,6 @@ tsis	B
 paus	I
 tsis	I
 ntsis	I
-paus	O
-tsis	O
-ntsis	O
 ces	O
 yeej	O
 khob	O
@@ -2082,9 +2076,6 @@ ua	B
 kub	I
 ua	I
 ntaiv	I
-kub	O
-ua	O
-ntaiv	O
 rau	O
 koj	O
 tsev	O

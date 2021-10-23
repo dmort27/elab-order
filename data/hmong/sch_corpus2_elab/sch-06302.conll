@@ -679,9 +679,6 @@ nrog	B
 huab	I
 nrog	I
 cua	I
-huab	O
-nrog	O
-cua	O
 xwb	O
 twb	O
 tsis	O
@@ -2126,9 +2123,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 as	O
 kaj	O
 .	O
@@ -3157,9 +3151,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 made	O
 up	O
 stories	O
@@ -3302,9 +3293,6 @@ ua	B
 phab	I
 ua	I
 pheev	I
-phab	O
-ua	O
-pheev	O
 lino	O
 .	O
 
@@ -3463,9 +3451,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 mloog	O
 kawg	O
 li	O
@@ -3726,9 +3711,6 @@ li	B
 teb	I
 li	I
 chaw	I
-teb	O
-li	O
-chaw	O
 lawm	O
 thiab	O
 .	O
@@ -3745,9 +3727,6 @@ yawm	B
 yij	I
 yawm	I
 dab	I
-yij	O
-yawm	O
-dab	O
 yuav	O
 tau	O
 tsev	O

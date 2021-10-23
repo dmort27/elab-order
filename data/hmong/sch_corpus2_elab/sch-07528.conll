@@ -462,9 +462,6 @@ tog	B
 vaaj	I
 tog	I
 tsev	I
-vaaj	O
-tog	O
-tsev	O
 hab	O
 nawb	O
 ...	O
@@ -633,9 +630,6 @@ khawv	B
 yaj	I
 khawv	I
 yws	I
-yaj	O
-khawv	O
-yws	O
 ntawd	O
 txhob	O
 raug	O
@@ -996,9 +990,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 hais	O
 tias	O
 yus	O
@@ -1147,9 +1138,6 @@ lus	B
 xaiv	I
 lus	I
 cua	I
-xaiv	O
-lus	O
-cua	O
 ,	O
 lus	O
 paj	O

@@ -16,9 +16,6 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 tsuj	O
 Hmoob	O
 .	O
@@ -273,9 +270,6 @@ peb	B
 teb	I
 peb	I
 chaw	I
-teb	O
-peb	O
-chaw	O
 ;	O
 peb	O
 tsis	O
@@ -733,9 +727,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 ntawm	O
 tibneeg	O
 .	O
@@ -905,9 +896,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 .	O
 
 
@@ -1078,9 +1066,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 .	O
 
 

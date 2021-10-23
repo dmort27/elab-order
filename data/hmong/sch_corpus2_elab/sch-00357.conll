@@ -1333,9 +1333,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 (	O
 ytk	O
 thiab	O
@@ -1882,9 +1879,6 @@ tej	B
 kwv	I
 tej	I
 tij	I
-kwv	O
-tej	O
-tij	O
 mas	O
 tus	O
 ntawd	O
@@ -2365,9 +2359,6 @@ tej	B
 kwv	I
 tej	I
 tij	I
-kwv	O
-tej	O
-tij	O
 los	O
 ua	O
 txiv	O
@@ -2431,9 +2422,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 ntawm	O
 nws	O
 os	O

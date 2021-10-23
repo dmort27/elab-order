@@ -449,9 +449,6 @@ nqi	B
 mis	I
 nqi	I
 hno	I
-mis	O
-nqi	O
-hno	O
 tag	O
 lawm	O
 yog	O
@@ -1064,9 +1061,6 @@ tsheej	B
 phaab	I
 tsheej	I
 pheev	I
-phaab	O
-tsheej	O
-pheev	O
 los	O
 yuav	O
 tsi	O
@@ -1561,9 +1555,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 thiab	O
 tsoom	O
 kwv	O
@@ -2146,9 +2137,6 @@ tsis	B
 mob	I
 tsis	I
 khaus	I
-mob	O
-tsis	O
-khaus	O
 leejtwg	O
 qhovtwg	O
 .	O
@@ -2957,9 +2945,6 @@ nrog	B
 huab	I
 nrog	I
 cua	I
-huab	O
-nrog	O
-cua	O
 ya	O
 xwb	O
 laub	O
@@ -3063,9 +3048,6 @@ muaj	B
 qab	I
 muaj	I
 hau	I
-qab	O
-muaj	O
-hau	O
 li	O
 no	O
 ,	O

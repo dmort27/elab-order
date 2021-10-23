@@ -111,9 +111,6 @@ yawm	B
 yij	I
 yawm	I
 dab	I
-yij	O
-yawm	O
-dab	O
 tsis	O
 pub	O
 rau	O
@@ -926,9 +923,6 @@ ua	B
 dab	I
 ua	I
 qhua	I
-dab	O
-ua	O
-qhua	O
 tag	O
 kis	O
 mus	O
@@ -1392,9 +1386,6 @@ keb	B
 ub	I
 keb	I
 no	I
-ub	O
-keb	O
-no	O
 li	O
 Yajtshajkoob	O
 .	O

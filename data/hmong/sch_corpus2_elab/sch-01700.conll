@@ -1635,9 +1635,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 ?	O
 
 
@@ -1850,9 +1847,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 .	O
 
 
@@ -2383,9 +2377,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 luj	O
 rua	O
 rooj	O
@@ -3188,9 +3179,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 thiab.Kom	O
 sawv	O
 daws	O
@@ -3266,9 +3254,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 los	O
 peb	O
 yeej	O

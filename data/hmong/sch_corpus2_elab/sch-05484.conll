@@ -58,9 +58,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 los	O
 yuav	O
 tau	O
@@ -106,9 +103,6 @@ tsis	B
 txheeb	I
 tsis	I
 ze	I
-txheeb	O
-tsis	O
-ze	O
 yus	O
 li	O
 nawb	O
@@ -371,9 +365,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 lawm	O
 luag	O
 thiaj	O
@@ -395,9 +386,6 @@ dhau	B
 kev	I
 dhau	I
 cai	I
-kev	O
-dhau	O
-cai	O
 lawm	O
 xwb	O
 .	O
@@ -439,9 +427,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 .	O
 
 
@@ -848,9 +833,6 @@ ua	B
 tab	I
 ua	I
 tauv	I
-tab	O
-ua	O
-tauv	O
 lawm	O
 xwb	O
 tiag	O

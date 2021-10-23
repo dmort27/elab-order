@@ -419,9 +419,6 @@ muaj	B
 txhij	I
 muaj	I
 txhua	I
-txhij	O
-muaj	O
-txhua	O
 xwb	O
 ces	O
 siv	O
@@ -2125,9 +2122,6 @@ lug	B
 vaaj	I
 lug	I
 tsev	I
-vaaj	O
-lug	O
-tsev	O
 (	O
 home	O
 and	O
@@ -2751,9 +2745,6 @@ tom	B
 ntej	I
 tom	I
 qaab	I
-ntej	O
-tom	O
-qaab	O
 lawm	O
 .	O
 

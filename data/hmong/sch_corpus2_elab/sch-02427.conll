@@ -194,9 +194,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 mas	O
 cas	O
 zoo	O
@@ -1728,9 +1725,6 @@ kev	B
 tshaib	I
 kev	I
 nqhis	I
-tshaib	O
-kev	O
-nqhis	O
 thiab	O
 tsi	O
 muaj	O
@@ -1738,9 +1732,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 ,	O
 tsuas	O
 muaj	O
@@ -1936,9 +1927,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 ntseeg	O
 thiab	O
 tsis	O
@@ -1957,9 +1945,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 thiab	O
 kom	O
 muaj	O

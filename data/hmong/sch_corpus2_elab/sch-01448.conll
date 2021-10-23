@@ -20,9 +20,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 los	O
 yog	O
 pabtab	O
@@ -185,9 +182,6 @@ hais	B
 mus	I
 hais	I
 los	I
-mus	O
-hais	O
-los	O
 laug	O
 sijhawm	O
 xwb	O
@@ -471,9 +465,6 @@ khuam	B
 tes	I
 khuam	I
 taw	I
-tes	O
-khuam	O
-taw	O
 li	O
 lawm	O
 .	O
@@ -885,9 +876,6 @@ txhua	B
 hnub	I
 txhua	I
 hmo	I
-hnub	O
-txhua	O
-hmo	O
 ...	O
 kuv	O
 yeej	O

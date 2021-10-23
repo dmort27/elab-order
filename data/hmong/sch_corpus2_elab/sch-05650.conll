@@ -702,9 +702,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 ntawv	O
 sib	O
 nyiam	O
@@ -912,9 +909,6 @@ saib	B
 moog	I
 saib	I
 lug	I
-moog	O
-saib	O
-lug	O
 ces	O
 kuv	O
 ca	O
@@ -1360,9 +1354,6 @@ yog	B
 kev	I
 yog	I
 cai	I
-kev	O
-yog	O
-cai	O
 lawm	O
 .	O
 
@@ -2179,9 +2170,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 yeej	O
 pom	O
 hais	O
@@ -2244,9 +2232,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 tuaj	O
 ces	O
 ib	O
@@ -2428,9 +2413,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 lawv	O
 .	O
 

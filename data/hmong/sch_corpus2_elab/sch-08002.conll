@@ -644,9 +644,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 los	O
 Hmoob	O
 yeej	O
@@ -870,9 +867,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 coob	O
 lawm	O
 tiag	O
@@ -1038,17 +1032,11 @@ dhia	B
 siab	I
 dhia	I
 nqi	I
-siab	O
-dhia	O
-nqi	O
 ,	O
 ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 li	O
 lawm	O
 thiab	O

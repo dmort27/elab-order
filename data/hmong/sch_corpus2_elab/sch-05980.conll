@@ -156,9 +156,6 @@ suav	B
 hnub	I
 suav	I
 hmo	I
-hnub	O
-suav	O
-hmo	O
 LOJ	O
 HLOB	O
 .	O
@@ -331,9 +328,6 @@ hniav	B
 ntaj	I
 hniav	I
 riam	I
-ntaj	O
-hniav	O
-riam	O
 thiab	O
 tsis	O
 tas	O
@@ -363,9 +357,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 hauv	O
 KM52	O
 tshwj	O
@@ -827,9 +818,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 coob	O
 lawm	O
 zujzus	O
@@ -877,9 +865,6 @@ kawm	B
 txuj	I
 kawm	I
 ci	I
-txuj	O
-kawm	O
-ci	O
 .	O
 
 
@@ -940,26 +925,17 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 ,	O
 ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 thiab	O
 muaj	O
 kev	B
 lag	I
 kev	I
 luam	I
-lag	O
-kev	O
-luam	O
 txij	O
 puag	O
 tim	O
@@ -1383,9 +1359,6 @@ khav	B
 qab	I
 khav	I
 tsau	I
-qab	O
-khav	O
-tsau	O
 ,	O
 txhob	O
 tsa	O
@@ -1457,9 +1430,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 khiav	O
 maub	O
 hav	O
@@ -2456,9 +2426,6 @@ kev	B
 neej	I
 kev	I
 tsa	I
-neej	O
-kev	O
-tsa	O
 tseg	O
 tom	O
 tsev	O
@@ -2491,9 +2458,6 @@ lug	B
 toj	I
 lug	I
 pes	I
-toj	O
-lug	O
-pes	O
 YAIM	O
 lov	O
 ?	O
@@ -2779,9 +2743,6 @@ txog	B
 dej	I
 txog	I
 cawv	I
-dej	O
-txog	O
-cawv	O
 ,	O
 txhaum	O
 dab	O
@@ -3371,9 +3332,6 @@ sau	B
 ntaub	I
 sau	I
 ntawv	I
-ntaub	O
-sau	O
-ntawv	O
 research	O
 yeej	O
 muaj	O
@@ -3451,9 +3409,6 @@ muab	B
 nom	I
 muab	I
 tswv	I
-nom	O
-muab	O
-tswv	O
 rau	O
 yawg	O
 Muas	O
@@ -3856,9 +3811,6 @@ siab	B
 loj	I
 siab	I
 ntev	I
-loj	O
-siab	O
-ntev	O
 mog	O
 .	O
 
@@ -3965,9 +3917,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -4451,9 +4400,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 tias	O
 tsuas	O
 yog	O

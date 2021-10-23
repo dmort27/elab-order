@@ -412,17 +412,11 @@ qhov	B
 txhia	I
 qhov	I
 chaw	I
-txhia	O
-qhov	O
-chaw	O
 thiab	O
 txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 li	O
 xwb	O
 es	O
@@ -697,9 +691,6 @@ sib	B
 txheeb	I
 sib	I
 ze	I
-txheeb	O
-sib	O
-ze	O
 es	O
 thiaj	O
 ntab	O
@@ -1625,9 +1616,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ...	O
 thiab	O
 nej	O
@@ -1650,9 +1638,6 @@ ua	B
 lwj	I
 ua	I
 liam	I
-lwj	O
-ua	O
-liam	O
 .	O
 
 
@@ -2262,9 +2247,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 nyob	O
 Nam	O
 Phong	O
@@ -2770,9 +2752,6 @@ tuav	B
 laj	I
 tuav	I
 kam	I
-laj	O
-tuav	O
-kam	O
 txhua	O
 txhia	O
 fab	O

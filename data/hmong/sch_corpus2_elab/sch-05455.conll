@@ -78,9 +78,6 @@ dag	B
 teb	I
 dag	I
 chaw	I
-teb	O
-dag	O
-chaw	O
 los	O
 tau	O
 30	O
@@ -509,9 +506,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 ces	O
 yeej	O
 tsis	O

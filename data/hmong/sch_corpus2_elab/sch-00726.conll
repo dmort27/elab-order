@@ -965,9 +965,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 thawm	O
 niaj	O
 thaum	O
@@ -1035,9 +1032,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 tau	O
 2-3	O
 xyoos	O

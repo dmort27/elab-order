@@ -226,9 +226,6 @@ tseem	B
 niam	I
 tseem	I
 txiv	I
-niam	O
-tseem	O
-txiv	O
 --	O
 God	O
 .	O
@@ -1043,9 +1040,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 li	O
 no	O
 tsi	O
@@ -2191,9 +2185,6 @@ yog	B
 kwv	I
 yog	I
 tij	I
-kwv	O
-yog	O
-tij	O
 lawm	O
 tiag	O
 tiag	O
@@ -2241,9 +2232,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 tagnrho	O
 ...	O
 es	O

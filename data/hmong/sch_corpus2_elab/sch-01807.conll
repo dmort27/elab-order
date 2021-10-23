@@ -525,9 +525,6 @@ tsi	B
 moog	I
 tsi	I
 lug	I
-moog	O
-tsi	O
-lug	O
 .	O
 
 
@@ -674,9 +671,6 @@ tsis	B
 mus	I
 tsis	I
 los	I
-mus	O
-tsis	O
-los	O
 .	O
 
 
@@ -2283,9 +2277,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 ntawd	O
 lug	O
 xwb	O
@@ -3648,9 +3639,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 .	O
 
 
@@ -3688,9 +3676,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 mas	O
 zoo	O
 li	O
@@ -3708,9 +3693,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 )	O
 Tabsis	O
 yog	O
@@ -3730,9 +3712,6 @@ lus	B
 nom	I
 lus	I
 tswv	I
-nom	O
-lus	O
-tswv	O
 ,	O
 lus	O
 laj	O
@@ -3743,9 +3722,6 @@ lus	B
 tshoob	I
 lus	I
 kos	I
-tshoob	O
-lus	O
-kos	O
 no	O
 cia	O
 mam	O

@@ -240,9 +240,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 hauv	O
 tib	O
 neeg	O
@@ -262,9 +259,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 mas	O
 luag	O
 ntshai	O
@@ -294,9 +288,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 yog	O
 los	O
 ntawm	O
@@ -318,9 +309,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 yuav	O
 tsum	O
 nrhiav	O
@@ -358,9 +346,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 hauv	O
 ntiaj	O
 teb	O
@@ -1795,9 +1780,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ,	O
 los	O
 yog	O

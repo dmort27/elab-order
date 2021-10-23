@@ -30,9 +30,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 xyoo	O
 no	O
 ntag	O
@@ -526,9 +523,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 xyoo	O
 no	O
 ntag	O
@@ -1023,9 +1017,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 rua	O
 peb	O
 cov	O
@@ -1762,9 +1753,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 li	O
 .	O
 
@@ -1796,9 +1784,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 noj	O
 lawm	O
 ,	O
@@ -1878,9 +1863,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 .	O
 
 
@@ -2248,9 +2230,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 tes	O
 kav	O
 tsij	O

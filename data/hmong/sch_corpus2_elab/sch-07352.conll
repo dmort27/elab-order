@@ -228,9 +228,6 @@ muaj	B
 txuj	I
 muaj	I
 ci	I
-txuj	O
-muaj	O
-ci	O
 los	O
 ca	O
 peb	O
@@ -288,9 +285,6 @@ muaj	B
 txuj	I
 muaj	I
 ci	I
-txuj	O
-muaj	O
-ci	O
 los	O
 ca	O
 peb	O
@@ -309,9 +303,6 @@ tug	B
 yeej	I
 tug	I
 swb	I
-yeej	O
-tug	O
-swb	O
 ...	O
 ntxhais	O
 nkauj	O
@@ -847,9 +838,6 @@ twm	B
 zeej	I
 twm	I
 kawv	I
-zeej	O
-twm	O
-kawv	O
 ces	O
 yog	O
 tsis	O

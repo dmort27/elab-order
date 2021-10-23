@@ -301,9 +301,6 @@ raws	B
 noj	I
 raws	I
 haus	I
-noj	O
-raws	O
-haus	O
 .	O
 
 
@@ -510,17 +507,11 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 .	O
 
 
@@ -2093,9 +2084,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 ,	O
 tsis	O
 muaj	O
@@ -2174,9 +2162,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 no	O
 lawm	O
 xwb	O
@@ -2200,9 +2185,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 nyob	O
 thoob	O
 qab	O
@@ -2769,9 +2751,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 los	O
 tau	O
 30	O
@@ -3203,9 +3182,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 ,	O
 thov	O
 sau	O
@@ -3674,9 +3650,6 @@ raws	B
 noj	I
 raws	I
 haus	I
-noj	O
-raws	O
-haus	O
 .	O
 
 
@@ -3883,17 +3856,11 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 .	O
 
 
@@ -5466,9 +5433,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 ,	O
 tsis	O
 muaj	O
@@ -5547,9 +5511,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 no	O
 lawm	O
 xwb	O
@@ -5573,9 +5534,6 @@ tub	B
 txawj	I
 tub	I
 ntse	I
-txawj	O
-tub	O
-ntse	O
 nyob	O
 thoob	O
 qab	O
@@ -6487,9 +6445,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 xwb	O
 .	O
 
@@ -8173,9 +8128,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -8837,9 +8789,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -9236,9 +9185,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 )	O
 es	O
 thiaj	O
@@ -9301,9 +9247,6 @@ lus	B
 xaiv	I
 lus	I
 cua	I
-xaiv	O
-lus	O
-cua	O
 li	O
 tej	O
 neeg	O
@@ -9349,9 +9292,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 tiag	O
 ,	O
 yus	O
@@ -9618,9 +9558,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 los	O
 tiam	O
 sis	O
@@ -9829,9 +9766,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 hab	O
 ,	O
 txhob	O
@@ -10044,9 +9978,6 @@ muaj	B
 txuj	I
 muaj	I
 ci	I
-txuj	O
-muaj	O
-ci	O
 tiag	O
 mas	O
 .	O
@@ -10095,9 +10026,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 ntev	O
 npaum	O
 li	O

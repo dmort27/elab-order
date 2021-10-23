@@ -409,9 +409,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 li	O
 koj	O
 xav	O
@@ -437,9 +434,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 ,	O
 yawg	O
 twb	O
@@ -473,9 +467,6 @@ xws	B
 teb	I
 xws	I
 chaw	I
-teb	O
-xws	O
-chaw	O
 .	O
 
 
@@ -777,9 +768,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 naj	O
 tiamsid	O
 ho	O
@@ -1446,9 +1434,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 mam	O
 li	O
 nug	O
@@ -2036,9 +2021,6 @@ tim	B
 ub	I
 tim	I
 no	I
-ub	O
-tim	O
-no	O
 .	O
 
 
@@ -2060,9 +2042,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 qhov	O
 twj	O
 los	O
@@ -2074,9 +2053,6 @@ pab	B
 ub	I
 pab	I
 no	I
-ub	O
-pab	O
-no	O
 .	O
 
 
@@ -2160,9 +2136,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 es	O
 tseem	O
 pheej	O

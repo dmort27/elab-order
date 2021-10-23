@@ -915,9 +915,6 @@ ntsia	B
 mus	I
 ntsia	I
 los	I
-mus	O
-ntsia	O
-los	O
 Hmoob	O
 meskas	O
 thiab	O
@@ -1311,9 +1308,6 @@ tus	B
 hlob	I
 tus	I
 yau	I
-hlob	O
-tus	O
-yau	O
 ,	O
 tus	O
 ruam	O
@@ -2507,9 +2501,6 @@ cais	B
 pab	I
 cais	I
 pawg	I
-pab	O
-cais	O
-pawg	O
 .	O
 
 
@@ -3976,9 +3967,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 xwb	O
 .	O
 
@@ -4064,9 +4052,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 lawm	O
 .	O
 
@@ -4248,9 +4233,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 rau	O
 tsa	O
 los	O

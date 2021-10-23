@@ -213,9 +213,6 @@ tom	B
 ntej	I
 tom	I
 qaab	I
-ntej	O
-tom	O
-qaab	O
 le	O
 .	O
 
@@ -783,18 +780,12 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 los	O
 sis	O
 hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 tiag	O
 tiag	O
 mas	O
@@ -927,9 +918,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ov	O
 .	O
 
@@ -1032,9 +1020,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 tiag	O
 mas	O
 yog	O
@@ -1513,9 +1498,6 @@ khu	B
 vaaj	I
 khu	I
 tsev	I
-vaaj	O
-khu	O
-tsev	O
 rua	O
 puab	O
 nyob	O
@@ -1529,18 +1511,12 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 tom	O
 qaab	O
 kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 kuam	O
 puab	O
 muaj	O
@@ -1580,9 +1556,6 @@ tug	B
 ub	I
 tug	I
 nua	I
-ub	O
-tug	O
-nua	O
 ces	O
 yog	O
 cev	O

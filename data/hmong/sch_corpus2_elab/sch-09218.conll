@@ -140,9 +140,6 @@ cov	B
 txheeb	I
 cov	I
 ze	I
-txheeb	O
-cov	O
-ze	O
 lub	O
 siab	O
 me	O
@@ -434,9 +431,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 thiab	O
 cov	O
 laus	O
@@ -736,9 +730,6 @@ teg	B
 dlej	I
 teg	I
 num	I
-dlej	O
-teg	O
-num	O
 kws	O
 nwg	O
 tau	O
@@ -877,9 +868,6 @@ tub	B
 ntsoj	I
 tub	I
 ntsuag	I
-ntsoj	O
-tub	O
-ntsuag	O
 .	O
 
 
@@ -1064,9 +1052,6 @@ puv	B
 vaaj	I
 puv	I
 tsev	I
-vaaj	O
-puv	O
-tsev	O
 los	O
 thaum	O
 kawg	O
@@ -1213,17 +1198,11 @@ luag	B
 zej	I
 luag	I
 zos	I
-zej	O
-luag	O
-zos	O
 thiab	O
 tej	B
 txheeb	I
 tej	I
 ze	I
-txheeb	O
-tej	O
-ze	O
 xyuas	O
 li	O
 ces	O
@@ -1807,9 +1786,6 @@ muaj	B
 ploj	I
 muaj	I
 tuag	I
-ploj	O
-muaj	O
-tuag	O
 .	O
 
 

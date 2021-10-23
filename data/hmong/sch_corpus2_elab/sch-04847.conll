@@ -230,9 +230,6 @@ tus	B
 txheeb	I
 tus	I
 ze	I
-txheeb	O
-tus	O
-ze	O
 no	O
 xwb	O
 lauv	O
@@ -334,9 +331,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 xwb	O
 mas	O
 .	O
@@ -389,9 +383,6 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 tso	O
 lus	O
 lawm	O
@@ -568,9 +559,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 xwb	O
 tsis	O
 yog	O
@@ -662,9 +650,6 @@ kaus	B
 xyoob	I
 kaus	I
 ntoo	I
-xyoob	O
-kaus	O
-ntoo	O
 tau	O
 ib	O
 tog	O
@@ -696,9 +681,6 @@ txog	B
 vaj	I
 txog	I
 tsev	I
-vaj	O
-txog	O
-tsev	O
 kuv	O
 mam	O
 xa	O
@@ -789,9 +771,6 @@ xav	B
 txheeb	I
 xav	I
 ze	I
-txheeb	O
-xav	O
-ze	O
 --	O
 es	O
 xa	O
@@ -884,9 +863,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 los	O
 hais	O
 lawm	O

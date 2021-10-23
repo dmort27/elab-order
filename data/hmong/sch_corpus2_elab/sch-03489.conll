@@ -709,9 +709,6 @@ tham	B
 mus	I
 tham	I
 los	I
-mus	O
-tham	O
-los	O
 zoo	O
 li	O
 koj	O
@@ -842,9 +839,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 li	O
 no	O
 lawm	O
@@ -1290,9 +1284,6 @@ lub	B
 vaj	I
 lub	I
 tsev	I
-vaj	O
-lub	O
-tsev	O
 )	O
 6	O
 .	O
@@ -2509,9 +2500,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 ib	O
 zaug	O
 noj	O
@@ -2827,9 +2815,6 @@ ua	B
 dev	I
 ua	I
 npua	I
-dev	O
-ua	O
-npua	O
 mas	O
 kuv	O
 yeej	O

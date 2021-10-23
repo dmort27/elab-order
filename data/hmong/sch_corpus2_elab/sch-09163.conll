@@ -228,9 +228,6 @@ dej	B
 siab	I
 dej	I
 ntsws	I
-siab	O
-dej	O
-ntsws	O
 li	O
 cas	O
 no	O
@@ -1213,9 +1210,6 @@ ua	B
 qeej	I
 ua	I
 nruas	I
-qeej	O
-ua	O
-nruas	O
 thiab	O
 thov	O
 vajtswv	O
@@ -1449,9 +1443,6 @@ txaus	B
 siab	I
 txaus	I
 ntsws	I
-siab	O
-txaus	O
-ntsws	O
 thiaj	O
 yuav	O
 nyob	O
@@ -2253,9 +2244,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 mus	O
 nrog	O
 fuab	O
@@ -2314,9 +2302,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 mus	O
 nrog	O
 fuab	O

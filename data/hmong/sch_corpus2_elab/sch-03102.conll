@@ -214,9 +214,6 @@ txiv	B
 neeb	I
 txiv	I
 yaig	I
-neeb	O
-txiv	O
-yaig	O
 mas	O
 ..	O
 ua	O
@@ -514,9 +511,6 @@ tug	B
 ub	I
 tug	I
 nuav	I
-ub	O
-tug	O
-nuav	O
 xib	O
 es	O
 koj	O
@@ -585,9 +579,6 @@ ua	B
 nub	I
 ua	I
 mo	I
-nub	O
-ua	O
-mo	O
 tog	O
 teb	O
 koj	O

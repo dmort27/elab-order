@@ -379,9 +379,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 txog	O
 xwb	O
 .	O
@@ -536,9 +533,6 @@ tub	B
 sab	I
 tub	I
 nyiag	I
-sab	O
-tub	O
-nyiag	O
 ,	O
 dag	O
 noj	O
@@ -732,9 +726,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 xwb	O
 ,	O
 koj	O
@@ -1484,9 +1475,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 hlo	O
 li	O
 lauv	O

@@ -281,9 +281,6 @@ ib	B
 txhiab	I
 ib	I
 txhis	I
-txhiab	O
-ib	O
-txhis	O
 .	O
 
 
@@ -570,9 +567,6 @@ ib	B
 txhiab	I
 ib	I
 txhis	I
-txhiab	O
-ib	O
-txhis	O
 .	O
 
 
@@ -1224,9 +1218,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 lossis	O
 muaj	O
 party	O
@@ -2481,9 +2472,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 mas	O
 tsi	O
 yog	O
@@ -3136,9 +3124,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 mas	O
 .	O
 
@@ -3994,9 +3979,6 @@ hlub	B
 niam	I
 hlub	I
 txiv	I
-niam	O
-hlub	O
-txiv	O
 twb	O
 tsis	O
 yog	O
@@ -4014,18 +3996,12 @@ pub	B
 noj	I
 pub	I
 haus	I
-noj	O
-pub	O
-haus	O
 rau	O
 yus	O
 tej	B
 tub	I
 tej	I
 kiv	I
-tub	O
-tej	O
-kiv	O
 los	O
 twb	O
 tsis	O
@@ -4095,9 +4071,6 @@ hlub	B
 niam	I
 hlub	I
 txiv	I
-niam	O
-hlub	O
-txiv	O
 ces	O
 yog	O
 hlub	O
@@ -4326,9 +4299,6 @@ kis	B
 toj	I
 kis	I
 pes	I
-toj	O
-kis	O
-pes	O
 li	O
 ntag	O
 nawb	O

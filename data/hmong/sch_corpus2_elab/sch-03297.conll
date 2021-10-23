@@ -14,9 +14,6 @@ muaj	B
 kwv	I
 muaj	I
 tij	I
-kwv	O
-muaj	O
-tij	O
 ,	O
 muaj	O
 viv	O
@@ -722,9 +719,6 @@ hauv	B
 paug	I
 hauv	I
 ntsis	I
-paug	O
-hauv	O
-ntsis	O
 tes	O
 ,	O
 yuav	O
@@ -740,9 +734,6 @@ hauv	B
 paug	I
 hauv	I
 ntsis	I
-paug	O
-hauv	O
-ntsis	O
 .	O
 
 
@@ -1175,9 +1166,6 @@ seem	B
 kev	I
 seem	I
 cai	I
-kev	O
-seem	O
-cai	O
 kawg	O
 lawm	O
 .	O

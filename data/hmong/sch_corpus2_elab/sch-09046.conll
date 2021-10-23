@@ -388,9 +388,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 zoo	O
 nyob	O
 ,	O
@@ -444,9 +441,6 @@ miv	B
 kaab	I
 miv	I
 noog	I
-kaab	O
-miv	O
-noog	O
 quaj	O
 ,	O
 hov	O
@@ -537,9 +531,6 @@ lub	B
 vaaj	I
 lub	I
 tsev	I
-vaaj	O
-lub	O
-tsev	O
 es	O
 kuv	O
 maam	O
@@ -561,9 +552,6 @@ muaj	B
 caij	I
 muaj	I
 nyoog	I
-caij	O
-muaj	O
-nyoog	O
 txaug	O
 ,	O
 yog	O
@@ -818,9 +806,6 @@ ntsuag	B
 xyoob	I
 ntsuag	I
 ntoo	I
-xyoob	O
-ntsuag	O
-ntoo	O
 txau	O
 ca	O
 kom	O

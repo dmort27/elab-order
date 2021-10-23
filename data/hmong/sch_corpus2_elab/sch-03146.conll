@@ -28,9 +28,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 sib	O
 cog	O
 lug	O
@@ -822,9 +819,6 @@ miv	B
 tub	I
 miv	I
 ntxhais	I
-tub	O
-miv	O
-ntxhais	O
 tsheej	O
 sob	O
 lawm	O

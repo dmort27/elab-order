@@ -918,9 +918,6 @@ saib	B
 neej	I
 saib	I
 tsav	I
-neej	O
-saib	O
-tsav	O
 ntsej	O
 muaj	O
 xwb	O
@@ -1330,9 +1327,6 @@ niam	B
 hlob	I
 niam	I
 yau	I
-hlob	O
-niam	O
-yau	O
 aws	O
 .	O
 
@@ -1435,16 +1429,10 @@ tej	B
 neej	I
 tej	I
 tsav	I
-neej	O
-tej	O
-tsav	O
 lub	B
 ntsej	I
 lub	I
 muag	I
-ntsej	O
-lub	O
-muag	O
 xwb	O
 .	O
 
@@ -1876,9 +1864,6 @@ hau	B
 yeeb	I
 hau	I
 tshuaj	I
-yeeb	O
-hau	O
-tshuaj	O
 ,	O
 ua	O
 paum	O

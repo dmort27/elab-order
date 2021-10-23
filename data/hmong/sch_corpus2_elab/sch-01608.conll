@@ -211,9 +211,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ,	O
 yog	O
 tiag	O
@@ -246,9 +243,6 @@ qhov	B
 zoo	I
 qhov	I
 phem	I
-zoo	O
-qhov	O
-phem	O
 ,	O
 qhlawv	O
 swb	O
@@ -2797,9 +2791,6 @@ rau	B
 pem	I
 rau	I
 nram	I
-pem	O
-rau	O
-nram	O
 ,	O
 lub	O
 peb	O
@@ -3104,9 +3095,6 @@ rau	B
 pem	I
 rau	I
 nram	I
-pem	O
-rau	O
-nram	O
 ,	O
 lub	O
 peb	O
@@ -3346,9 +3334,6 @@ nyias	B
 pab	I
 nyias	I
 pawg	I
-pab	O
-nyias	O
-pawg	O
 xwb	O
 ,	O
 ho	O
@@ -3524,25 +3509,16 @@ yog	B
 neej	I
 yog	I
 tsav	I
-neej	O
-yog	O
-tsav	O
 ,	O
 yog	B
 phooj	I
 yog	I
 ywg	I
-phooj	O
-yog	O
-ywg	O
 ,	O
 yog	B
 kwv	I
 yog	I
 tij	I
-kwv	O
-yog	O
-tij	O
 ,	O
 tabsi	O
 vim	O
@@ -3877,9 +3853,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 qujqees	O
 .	O
 

@@ -152,9 +152,6 @@ kuv	B
 niam	I
 kuv	I
 txiv	I
-niam	O
-kuv	O
-txiv	O
 thiab	O
 tijlaug	O
 lawv	O
@@ -466,9 +463,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 xwb	O
 .	O
 
@@ -846,9 +840,6 @@ tej	B
 siab	I
 tej	I
 ntsws	I
-siab	O
-tej	O
-ntsws	O
 tej	O
 cwj	O
 pwm	O
@@ -1133,9 +1124,6 @@ txog	B
 caij	I
 txog	I
 nyoog	I
-caij	O
-txog	O
-nyoog	O
 lawm	O
 xav	O
 kom	O

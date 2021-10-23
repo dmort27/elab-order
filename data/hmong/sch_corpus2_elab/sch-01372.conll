@@ -354,9 +354,6 @@ txij	B
 qab	I
 txij	I
 de	I
-qab	O
-txij	O
-de	O
 los	O
 yog	O
 nws	O
@@ -457,9 +454,6 @@ yog	B
 nom	I
 yog	I
 tswv	I
-nom	O
-yog	O
-tswv	O
 loj	O
 thiab	O
 siab	O
@@ -827,9 +821,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ntau	O
 li	O
 ntau	O
@@ -922,9 +913,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 tiag	O
 .	O
@@ -1085,9 +1073,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 hus	O
 ua	O
 doctor	O
@@ -1311,9 +1296,6 @@ hauv	B
 ntaub	I
 hauv	I
 ntawv	I
-ntaub	O
-hauv	O
-ntawv	O
 ua	O
 dabneeg	O
 hais	O
@@ -1620,9 +1602,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 txaus	O
 tsev	O
 neeg	O
@@ -1711,9 +1690,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 txaus	O
 .	O
 

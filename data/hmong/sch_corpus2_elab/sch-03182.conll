@@ -16,9 +16,6 @@ tej	B
 ntaub	I
 tej	I
 ntawv	I
-ntaub	O
-tej	O
-ntawv	O
 tiag	O
 tiag	O
 .	O
@@ -218,9 +215,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 ,	O
 yog	O
 ,	O
@@ -646,9 +640,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 yav	O
 tas	O
 thiab	O
@@ -671,9 +662,6 @@ peb	B
 teej	I
 peb	I
 tug	I
-teej	O
-peb	O
-tug	O
 tiag	O
 tiag	O
 .	O
@@ -875,9 +863,6 @@ sib	B
 chab	I
 sib	I
 chaws	I
-chab	O
-sib	O
-chaws	O
 (	O
 intricate	O
 alphabet	O
@@ -3553,9 +3538,6 @@ txhua	B
 tsav	I
 txhua	I
 yam	I
-tsav	O
-txhua	O
-yam	O
 xwb	O
 .	O
 

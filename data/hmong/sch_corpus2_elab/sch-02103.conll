@@ -325,9 +325,6 @@ txiv	B
 pluj	I
 txiv	I
 plaag	I
-pluj	O
-txiv	O
-plaag	O
 es	O
 khaws	O
 tsis	O
@@ -504,9 +501,6 @@ rau	B
 ub	I
 rau	I
 nua	I
-ub	O
-rau	O
-nua	O
 le	O
 ,	O
 mej	O
@@ -996,9 +990,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 li	O
 koj	O
 nav	O

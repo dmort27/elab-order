@@ -143,9 +143,6 @@ qhov	B
 ntsej	I
 qhov	I
 muag	I
-ntsej	O
-qhov	O
-muag	O
 saib	O
 cov	O
 Hmoob	O
@@ -312,9 +309,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 tsis	O
 muaj	O
 xaus	O
@@ -412,9 +406,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 los	O
 tau	O
 30	O
@@ -463,9 +454,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 ....	O
 kubxaj	O
 thiab	O
@@ -493,9 +481,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 es	O
 .	O
 

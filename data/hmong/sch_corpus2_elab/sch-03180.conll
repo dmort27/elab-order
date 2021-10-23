@@ -356,9 +356,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 sib	O
 tua	O
 tuag	O
@@ -381,9 +378,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 sib	O
 nrauj	O
 es	O
@@ -715,9 +709,6 @@ chaws	B
 txawb	I
 chaws	I
 rau	I
-txawb	O
-chaws	O
-rau	O
 .	O
 
 

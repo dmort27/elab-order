@@ -1611,9 +1611,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 thiaj	O
 muaj	O
 peb.Li	O
@@ -1623,9 +1620,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 peb	O
 thaij	O
 li	O
@@ -1636,9 +1630,6 @@ peb	B
 niam	I
 peb	I
 txiv	I
-niam	O
-peb	O
-txiv	O
 ua	O
 ntej	O
 .	O
@@ -1701,9 +1692,6 @@ ti	B
 tes	I
 ti	I
 taw	I
-tes	O
-ti	O
-taw	O
 ces	O
 peb	O
 hu	O
@@ -1917,9 +1905,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 lawm	O
 yav	O
 tom	O
@@ -2054,17 +2039,11 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 ,	O
 muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 ,	O
 tsis	O
 yog	O
@@ -2151,9 +2130,6 @@ dab	B
 vaj	I
 dab	I
 tsev	I
-vaj	O
-dab	O
-tsev	O
 .	O
 
 
@@ -2177,9 +2153,6 @@ xeeb	B
 teb	I
 xeeb	I
 chaw	I
-teb	O
-xeeb	O
-chaw	O
 tim	O
 tswv	O
 li	O
@@ -2190,18 +2163,12 @@ dab	B
 roob	I
 dab	I
 hav	I
-roob	O
-dab	O
-hav	O
 ,	O
 dab	O
 qhov	B
 zeb	I
 qhov	I
 tsua	I
-zeb	O
-qhov	O
-tsua	O
 ,	O
 mus	O
 rau	O
@@ -2212,9 +2179,6 @@ tuag	B
 tshaib	I
 tuag	I
 nqhis	I
-tshaib	O
-tuag	O
-nqhis	O
 thiab	O
 lwm	O
 yam	O
@@ -2319,9 +2283,6 @@ txawj	B
 mob	I
 txawj	I
 tuag	I
-mob	O
-txawj	O
-tuag	O
 6	O
 .	O
 
@@ -2761,9 +2722,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 mas	O
 puav	O
 leej	O
@@ -3027,9 +2985,6 @@ txiv	B
 zej	I
 txiv	I
 zog	I
-zej	O
-txiv	O
-zog	O
 ,	O
 tej	O
 nyuag	O

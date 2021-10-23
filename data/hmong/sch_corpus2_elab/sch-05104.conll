@@ -104,17 +104,11 @@ qhua	B
 nom	I
 qhua	I
 tswv	I
-nom	O
-qhua	O
-tswv	O
 ,	O
 neeb	B
 txwj	I
 neeb	I
 laus	I
-txwj	O
-neeb	O
-laus	O
 ,	O
 neeb	O
 pog	O
@@ -349,9 +343,6 @@ tog	B
 vaj	I
 tog	I
 tsev	I
-vaj	O
-tog	O
-tsev	O
 xwb	O
 ,	O
 nws	O
@@ -451,9 +442,6 @@ tej	B
 ntsuj	I
 tej	I
 plig	I
-ntsuj	O
-tej	O
-plig	O
 .	O
 
 
@@ -500,9 +488,6 @@ tej	B
 ntsuj	I
 tej	I
 plig	I
-ntsuj	O
-tej	O
-plig	O
 yeej	O
 yuav	O
 yuj	O

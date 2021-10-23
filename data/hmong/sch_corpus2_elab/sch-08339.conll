@@ -9,9 +9,6 @@ kuag	B
 kaab	I
 kuag	I
 hlau	I
-kaab	O
-kuag	O
-hlau	O
 nuav	O
 saib	O
 mas	O
@@ -272,9 +269,6 @@ dag	B
 noj	I
 dag	I
 haus	I
-noj	O
-dag	O
-haus	O
 yeej	O
 yuav	O
 muaj	O
@@ -370,9 +364,6 @@ koj	B
 niam	I
 koj	I
 txiv	I
-niam	O
-koj	O
-txiv	O
 tu	O
 siab	O
 uas	O

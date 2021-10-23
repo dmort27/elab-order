@@ -323,9 +323,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 thiab	O
 kev	O
 tswjfwm	O
@@ -834,9 +831,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 ua	O
 xaiv	O
 ua	O
@@ -1013,9 +1007,6 @@ sib	B
 pab	I
 sib	I
 hlub	I
-pab	O
-sib	O
-hlub	O
 ,	O
 Av	O
 ntuj	O
@@ -1035,9 +1026,6 @@ sib	B
 hlub	I
 sib	I
 pab	I
-hlub	O
-sib	O
-pab	O
 (	O
 Muaj	O
 power	O

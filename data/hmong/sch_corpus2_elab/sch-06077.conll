@@ -489,9 +489,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 yuav	O
 nrov	O
 zoo	O
@@ -509,17 +506,11 @@ tej	B
 tub	I
 tej	I
 ki	I
-tub	O
-tej	O
-ki	O
 and	O
 cov	B
 txheeb	I
 cov	I
 ze	I
-txheeb	O
-cov	O
-ze	O
 .	O
 
 
@@ -1314,9 +1305,6 @@ txoj	B
 kev	I
 txoj	I
 cai	I
-kev	O
-txoj	O
-cai	O
 los	O
 taug	O
 xwb	O
@@ -1620,9 +1608,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ces	O
 ntshe	O
 hmoob	O
@@ -1643,9 +1628,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ,	O
 koj	O
 muab	O

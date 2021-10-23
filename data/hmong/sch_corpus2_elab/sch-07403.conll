@@ -139,9 +139,6 @@ rau	B
 tes	I
 rau	I
 taw	I
-tes	O
-rau	O
-taw	O
 thiab	O
 kaus	O
 hniav	O
@@ -298,9 +295,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 ces	O
 yeej	O
@@ -408,9 +402,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 tab	O
 sis	O
 txog	O
@@ -495,9 +486,6 @@ muaj	B
 suab	I
 muaj	I
 npe	I
-suab	O
-muaj	O
-npe	O
 nrov	O
 ,	O
 tseem	O

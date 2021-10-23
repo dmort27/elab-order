@@ -48,9 +48,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 koj	O
 hnov	O
 ntawd	O
@@ -63,9 +60,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 lawm	O
 mas	O
 lov	O
@@ -219,9 +213,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 ris	O
 .	O
 
@@ -236,9 +227,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 .	O
 
 

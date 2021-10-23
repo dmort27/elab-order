@@ -215,9 +215,6 @@ lwg	B
 noj	I
 lwg	I
 haus	I
-noj	O
-lwg	O
-haus	O
 ,	O
 kev	O
 sau	O
@@ -449,9 +446,6 @@ phom	B
 loj	I
 phom	I
 me	I
-loj	O
-phom	O
-me	O
 ,	O
 nkoj	O
 huab	O
@@ -546,9 +540,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 ua	O
 ntej	O
 tso	O
@@ -723,9 +714,6 @@ phom	B
 loj	I
 phom	I
 me	I
-loj	O
-phom	O
-me	O
 ,	O
 nkoj	O
 huab	O
@@ -820,9 +808,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 ua	O
 ntej	O
 tso	O
@@ -1749,9 +1734,6 @@ haum	B
 kab	I
 haum	I
 kev	I
-kab	O
-haum	O
-kev	O
 nrog	O
 lawv	O
 nyob	O
@@ -2220,9 +2202,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 hos	O
 luag	O
 thiaj	O
@@ -2259,9 +2238,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 rau	O
 peb	O
 yam	O
@@ -2300,9 +2276,6 @@ tej	B
 liaj	I
 tej	I
 teb	I
-liaj	O
-tej	O
-teb	O
 rau	O
 luag	O
 ua	O
@@ -2552,9 +2525,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 (	O
 focus	O
 on	O
@@ -2567,9 +2537,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 (	O
 focus	O
 on	O
@@ -2587,9 +2554,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 los	O
 nyob	O
 ntawm	O

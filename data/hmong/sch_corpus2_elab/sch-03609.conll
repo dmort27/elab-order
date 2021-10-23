@@ -322,9 +322,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 los	O
 nrog	O
 nej	O
@@ -680,9 +677,6 @@ lawv	B
 teb	I
 lawv	I
 chaw	I
-teb	O
-lawv	O
-chaw	O
 ,	O
 United	O
 Nations	O
@@ -948,9 +942,6 @@ cov	B
 nom	I
 cov	I
 tswv	I
-nom	O
-cov	O
-tswv	O
 mas	O
 luag	O
 muaj	O
@@ -1095,9 +1086,6 @@ pab	B
 nyiaj	I
 pab	I
 txiaj	I
-nyiaj	O
-pab	O
-txiaj	O
 rau	O
 cov	O
 kub	O
@@ -1646,9 +1634,6 @@ lub	B
 koob	I
 lub	I
 meej	I
-koob	O
-lub	O
-meej	O
 nyob	O
 Amelikas	O
 puas	O
@@ -1722,9 +1707,6 @@ ib	B
 txhiab	I
 ib	I
 txhis	I
-txhiab	O
-ib	O
-txhis	O
 nrog	O
 neeg	O
 ntiaj	O
@@ -1807,9 +1789,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 kom	O
 luag	O
 lwm	O
@@ -2573,9 +2552,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 nrog	O
 tog	O
 Nplog	O
@@ -3099,9 +3075,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 .	O
 
 
@@ -3245,9 +3218,6 @@ txhia	B
 leej	I
 txhia	I
 tus	I
-leej	O
-txhia	O
-tus	O
 .	O
 
 
@@ -4361,9 +4331,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 tab	O
 sis	O
@@ -4817,9 +4784,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 mus	O
 nrhiav	O
 kev	O
@@ -5024,9 +4988,6 @@ muab	B
 phom	I
 muab	I
 riam	I
-phom	O
-muab	O
-riam	O
 mus	O
 nrog	O
 Nplog	O
@@ -5046,9 +5007,6 @@ ua	B
 kub	I
 ua	I
 ntaiv	I
-kub	O
-ua	O
-ntaiv	O
 los	O
 txog	O
 ntua	O
@@ -5207,9 +5165,6 @@ ntau	B
 txhiab	I
 ntau	I
 tiam	I
-txhiab	O
-ntau	O
-tiam	O
 .	O
 
 
@@ -5357,9 +5312,6 @@ lub	B
 koob	I
 lub	I
 meej	I
-koob	O
-lub	O
-meej	O
 tsuas	O
 muaj	O
 yuav	O
@@ -5427,9 +5379,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 tham	O
 thiaj	O
 li	O
@@ -5492,9 +5441,6 @@ nto	B
 koob	I
 nto	I
 moo	I
-koob	O
-nto	O
-moo	O
 mus	O
 lawm	O
 yav	O
@@ -5963,9 +5909,6 @@ cov	B
 kwv	I
 cov	I
 tij	I
-kwv	O
-cov	O
-tij	O
 thiab	O
 tej	O
 nej	O
@@ -6164,9 +6107,6 @@ nkaum	B
 tshav	I
 nkaum	I
 nag	I
-tshav	O
-nkaum	O
-nag	O
 tau	O
 33	O
 xyoos	O
@@ -7065,9 +7005,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -8372,9 +8309,6 @@ los	B
 coj	I
 los	I
 ua	I
-coj	O
-los	O
-ua	O
 kom	O
 Hmoob	O
 muaj	O
@@ -9113,9 +9047,6 @@ lub	B
 koob	I
 lub	I
 meej	I
-koob	O
-lub	O
-meej	O
 nyob	O
 Amelikas	O
 puas	O
@@ -9749,9 +9680,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 los	O
 nrog	O
 nej	O
@@ -10095,9 +10023,6 @@ lawv	B
 teb	I
 lawv	I
 chaw	I
-teb	O
-lawv	O
-chaw	O
 ,	O
 United	O
 Nations	O
@@ -10363,9 +10288,6 @@ cov	B
 nom	I
 cov	I
 tswv	I
-nom	O
-cov	O
-tswv	O
 mas	O
 luag	O
 muaj	O
@@ -10510,9 +10432,6 @@ pab	B
 nyiaj	I
 pab	I
 txiaj	I
-nyiaj	O
-pab	O
-txiaj	O
 rau	O
 cov	O
 kub	O
@@ -11061,9 +10980,6 @@ lub	B
 koob	I
 lub	I
 meej	I
-koob	O
-lub	O
-meej	O
 nyob	O
 Amelikas	O
 puas	O
@@ -11137,9 +11053,6 @@ ib	B
 txhiab	I
 ib	I
 txhis	I
-txhiab	O
-ib	O
-txhis	O
 nrog	O
 neeg	O
 ntiaj	O
@@ -11222,9 +11135,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 kom	O
 luag	O
 lwm	O
@@ -11919,9 +11829,6 @@ ywj	B
 faab	I
 ywj	I
 fwj	I
-faab	O
-ywj	O
-fwj	O
 zoo	O
 le	O
 nuav	O
@@ -12058,9 +11965,6 @@ raug	B
 cuab	I
 raug	I
 khi	I
-cuab	O
-raug	O
-khi	O
 hab	O
 maag	O
 tua	O
@@ -12123,9 +12027,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 .	O
 
 
@@ -12815,9 +12716,6 @@ los	B
 coj	I
 los	I
 ua	I
-coj	O
-los	O
-ua	O
 kom	O
 Hmoob	O
 muaj	O

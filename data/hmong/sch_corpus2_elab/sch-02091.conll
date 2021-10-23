@@ -1094,9 +1094,6 @@ luas	B
 puj	I
 luas	I
 txiv	I
-puj	O
-luas	O
-txiv	O
 ,	O
 yaam	O
 2	O
@@ -1640,9 +1637,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 ,	O
 nws	O
 poj	O
@@ -1654,9 +1648,6 @@ nws	B
 kwv	I
 nws	I
 tij	I
-kwv	O
-nws	O
-tij	O
 ,	O
 nws	O
 nkauj	O
@@ -2314,9 +2305,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 ,	O
 nws	O
 poj	O
@@ -2328,9 +2316,6 @@ nws	B
 kwv	I
 nws	I
 tij	I
-kwv	O
-nws	O
-tij	O
 ,	O
 nws	O
 nkauj	O

@@ -169,9 +169,6 @@ lug	B
 nyaj	I
 lug	I
 kub	I
-nyaj	O
-lug	O
-kub	O
 ,	O
 lug	O
 taab	O
@@ -565,9 +562,6 @@ tsis	B
 txheeb	I
 tsis	I
 ze	I
-txheeb	O
-tsis	O
-ze	O
 nej	O
 tuaj	O
 ces	O
@@ -695,9 +689,6 @@ nta	B
 dab	I
 nta	I
 qhua	I
-dab	O
-nta	O
-qhua	O
 ntseg	O
 log	O
 puab	O

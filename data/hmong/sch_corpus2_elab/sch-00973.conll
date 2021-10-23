@@ -154,9 +154,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ,	O
 txiv	O
 yog	O
@@ -735,17 +732,11 @@ yus	B
 vaj	I
 yus	I
 tsev	I
-vaj	O
-yus	O
-tsev	O
 ,	O
 haus	B
 zej	I
 haus	I
 zos	I
-zej	O
-haus	O
-zos	O
 ,	O
 yus	O
 hais	O
@@ -778,17 +769,11 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ,	O
 vog	B
 ub	I
 vog	I
 no	I
-ub	O
-vog	O
-no	O
 uas	O
 tsis	O
 muaj	O
@@ -835,9 +820,6 @@ muaj	B
 paus	I
 muaj	I
 ntsis	I
-paus	O
-muaj	O
-ntsis	O
 .	O
 
 
@@ -1951,9 +1933,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 lawm	O
 ntag	O
 ,	O
@@ -2173,9 +2152,6 @@ muaj	B
 qab	I
 muaj	I
 hau	I
-qab	O
-muaj	O
-hau	O
 qhov	O
 koj	O
 thiab	O
@@ -2687,9 +2663,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 los	O
 laug	O
 hnub	O
@@ -2827,16 +2800,10 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 laug	B
 hnub	I
 laug	I
 hmo	I
-hnub	O
-laug	O
-hmo	O
 kom	O
 lub	O
 hnub	O
@@ -3110,9 +3077,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 xwb	O
 los	O
 ?	O
@@ -3467,9 +3431,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 los	O
 ?	O
 ?	O
@@ -3522,9 +3483,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 ...	O
 B2B	O
 ...	O
@@ -3538,9 +3496,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 xwb	O
 los	O
 ?	O
@@ -3559,9 +3514,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 xwb	O
 los	O
 ?	O
@@ -3576,9 +3528,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 txog	O
 tib	O
 cov	O
@@ -3655,9 +3604,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 xwb	O
 los	O
 ?	O
@@ -3673,9 +3619,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 es	O
 los	O
 siv	O
@@ -3707,9 +3650,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 yog	O
 li	O
 cas	O

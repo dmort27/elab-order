@@ -475,9 +475,6 @@ yug	B
 nam	I
 yug	I
 txiv	I
-nam	O
-yug	O
-txiv	O
 mas	O
 yeej	O
 yuav	O
@@ -1233,9 +1230,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 --	O
 pw	O
 havzoov	O
@@ -1248,9 +1242,6 @@ tej	B
 xyoob	I
 tej	I
 ntoo	I
-xyoob	O
-tej	O
-ntoo	O
 ,	O
 yus	O
 lub	O
@@ -1280,9 +1271,6 @@ khiav	B
 ciaj	I
 khiav	I
 tuag	I
-ciaj	O
-khiav	O
-tuag	O
 kom	O
 dim	O
 luag	O
@@ -1368,17 +1356,11 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 ,	O
 muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 muaj	O
 kev	O
@@ -1386,9 +1368,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 --	O
 es	O
 yuav	O
@@ -1398,9 +1377,6 @@ ua	B
 nas	I
 ua	I
 noog	I
-nas	O
-ua	O
-noog	O
 ,	O
 es	O
 tshob	O
@@ -1438,9 +1414,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 los	O
 ntshe	O
 ib	O
@@ -1483,9 +1456,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 thiab	O
 pojniam	O
 tub	O
@@ -1541,9 +1511,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 ,	O
 ces	O
 lawv	O
@@ -1598,9 +1565,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 li	O
 peb	O
 tham	O
@@ -2681,9 +2645,6 @@ txau	B
 noj	I
 txau	I
 haus	I
-noj	O
-txau	O
-haus	O
 xwb	O
 .	O
 
@@ -2721,9 +2682,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 ua	O
 scholarships	O
 rau	O

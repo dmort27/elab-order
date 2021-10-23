@@ -25,9 +25,6 @@ txhua	B
 leej	I
 txhua	I
 tug	I
-leej	O
-txhua	O
-tug	O
 .	O
 
 
@@ -37,9 +34,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 muab	O
 txuj	O
 kev	O

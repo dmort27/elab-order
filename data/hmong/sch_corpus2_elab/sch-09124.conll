@@ -80,9 +80,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 .	O
 
 
@@ -345,9 +342,6 @@ puv	B
 roob	I
 puv	I
 hav	I
-roob	O
-puv	O
-hav	O
 .	O
 
 
@@ -1991,17 +1985,11 @@ tso	B
 quav	I
 tso	I
 zis	I
-quav	O
-tso	O
-zis	O
 --	O
 txhua	B
 tsav	I
 txhua	I
 yam	I
-tsav	O
-txhua	O
-yam	O
 nyob	O
 hauv	O
 tsev	O
@@ -2049,9 +2037,6 @@ yos	B
 roob	I
 yos	I
 hav	I
-roob	O
-yos	O
-hav	O
 nrhiav	O
 qos	O
 ncoom	O
@@ -2390,9 +2375,6 @@ ib	B
 sij	I
 ib	I
 lwm	I
-sij	O
-ib	O
-lwm	O
 tid	O
 Npog	O
 teb	O

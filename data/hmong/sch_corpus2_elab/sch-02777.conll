@@ -306,9 +306,6 @@ muaj	B
 koob	I
 muaj	I
 npe	I
-koob	O
-muaj	O
-npe	O
 ,	O
 thaum	O
 teeb	O
@@ -603,9 +600,6 @@ nqi	B
 mis	I
 nqi	I
 hno	I
-mis	O
-nqi	O
-hno	O
 los	O
 ua	O
 $	O
@@ -618,9 +612,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 .	O
 
 
@@ -786,9 +777,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 thiab	O
 yuav	O
 tau	O
@@ -1040,9 +1028,6 @@ cov	B
 nam	I
 cov	I
 txiv	I
-nam	O
-cov	O
-txiv	O
 ntsug	O
 tsua	O
 cov	O

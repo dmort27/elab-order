@@ -625,9 +625,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 .	O
 
 
@@ -836,9 +833,6 @@ muaj	B
 sab	I
 muaj	I
 ntsws	I
-sab	O
-muaj	O
-ntsws	O
 ib	O
 yaam	O
 txhua	O
@@ -1040,9 +1034,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 los	O
 tsi	O
 pauv	O
@@ -1932,9 +1923,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 thiab	O
 lus	O
 gossip	O
@@ -2444,9 +2432,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 yeej	O
 tsi	O
 xaav	O

@@ -281,9 +281,6 @@ tua	B
 tsiaj	I
 tua	I
 txhuv	I
-tsiaj	O
-tua	O
-txhuv	O
 noj	O
 ces	O
 kuv	O
@@ -327,9 +324,6 @@ tau	B
 ntxhais	I
 tau	I
 vauv	I
-ntxhais	O
-tau	O
-vauv	O
 ...	O
 ''	O
 txhua	O
@@ -484,9 +478,6 @@ yus	B
 noj	I
 yus	I
 haus	I
-noj	O
-yus	O
-haus	O
 ,	O
 thiab	O
 tsis	O
@@ -604,9 +595,6 @@ los	B
 noj	I
 los	I
 haus	I
-noj	O
-los	O
-haus	O
 ,	O
 los	O
 pab	O
@@ -751,9 +739,6 @@ los	B
 noj	I
 los	I
 haus	I
-noj	O
-los	O
-haus	O
 mas	O
 kuj	O
 yog	O

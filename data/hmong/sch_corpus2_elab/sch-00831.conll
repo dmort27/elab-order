@@ -35,9 +35,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 xwb	O
 .	O
 
@@ -466,16 +463,10 @@ tus	B
 loj	I
 tus	I
 me	I
-loj	O
-tus	O
-me	O
 tus	B
 nom	I
 tus	I
 tswv	I
-nom	O
-tus	O
-tswv	O
 huab	O
 tais	O
 kiag	O
@@ -496,9 +487,6 @@ yog	B
 niam	I
 yog	I
 txiv	I
-niam	O
-yog	O
-txiv	O
 los	O
 tus	O
 judge	O
@@ -786,9 +774,6 @@ tswv	B
 ntuj	I
 tswv	I
 teb	I
-ntuj	O
-tswv	O
-teb	O
 tsis	O
 tau	O
 pub	O
@@ -960,9 +945,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 mas	O
 nws	O
 tsis	O
@@ -1015,9 +997,6 @@ ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 heev	O
 .	O
 
@@ -1033,9 +1012,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 txawj	O
 ntse	O
@@ -1099,17 +1075,11 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 thiab	O
 ua	B
 plaub	I
 ua	I
 ntug	I
-plaub	O
-ua	O
-ntug	O
 heev	O
 tshaj	O
 plaws	O
@@ -2154,9 +2124,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 tsis	O
 sawv	O
 los	O

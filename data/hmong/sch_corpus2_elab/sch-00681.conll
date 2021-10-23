@@ -346,9 +346,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 tiav	O
 nkauj	O
 tiav	O
@@ -503,9 +500,6 @@ zov	B
 ruaj	I
 zov	I
 khov	I
-ruaj	O
-zov	O
-khov	O
 koj	O
 twb	O
 txav	O
@@ -931,9 +925,6 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 li	O
 ov	O
 .	O

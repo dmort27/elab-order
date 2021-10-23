@@ -26,17 +26,11 @@ xav	B
 kwv	I
 xav	I
 tij	I
-kwv	O
-xav	O
-tij	O
 ,	O
 xav	B
 neej	I
 xav	I
 tsav	I
-neej	O
-xav	O
-tsav	O
 .	O
 
 
@@ -173,9 +167,6 @@ kev	B
 plaub	I
 kev	I
 ntug	I
-plaub	O
-kev	O
-ntug	O
 (	O
 Legal	O
 Issues	O
@@ -978,9 +969,6 @@ ua	B
 ciaj	I
 ua	I
 tuag	I
-ciaj	O
-ua	O
-tuag	O
 kom	O
 cias	O
 li	O
@@ -994,17 +982,11 @@ yog	B
 neej	I
 yog	I
 tsav	I
-neej	O
-yog	O
-tsav	O
 thiab	O
 yog	B
 kwv	I
 yog	I
 tij	I
-kwv	O
-yog	O
-tij	O
 lawm	O
 tiag	O
 tiag	O

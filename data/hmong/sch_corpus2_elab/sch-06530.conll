@@ -498,9 +498,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 ces	O
 ntse	O
 twg	O
@@ -522,9 +519,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 li	O
 thiab	O
 tuaj	O
@@ -1054,9 +1048,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -1728,9 +1719,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 ,	O
 li	O
 Neohmong	O
@@ -1945,9 +1933,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 zaum	O
 puav	O
 es	O
@@ -2072,9 +2057,6 @@ tsi	B
 meej	I
 tsi	I
 pem	I
-meej	O
-tsi	O
-pem	O
 los	O
 nej	O
 cov	O
@@ -2243,9 +2225,6 @@ tug	B
 ub	I
 tug	I
 no	I
-ub	O
-tug	O
-no	O
 xwb	O
 .	O
 

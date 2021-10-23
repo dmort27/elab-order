@@ -787,9 +787,6 @@ nriav	B
 neeb	I
 nriav	I
 yaig	I
-neeb	O
-nriav	O
-yaig	O
 los	O
 ua	O
 neeb	O
@@ -1496,9 +1493,6 @@ kev	B
 ploj	I
 kev	I
 tuag	I
-ploj	O
-kev	O
-tuag	O
 xwb	O
 .	O
 
@@ -1750,9 +1744,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 thiab	O
 saib	O
 yus	O

@@ -372,9 +372,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 .	O
 
 
@@ -990,9 +987,6 @@ tswv	B
 ntuj	I
 tswv	I
 teb	I
-ntuj	O
-tswv	O
-teb	O
 xwb	O
 no	O
 mas	O
@@ -1045,9 +1039,6 @@ qhuas	B
 qab	I
 qhuas	I
 tsau	I
-qab	O
-qhuas	O
-tsau	O
 .	O
 
 
@@ -1222,9 +1213,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 ,	O
 yoo	O
 tshaib	O
@@ -1545,9 +1533,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 ntawd	O
 yog	O
 koj	O
@@ -1565,9 +1550,6 @@ vij	B
 sub	I
 vij	I
 npog	I
-sub	O
-vij	O
-npog	O
 los	O
 rau	O
 koj	O

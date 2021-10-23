@@ -18,9 +18,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 ua	O
 tau	O
 them-m	O
@@ -53,9 +50,6 @@ cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 .	O
 
 
@@ -719,9 +713,6 @@ txawm	B
 phem	I
 txawm	I
 zoo	I
-phem	O
-txawm	O
-zoo	O
 los	O
 yog	O
 yus	O

@@ -457,9 +457,6 @@ hais	B
 siab	I
 hais	I
 qis	I
-siab	O
-hais	O
-qis	O
 los	O
 kuj	O
 tsis	O
@@ -585,9 +582,6 @@ tej	B
 kwv	I
 tej	I
 tij	I
-kwv	O
-tej	O
-tij	O
 lawm	O
 ntag	O
 ,	O
@@ -728,9 +722,6 @@ lus	B
 paj	I
 lus	I
 cua	I
-paj	O
-lus	O
-cua	O
 ua	O
 luaj	O
 li	O
@@ -1049,9 +1040,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 thiab	O
 paubtab	O
 lawm	O
@@ -1332,9 +1320,6 @@ txog	B
 caij	I
 txog	I
 nyoog	I
-caij	O
-txog	O
-nyoog	O
 mas	O
 thiaj	O
 zoo	O
@@ -1441,9 +1426,6 @@ khi	B
 tes	I
 khi	I
 taw	I
-tes	O
-khi	O
-taw	O
 cia	O
 nyuj	O
 &	O

@@ -118,9 +118,6 @@ ncig	B
 mus	I
 ncig	I
 los	I
-mus	O
-ncig	O
-los	O
 ntawd	O
 hallway	O
 thiab	O
@@ -2244,9 +2241,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 ....	O
 Kua	O
 memiab	O

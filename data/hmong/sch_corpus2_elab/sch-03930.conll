@@ -278,9 +278,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ,	O
 tabsis	O
 nej	O
@@ -305,9 +302,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 ,	O
 zoo	O
 li	O
@@ -2415,9 +2409,6 @@ tuam	B
 nyiaj	I
 tuam	I
 txiaj	I
-nyiaj	O
-tuam	O
-txiaj	O
 nrog	O
 kom	O
 mus	O
@@ -2584,9 +2575,6 @@ tej	B
 kwv	I
 tej	I
 tij	I
-kwv	O
-tej	O
-tij	O
 thiab	O
 nawb	O
 ....	O
@@ -2599,9 +2587,6 @@ nyias	B
 pab	I
 nyias	I
 pawg	I
-pab	O
-nyias	O
-pawg	O
 lawm	O
 os	O
 .	O
@@ -2628,9 +2613,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 --	O
 twb	O
 tsi	O
@@ -2666,9 +2648,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 xwb	O
 twb	O
 tsi	O

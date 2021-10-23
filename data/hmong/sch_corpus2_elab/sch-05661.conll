@@ -1131,9 +1131,6 @@ qab	B
 roob	I
 qab	I
 hav	I
-roob	O
-qab	O
-hav	O
 nws	O
 muaj	O
 ntau	O
@@ -1534,9 +1531,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 ob	O
 tog	O
 yuav	O
@@ -1961,9 +1955,6 @@ raug	B
 kev	I
 raug	I
 cai	I
-kev	O
-raug	O
-cai	O
 hab	O
 npau	O
 suav	O

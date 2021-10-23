@@ -351,9 +351,6 @@ ua	B
 qoob	I
 ua	I
 loo	I
-qoob	O
-ua	O
-loo	O
 ib	O
 lub	O
 xyoos	O
@@ -738,9 +735,6 @@ muaj	B
 ntaub	I
 muaj	I
 ntawv	I
-ntaub	O
-muaj	O
-ntawv	O
 sau	O
 tseg	O
 ,	O
@@ -791,9 +785,6 @@ kev	B
 noj	I
 kev	I
 haus	I
-noj	O
-kev	O
-haus	O
 rau	O
 hmo	O
 30	O
@@ -1406,9 +1397,6 @@ lawv	B
 roob	I
 lawv	I
 haav	I
-roob	O
-lawv	O
-haav	O
 ,	O
 txhuas	O
 yaam	O
@@ -1438,9 +1426,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 lawv	O
 lub	O
 caijxyoog	O

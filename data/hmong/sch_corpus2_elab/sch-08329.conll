@@ -572,9 +572,6 @@ cov	B
 phem	I
 cov	I
 zoo	I
-phem	O
-cov	O
-zoo	O
 .	O
 
 
@@ -840,9 +837,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 lawm	O
 los	O
 kuj	O
@@ -860,9 +854,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 tau	O
 cawm	O
 nej	O
@@ -1207,9 +1198,6 @@ yus	B
 vaj	I
 yus	I
 tsev	I
-vaj	O
-yus	O
-tsev	O
 kom	O
 tej	O
 dab	O
@@ -1225,9 +1213,6 @@ yus	B
 vaj	I
 yus	I
 tsev	I
-vaj	O
-yus	O
-tsev	O
 tiam	O
 sis	O
 qhov	O

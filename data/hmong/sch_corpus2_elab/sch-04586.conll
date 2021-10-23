@@ -724,9 +724,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 ces	O
 zoo	O
 lawm	O
@@ -882,9 +879,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 tab	O
 sis	O
 yuav	O
@@ -1912,9 +1906,6 @@ muaj	B
 ploj	I
 muaj	I
 tuag	I
-ploj	O
-muaj	O
-tuag	O
 ,	O
 vim	O
 lawv	O
@@ -2832,9 +2823,6 @@ ua	B
 vaj	I
 ua	I
 tsev	I
-vaj	O
-ua	O
-tsev	O
 rau	O
 lawv	O
 nyob	O
@@ -2954,9 +2942,6 @@ muaj	B
 siab	I
 muaj	I
 plawv	I
-siab	O
-muaj	O
-plawv	O
 .	O
 
 
@@ -3780,9 +3765,6 @@ tom	B
 vaj	I
 tom	I
 tsev	I
-vaj	O
-tom	O
-tsev	O
 ,	O
 lub	O
 ntuj	O

@@ -147,9 +147,6 @@ huv	B
 vaaj	I
 huv	I
 tsev	I
-vaaj	O
-huv	O
-tsev	O
 mas	O
 txawm	O
 yuav	O
@@ -238,17 +235,11 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 hab	O
 tu	B
 vaaj	I
 tu	I
 tsev	I
-vaaj	O
-tu	O
-tsev	O
 ces	O
 peb	O
 tsi	O
@@ -803,9 +794,6 @@ lub	B
 vaaj	I
 lub	I
 tsev	I
-vaaj	O
-lub	O
-tsev	O
 nwg	O
 tsis	O
 cas	O
@@ -1816,9 +1804,6 @@ tu	B
 vaj	I
 tu	I
 tsev	I
-vaj	O
-tu	O
-tsev	O
 es	O
 tsuas	O
 yog	O
@@ -2367,9 +2352,6 @@ ua	B
 tij	I
 ua	I
 kwv	I
-tij	O
-ua	O
-kwv	O
 nuav	O
 has	O
 sub	O
@@ -2527,9 +2509,6 @@ ua	B
 zaub	I
 ua	I
 mov	I
-zaub	O
-ua	O
-mov	O
 yuavluag	O
 txhua	O
 zaus	O
@@ -3187,9 +3166,6 @@ tim	B
 nplog	I
 tim	I
 thaib	I
-nplog	O
-tim	O
-thaib	O
 es	O
 cia	O
 nej	O

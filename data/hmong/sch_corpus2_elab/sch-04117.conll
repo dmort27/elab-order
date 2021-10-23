@@ -1174,9 +1174,6 @@ has	B
 moog	I
 has	I
 lug	I
-moog	O
-has	O
-lug	O
 tas	O
 VP	O
 xau	O
@@ -1366,9 +1363,6 @@ cam	B
 ub	I
 cam	I
 no	I
-ub	O
-cam	O
-no	O
 ,	O
 heev	O
 diam	O
@@ -1787,9 +1781,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 .	O
 
 
@@ -1902,9 +1893,6 @@ txij	B
 tog	I
 txij	I
 peg	I
-tog	O
-txij	O
-peg	O
 ua	O
 dabtsi	O
 ?	O
@@ -2070,9 +2058,6 @@ hais	B
 ciaj	I
 hais	I
 tuag	I
-ciaj	O
-hais	O
-tuag	O
 los	O
 nws	O
 tsua	O
@@ -2090,9 +2075,6 @@ tsi	B
 ciaj	I
 tsi	I
 tuag	I
-ciaj	O
-tsi	O
-tuag	O
 xwb	O
 .	O
 
@@ -2390,9 +2372,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 mus	O
 tiv	O
 thaiv	O
@@ -2699,18 +2678,12 @@ niaj	B
 hnub	I
 niaj	I
 hmo	I
-hnub	O
-niaj	O
-hmo	O
 tuaj	O
 hais	O
 li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 yuav	O
 tseem	O
 koj	O
@@ -2898,9 +2871,6 @@ tej	B
 siab	I
 tej	I
 ntsws	I
-siab	O
-tej	O
-ntsws	O
 yeej	O
 tsis	O
 tau	O
@@ -3153,9 +3123,6 @@ paub	B
 ub	I
 paub	I
 no	I
-ub	O
-paub	O
-no	O
 xwb	O
 mas	O
 lawv	O
@@ -3313,9 +3280,6 @@ lawv	B
 cuab	I
 lawv	I
 khi	I
-cuab	O
-lawv	O
-khi	O
 li	O
 cas	O
 los	O
@@ -4078,9 +4042,6 @@ keb	B
 ub	I
 keb	I
 no	I
-ub	O
-keb	O
-no	O
 lawm	O
 .	O
 

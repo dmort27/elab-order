@@ -43,9 +43,6 @@ tub	B
 qoob	I
 tub	I
 loo	I
-qoob	O
-tub	O
-loo	O
 ces	O
 dhlau	O
 ntawm	O
@@ -68,9 +65,6 @@ nrhav	B
 noj	I
 nrhav	I
 haus	I
-noj	O
-nrhav	O
-haus	O
 lwm	O
 yaam	O
 lawm	O
@@ -140,9 +134,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 thaab	O
 rua	O
 Moob	O
@@ -1270,9 +1261,6 @@ xws	B
 teb	I
 xws	I
 chaw	I
-teb	O
-xws	O
-chaw	O
 lawm	O
 es	O
 chim	O
@@ -1930,9 +1918,6 @@ tub	B
 qoob	I
 tub	I
 loo	I
-qoob	O
-tub	O
-loo	O
 ces	O
 dhlau	O
 ntawm	O
@@ -1955,9 +1940,6 @@ nrhav	B
 noj	I
 nrhav	I
 haus	I
-noj	O
-nrhav	O
-haus	O
 lwm	O
 yaam	O
 lawm	O
@@ -2027,9 +2009,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 thaab	O
 rua	O
 Moob	O
@@ -2645,9 +2624,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -3984,9 +3960,6 @@ nqi	B
 vaj	I
 nqi	I
 tsev	I
-vaj	O
-nqi	O
-tsev	O
 txhawm	O
 rau	O
 hluas	O

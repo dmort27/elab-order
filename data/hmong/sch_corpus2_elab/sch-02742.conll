@@ -933,9 +933,6 @@ siv	B
 caij	I
 siv	I
 nyoog	I
-caij	O
-siv	O
-nyoog	O
 yam	O
 tsis	O
 xam	O
@@ -947,9 +944,6 @@ lub	B
 siab	I
 lub	I
 ntsws	I
-siab	O
-lub	O
-ntsws	O
 yam	O
 tsis	O
 Suav	O
@@ -1085,9 +1079,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 ,	O
 ua	O
 tij	O
@@ -1761,9 +1752,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 ...	O
 Thov	O
 nco	O

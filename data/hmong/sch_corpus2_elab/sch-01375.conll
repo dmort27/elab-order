@@ -465,9 +465,6 @@ neeg	B
 zoo	I
 neeg	I
 ncaj	I
-zoo	O
-neeg	O
-ncaj	O
 ces	O
 txawm	O
 yuav	O
@@ -1283,9 +1280,6 @@ lub	B
 koob	I
 lub	I
 npe	I
-koob	O
-lub	O
-npe	O
 dhau	O
 heev	O
 lawm	O
@@ -1501,9 +1495,6 @@ ua	B
 phem	I
 ua	I
 zoo	I
-phem	O
-ua	O
-zoo	O
 los	O
 txij	O
 ntawm	O
@@ -1704,9 +1695,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 no	O
 es	O
 yus	O
@@ -1781,9 +1769,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 thiab	O
 yuav	O
 los	O
@@ -2090,9 +2075,6 @@ lub	B
 ntsej	I
 lub	I
 muag	I
-ntsej	O
-lub	O
-muag	O
 mus	O
 fim	O
 tej	O
@@ -2602,9 +2584,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 OR	O
 pom	O
 hmoob	O
@@ -2695,9 +2674,6 @@ pab	B
 zej	I
 pab	I
 zos	I
-zej	O
-pab	O
-zos	O
 xwb	O
 .	O
 

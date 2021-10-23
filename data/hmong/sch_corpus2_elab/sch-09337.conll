@@ -385,9 +385,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 ,	O
 tus	O
 tsimnyog	O
@@ -1330,9 +1327,6 @@ tej	B
 zaub	I
 tej	I
 mov	I
-zaub	O
-tej	O
-mov	O
 kws	O
 puab	O
 noj	O
@@ -1593,9 +1587,6 @@ ntxeev	B
 nom	I
 ntxeev	I
 tswv	I
-nom	O
-ntxeev	O
-tswv	O
 .	O
 
 
@@ -1672,9 +1663,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 yog	O
 tug	O
 pumzoo	O

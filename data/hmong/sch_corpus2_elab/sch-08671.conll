@@ -585,9 +585,6 @@ le	B
 ub	I
 le	I
 nuav	I
-ub	O
-le	O
-nuav	O
 le	O
 ib	O
 tug	O
@@ -663,9 +660,6 @@ le	B
 ub	I
 le	I
 nuav	I
-ub	O
-le	O
-nuav	O
 ces	O
 yog	O
 cov	O
@@ -857,9 +851,6 @@ tus	B
 ruam	I
 tus	I
 ntse	I
-ruam	O
-tus	O
-ntse	O
 mas	O
 xyov	O
 tseem	O

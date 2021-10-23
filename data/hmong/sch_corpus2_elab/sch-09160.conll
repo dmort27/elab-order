@@ -115,9 +115,6 @@ kev	B
 txheeb	I
 kev	I
 ze	I
-txheeb	O
-kev	O
-ze	O
 ,	O
 caj	O
 ces	O
@@ -1171,9 +1168,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 thiaj	O
 yuav	O
 zoo	O
@@ -1209,9 +1203,6 @@ hmoob	B
 neej	I
 hmoob	I
 tsav	I
-neej	O
-hmoob	O
-tsav	O
 xwb	O
 tab	O
 si	O
@@ -1231,9 +1222,6 @@ muaj	B
 yeej	I
 muaj	I
 swb	I
-yeej	O
-muaj	O
-swb	O
 los	O
 lawm	O
 ,	O
@@ -1606,9 +1594,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 tej	O
 zaum	O
 nej	O
@@ -1932,9 +1917,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 tej	O
 zaum	O
 nej	O

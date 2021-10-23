@@ -555,9 +555,6 @@ sib	B
 hais	I
 sib	I
 kho	I
-hais	O
-sib	O
-kho	O
 ntawm	O
 Hmoob	O
 xwb	O
@@ -649,9 +646,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 xwb	O
 ,	O
 ntawm	O
@@ -866,9 +860,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 pib	O
 ua-	O
 ua	O

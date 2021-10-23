@@ -142,9 +142,6 @@ le	B
 ub	I
 le	I
 nuav	I
-ub	O
-le	O
-nuav	O
 .	O
 
 
@@ -1390,9 +1387,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 no	O
 laid	O
 .	O
@@ -1474,9 +1468,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -1730,9 +1721,6 @@ hais	B
 ub	I
 hais	I
 no	I
-ub	O
-hais	O
-no	O
 li	O
 yus	O
 lus	O

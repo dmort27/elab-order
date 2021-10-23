@@ -192,9 +192,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 (	O
 politic	O
 )	O
@@ -335,9 +332,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 yog	O
 zhen	O
 laiv	O
@@ -1299,9 +1293,6 @@ muab	B
 nyiaj	I
 muab	I
 txiaj	I
-nyiaj	O
-muab	O
-txiaj	O
 los	O
 nyom	O
 luag	O
@@ -2114,9 +2105,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 ,	O
 tab	O
 sis	O

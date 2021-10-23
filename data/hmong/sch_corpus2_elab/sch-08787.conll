@@ -1088,9 +1088,6 @@ xaav	B
 moog	I
 xaav	I
 lug	I
-moog	O
-xaav	O
-lug	O
 zaag	O
 tswvyim	O
 koj	O
@@ -1864,9 +1861,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 li	O
 biding	O
 contracts	O
@@ -1875,9 +1869,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 --	O
 tej	O
 central	O
@@ -2064,9 +2055,6 @@ chaw	B
 txawb	I
 chaw	I
 rau	I
-txawb	O
-chaw	O
-rau	O
 li	O
 .	O
 
@@ -2104,9 +2092,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 rau	O
 LPDR	O
 tam	O
@@ -2123,9 +2108,6 @@ tub	B
 mab	I
 tub	I
 qhev	I
-mab	O
-tub	O
-qhev	O
 ,	O
 los	O
 drive	O
@@ -2143,9 +2125,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 rau	O
 luag	O
 .	O
@@ -2161,9 +2140,6 @@ tej	B
 nom	I
 tej	I
 tswv	I
-nom	O
-tej	O
-tswv	O
 no	O
 ,	O
 yus	O

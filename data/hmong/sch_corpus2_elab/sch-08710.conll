@@ -269,9 +269,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 ces	O
 thiaj	O
 li	O
@@ -280,9 +277,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 xwb	O
 os	O
 ,	O
@@ -2490,9 +2484,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 ``	O
 Tshum	O
 ''	O
@@ -2501,9 +2492,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 ``	O
 Hais	O
 ''	O
@@ -2642,9 +2630,6 @@ dag	B
 siab	I
 dag	I
 nqi	I
-siab	O
-dag	O
-nqi	O
 li	O
 no	O
 povtseg	O

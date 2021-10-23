@@ -219,9 +219,6 @@ ntxhais	B
 nom	I
 ntxhais	I
 tswv	I
-nom	O
-ntxhais	O
-tswv	O
 tim	O
 nplog	O
 ,	O
@@ -447,9 +444,6 @@ ua	B
 plees	I
 ua	I
 yi	I
-plees	O
-ua	O
-yi	O
 yam	O
 zom	O
 zem	O
@@ -662,9 +656,6 @@ poj	B
 nrauj	I
 poj	I
 fa	I
-nrauj	O
-poj	O
-fa	O
 teb	O
 chaws	O
 no	O
@@ -836,9 +827,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 muab	O
 koj	O
 thawb	O
@@ -1198,9 +1186,6 @@ ntxhais	B
 nom	I
 ntxhais	I
 tswv	I
-nom	O
-ntxhais	O
-tswv	O
 tim	O
 nplog	O
 ,	O
@@ -1426,9 +1411,6 @@ ua	B
 plees	I
 ua	I
 yi	I
-plees	O
-ua	O
-yi	O
 yam	O
 zom	O
 zem	O
@@ -1605,9 +1587,6 @@ poj	B
 nrauj	I
 poj	I
 fa	I
-nrauj	O
-poj	O
-fa	O
 teb	O
 chaws	O
 no	O
@@ -1779,9 +1758,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 muab	O
 koj	O
 thawb	O
@@ -2223,9 +2199,6 @@ kev	B
 nkauj	I
 kev	I
 nraug	I
-nkauj	O
-kev	O
-nraug	O
 thiab	O
 nyiaj	O
 txiag	O
@@ -2566,18 +2539,12 @@ koj	B
 kwv	I
 koj	I
 tij	I
-kwv	O
-koj	O
-tij	O
 los	O
 yog	O
 kuv	B
 kwv	I
 kuv	I
 tij	I
-kwv	O
-kuv	O
-tij	O
 nws	O
 yuav	O
 raug	O
@@ -3844,9 +3811,6 @@ nom	B
 loj	I
 nom	I
 me	I
-loj	O
-nom	O
-me	O
 heev	O
 ,	O
 tsi	O
@@ -5506,9 +5470,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 ,	O
 qhov	O
 siv	O
@@ -6107,9 +6068,6 @@ ua	B
 zaj	I
 ua	I
 ntxeev	I
-zaj	O
-ua	O
-ntxeev	O
 rhuav	O
 Hmoob	O
 kom	O
@@ -6118,9 +6076,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 .	O
 
 

@@ -436,9 +436,6 @@ xav	B
 txhij	I
 xav	I
 txhua	I
-txhij	O
-xav	O
-txhua	O
 lawm	O
 es	O
 tej	O
@@ -550,9 +547,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 kom	O
 tuaj	O
 coob	O
@@ -739,9 +733,6 @@ nruab	B
 liaj	I
 nruab	I
 teb	I
-liaj	O
-nruab	O
-teb	O
 xwb	O
 ,	O
 nws	O
@@ -1300,9 +1291,6 @@ tej	B
 zej	I
 tej	I
 zos	I
-zej	O
-tej	O
-zos	O
 ces	O
 ib	O
 pliag	O

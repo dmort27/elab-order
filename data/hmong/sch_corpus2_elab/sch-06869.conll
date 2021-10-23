@@ -24,9 +24,6 @@ ncig	B
 ntuj	I
 ncig	I
 teb	I
-ntuj	O
-ncig	O
-teb	O
 (	O
 migratory	O
 )	O
@@ -177,9 +174,6 @@ lawv	B
 qaib	I
 lawv	I
 npua	I
-qaib	O
-lawv	O
-npua	O
 quaj	O
 sai	O
 zim	O
@@ -431,9 +425,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 hais	O
 tias	O
 thaum	O
@@ -590,9 +581,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 uas	O
 tseem	O
 muaj	O
@@ -705,9 +693,6 @@ muaj	B
 keeb	I
 muaj	I
 kwm	I
-keeb	O
-muaj	O
-kwm	O
 thiab	O
 muaj	O
 tsev	O
@@ -878,9 +863,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 ua	O
 peb	O
 haiv	O
@@ -1058,9 +1040,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ua	O
 luag	O
 lub	O
@@ -1247,9 +1226,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 ces	O
 lo	O
 twg	O
@@ -1384,9 +1360,6 @@ lwm	B
 teb	I
 lwm	I
 chaw	I
-teb	O
-lwm	O
-chaw	O
 mam	O
 pauv	O
 lub	O
@@ -1610,9 +1583,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 ,	O
 muaj	O
 constitution	O
@@ -1726,9 +1696,6 @@ muaj	B
 vaj	I
 muaj	I
 tsev	I
-vaj	O
-muaj	O
-tsev	O
 pobzeb	O
 ,	O
 muaj	O
@@ -1741,9 +1708,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 be	O
 owner	O
@@ -2040,9 +2004,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 ntawm	O
 lub	O
 teb	O
@@ -2590,9 +2551,6 @@ npe	B
 nom	I
 npe	I
 tswv	I
-nom	O
-npe	O
-tswv	O
 ,	O
 ntshaw	O
 muaj	O
@@ -3021,9 +2979,6 @@ sib	B
 cav	I
 sib	I
 cais	I
-cav	O
-sib	O
-cais	O
 ces	O
 yog	O
 vim	O
@@ -3463,9 +3418,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 .	O
 
 
@@ -3595,9 +3547,6 @@ them	B
 roj	I
 them	I
 ntshav	I
-roj	O
-them	O
-ntshav	O
 los	O
 lawm	O
 os	O
@@ -3614,9 +3563,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 li	O
 ntawv	O
 nawb	O
@@ -3629,9 +3575,6 @@ sib	B
 tog	I
 sib	I
 ceg	I
-tog	O
-sib	O
-ceg	O
 ua	O
 ncauj	O
 liab	O
@@ -3675,9 +3618,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 kom	O
 lawv	O
 pom	O
@@ -3753,9 +3693,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 ua	O
 ntsia	O
 ntsoov	O
@@ -3802,9 +3739,6 @@ hwm	B
 niam	I
 hwm	I
 txiv	I
-niam	O
-hwm	O
-txiv	O
 los	O
 .	O
 
@@ -3834,9 +3768,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 .	O
 
 
@@ -3855,18 +3786,12 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 ,	O
 cov	O
 ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 yuav	O
 tsum	O
 txawj	O
@@ -3961,9 +3886,6 @@ ua	B
 tsov	I
 ua	I
 rog	I
-tsov	O
-ua	O
-rog	O
 ,	O
 es	O
 Hmoob	O
@@ -4005,9 +3927,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 nrog	O
 Suav	O
 ,	O

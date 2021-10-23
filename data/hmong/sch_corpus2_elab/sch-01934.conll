@@ -113,9 +113,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 ,	O
 nrog	O
 kiag	O
@@ -138,9 +135,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 zoo	O
 mas	O
 yus	O
@@ -159,9 +153,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 tag	O
 lawm	O
 ...	O

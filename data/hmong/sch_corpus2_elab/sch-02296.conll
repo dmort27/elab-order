@@ -371,9 +371,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 sib	O
 xyaw	O
 daws	O
@@ -3051,9 +3048,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 hab	O
 maj	O
 ?	O
@@ -3161,9 +3155,6 @@ txaj	B
 ntshaa	I
 txaj	I
 ntsim	I
-ntshaa	O
-txaj	O
-ntsim	O
 ntawm	O
 Laura	O
 lawm	O
@@ -3298,9 +3289,6 @@ saib	B
 ub	I
 saib	I
 no	I
-ub	O
-saib	O
-no	O
 ntev	O
 loo	O
 .	O

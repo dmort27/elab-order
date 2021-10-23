@@ -169,9 +169,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 xwb	O
 .	O
 
@@ -252,9 +249,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 li	O
 no	O
 .	O
@@ -1047,9 +1041,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 ntxiv	O
 thiab	O
 ?	O
@@ -1087,9 +1078,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 kom	O
 txog	O
 hnub	O
@@ -1189,9 +1177,6 @@ hav	B
 zoov	I
 hav	I
 tsuag	I
-zoov	O
-hav	O
-tsuag	O
 .	O
 
 
@@ -1566,9 +1551,6 @@ cov	B
 nom	I
 cov	I
 tswv	I
-nom	O
-cov	O
-tswv	O
 ,	O
 uas	O
 tsis	O
@@ -1580,9 +1562,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 paub	O
 qhov	O
 tseeb	O
@@ -1727,9 +1706,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 nyob	O
 hauv	O
 zos	O
@@ -2610,9 +2586,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 kuv	O
 yeej	O
 paub	O

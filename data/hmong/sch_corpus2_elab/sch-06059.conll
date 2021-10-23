@@ -408,9 +408,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 ces	O
 txawm	O
@@ -990,9 +987,6 @@ ncaim	B
 niam	I
 ncaim	I
 txiv	I
-niam	O
-ncaim	O
-txiv	O
 tuaj	O
 xwb	O
 ,	O
@@ -1301,9 +1295,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 sib	O
 hlub	O
 .	O
@@ -1907,9 +1898,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 los	O
 lawv	O
 lub	O
@@ -2060,9 +2048,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 nkaug	O
 ''	O
 xwb	O

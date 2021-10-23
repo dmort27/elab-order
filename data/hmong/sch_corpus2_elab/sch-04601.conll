@@ -238,9 +238,6 @@ qhov	B
 phem	I
 qhov	I
 zoo	I
-phem	O
-qhov	O
-zoo	O
 peb	O
 tsi	O
 noog	O
@@ -278,9 +275,6 @@ lawv	B
 niam	I
 lawv	I
 txiv	I
-niam	O
-lawv	O
-txiv	O
 --	O
 yog	O
 ib	O

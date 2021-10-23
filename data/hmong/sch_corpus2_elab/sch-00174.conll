@@ -187,9 +187,6 @@ muaj	B
 siab	I
 muaj	I
 ntsws	I
-siab	O
-muaj	O
-ntsws	O
 yog	O
 tias	O
 ib	O
@@ -760,9 +757,6 @@ cuag	B
 puj	I
 cuag	I
 yawg	I
-puj	O
-cuag	O
-yawg	O
 ntaag	O
 laiv	O
 yuam	O
@@ -784,9 +778,6 @@ lub	B
 teb	I
 lub	I
 chaw	I
-teb	O
-lub	O
-chaw	O
 mas	O
 yuav	O
 coj	O
@@ -1353,9 +1344,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 na	O
 ....	O
 yog	O
@@ -1367,9 +1355,6 @@ luag	B
 niam	I
 luag	I
 txiv	I
-niam	O
-luag	O
-txiv	O
 yeej	O
 yuav	O
 tsum	O

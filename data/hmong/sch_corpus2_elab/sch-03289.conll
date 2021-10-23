@@ -138,9 +138,6 @@ tsis	B
 ntsib	I
 tsis	I
 pom	I
-ntsib	O
-tsis	O
-pom	O
 dab	O
 tsi	O
 ,	O
@@ -173,9 +170,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 ,	O
 ces	O
 thaum	O
@@ -205,9 +199,6 @@ raug	B
 thuv	I
 raug	I
 txim	I
-thuv	O
-raug	O
-txim	O
 rau	O
 txoj	O
 kev	O
@@ -290,9 +281,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 ntawd	O
 lawm	O
 1	O
@@ -369,9 +357,6 @@ raug	B
 thuv	I
 raug	I
 txim	I
-thuv	O
-raug	O
-txim	O
 ua	O
 luaj	O
 thiab	O
@@ -1255,9 +1240,6 @@ ua	B
 sab	I
 ua	I
 sua	I
-sab	O
-ua	O
-sua	O
 puv	O
 dej	O
 dawb	O

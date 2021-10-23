@@ -493,9 +493,6 @@ lwg	B
 noj	I
 lwg	I
 haus	I
-noj	O
-lwg	O
-haus	O
 neeg	O
 siab	O
 phem	O
@@ -1235,9 +1232,6 @@ npaum	B
 ub	I
 npaum	I
 no	I
-ub	O
-npaum	O
-no	O
 ,	O
 thaum	O
 kawg	O
@@ -1909,9 +1903,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 oj	O
 !	O
@@ -2155,9 +2146,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 pob	O
 !	O
 

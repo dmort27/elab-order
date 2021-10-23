@@ -217,9 +217,6 @@ tus	B
 ub	I
 tus	I
 no	I
-ub	O
-tus	O
-no	O
 mas	O
 niam	O
 cem	O
@@ -271,9 +268,6 @@ sib	B
 nrug	I
 sib	I
 tawg	I
-nrug	O
-sib	O
-tawg	O
 tag	O
 ,	O
 ib	O
@@ -631,9 +625,6 @@ kuag	B
 kaab	I
 kuag	I
 hlau	I
-kaab	O
-kuag	O
-hlau	O
 ''	O
 txuas	O
 lus	O
@@ -1484,9 +1475,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 .	O
 
 
@@ -1797,9 +1785,6 @@ neeg	B
 ncaj	I
 neeg	I
 zoo	I
-ncaj	O
-neeg	O
-zoo	O
 ib	O
 txheej	O
 dhau	O
@@ -1820,9 +1805,6 @@ txhia	B
 leej	I
 txhia	I
 tus	I
-leej	O
-txhia	O
-tus	O
 pab	O
 .	O
 
@@ -1851,9 +1833,6 @@ lub	B
 koob	I
 lub	I
 meej	I
-koob	O
-lub	O
-meej	O
 nto	O
 moo	O
 lug	O
@@ -1872,9 +1851,6 @@ niaj	B
 hnub	I
 niaj	I
 hmo	I
-hnub	O
-niaj	O
-hmo	O
 xav	O
 tswv	O
 yim	O
@@ -3205,9 +3181,6 @@ tej	B
 dej	I
 tej	I
 hav	I
-dej	O
-tej	O
-hav	O
 zoo	O
 rau	O
 nplog	O
@@ -3272,9 +3245,6 @@ tsis	B
 pom	I
 tsis	I
 paub	I
-pom	O
-tsis	O
-paub	O
 li	O
 ntsej	O
 muag	O
@@ -3361,9 +3331,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 yeej	O
 paub	O
 nws	O
@@ -3379,9 +3346,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 nkag	O
 chib	O
 li	O
@@ -3448,9 +3412,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 ntawm	O
 nej	O
 .	O
@@ -3550,9 +3511,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 ntawm	O
 Melissa	O
 mas	O
@@ -3799,9 +3757,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 es	O
 kom	O
 luag	O

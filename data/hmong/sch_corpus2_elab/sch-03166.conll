@@ -21,9 +21,6 @@ qhov	B
 zoo	I
 qhov	I
 phem	I
-zoo	O
-qhov	O
-phem	O
 hab	O
 ,	O
 qhov	O
@@ -63,9 +60,6 @@ ib	B
 paab	I
 ib	I
 pawg	I
-paab	O
-ib	O
-pawg	O
 twg	O
 sis	O
 chim	O
@@ -958,9 +952,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 ,	O
 coj	O
 tshoob	O
@@ -1036,9 +1027,6 @@ kev	B
 neej	I
 kev	I
 tsav	I
-neej	O
-kev	O
-tsav	O
 tsis	O
 txhob	O
 tu	O
@@ -1251,9 +1239,6 @@ hais	B
 plaub	I
 hais	I
 ntug	I
-plaub	O
-hais	O
-ntug	O
 ces	O
 ,	O
 feem	O

@@ -88,9 +88,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 poj	O
 ua	O
 cia	O
@@ -576,9 +573,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 ?	O
 ''	O
 
@@ -899,9 +893,6 @@ me	B
 ntswb	I
 me	I
 ntsis	I
-ntswb	O
-me	O
-ntsis	O
 thiab	O
 .	O
 
@@ -1314,9 +1305,6 @@ tas	B
 siab	I
 tas	I
 ntsws	I
-siab	O
-tas	O
-ntsws	O
 li	O
 .	O
 
@@ -1553,9 +1541,6 @@ siv	B
 dej	I
 siv	I
 cawv	I
-dej	O
-siv	O
-cawv	O
 loj	O
 loj	O
 thiab	O
@@ -1567,9 +1552,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 haus	O
 ntau	O
 ntau	O
@@ -1594,9 +1576,6 @@ tej	B
 tub	I
 tej	I
 ntxhais	I
-tub	O
-tej	O
-ntxhais	O
 ua	O
 neeg	O
 zoo	O
@@ -1611,9 +1590,6 @@ txhaus	B
 dej	I
 txhaus	I
 cawv	I
-dej	O
-txhaus	O
-cawv	O
 tag	O
 zog	O
 rau	O
@@ -1741,9 +1717,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 mas	O
 ?	O
 
@@ -2135,9 +2108,6 @@ tom	B
 ntej	I
 tom	I
 qaab	I
-ntej	O
-tom	O
-qaab	O
 .	O
 
 
@@ -2599,9 +2569,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 xwb	O
 nas	O
 .	O
@@ -2789,9 +2756,6 @@ muaj	B
 xeej	I
 muaj	I
 xwm	I
-xeej	O
-muaj	O
-xwm	O
 los	O
 twb	O
 muaj	O
@@ -2830,9 +2794,6 @@ kev	B
 tshoob	I
 kev	I
 kos	I
-tshoob	O
-kev	O
-kos	O
 yuav	O
 tsum	O
 coj	O

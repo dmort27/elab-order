@@ -248,9 +248,6 @@ ua	B
 liaj	I
 ua	I
 teb	I
-liaj	O
-ua	O
-teb	O
 tsis	O
 muaj	O
 kev	O
@@ -983,9 +980,6 @@ ua	B
 ub	I
 ua	I
 no	I
-ub	O
-ua	O
-no	O
 lawm	O
 .	O
 
@@ -1522,9 +1516,6 @@ tuam	B
 meej	I
 tuam	I
 pem	I
-meej	O
-tuam	O
-pem	O
 ``	O
 xib	O
 xub	O
@@ -2363,9 +2354,6 @@ siv	B
 riam	I
 siv	I
 phom	I
-riam	O
-siv	O
-phom	O
 nrog	O
 Nplog	O
 hais	O
@@ -2449,17 +2437,11 @@ coob	B
 leej	I
 coob	I
 tus	I
-leej	O
-coob	O
-tus	O
 ua	O
 qhov	B
 ntsej	I
 qhov	I
 muag	I
-ntsej	O
-qhov	O
-muag	O
 pom	O
 .	O
 

@@ -1040,9 +1040,6 @@ cov	B
 tub	I
 cov	I
 kiv	I
-tub	O
-cov	O
-kiv	O
 lawm	O
 xwb	O
 .	O
@@ -1483,9 +1480,6 @@ ua	B
 kub	I
 ua	I
 ntaiv	I
-kub	O
-ua	O
-ntaiv	O
 mas	O
 ntshe	O
 retired	O

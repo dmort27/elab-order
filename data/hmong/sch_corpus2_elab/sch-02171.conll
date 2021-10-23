@@ -109,9 +109,6 @@ kev	B
 iab	I
 kev	I
 daw	I
-iab	O
-kev	O
-daw	O
 no	O
 ,	O
 lwm	O
@@ -429,9 +426,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 no	O
 yeej	O
 tsi	O
@@ -481,9 +475,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 yog	O
 qhov	O
 twg	O
@@ -514,9 +505,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 xwb	O
 ,	O
 tej	O
@@ -578,9 +566,6 @@ lus	B
 dev	I
 lus	I
 npua	I
-dev	O
-lus	O
-npua	O
 nyob	O
 qhov	O
 twg	O
@@ -598,9 +583,6 @@ hluas	B
 nkauj	I
 hluas	I
 nraug	I
-nkauj	O
-hluas	O
-nraug	O
 rau	O
 hauv	O
 no	O
@@ -635,9 +617,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 pub	O
 rau	O
 kuv	O
@@ -661,9 +640,6 @@ zoo	B
 kwv	I
 zoo	I
 tij	I
-kwv	O
-zoo	O
-tij	O
 kuv	O
 yeej	O
 tsi	O
@@ -1029,9 +1005,6 @@ lub	B
 caij	I
 lub	I
 nyoog	I
-caij	O
-lub	O
-nyoog	O
 lawm	O
 ,	O
 peb	O
@@ -1290,9 +1263,6 @@ kev	B
 phem	I
 kev	I
 qas	I
-phem	O
-kev	O
-qas	O
 ntawm	O
 peb	O
 lawm	O
@@ -1346,9 +1316,6 @@ sis	B
 hlub	I
 sis	I
 paab	I
-hlub	O
-sis	O
-paab	O
 kuas	O
 yug	O
 haiv	O
@@ -1686,9 +1653,6 @@ tsheej	B
 phab	I
 tsheej	I
 pheev	I
-phab	O
-tsheej	O
-pheev	O
 li	O
 koj	O
 hais	O
@@ -2674,9 +2638,6 @@ paub	B
 sab	I
 paub	I
 qeg	I
-sab	O
-paub	O
-qeg	O
 ,	O
 tsi	O
 paub	O

@@ -26,9 +26,6 @@ koom	B
 zej	I
 koom	I
 zog	I
-zej	O
-koom	O
-zog	O
 ?	O
 
 
@@ -348,9 +345,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 ....	O
 es	O
 peb	O
@@ -734,9 +728,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 mas	O
 txhaj	O
 zoo	O
@@ -851,9 +842,6 @@ tim	B
 ntsej	I
 tim	I
 muag	I
-ntsej	O
-tim	O
-muag	O
 kiag	O
 mas	O
 mog	O
@@ -1443,9 +1431,6 @@ lug	B
 toj	I
 lug	I
 pes	I
-toj	O
-lug	O
-pes	O
 tias	O
 vim	O
 Nplog	O
@@ -1464,9 +1449,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 xwb	O
 .	O
 
@@ -1866,9 +1848,6 @@ ib	B
 pab	I
 ib	I
 pawg	I
-pab	O
-ib	O
-pawg	O
 ,	O
 peb	O
 tus	O

@@ -733,9 +733,6 @@ tas	B
 zaj	I
 tas	I
 zog	I
-zaj	O
-tas	O
-zog	O
 li	O
 .	O
 
@@ -1118,9 +1115,6 @@ poj	B
 nrauj	I
 poj	I
 ntsuam	I
-nrauj	O
-poj	O
-ntsuam	O
 ,	O
 cov	O
 tsis	O

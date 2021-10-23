@@ -274,9 +274,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 li	O
 as	O
 .	O
@@ -758,9 +755,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 hlo	O
 le	O
 .	O
@@ -810,9 +804,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 puas	O
 tsaav	O
 yaam	O
@@ -892,9 +883,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 (	O
 education	O
 )	O

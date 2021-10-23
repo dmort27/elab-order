@@ -556,9 +556,6 @@ tus	B
 ntsuj	I
 tus	I
 plig	I
-ntsuj	O
-tus	O
-plig	O
 mus	O
 rau	O
 ntuj	O
@@ -1139,9 +1136,6 @@ mus	B
 noj	I
 mus	I
 haus	I
-noj	O
-mus	O
-haus	O
 .	O
 
 
@@ -1829,9 +1823,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 lawm	O
 ..	O
 cov	O
@@ -1839,9 +1830,6 @@ pe	B
 dab	I
 pe	I
 mlom	I
-dab	O
-pe	O
-mlom	O
 cov	O
 coj	O
 qub	O
@@ -1863,9 +1851,6 @@ zoo	B
 mob	I
 zoo	I
 nkees	I
-mob	O
-zoo	O
-nkees	O
 kawg	O
 li	O
 thiab	O

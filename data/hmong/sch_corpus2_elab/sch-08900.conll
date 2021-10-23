@@ -60,9 +60,6 @@ vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 txhob	O
 yaaj	O
 xaam	O
@@ -466,9 +463,6 @@ ntawv	B
 noj	I
 ntawv	I
 haus	I
-noj	O
-ntawv	O
-haus	O
 ,	O
 muab	O
 nam	O
@@ -759,9 +753,6 @@ sib	B
 ntau	I
 sib	I
 tua	I
-ntau	O
-sib	O
-tua	O
 .	O
 
 

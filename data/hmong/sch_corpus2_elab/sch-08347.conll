@@ -139,9 +139,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 .	O
 
 
@@ -293,9 +290,6 @@ ntau	B
 tsav	I
 ntau	I
 yam	I
-tsav	O
-ntau	O
-yam	O
 kom	O
 los	O
 hais	O
@@ -1211,9 +1205,6 @@ hmoob	B
 teb	I
 hmoob	I
 chaw	I
-teb	O
-hmoob	O
-chaw	O
 xwb	O
 ,	O
 tshuas	O
@@ -2273,9 +2264,6 @@ caum	B
 noj	I
 caum	I
 haus	I
-noj	O
-caum	O
-haus	O
 xwb	O
 ,	O
 tseem	O

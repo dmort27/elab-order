@@ -483,9 +483,6 @@ muag	B
 noj	I
 muag	I
 haus	I
-noj	O
-muag	O
-haus	O
 tag	O
 lawm	O
 ntxov	O
@@ -558,9 +555,6 @@ zoo	B
 vaj	I
 zoo	I
 tsev	I
-vaj	O
-zoo	O
-tsev	O
 thiab	O
 liaj	O
 nyob	O
@@ -1002,9 +996,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 tso	O
 rau	O
 Laura	O
@@ -1249,9 +1240,6 @@ lawv	B
 ciaj	I
 lawv	I
 tuag	I
-ciaj	O
-lawv	O
-tuag	O
 los	O
 nws	O
 yuav	O
@@ -1641,9 +1629,6 @@ qub	B
 zej	I
 qub	I
 zog	I
-zej	O
-qub	O
-zog	O
 .	O
 
 
@@ -2000,9 +1985,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 tso	O
 rau	O
 Laura	O
@@ -2286,9 +2268,6 @@ lawv	B
 vaj	I
 lawv	I
 tsev	I
-vaj	O
-lawv	O
-tsev	O
 .	O
 
 
@@ -2473,9 +2452,6 @@ dag	B
 nom	I
 dag	I
 tswv	I
-nom	O
-dag	O
-tswv	O
 hais	O
 tias	O
 cov	O
@@ -3291,9 +3267,6 @@ lawv	B
 ciaj	I
 lawv	I
 tuag	I
-ciaj	O
-lawv	O
-tuag	O
 los	O
 nws	O
 yuav	O
@@ -3446,9 +3419,6 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 tso	O
 rau	O
 Laura	O
@@ -3732,9 +3702,6 @@ lawv	B
 vaj	I
 lawv	I
 tsev	I
-vaj	O
-lawv	O
-tsev	O
 .	O
 
 
@@ -3919,9 +3886,6 @@ dag	B
 nom	I
 dag	I
 tswv	I
-nom	O
-dag	O
-tswv	O
 hais	O
 tias	O
 cov	O
@@ -4568,9 +4532,6 @@ dag	B
 nom	I
 dag	I
 tswv	I
-nom	O
-dag	O
-tswv	O
 xwb	O
 ces	O
 txawm	O

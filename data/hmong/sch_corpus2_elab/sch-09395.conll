@@ -90,9 +90,6 @@ xiam	B
 nyiaj	I
 xiam	I
 txiaj	I
-nyiaj	O
-xiam	O
-txiaj	O
 los	O
 kho	O
 .	O
@@ -1004,9 +1001,6 @@ dhia	B
 siab	I
 dhia	I
 nqi	I
-siab	O
-dhia	O
-nqi	O
 ..	O
 ua	O
 li	O
@@ -1344,9 +1338,6 @@ mloog	B
 qab	I
 mloog	I
 hauv	I
-qab	O
-mloog	O
-hauv	O
 sib	O
 cam	O
 tsi	O
@@ -1381,9 +1372,6 @@ cam	B
 ub	I
 cam	I
 no	I
-ub	O
-cam	O
-no	O
 ces	O
 yus	O
 kuj	O
@@ -1509,9 +1497,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 mas	O
 .	O
 
@@ -1720,9 +1705,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 naj	O
 .	O
 
@@ -2252,9 +2234,6 @@ ua	B
 ciaj	I
 ua	I
 tuag	I
-ciaj	O
-ua	O
-tuag	O
 rau	O
 no	O
 ned	O

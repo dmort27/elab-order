@@ -810,9 +810,6 @@ tau	B
 niam	I
 tau	I
 txiv	I
-niam	O
-tau	O
-txiv	O
 ,	O
 ces	O
 Hmoob	O
@@ -1038,17 +1035,11 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 ,	O
 kev	B
 nom	I
 kev	I
 tswv	I
-nom	O
-kev	O
-tswv	O
 ,	O
 (	O
 politics	O
@@ -1499,9 +1490,6 @@ tso	B
 dag	I
 tso	I
 luag	I
-dag	O
-tso	O
-luag	O
 ,	O
 hais	O
 lus	O
@@ -2114,9 +2102,6 @@ kev	B
 txawj	I
 kev	I
 ntse	I
-txawj	O
-kev	O
-ntse	O
 ,	O
 especially	O
 cov	O
@@ -2542,9 +2527,6 @@ muaj	B
 teb	I
 muaj	I
 chaw	I
-teb	O
-muaj	O
-chaw	O
 tiag-g	O
 laiv	O
 .	O
@@ -2650,17 +2632,11 @@ ntees	B
 ploj	I
 ntees	I
 tuag	I
-ploj	O
-ntees	O
-tuag	O
 thiab	O
 rooj	B
 tshoob	I
 rooj	I
 kos	I
-tshoob	O
-rooj	O
-kos	O
 ces	O
 yeej	O
 pom	O
@@ -3180,9 +3156,6 @@ koom	B
 zej	I
 koom	I
 zos	I
-zej	O
-koom	O
-zos	O
 ne	O
 .	O
 

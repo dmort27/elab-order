@@ -508,9 +508,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 sib	O
 txawv	O
 .	O
@@ -782,9 +779,6 @@ tau	B
 niam	I
 tau	I
 txiv	I
-niam	O
-tau	O
-txiv	O
 mas	O
 peb	O
 thiaj	O
@@ -801,9 +795,6 @@ tau	B
 niam	I
 tau	I
 txiv	I
-niam	O
-tau	O
-txiv	O
 ces	O
 cia	O
 twj	O
@@ -1011,9 +1002,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 hmoob	O
 tshiab	O
 nyob	O

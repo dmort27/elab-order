@@ -657,9 +657,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 kom	O
 zoo	O
 thiab	O
@@ -712,9 +709,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 no	O
 mas	O
 kuv	O
@@ -891,9 +885,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 kom	O
 zoo	O
 thiab	O
@@ -946,9 +937,6 @@ kev	B
 lig	I
 kev	I
 cai	I
-lig	O
-kev	O
-cai	O
 no	O
 mas	O
 kuv	O
@@ -1492,9 +1480,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 yuav	O
 ?	O
 
@@ -1531,9 +1516,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 thiab	O
 kom	O
 haum	O

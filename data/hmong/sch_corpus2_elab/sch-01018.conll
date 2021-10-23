@@ -204,9 +204,6 @@ tas	B
 hnub	I
 tas	I
 hmo	I
-hnub	O
-tas	O
-hmo	O
 ,	O
 ib	O
 hnub	O
@@ -366,9 +363,6 @@ ua	B
 noj	I
 ua	I
 haus	I
-noj	O
-ua	O
-haus	O
 rau	O
 qhua	O
 tuaj	O
@@ -546,9 +540,6 @@ tsa	B
 nom	I
 tsa	I
 tswv	I
-nom	O
-tsa	O
-tswv	O
 hauv	O
 tsev	O
 tuag	O
@@ -562,9 +553,6 @@ pab	B
 ub	I
 pab	I
 no	I
-ub	O
-pab	O
-no	O
 nqa	O
 ib	O
 lub	O
@@ -635,9 +623,6 @@ ntaim	B
 noj	I
 ntaim	I
 haus	I
-noj	O
-ntaim	O
-haus	O
 ,	O
 tseem	O
 tau	O
@@ -741,9 +726,6 @@ zeem	B
 neej	I
 zeem	I
 tsav	I
-neej	O
-zeem	O
-tsav	O
 yuav	O
 tau	O
 xuas	O
@@ -786,9 +768,6 @@ ua	B
 neeb	I
 ua	I
 yaig	I
-neeb	O
-ua	O
-yaig	O
 yog	O
 me	O
 lawm	O

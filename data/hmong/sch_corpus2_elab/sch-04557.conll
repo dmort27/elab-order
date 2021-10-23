@@ -59,9 +59,6 @@ ntsia	B
 tooj	I
 ntsia	I
 hlau	I
-tooj	O
-ntsia	O
-hlau	O
 li	O
 .	O
 
@@ -90,9 +87,6 @@ khau	B
 maj	I
 khau	I
 ntuag	I
-maj	O
-khau	O
-ntuag	O
 rau	O
 tus	O
 tuag	O
@@ -471,9 +465,6 @@ leej	B
 nam	I
 leej	I
 txiv	I
-nam	O
-leej	O
-txiv	O
 ib	O
 txwm	O
 muaj	O

@@ -186,9 +186,6 @@ ntxias	B
 noj	I
 ntxias	I
 haus	I
-noj	O
-ntxias	O
-haus	O
 ...	O
 Tus	O
 no	O
@@ -735,9 +732,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 txhawj	O
 thiab	O
 ntse	O
@@ -994,9 +988,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 .	O
 
 
@@ -1040,26 +1031,17 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 ,	O
 cov	O
 me	B
 kwv	I
 me	I
 tij	I
-kwv	O
-me	O
-tij	O
 thiab	O
 cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 ...	O
 yog	O
 nej	O
@@ -1458,9 +1440,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 .	O
 
 
@@ -1643,9 +1622,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 .	O
 
 
@@ -1689,26 +1665,17 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 ,	O
 cov	O
 me	B
 kwv	I
 me	I
 tij	I
-kwv	O
-me	O
-tij	O
 thiab	O
 cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 ...	O
 yog	O
 nej	O
@@ -2264,9 +2231,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 .	O
 
 
@@ -2310,26 +2274,17 @@ me	B
 tub	I
 me	I
 nyuam	I
-tub	O
-me	O
-nyuam	O
 ,	O
 cov	O
 me	B
 kwv	I
 me	I
 tij	I
-kwv	O
-me	O
-tij	O
 thiab	O
 cov	B
 niam	I
 cov	I
 txiv	I
-niam	O
-cov	O
-txiv	O
 ...	O
 yog	O
 nej	O
@@ -2708,9 +2663,6 @@ kev	B
 phooj	I
 kev	I
 ywg	I
-phooj	O
-kev	O
-ywg	O
 xwb	O
 yog	O
 tsis	O
@@ -3242,9 +3194,6 @@ luag	B
 nom	I
 luag	I
 tswv	I
-nom	O
-luag	O
-tswv	O
 etc	O
 ...	O
 Txoj	O
@@ -3553,9 +3502,6 @@ pua	B
 teb	I
 pua	I
 chaw	I
-teb	O
-pua	O
-chaw	O
 ,	O
 DAG	O
 pua	O
@@ -3627,9 +3573,6 @@ cog	B
 qoob	I
 cog	I
 loo	I
-qoob	O
-cog	O
-loo	O
 .	O
 
 

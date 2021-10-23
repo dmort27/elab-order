@@ -70,9 +70,6 @@ dej	B
 kub	I
 dej	I
 npau	I
-kub	O
-dej	O
-npau	O
 nrog	O
 pebn	O
 cov	O
@@ -429,9 +426,6 @@ luag	B
 poj	I
 luag	I
 sev	I
-poj	O
-luag	O
-sev	O
 .	O
 
 
@@ -480,9 +474,6 @@ luag	B
 poj	I
 luag	I
 txiv	I
-poj	O
-luag	O
-txiv	O
 li	O
 uas	O
 kuv	O
@@ -612,9 +603,6 @@ luag	B
 poj	I
 luag	I
 sev	I
-poj	O
-luag	O
-sev	O
 3-	O
 koj	O
 tsis	O
@@ -624,9 +612,6 @@ tub	B
 sab	I
 tub	I
 nyiag	I
-sab	O
-tub	O
-nyiag	O
 4-	O
 KOJ	O
 TSIS	O
@@ -757,9 +742,6 @@ ua	B
 pab	I
 ua	I
 pawg	I
-pab	O
-ua	O
-pawg	O
 .	O
 
 

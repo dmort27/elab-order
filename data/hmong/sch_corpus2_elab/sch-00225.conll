@@ -170,9 +170,6 @@ tawg	B
 teb	I
 tawg	I
 chaw	I
-teb	O
-tawg	O
-chaw	O
 hab	O
 tsiv	O
 tuaj	O
@@ -455,9 +452,6 @@ muaj	B
 nom	I
 muaj	I
 tswv	I
-nom	O
-muaj	O
-tswv	O
 kaav	O
 Hmoob	O
 ces	O
@@ -1535,9 +1529,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 

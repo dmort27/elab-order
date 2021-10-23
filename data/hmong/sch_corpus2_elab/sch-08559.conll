@@ -318,9 +318,6 @@ kev	B
 txog	I
 kev	I
 txhaum	I
-txog	O
-kev	O
-txhaum	O
 loj	O
 heev	O
 ne	O
@@ -3241,9 +3238,6 @@ kawm	B
 txawj	I
 kawm	I
 ntse	I
-txawj	O
-kawm	O
-ntse	O
 peb	O
 puas	O
 ua	O
@@ -3282,9 +3276,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 tus	O
 yuav	O
 hais	O
@@ -3340,17 +3331,11 @@ qub	B
 vaj	I
 qub	I
 tsev	I
-vaj	O
-qub	O
-tsev	O
 thiab	O
 qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 xwb	O
 .	O
 
@@ -3361,9 +3346,6 @@ kev	B
 txog	I
 kev	I
 txhaum	I
-txog	O
-kev	O
-txhaum	O
 ces	O
 tsis	O
 hais	O

@@ -1011,9 +1011,6 @@ pab	B
 ub	I
 pab	I
 no	I
-ub	O
-pab	O
-no	O
 es	O
 muab	O
 lawv	O
@@ -1153,9 +1150,6 @@ paub	B
 ntaub	I
 paub	I
 ntawv	I
-ntaub	O
-paub	O
-ntawv	O
 ,	O
 tsi	O
 paub	O
@@ -1216,9 +1210,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 .	O
 
@@ -2100,9 +2091,6 @@ dag	B
 nom	I
 dag	I
 tswv	I
-nom	O
-dag	O
-tswv	O
 kom	O
 lawv	O
 ntseeg	O
@@ -2506,9 +2494,6 @@ pab	B
 ub	I
 pab	I
 no	I
-ub	O
-pab	O
-no	O
 li	O
 .	O
 
@@ -2529,9 +2514,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 mus	O
 hais	O
 lawm	O
@@ -2896,9 +2878,6 @@ ua	B
 niam	I
 ua	I
 txiv	I
-niam	O
-ua	O
-txiv	O
 twb	O
 tsi	O
 tau	O

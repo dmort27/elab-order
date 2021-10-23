@@ -80,9 +80,6 @@ tag	B
 hnub	I
 tag	I
 hmo	I
-hnub	O
-tag	O
-hmo	O
 mas	O
 tab	O
 xa	O
@@ -227,9 +224,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 tag	O
 li	O
 lawm	O
@@ -415,9 +409,6 @@ qhov	B
 ub	I
 qhov	I
 no	I
-ub	O
-qhov	O
-no	O
 li	O
 ntag	O
 .	O
@@ -1183,9 +1174,6 @@ lob	B
 ub	I
 lob	I
 no	I
-ub	O
-lob	O
-no	O
 ntau	O
 ces	O
 zoo	O
@@ -1876,9 +1864,6 @@ qhov	B
 quav	I
 qhov	I
 zis	I
-quav	O
-qhov	O
-zis	O
 los	O
 xijpeem	O
 nws	O

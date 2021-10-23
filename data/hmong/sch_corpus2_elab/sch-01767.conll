@@ -1024,9 +1024,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 cov	O
 pheej	O
 tuaj	O
@@ -1164,9 +1161,6 @@ ua	B
 phab	I
 ua	I
 pheev	I
-phab	O
-ua	O
-pheev	O
 tsis	O
 mloog	O
 luag	O
@@ -1174,9 +1168,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 tej	O
 tswv	O
 yim	O
@@ -1195,9 +1186,6 @@ tsheej	B
 phab	I
 tsheej	I
 pheev	I
-phab	O
-tsheej	O
-pheev	O
 ntxiv	O
 tag	O
 ntxiv	O
@@ -2139,9 +2127,6 @@ rov	B
 qab	I
 rov	I
 quav	I
-qab	O
-rov	O
-quav	O
 .	O
 
 
@@ -2267,9 +2252,6 @@ tom	B
 ntej	I
 tom	I
 qab	I
-ntej	O
-tom	O
-qab	O
 .	O
 
 
@@ -2544,17 +2526,11 @@ vij	B
 dab	I
 vij	I
 npog	I
-dab	O
-vij	O
-npog	O
 ,	O
 vij	B
 sub	I
 vij	I
 sw	I
-sub	O
-vij	O
-sw	O
 no	O
 los	O
 thib	O
@@ -3190,9 +3166,6 @@ rov	B
 quav	I
 rov	I
 qees	I
-quav	O
-rov	O
-qees	O
 li	O
 ntawd	O
 thiab	O

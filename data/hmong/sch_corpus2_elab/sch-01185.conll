@@ -309,9 +309,6 @@ kawm	B
 ntaub	I
 kawm	I
 ntawv	I
-ntaub	O
-kawm	O
-ntawv	O
 lawm	O
 tiag	O
 3.	O
@@ -380,9 +377,6 @@ hauv	B
 vaj	I
 hauv	I
 tsev	I
-vaj	O
-hauv	O
-tsev	O
 yeej	O
 muaj	O
 computer	O
@@ -497,9 +491,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 li	O
 tib	O
 neeg	O
@@ -509,9 +500,6 @@ paub	B
 qab	I
 paub	I
 haus	I
-qab	O
-paub	O
-haus	O
 5.	O
 hmoob	O
 tej	O
@@ -673,9 +661,6 @@ tej	B
 nam	I
 tej	I
 txiv	I
-nam	O
-tej	O
-txiv	O
 tug	O
 roj	O
 tshaas	O
@@ -1437,9 +1422,6 @@ nriav	B
 noj	I
 nriav	I
 haus	I
-noj	O
-nriav	O
-haus	O
 ces	O
 hmoob	O
 pauv	O
@@ -1452,9 +1434,6 @@ nriav	B
 noj	I
 nriav	I
 haus	I
-noj	O
-nriav	O
-haus	O
 ces	O
 yuav	O
 tuag	O
@@ -2152,9 +2131,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 saib/xyuas	O
 seb	O
 tag	O

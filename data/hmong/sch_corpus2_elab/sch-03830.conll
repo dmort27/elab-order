@@ -805,9 +805,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 no	O
 ,	O
 los	O
@@ -820,9 +817,6 @@ tub	B
 lag	I
 tub	I
 luam	I
-lag	O
-tub	O
-luam	O
 ces	O
 tsis	O
 yog	O
@@ -1068,9 +1062,6 @@ luag	B
 poj	I
 luag	I
 txiv	I
-poj	O
-luag	O
-txiv	O
 ,	O
 tus	O
 ntseeg	O
@@ -2735,9 +2726,6 @@ txhaum	B
 kev	I
 txhaum	I
 cai	I
-kev	O
-txhaum	O
-cai	O
 .	O
 
 
@@ -2773,9 +2761,6 @@ muaj	B
 niam	I
 muaj	I
 txiv	I
-niam	O
-muaj	O
-txiv	O
 qhia	O
 hos	O
 cov	O
@@ -2794,9 +2779,6 @@ zoo	B
 niam	I
 zoo	I
 txiv	I
-niam	O
-zoo	O
-txiv	O
 qhuab	O
 qhia	O
 lawm	O

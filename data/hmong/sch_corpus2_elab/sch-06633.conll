@@ -1505,9 +1505,6 @@ hlev	B
 liab	I
 hlev	I
 ntsuab	I
-liab	O
-hlev	O
-ntsuab	O
 kawg	O
 thiab	O
 yom	O
@@ -1577,9 +1574,6 @@ tso	B
 daj	I
 tso	I
 luag	I
-daj	O
-tso	O
-luag	O
 ua	O
 si	O
 tsi	O
@@ -1840,9 +1834,6 @@ hlev	B
 liab	I
 hlev	I
 ntsuab	I
-liab	O
-hlev	O
-ntsuab	O
 ho	O
 txhais	O
 li	O
@@ -2015,9 +2006,6 @@ hlev	B
 liab	I
 hlev	I
 ntsuab	I
-liab	O
-hlev	O
-ntsuab	O
 rau	O
 tus	O
 tsis	O
@@ -2128,9 +2116,6 @@ hlev	B
 liab	I
 hlev	I
 ntsuab	I
-liab	O
-hlev	O
-ntsuab	O
 rau	O
 tus	O
 tsis	O

@@ -46,9 +46,6 @@ qub	B
 teb	I
 qub	I
 chaw	I
-teb	O
-qub	O
-chaw	O
 mas	O
 muaj	O
 ntau	O
@@ -624,9 +621,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 nchuav	O
 nthwv	O
 rau	O
@@ -645,9 +639,6 @@ kev	B
 plees	I
 kev	I
 yi	I
-plees	O
-kev	O
-yi	O
 li	O
 tus	O
 tijlaug	O
@@ -675,9 +666,6 @@ kev	B
 plees	I
 kev	I
 yi	I
-plees	O
-kev	O
-yi	O
 yam	O
 nws	O
 tsis	O
@@ -710,9 +698,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 sai	O
 tsis	O
 xav	O
@@ -1011,9 +996,6 @@ nrhiav	B
 noj	I
 nrhiav	I
 haus	I
-noj	O
-nrhiav	O
-haus	O
 tom	O
 tej	O
 lawm	O
@@ -1037,9 +1019,6 @@ khwv	B
 noj	I
 khwv	I
 haus	I
-noj	O
-khwv	O
-haus	O
 mus	O
 li	O
 ntawd	O

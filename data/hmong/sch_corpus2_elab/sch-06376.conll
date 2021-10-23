@@ -130,9 +130,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 uas	O
 tsis	O
 zwm	O
@@ -1017,9 +1014,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 no	O
 ntshe	O
 phim	O
@@ -1089,9 +1083,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 no	O
 ntshe	O
 phim	O
@@ -1172,9 +1163,6 @@ ua	B
 phab	I
 ua	I
 pheev	I
-phab	O
-ua	O
-pheev	O
 es	O
 puas	O
 yog	O
@@ -1327,9 +1315,6 @@ ua	B
 phab	I
 ua	I
 pheev	I
-phab	O
-ua	O
-pheev	O
 es	O
 puas	O
 yog	O

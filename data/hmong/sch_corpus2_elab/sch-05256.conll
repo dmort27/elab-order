@@ -3,9 +3,6 @@ kwv	B
 tij	I
 kwv	I
 npawg	I
-tij	O
-kwv	O
-npawg	O
 yog	O
 nej	O
 nyob	O
@@ -303,9 +300,6 @@ thoob	B
 teb	I
 thoob	I
 chaw	I
-teb	O
-thoob	O
-chaw	O
 yog	O
 tsis	O
 muaj	O
@@ -556,9 +550,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 thiab	O
 no	O
 lov	O
@@ -995,9 +986,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -1096,9 +1084,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 li	O
 yawg	O
 thaub	O
@@ -1731,9 +1716,6 @@ kev	B
 plaub	I
 kev	I
 ntug	I
-plaub	O
-kev	O
-ntug	O
 lawm	O
 .	O
 
@@ -1887,9 +1869,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 teeb	O
 meem	O
 lawm	O
@@ -1933,9 +1912,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 xav	O
 kom	O
 muaj	O

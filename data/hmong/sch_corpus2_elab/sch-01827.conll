@@ -250,9 +250,6 @@ lwm	B
 pab	I
 lwm	I
 pawg	I
-pab	O
-lwm	O
-pawg	O
 li	O
 .	O
 
@@ -877,9 +874,6 @@ le	B
 ub	I
 le	I
 nua	I
-ub	O
-le	O
-nua	O
 ces	O
 mej	O
 novqaab	O

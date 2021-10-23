@@ -8,9 +8,6 @@ twv	B
 dag	I
 twv	I
 zog	I
-dag	O
-twv	O
-zog	O
 ,	O
 3	O
 twv	O
@@ -96,9 +93,6 @@ yam	B
 zoo	I
 yam	I
 phem	I
-zoo	O
-yam	O
-phem	O
 los	O
 yeej	O
 yuav	O
@@ -188,9 +182,6 @@ xav	B
 mus	I
 xav	I
 los	I
-mus	O
-xav	O
-los	O
 ,	O
 kuv	O
 xav	O
@@ -1456,9 +1447,6 @@ lus	B
 nyiaj	I
 lus	I
 kub	I
-nyiaj	O
-lus	O
-kub	O
 :	O
 )	O
 :	O

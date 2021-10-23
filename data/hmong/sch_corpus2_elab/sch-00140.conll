@@ -1339,9 +1339,6 @@ nws	B
 niam	I
 nws	I
 txiv	I
-niam	O
-nws	O
-txiv	O
 hu	O
 li	O
 cas	O
@@ -1507,9 +1504,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 no	O
 ua	O
 cas	O
@@ -1552,9 +1546,6 @@ lub	B
 ntuj	I
 lub	I
 teb	I
-ntuj	O
-lub	O
-teb	O
 yog	O
 niam	O
 txiv	O
@@ -1958,9 +1949,6 @@ lwm	B
 leej	I
 lwm	I
 tus	I
-leej	O
-lwm	O
-tus	O
 lub	O
 neej	O
 ob	O

@@ -246,9 +246,6 @@ tau	B
 noj	I
 tau	I
 haus	I
-noj	O
-tau	O
-haus	O
 ;	O
 mus	O
 ua	O
@@ -457,9 +454,6 @@ cov	B
 nam	I
 cov	I
 txiv	I
-nam	O
-cov	O
-txiv	O
 ua	O
 ywj	O
 puab	O
@@ -2092,9 +2086,6 @@ saib	B
 mus	I
 saib	I
 los	I
-mus	O
-saib	O
-los	O
 cov	O
 neeg	O
 ua	O
@@ -2476,9 +2467,6 @@ coob	B
 leej	I
 coob	I
 tug	I
-leej	O
-coob	O
-tug	O
 neeg	O
 laug	O
 huv	O
@@ -2868,9 +2856,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 hais	O
 peb	O
 lub	O
@@ -2904,9 +2889,6 @@ xeeb	B
 leej	I
 xeeb	I
 ntxwv	I
-leej	O
-xeeb	O
-ntxwv	O
 hais	O
 peb	O
 lub	O
@@ -3144,9 +3126,6 @@ ua	B
 tshoob	I
 ua	I
 kos	I
-tshoob	O
-ua	O
-kos	O
 nej	O
 puas	O
 kam	O

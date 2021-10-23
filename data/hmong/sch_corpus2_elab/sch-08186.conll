@@ -28,9 +28,6 @@ zoo	B
 nkauj	I
 zoo	I
 nraug	I
-nkauj	O
-zoo	O
-nraug	O
 kawg	O
 lis	O
 .	O
@@ -85,9 +82,6 @@ uas	B
 noj	I
 uas	I
 haus	I
-noj	O
-uas	O
-haus	O
 .	O
 
 
@@ -108,9 +102,6 @@ tub	B
 mab	I
 tub	I
 qhev	I
-mab	O
-tub	O
-qhev	O
 .	O
 
 
@@ -159,9 +150,6 @@ tub	B
 mab	I
 tub	I
 qhe	I
-mab	O
-tub	O
-qhe	O
 .	O
 
 

@@ -23,9 +23,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 thiab	O
 ua	O
 ib	O
@@ -67,9 +64,6 @@ sib	B
 ntaus	I
 sib	I
 tua	I
-ntaus	O
-sib	O
-tua	O
 yuav	O
 tau	O
 tsos	O
@@ -194,9 +188,6 @@ rau	B
 ub	I
 rau	I
 no	I
-ub	O
-rau	O
-no	O
 xwb	O
 ces	O
 thaum	O
@@ -360,9 +351,6 @@ ua	B
 teb	I
 ua	I
 chaw	I
-teb	O
-ua	O
-chaw	O
 tseg	O
 mav	O
 .	O
@@ -480,9 +468,6 @@ ua	B
 nom	I
 ua	I
 tswv	I
-nom	O
-ua	O
-tswv	O
 no	O
 tau	O
 lawm	O

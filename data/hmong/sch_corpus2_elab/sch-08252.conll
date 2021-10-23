@@ -212,9 +212,6 @@ neeg	B
 txawj	I
 neeg	I
 ntse	I
-txawj	O
-neeg	O
-ntse	O
 no	O
 ,	O
 txog	O
@@ -335,9 +332,6 @@ ua	B
 hnub	I
 ua	I
 hmo	I
-hnub	O
-ua	O
-hmo	O
 txomnyem	O
 siab	O
 txomnyem	O
@@ -450,9 +444,6 @@ tsis	B
 paub	I
 tsis	I
 pom	I
-paub	O
-tsis	O
-pom	O
 ces	O
 cia	O
 peb	O
@@ -524,9 +515,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -935,9 +923,6 @@ pab	B
 kwv	I
 pab	I
 tij	I
-kwv	O
-pab	O
-tij	O
 ,	O
 pab	O
 kwvtij	O
@@ -1098,9 +1083,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 .	O
 
 
@@ -1819,9 +1801,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 li	O
 tiam	O
 sis	O

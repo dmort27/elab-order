@@ -582,9 +582,6 @@ coj	B
 noj	I
 coj	I
 ua	I
-noj	O
-coj	O
-ua	O
 lawm	O
 no	O
 koj	O
@@ -2780,9 +2777,6 @@ txau	B
 noj	I
 txau	I
 haus	I
-noj	O
-txau	O
-haus	O
 lawm	O
 .	O
 
@@ -2941,9 +2935,6 @@ thawm	B
 niaj	I
 thawm	I
 xyoo	I
-niaj	O
-thawm	O
-xyoo	O
 xwb	O
 las	O
 as	O
@@ -3289,9 +3280,6 @@ li	B
 ub	I
 li	I
 no	I
-ub	O
-li	O
-no	O
 xwb	O
 .	O
 
@@ -3352,9 +3340,6 @@ kom	B
 yeej	I
 kom	I
 swb	I
-yeej	O
-kom	O
-swb	O
 xwb	O
 .	O
 
@@ -3586,9 +3571,6 @@ hais	B
 ciaj	I
 hais	I
 tuag	I
-ciaj	O
-hais	O
-tuag	O
 los	O
 ,	O
 yeej	O
@@ -4140,9 +4122,6 @@ ua	B
 dog	I
 ua	I
 dig	I
-dog	O
-ua	O
-dig	O
 ....	O
 muaj	O
 tsi	O

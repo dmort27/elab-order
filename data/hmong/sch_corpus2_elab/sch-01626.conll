@@ -22,9 +22,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 tsuas	O
 tau	O
 txais	O
@@ -133,9 +130,6 @@ muaj	B
 noj	I
 muaj	I
 haus	I
-noj	O
-muaj	O
-haus	O
 ,	O
 tsis	O
 muaj	O
@@ -162,9 +156,6 @@ txhua	B
 leej	I
 txhua	I
 tus	I
-leej	O
-txhua	O
-tus	O
 pab	O
 thov	O
 Vaj	O
