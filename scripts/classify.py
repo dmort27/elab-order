@@ -46,7 +46,7 @@ def visualize_tree(fname, data: ElaborateExpressionData, exp: ClassificationExpe
     graphviz.render('dot', 'png', fname)
 
 
-def get_data(lang_id, features='ton_rhy_ons', remove_dup_ordered=None):
+def get_data(lang_id, features='ton_rhy_ons', remove_dup_ordered=None, wv_model_name=''):
     if lang_id == 'hmn-Latn':
         csv_path = "../data/hmong/extracted_elabs/elabs_extracted.csv"
         regex = RPA_SYLLABLE
@@ -64,7 +64,8 @@ def get_data(lang_id, features='ton_rhy_ons', remove_dup_ordered=None):
 
     df = pd.read_csv(csv_path, quoting=csv.QUOTE_ALL)
     data = ElaborateExpressionData(df, lang_id=lang_id, syl_regex=regex, verbose=False,
-                                   features=features, remove_dup_ordered=remove_dup_ordered)
+                                   features=features, remove_dup_ordered=remove_dup_ordered,
+                                   wv_model_name=wv_model_name)
 
     return data
 
@@ -77,11 +78,11 @@ def describe(arr):
 
 
 def run_unique_cc_exp(lang_id, features, classifier=None,
-                      remove_dup_ordered=None, num_repeats=10, vis_tree=False):
+                      remove_dup_ordered=None, num_repeats=10, vis_tree=False, wv_model_name=''):
     rule_accs = []
     pred_accs = []
     for _ in range(1 if remove_dup_ordered is None else num_repeats):
-        data = get_data(lang_id, features=features, remove_dup_ordered=remove_dup_ordered)
+        data = get_data(lang_id, features=features, remove_dup_ordered=remove_dup_ordered, wv_model_name=wv_model_name)
         for _ in range(50):
             rule_acc = data.rule_based_classification()
             rule_accs.append(rule_acc)
@@ -90,7 +91,11 @@ def run_unique_cc_exp(lang_id, features, classifier=None,
         if classifier is None:
             classifier = CLASSIFIERS['DT']
         exp = ClassificationExperiment(classifier, X, y, orig_index)
-        pred_accs.append(exp.select_features_from_model(method='chi2'))
+        if wv_model_name and classifier.__class__.__name__ == 'SVC':
+            fs_method = 'none'
+        else:
+            fs_method = 'from_model' if wv_model_name else 'chi2'
+        pred_accs.append(exp.select_features_from_model(method=fs_method))
         if vis_tree:
             d = 15
             visualize_tree(f'../out/Pinyin_{features}_{d or ""}.dot', data, exp, d=d)
@@ -100,15 +105,12 @@ def run_unique_cc_exp(lang_id, features, classifier=None,
     print("*" * 80)
 
 if __name__ == '__main__':
-    'ons_rhy_ton'
-    'ton'
-    'rhy'
+    # 'ons_rhy_ton'
+    # 'ton'
+    # 'rhy'
 
-    run_unique_cc_exp(LANGUAGES['Middle Chinese'], 'ton', classifier=CLASSIFIERS['DT'],
-                      remove_dup_ordered=None, vis_tree=False)
-    run_unique_cc_exp(LANGUAGES['Middle Chinese'], 'ons_rhy_ton', classifier=CLASSIFIERS['DT'],
-                      remove_dup_ordered=None, vis_tree=False)
-    run_unique_cc_exp(LANGUAGES['Middle Chinese'], 'ton', classifier=CLASSIFIERS['SVM'],
-                      remove_dup_ordered=None, vis_tree=False)
-    run_unique_cc_exp(LANGUAGES['Middle Chinese'], 'ons_rhy_ton', classifier=CLASSIFIERS['SVM'],
-                      remove_dup_ordered=None, vis_tree=False)
+    run_unique_cc_exp(LANGUAGES['Hmong'], 'wv', classifier=CLASSIFIERS['SVM'],
+                  remove_dup_ordered=None, vis_tree=False, wv_model_name='grpd1_nochar_swap_run1')
+    run_unique_cc_exp(LANGUAGES['Hmong'], 'wv', classifier=CLASSIFIERS['DT'],
+                  remove_dup_ordered=None, vis_tree=False, wv_model_name='grpd1_nochar_swap_run1')
+

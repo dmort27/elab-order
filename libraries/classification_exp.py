@@ -1,7 +1,7 @@
 from typing import Union
 
 from scipy.stats import describe
-from sklearn.feature_selection import SelectFromModel, SelectKBest, chi2
+from sklearn.feature_selection import SelectFromModel, SelectKBest, chi2, mutual_info_classif, f_classif
 from sklearn.metrics import precision_score, recall_score
 from sklearn.model_selection import train_test_split, GroupKFold
 from sklearn.tree import DecisionTreeClassifier
@@ -47,6 +47,7 @@ class ClassificationExperiment:
         return accs, prns, rcls
 
     def select_features_from_model(self, method='from_model'):
+
         clf_best = None
         best_accs = 0
         if self.clf.__class__.__name__ == 'SVC':
@@ -60,6 +61,11 @@ class ClassificationExperiment:
             elif method == 'chi2':
                 if t > self.X.shape[1]: continue
                 X_new = SelectKBest(chi2, k=t).fit_transform(self.X, self.y)
+            elif method == 'f_classif':
+                if t > self.X.shape[1]: continue
+                X_new = SelectKBest(f_classif, k=t).fit_transform(self.X, self.y)
+            elif method == 'none':
+                X_new = self.X
             else:
                 raise NotImplementedError
 
@@ -76,6 +82,8 @@ class ClassificationExperiment:
                 best_accs = mean_accs
                 clf_best = clf_new
             print(f"{mean_accs:.3f}, prn {mean_prns:.3f}, rcl {mean_rcls:.3f}")
+            if method == 'none':
+                break
 
         return best_accs
 

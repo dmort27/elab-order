@@ -1,18 +1,22 @@
 import math
 from collections import defaultdict
-
+import os
 import epitran, panphon
 import pandas as pd
 import numpy as np
+import torch
+import gensim
 
 class ElaborateExpressionData:
     def __init__(self, df, features='ton_rhy_ons', lang_id='', syl_regex=None, verbose=True,
-                 remove_dup_ordered=None):
+                 remove_dup_ordered=None, wv_model_name=''):
         self.df = df
         self.lang_id = lang_id
         self.syl_regex = syl_regex
         self.verbose = verbose
         self.features = features
+        # use only features from the coordinate compound for classification. may yield better result
+        self.use_only_cc_words = False
         self._reformat_columns()
         self._remove_invalid_data()
         self._set_phonemes()
@@ -20,6 +24,9 @@ class ElaborateExpressionData:
         if remove_dup_ordered is not None:
             self._remove_dups(remove_dup_ordered)
         self.X, self.y = None, None
+        if 'wv' in features:
+            assert wv_model_name, "You must provide a source for the word vectors."
+            self.wv = WordVectorsData(wv_model_name)
 
     def rule_based_classification(self):
 
@@ -97,7 +104,7 @@ class ElaborateExpressionData:
     def get_Xy_data(self, return_orig_index=False):
         print('N =', len(self.df))
         if self.X is None and self.y is None:
-            self._add_onehot_features(self.features, drop_orig_columns=True)
+            self._add_features(drop_orig_columns=True)
             self.X = self.df.drop(columns=['attested']).to_numpy()
             self.y = self.df['attested'].to_numpy()
         if return_orig_index:
@@ -207,12 +214,13 @@ class ElaborateExpressionData:
         self.df = self.df.append(unattested, ignore_index=False).reset_index()
         self.orig_index = self.df.pop('index').to_numpy()  # store this orig_index elsewhere
 
-    def _add_onehot_features(self, features, drop_orig_columns=True):
+    def _add_features(self, drop_orig_columns=True):
+        features = self.features
         if 'panphon' in features:
             epi = epitran.Epitran(self.lang_id)
             ft = panphon.FeatureTable()
 
-        if self.lang_id in ['ltc-IPA', 'cmn-Pinyin']:
+        if self.lang_id in ['ltc-IPA', 'cmn-Pinyin'] or self.use_only_cc_words:
             components = ('cc1', 'cc2')
         else:
             components = ('cc1', 'cc2', 'rep')
@@ -236,11 +244,57 @@ class ElaborateExpressionData:
                         self.df,
                         pd.DataFrame(wordi_feats.tolist(), index=self.df.index, columns=panphon_names),
                         left_index=True, right_index=True)
+            if 'wv' in features:
+                wv_feats = self.df[wi].apply(lambda syl: self.wv[syl])
+                col_names = [f'{wi}_wv{i}' for i in range(self.wv.get_wv_dim())]
+                self.df = pd.concat((self.df, pd.DataFrame(wv_feats.tolist(), columns=col_names)), axis=1)
+
 
         if drop_orig_columns:
             self.df.drop(columns=['cc1', 'cc2', 'rep'], inplace=True)
+
+    def _add_wv_features_to_X(self):
+        if 'wv' not in self.features:
+            return
+
 
     def get_feature_names(self):
         ret = self.df.columns.to_list()
         ret.remove('attested')
         return ret
+
+
+
+class WordVectorsData:
+    def __init__(self, model_name):
+        SERVER = "/run/user/1000/gvfs/sftp:host={}.lti.cs.cmu.edu,user=cxcui/usr0/home/cxcui/pytorch-NER/model/"
+
+        if model_name in ('sg', 'cbow'):
+            wv = gensim.models.Word2Vec.load(f"../data/hmong/sch.{model_name}.w2v").wv
+            self.vector_size = wv.vector_size
+            self.get_wv = wv.__getitem__
+            return
+
+        for server_name in ('agent', 'patient'):
+            server_base = SERVER.format(server_name)
+            path = os.path.join(server_base, model_name, 'best_model')
+            if os.path.exists(path):
+                self.embeds = torch.load(path, map_location='cpu')['embeds.weight']
+                self.w2i = torch.load("../data/hmong/data.pth")['w2i']
+                self.vector_size = self.embeds.shape[1]
+                self.get_wv = lambda w: self.embeds[self.w2i.get(w, self.w2i.get('UNK'))].numpy()
+                print(f"loaded word vectors from {model_name} on {server_name}")
+                break
+        else: # no break
+            raise FileNotFoundError(f"Cannot find a wv model with name {model_name}")
+
+    def __getitem__(self, word):
+        try:
+            return self.get_wv(word)
+        except KeyError:
+            return np.zeros(self.get_wv_dim())
+        # return np.random.random(self.get_wv_dim())
+
+    def get_wv_dim(self):
+        return self.vector_size
+
