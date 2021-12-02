@@ -1,3 +1,4 @@
+import bz2
 import math
 from collections import defaultdict
 import os
@@ -16,7 +17,7 @@ class ElaborateExpressionData:
         self.verbose = verbose
         self.features = features
         # use only features from the coordinate compound for classification. may yield better result
-        self.use_only_cc_words = False
+        self.use_only_cc_words = True
         self._reformat_columns()
         self._remove_invalid_data()
         self._set_phonemes()
@@ -26,7 +27,7 @@ class ElaborateExpressionData:
         self.X, self.y = None, None
         if 'wv' in features:
             assert wv_model_name, "You must provide a source for the word vectors."
-            self.wv = WordVectorsData(wv_model_name)
+            self.wv = HmongWordVectorsData(wv_model_name) if lang_id == 'hmn-Latn' else ChineseWordVectorsData(wv_model_name)
 
     def rule_based_classification(self):
 
@@ -267,6 +268,23 @@ class ElaborateExpressionData:
 
 class WordVectorsData:
     def __init__(self, model_name):
+        self.model_name = model_name
+        self.vector_size = 0
+        self.get_wv = None
+
+    def __getitem__(self, word):
+        try:
+            return self.get_wv(word)
+        except KeyError:
+            return np.zeros(self.get_wv_dim())
+        # return np.random.random(self.get_wv_dim())
+
+    def get_wv_dim(self):
+        return self.vector_size
+
+class HmongWordVectorsData(WordVectorsData):
+    def __init__(self, model_name):
+        super().__init__(model_name)
         SERVER = "/run/user/1000/gvfs/sftp:host={}.lti.cs.cmu.edu,user=cxcui/usr0/home/cxcui/pytorch-NER/model/"
 
         if model_name in ('sg', 'cbow'):
@@ -288,13 +306,43 @@ class WordVectorsData:
         else: # no break
             raise FileNotFoundError(f"Cannot find a wv model with name {model_name}")
 
-    def __getitem__(self, word):
-        try:
-            return self.get_wv(word)
-        except KeyError:
-            return np.zeros(self.get_wv_dim())
-        # return np.random.random(self.get_wv_dim())
+class ChineseWordVectorsData(WordVectorsData):
+    def __init__(self, model_name):
+        super().__init__(model_name)
+        self.get_wv = self.get_chinese_wv().__getitem__
 
-    def get_wv_dim(self):
-        return self.vector_size
+    def get_chinese_wv(self):
+        wv_file_path = f"/home/cuichenx/Downloads/{self.model_name}.bz2"
+        out_name = f"../data/chinese/{self.model_name}_selected.wv"
+        char2wv = {}
 
+        if not os.path.exists(out_name):
+            words_of_interest = pd.read_csv("../data/chinese/extracted_coordinate_compounds/pinyin.csv")['rep'].tolist()
+            chars_of_interest = set(''.join(words_of_interest))
+
+            with bz2.BZ2File(wv_file_path) as f:
+                for i, line in enumerate(f):
+                    word = line.split(b' ', maxsplit=1)[0].decode()
+                    # print(word, len(word))
+                    if len(word) == 1 and word in chars_of_interest:
+                        chars_of_interest.remove(word)
+                        wv_str = line.split(b' ', maxsplit=1)[1].decode()
+                        char2wv[word] = wv_str
+
+                        print(f"found {word}, {len(chars_of_interest)} characters of interest left")
+                        if len(chars_of_interest) == 0:
+                            break
+
+            with open(out_name, 'w') as f:
+                for word, wv_str in char2wv.items():
+                    f.write(f"{word} {wv_str}")
+        else:
+            print("using existing:", out_name)
+
+        char2wv = {}
+        with open(out_name) as f:
+            for line in f:
+                word, wv = line.split(' ', maxsplit=1)
+                char2wv[word] = np.fromstring(wv, sep=' ')
+            self.vector_size = len(wv)
+        return char2wv

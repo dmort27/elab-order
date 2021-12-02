@@ -108,9 +108,12 @@ if __name__ == '__main__':
     # 'ons_rhy_ton'
     # 'ton'
     # 'rhy'
+    'sgns.baidubaike.bigram-char'
+    'sgns.literature.bigram-char'
+    'sgns.wiki.bigram-char'
+    for m in ('DT', 'SVM'):
+        # run_unique_cc_exp(LANGUAGES['Hmong'], 'wv', classifier=CLASSIFIERS[m],
+        #               remove_dup_ordered=None, vis_tree=False, wv_model_name='grpd1_nochar_swap_tr0.10_run3')
 
-    run_unique_cc_exp(LANGUAGES['Hmong'], 'wv', classifier=CLASSIFIERS['SVM'],
-                  remove_dup_ordered=None, vis_tree=False, wv_model_name='grpd1_nochar_swap_run1')
-    run_unique_cc_exp(LANGUAGES['Hmong'], 'wv', classifier=CLASSIFIERS['DT'],
-                  remove_dup_ordered=None, vis_tree=False, wv_model_name='grpd1_nochar_swap_run1')
-
+        run_unique_cc_exp(LANGUAGES['Mandarin'], 'wv', classifier=CLASSIFIERS[m],
+                      remove_dup_ordered=None, vis_tree=False, wv_model_name='sgns.wiki.bigram-char')
