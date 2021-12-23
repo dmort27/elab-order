@@ -15,6 +15,7 @@ HM_RE = re.compile('''^(?P<ons>f|v|xy|x|s|z|y|h|
                     (?P<ton>b|s|j|v|m|g|d|)*$''', flags=re.X)
 
 def main(input_path, output_path, threshold):
+    total_tokens = 0
     shutil.rmtree(output_path)
     os.makedirs(output_path, exist_ok=True)
     for fn in tqdm.tqdm(glob.glob(os.path.join(input_path, '*.conll'))):
@@ -34,6 +35,8 @@ def main(input_path, output_path, threshold):
             with open(fnout, 'w') as f:
                 for token in tokens:
                     f.write(token)
+                    total_tokens += 1
+    print("Total tokens:", total_tokens)
 
 
 if __name__ == '__main__':
