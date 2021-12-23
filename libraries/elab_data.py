@@ -10,7 +10,7 @@ import gensim
 
 class ElaborateExpressionData:
     def __init__(self, df, features='ton_rhy_ons', lang_id='', syl_regex=None, verbose=True,
-                 remove_dup_ordered=None, wv_model_name=''):
+                 remove_dup_ordered=None, wv_model=None):
         self.df = df
         self.lang_id = lang_id
         self.syl_regex = syl_regex
@@ -26,8 +26,8 @@ class ElaborateExpressionData:
             self._remove_dups(remove_dup_ordered)
         self.X, self.y = None, None
         if 'wv' in features:
-            assert wv_model_name, "You must provide a source for the word vectors."
-            self.wv = HmongWordVectorsData(wv_model_name) if lang_id == 'hmn-Latn' else ChineseWordVectorsData(wv_model_name)
+            assert wv_model is not None, "You must provide a source for the word vectors."
+            self.wv = wv_model
 
     def rule_based_classification(self):
 
@@ -102,16 +102,17 @@ class ElaborateExpressionData:
                 best = correct
                 print(f'iter {iter}, best is {best}, order is {orders}')
 
-    def get_Xy_data(self, return_orig_index=False):
+    def get_Xy_data(self):
         print('N =', len(self.df))
         if self.X is None and self.y is None:
             self._add_features(drop_orig_columns=True)
-            self.X = self.df.drop(columns=['attested']).to_numpy()
             self.y = self.df['attested'].to_numpy()
-        if return_orig_index:
-            return self.X, self.y, self.orig_index
-        else:
-            return self.X, self.y
+            self.df.drop(columns=['attested'], inplace=True)
+            self.X = self.df.to_numpy()
+            self.X_feature_names = self.df.columns.tolist()
+
+        return self.X, self.y, self.X_feature_names, self.orig_index
+
 
     def _reformat_columns(self):
         '''
@@ -181,18 +182,21 @@ class ElaborateExpressionData:
             self.tones.add(ton)
 
     def _remove_dups(self, ordered):
-        inverted_idx = defaultdict(list)
-        if ordered:
-            for i, row in self.df.iterrows():
-                cc1, cc2 = row['cc1'], row['cc2']
-                inverted_idx[(cc1, cc2)].append(i)
-        else:
-            for i, row in self.df.iterrows():
-                cc1, cc2 = row['cc1'], row['cc2']
-                inverted_idx[(max(cc1, cc2), min(cc1, cc2))].append(i)
         use_indices = []
-        for values in inverted_idx.values():
-            use_indices.append(np.random.choice(values))
+        # remove duplicates in attested and unattested parts separately
+        for partial_df in (self.df[self.df.attested], self.df[~self.df.attested]):
+            inverted_idx = defaultdict(list)
+            if ordered:
+                for i, row in partial_df.iterrows():
+                    cc1, cc2 = row['cc1'], row['cc2']
+                    inverted_idx[(cc1, cc2)].append(i)
+            else:
+                for i, row in partial_df.iterrows():
+                    cc1, cc2 = row['cc1'], row['cc2']
+                    inverted_idx[(max(cc1, cc2), min(cc1, cc2))].append(i)
+            for values in inverted_idx.values():
+                use_indices.append(np.random.choice(values))
+
         self.df = self.df.iloc[use_indices].reset_index(drop=True)
         self.orig_index = self.orig_index[use_indices]
 
@@ -295,6 +299,8 @@ class HmongWordVectorsData(WordVectorsData):
 
         for server_name in ('agent', 'patient'):
             server_base = SERVER.format(server_name)
+            if not os.path.exists(server_base):
+                print("WARNING: server file system not mounted")
             path = os.path.join(server_base, model_name, 'best_model')
             if os.path.exists(path):
                 self.embeds = torch.load(path, map_location='cpu')['embeds.weight']
