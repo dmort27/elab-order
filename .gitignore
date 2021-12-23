@@ -129,4 +129,10 @@ dmypy.json
 .pyre/
 
 # MacOS
-.DS_Store
+.DS_Store/
+.DS_Store*
+
+# VS Code
+.vscode/
+
+data/hmong/.DS_Store
