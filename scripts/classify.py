@@ -164,7 +164,7 @@ if __name__ == '__main__':
     # for visualizing tree
     # run_unique_cc_exp(LANGUAGES['Hmong'], 'ton', classifier=CLASSIFIERS['DT'],
     #                   remove_dup_ordered=False, vis_tree=True, wv_model_name="", num_repeats=1)
-    # run_unique_cc_exp(LANGUAGES['Lahu'], 'rhy', classifier=CLASSIFIERS['DT'],
+    run_unique_cc_exp(LANGUAGES['Lahu'], 'rhy', classifier=CLASSIFIERS['DT'],
+                      remove_dup_ordered=None, vis_tree=True, wv_model_name="", num_repeats=1)
+    # run_unique_cc_exp(LANGUAGES['Middle Chinese'], 'ton', classifier=CLASSIFIERS['DT'],
     #                   remove_dup_ordered=False, vis_tree=True, wv_model_name="", num_repeats=1)
-    run_unique_cc_exp(LANGUAGES['Middle Chinese'], 'ton', classifier=CLASSIFIERS['DT'],
-                      remove_dup_ordered=False, vis_tree=True, wv_model_name="", num_repeats=1)
