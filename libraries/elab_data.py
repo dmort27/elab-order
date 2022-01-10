@@ -265,7 +265,9 @@ class ElaborateExpressionData:
 
     def get_feature_names(self):
         ret = self.df.columns.to_list()
-        ret.remove('attested')
+        try:
+            ret.remove('attested')
+        except ValueError: pass
         return ret
 
 
@@ -300,11 +302,16 @@ class HmongWordVectorsData(WordVectorsData):
         for server_name in ('agent', 'patient'):
             server_base = SERVER.format(server_name)
             if not os.path.exists(server_base):
-                print("WARNING: server file system not mounted")
+                print(f"WARNING: {server_name} not mounted")
             path = os.path.join(server_base, model_name, 'best_model')
             if os.path.exists(path):
                 self.embeds = torch.load(path, map_location='cpu')['embeds.weight']
-                self.w2i = torch.load("../data/hmong/data.pth")['w2i']
+                if 'lid' in model_name:
+                    self.w2i = torch.load("../data/hmong/data_lid.pth")['w2i']
+                    print("detected 'lid' in model name, so using data_lid.pth")
+                else:
+                    self.w2i = torch.load("../data/hmong/data.pth")['w2i']
+                    print("using data.pth. If this is an lid run then this is wrong.")
                 self.vector_size = self.embeds.shape[1]
                 self.get_wv = lambda w: self.embeds[self.w2i.get(w, self.w2i.get('UNK'))].numpy()
                 print(f"loaded word vectors from {model_name} on {server_name}")

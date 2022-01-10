@@ -53,9 +53,9 @@ def visualize_tree(fname, data: ElaborateExpressionData, exp: ClassificationExpe
                     class_names=class_names,
                     max_depth=d)
 
-    f = pydot.graph_from_dot_file(fname)[0].to_string()
-    with open(fname, 'w') as file:
-        file.write(f)
+    # f = pydot.graph_from_dot_file(fname)[0].to_string()
+    # with open(fname, 'w') as file:
+    #     file.write(f)
     graphviz.render('dot', 'png', fname)
 
 
@@ -125,7 +125,7 @@ def run_unique_cc_exp(lang_id, features, classifier=None,
             best_acc = mean_accs_for_each_k.max(axis=1).mean()
         pred_accs.append(best_acc)
         if vis_tree:
-            visualize_tree(f'../out/{lang_id}_{features}_k{2}.dot', data, exp, d=15, select_k=2)
+            visualize_tree(f'../out/{lang_id}_{features}_paperver.dot', data, exp, d=15, select_k=None)
     print("*" * 80)
     print(lang_id, features if features!='wv' else wv_model_name,
           classifier.__class__.__name__, 'remove dup ordered:', remove_dup_ordered)
@@ -137,10 +137,11 @@ if __name__ == '__main__':
     # 'ons_rhy_ton'
     # 'ton'
     # 'rhy'
-    # for m in ('DT', 'SVM'):
-    #     run_unique_cc_exp(LANGUAGES['Hmong'], 'wv', classifier=CLASSIFIERS[m],
-    #                   remove_dup_ordered=True, vis_tree=False, wv_model_name='sg')
-    "grpd3_nochar_noswap_tr0.10_run3"
+    # for remove_dup in (None, False):
+    #     for m in ('SVM',):
+    #         run_unique_cc_exp(LANGUAGES['Hmong'], 'wv_ons_rhy_ton', classifier=CLASSIFIERS[m], num_repeats=5,
+    #                       remove_dup_ordered=remove_dup, vis_tree=False, wv_model_name='sg')
+    "grpd1_nochar_noswap_tr0.10_run3"
     # for m in ('LinearSVM',):
     #     for remove_dup in (None, False, ):
     #         run_unique_cc_exp(LANGUAGES['Hmong'], 'ons_rhy_ton', classifier=CLASSIFIERS[m],
@@ -154,8 +155,16 @@ if __name__ == '__main__':
         #     for remove_dup in (None, False):
         #         run_unique_cc_exp(LANGUAGES['Hmong'], feature, classifier=CLASSIFIERS[m],
         #                       remove_dup_ordered=remove_dup, vis_tree=False, wv_model_name='', num_repeats=5)
-    for m in ('DT', 'SVM'):
-        for feat in ('rhy', 'ons_rhy_ton'):
-            for remove_dup in (None, False,):
-                run_unique_cc_exp(LANGUAGES['Lahu'], feat, classifier=CLASSIFIERS[m],
-                                  remove_dup_ordered=remove_dup, vis_tree=False, wv_model_name="", num_repeats=5)
+    # for m in ('DT', 'SVM'):
+    #     for feat in ('rhy', 'ons_rhy_ton'):
+    #         for remove_dup in (None, False,):
+    #             run_unique_cc_exp(LANGUAGES['Lahu'], feat, classifier=CLASSIFIERS[m],
+    #                               remove_dup_ordered=remove_dup, vis_tree=False, wv_model_name="", num_repeats=5)
+
+    # for visualizing tree
+    # run_unique_cc_exp(LANGUAGES['Hmong'], 'ton', classifier=CLASSIFIERS['DT'],
+    #                   remove_dup_ordered=False, vis_tree=True, wv_model_name="", num_repeats=1)
+    # run_unique_cc_exp(LANGUAGES['Lahu'], 'rhy', classifier=CLASSIFIERS['DT'],
+    #                   remove_dup_ordered=False, vis_tree=True, wv_model_name="", num_repeats=1)
+    run_unique_cc_exp(LANGUAGES['Middle Chinese'], 'ton', classifier=CLASSIFIERS['DT'],
+                      remove_dup_ordered=False, vis_tree=True, wv_model_name="", num_repeats=1)
